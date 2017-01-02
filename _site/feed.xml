@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Balzac</title>
-<subtitle type="text">A beautiful theme.</subtitle>
+<title type="text">An open mind</title>
+<subtitle type="text">A personal perspective on education, technology and culture</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-01-02T16:24:49-05:00</updated>
+<updated>2017-01-02T16:35:48-05:00</updated>
 <id>http://localhost:4000/</id>
 <author>
-  <name>Cole Townsend</name>
+  <name>Miles Berry</name>
   <uri>http://localhost:4000/</uri>
-  <email>cole@coletownsend.com</email>
+  <email>m.berry@roehampton.ac.uk</email>
 </author>
 
 
@@ -21,16 +21,16 @@
   <published>2013-08-17T00:00:00-04:00</published>
   <updated>2013-08-17T00:00:00-04:00</updated>
   <author>
-    <name>Cole Townsend</name>
+    <name>Miles Berry</name>
     <uri>http://localhost:4000</uri>
-    <email>cole@coletownsend.com</email>
+    <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
 &lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/test-post&quot;&gt;Test Post&lt;/a&gt; was originally published by Cole Townsend at &lt;a href=&quot;http://localhost:4000&quot;&gt;Balzac&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/test-post&quot;&gt;Test Post&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -41,9 +41,9 @@
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Cole Townsend</name>
+    <name>Miles Berry</name>
     <uri>http://localhost:4000</uri>
-    <email>cole@coletownsend.com</email>
+    <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:&lt;/p&gt;
 
@@ -70,7 +70,7 @@ digesting an elephant. But since the grown-ups were not able to understand it,
 I made another drawing: I drew the inside of the boa constrictor, so that the
 grown-ups could see it clearly. They always need to have things explained.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/the-little-prince&quot;&gt;Image in Post&lt;/a&gt; was originally published by Cole Townsend at &lt;a href=&quot;http://localhost:4000&quot;&gt;Balzac&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/the-little-prince&quot;&gt;Image in Post&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -81,11 +81,11 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Cole Townsend</name>
+    <name>Miles Berry</name>
     <uri>http://localhost:4000</uri>
-    <email>cole@coletownsend.com</email>
+    <email>m.berry@roehampton.ac.uk</email>
   </author>
-  <content type="html">&lt;p&gt;This is a post that uses a &lt;code&gt;figure&lt;/code&gt;. It stacks these images and places a nice little caption below if you fill out &lt;code&gt;figcaption&lt;/code&gt;.&lt;/p&gt;
+  <content type="html">&lt;p&gt;This is a post that uses a &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt;. It stacks these images and places a nice little caption below if you fill out &lt;code class=&quot;highlighter-rouge&quot;&gt;figcaption&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;single-image-figure&quot;&gt;Single Image Figure&lt;/h3&gt;
 
@@ -94,12 +94,16 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
 	&lt;figcaption&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;lineno&quot;&gt;1 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;figure&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2 &lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;3 &lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;figcaption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;figcaption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;figure&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/post-with-figure&quot;&gt;Post with Figure&lt;/a&gt; was originally published by Cole Townsend at &lt;a href=&quot;http://localhost:4000&quot;&gt;Balzac&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/post-with-figure&quot;&gt;Post with Figure&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -110,9 +114,9 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Cole Townsend</name>
+    <name>Miles Berry</name>
     <uri>http://localhost:4000</uri>
-    <email>cole@coletownsend.com</email>
+    <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”&lt;/p&gt;
 
@@ -137,7 +141,7 @@ And so with the sunshine and the great bursts of leaves growing on the trees, ju
 &lt;p&gt;It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York — and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals — like the egg in the Columbus story, they are both crushed flat at the contact end — but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead. To the wingless a more arresting phenomenon is their dissimilarity in every particular except shape and size.
 I lived at West Egg, the — well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard — it was a factual imitation of some Hotel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbor’s lawn, and the consoling proximity of millionaires — all for eighty dollars a month.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/post-with-feature&quot;&gt;Post and Feature Image&lt;/a&gt; was originally published by Cole Townsend at &lt;a href=&quot;http://localhost:4000&quot;&gt;Balzac&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/post-with-feature&quot;&gt;Post and Feature Image&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -148,9 +152,9 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Cole Townsend</name>
+    <name>Miles Berry</name>
     <uri>http://localhost:4000</uri>
-    <email>cole@coletownsend.com</email>
+    <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
@@ -193,7 +197,7 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/longform-post&quot;&gt;A Longform Post to Cogitate&lt;/a&gt; was originally published by Cole Townsend at &lt;a href=&quot;http://localhost:4000&quot;&gt;Balzac&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/longform-post&quot;&gt;A Longform Post to Cogitate&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
