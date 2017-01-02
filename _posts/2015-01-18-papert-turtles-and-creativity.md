@@ -33,9 +33,9 @@ Logo’s turtle graphics provides a great way in to the language. Children can e
     rt 72
   ]
   rt 36
-] 
+] </pre>
 
-<img class="aligncenter size-full wp-image-1245" src="http://milesberry.net/wp-content/uploads/2015/01/rose.png" alt="rose" width="602" height="563" srcset="http://milesberry.net/wp-content/uploads/2015/01/rose.png 602w, http://milesberry.net/wp-content/uploads/2015/01/rose-300x280.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></pre>
+<img class="aligncenter size-full wp-image-1245" src="/wp-content/uploads/2015/01/rose.png" alt="rose" width="602" height="563" srcset="/wp-content/uploads/2015/01/rose.png 602w, /wp-content/uploads/2015/01/rose-300x280.png 300w" sizes="(max-width: 602px) 100vw, 602px" />
 
 Through experimenting with turtle graphics programs like this, children can develop a better feel for geometry, discovering for themselves that 360° makes a full turn, the exterior angles of regular polygons, and so on, as well as [some aesthetic appreciation of geometric beauty](http://turtleart.org/gallery/index.html).
 
