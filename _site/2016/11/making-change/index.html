@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<title>Making Change &#8211; An open mind</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- DSLs for various open graph languages -->
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Making Change &#8211; An open mind">
+<meta property="og:description" content="It’s a seemingly easy problem: how to make a certain amount of money using the smallest number of coins possible. For...">
+<meta property="og:url" content="http://localhost:4000/2016/11/making-change/">
+<meta property="og:site_name" content="An open mind">
+
+
+
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="An open mind Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='http://localhost:4000/assets/cal.css' media='all' />
+-->
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">An open mind</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="An open mind">Home</a>
+            </li>
+            
+            
+                <li><a href="http://localhost:4000/about-3" >About</a></li>
+            
+                <li><a href="http://localhost:4000/presentations" >Presentations</a></li>
+            
+                <li><a href="http://localhost:4000/publications" >Publications</a></li>
+            
+                <li><a href="http://localhost:4000/media-coverage" >media</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://localhost:4000/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Making Change</h1>
+            <p class="date">Nov 30, 2016</p>
+            <p class="author">Miles Berry</p>
+            <p class="intro"></p>
+          </hgroup>
+        </header>
+
+        <p>It’s a seemingly easy problem: how to make a certain amount of money using the smallest number of coins possible. For example, 42p needs three coins: a couple of twenty pence pieces and a 2p coin. It’s something that comes up on the maths national curriculum:</p>
+
+<blockquote>
+  <p>Y3: Pupils continue to become fluent in recognising the value of coins, by …  giving change using manageable amounts.</p>
+</blockquote>
+
+<p>It’s also something that machines need to be programmed to do – from snack vending machines to automated checkouts. The lesson here looks at how a computer could be programmed to give arbitrary amounts of change.</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<ul>
+  <li>Practice working out the smallest set of coins to give change</li>
+  <li>Work out an <strong>algorithm</strong> for giving change and check this works</li>
+  <li>Use <strong>sequence</strong>, <strong>repetition</strong>, <strong>variables</strong> and <strong>input</strong> and <strong>output</strong> to program this using a block-based language such as Scratch</li>
+  <li>Test and <strong>debug</strong> the program</li>
+  <li>Look for ways to improve the program using <strong>patterns.</strong></li>
+</ul>
+
+<h2 id="starter">Starter</h2>
+
+<p>Check pupils’ knowledge of coins by making sure the class know all the standard UK coins. Pupils who’ve been abroad might like to discuss the coinage systems in other countries.</p>
+
+<p>Get pupils thinking about the problem of making change by asking quick-fire questions, ranging from the easy (What coins make 13p?) to the more challenging (What coins make 48p? What coins make £2.88?). Do pupils’ answers use the <em>smallest</em> number of possible coins?</p>
+
+<h2 id="main-activities">Main activities</h2>
+
+<p>Start with computational thinking before getting on to any hands-on coding work. Explain that lots of machines have to solve the problem of making change: what machines can pupils think of that might need to do this? Why might it be annoying if the machines didn’t give the smallest number of coins?</p>
+
+<p>To program machines to do this, we first need to think of an algorithm – the sequence of steps – that would solve this problem. Get pupils to work with a partner to brainstorm ideas for their algorithm, encouraging them to write these down. Pupils should test each other’s algorithms, working through the steps they’ve listed. Do they work for any amount of money? If not, pupils will need to refine their ideas.</p>
+
+<p>A typical algorithm might be:</p>
+
+<ul>
+  <li>Start with the total amount, and no coins in the change.</li>
+  <li>Repeat until amount left is less than £2:
+    <ul>
+      <li>Subtract £2 from the amount; add £2 to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than £1:
+    <ul>
+      <li>Subtract £1 from the amount; add £1 to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 50p:
+    <ul>
+      <li>Subtract 50p from the amount; add 50p to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 20p:
+    <ul>
+      <li>Subtract 20p from the amount; add 20p to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 10p:
+    <ul>
+      <li>Subtract 10p from the amount; add 10p to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 5p:
+    <ul>
+      <li>Subtract 5p from the amount; add 5p to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 2p:
+    <ul>
+      <li>Subtract 2p from the amount; add 2p to the change.</li>
+    </ul>
+  </li>
+  <li>Repeat until amount left is less than 1p:
+    <ul>
+      <li>Subtract 1p from the amount; add 1p to the change.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Point out a couple of things about this algorithm to your pupils. Firstly, that this is what we call a ‘greedy’ algorithm: at each step we take off the largest amount we can. Secondly, there’s a pattern here, and that’s something which we might be able to use if we wanted to write our algorithm in a clearer or more compact.</p>
+
+<p>Once pupils have an algorithm that works, either their own or one you’ve shared with them, they can program this into Scratch (or another programming language). You’ll need to explain a few ideas here, or just remind them of these. You might like to give them a partially complete program (e.g. <a href="http://scratch.mit.edu/projects/123787916/#editor">one that works for only 1p, 2p and 5p coins</a>) and ask them to complete it:</p>
+
+<p><img class="aligncenter size-full wp-image-1450" src="http://milesberry.net/wp-content/uploads/2016/12/prog1.png" alt="prog1" width="387" height="624" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog1.png 387w, http://milesberry.net/wp-content/uploads/2016/12/prog1-186x300.png 186w" sizes="(max-width: 387px) 100vw, 387px" /></p>
+
+<p>Or you could walk through the steps as a class, or you could just remind them of a few key ideas: it depends on how much experience your pupils have already.</p>
+
+<ul>
+  <li>We’ll need a couple of variables to keep track of the amount left and the number of coins so far, so in <a href="http://scratch.mit.edu">Scratch</a>, click the orange palette and create a couple of variables, say ‘amount’ and ‘coins’. Drag set coins to 0 into the script window to initialise this.</li>
+  <li>To initialise the amount, we’ll use keyboard input from our user, so on the blue sensing palette use the ‘ask… and wait’ block to prompt the user for an amount of money, and then use then set our amount variable to the answer they give.</li>
+  <li>For each of the possible coins we’ll give in change, the pattern will be the same: use a repeat until block to check if the amount is less than the value of the coin (say 200 in the first case). Inside the block, change the amount variable by the value of the coin, i.e. -200 in this case, and increase the coins variable by 1. It’s nice to output something on screen here, so use a say block from the purple palette to say ‘Here’s a £2 coin’ or something like this for a second or so. You, or your pupils, then just need to follow the same pattern for all the other coins, until you get down to 1p.</li>
+  <li>The last bit of the program should be to say how many coins were given in total, combining the purple say for and the orange coins variable block.</li>
+</ul>
+
+<p>Provide pupils with the time to work through this. Having pupils work with a partner can be a really effective approach, both to writing code and to learning to write code.</p>
+
+<p>Make sure pupils test their programs for different starting amounts, and do give pupils some strategies for debugging their code if things don’t go to plan – one approach is to put themselves in the place of the computer, carrying out the program ‘by hand’.</p>
+
+<p>There’s <a href="http://scratch.mit.edu/projects/123785554/#editor%20">a simple solution to the problem online</a> which you’re free to remix and / or share with your pupils.</p>
+
+<p><img class="aligncenter size-full wp-image-1451" src="http://milesberry.net/wp-content/uploads/2016/12/prog2.png" alt="prog2" width="299" height="1000" /></p>
+
+<p><strong>Extension ideas</strong></p>
+
+<p>Can pupils improve their program, making it clearer or more elegant? Using so many <em>similar</em> repeating blocks suggests a couple of ways to make this better: one would be to use would be to break out the blocks that are repeated here into <a href="scratch.mit.edu/projects/124133028/#editor">custom (purple) blocks in Scratch</a>, another would be to use <em>lists</em> of possible coins, and perhaps <a href="scratch.mit.edu/projects/115112039/#editor">keep a list of the coins we’ve given in change</a>.</p>
+
+<p><img class="aligncenter size-full wp-image-1452" src="http://milesberry.net/wp-content/uploads/2016/12/prog3.png" alt="prog3" width="569" height="948" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog3.png 569w, http://milesberry.net/wp-content/uploads/2016/12/prog3-180x300.png 180w" sizes="(max-width: 569px) 100vw, 569px" /></p>
+
+<p>Our greedy algorithm here can break down in odd coinage systems (for example, use a coinage system with 25p, 20p, 10p and 5p coins to make change for 40p). You could challenge pupils to experiment with their program to see if they could find coinage systems where the algorithm <em>didn’t</em> work.</p>
+
+<p>A much harder activity is to work out how many <em>possible</em> ways there are to make a given amount of change: for example there are 451 ways to make 50p using UK coinage!</p>
+
+<p style="padding-left: 30px;">
+  <em>The above lesson plan was published in the November 2016 edition of Teach Primary from <a href="http://www.teachwire.net/">Teachwire</a>. © all rights reserved.</em>
+</p>
+
+
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Making Change&quot;%20http://milesberry.github.io/2016/11/making-change/%20via%20&#64;mberry" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/" title="The Roehampton Annual Computing Education Report 2015">The Roehampton Annual Compu... </a></span>
+              <span class="date">Dec 21, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/making-change/" title="Making Change">Making Change </a></span>
+              <span class="date">Nov 30, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/" title="Computational thinking and mathematical reasoning">Computational thinking and ... </a></span>
+              <span class="date">Nov 27, 2016</span>
+            </li>
+        
+      </ol>
+
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:m.berry@roehampton.ac.uk"><span class="foot-link">Contact Me</span></a></li>
+
+            
+            <li><a id="twit" href="http://twitter.com/mberry" target="_blank"><span class="foot-link">@mberry</span></a></li>
+            
+
+
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2017 Miles Berry. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://localhost:4000/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://localhost:4000/assets/js/scripts.js"></script>
+
+
+  </body>
+</html>
+

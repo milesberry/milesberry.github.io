@@ -28,16 +28,17 @@ opengraph:
 # For external links add external: true
 links:
   - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+    url: /about-3
+  - title: Presentations
+    url: /presentations
+  - title: Publications
+    url: /publications
+  - title: media
+    url: /media-coverage
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 highlighter: rouge
 markdown:    kramdown

@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<title>Algebra on Computers &#8211; An open mind</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- DSLs for various open graph languages -->
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Algebra on Computers &#8211; An open mind">
+<meta property="og:description" content="A couple of interesting updates today from Chris Sangwin at Birmingham University.Anyone who’s ever done any maths on...">
+<meta property="og:url" content="http://localhost:4000/2007/08/algebra-on-computers/">
+<meta property="og:site_name" content="An open mind">
+
+
+
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="An open mind Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='http://localhost:4000/assets/cal.css' media='all' />
+-->
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">An open mind</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="An open mind">Home</a>
+            </li>
+            
+            
+                <li><a href="http://localhost:4000/about-3" >About</a></li>
+            
+                <li><a href="http://localhost:4000/presentations" >Presentations</a></li>
+            
+                <li><a href="http://localhost:4000/publications" >Publications</a></li>
+            
+                <li><a href="http://localhost:4000/media-coverage" >media</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://localhost:4000/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Algebra on Computers</h1>
+            <p class="date">Aug 20, 2007</p>
+            <p class="author">Miles Berry</p>
+            <p class="intro"></p>
+          </hgroup>
+        </header>
+
+        <p>A couple of interesting updates today from <a href="http://web.mat.bham.ac.uk/C.J.Sangwin/">Chris Sangwin</a> at Birmingham University.</p>
+
+<!--more-->
+
+<p>Anyone who’s ever done any maths on a computer involving concepts as advanced as fractions will be familiar with the difficulty in inputting or outputting mathematical expressions, hence such notions as Donald Knuth’s <a href="http://en.wikipedia.org/wiki/TeX">T<sub>E</sub>X</a> and MathML. Although maths should lend itself to computer based assessment (<a href="http://en.wikipedia.org/wiki/G%C3%B6del%27s%20incompleteness%20theorems">Gödel’s incompleteness theorem</a> notwithstanding, things are generally right or wrong), these input/output issues soon get in the way. Moodle’s splendid T<sub>E</sub>X filter does much to help with the output side of things, although even this doesn’t have the same WYSIWYG functionality teachers or students today perhaps expect. Chris has co-authored <a href="http://web.mat.bham.ac.uk/C.J.Sangwin/Publications/2007-Sangwin_Ramsden_Syntax.pdf">a paper</a> which explores some of the input issues in more detail.</p>
+
+<p>To help with this, Chris and Alex Billingsley have produced <a href="http://web.mat.bham.ac.uk/C.J.Sangwin/dragmath/">DragMath</a>, a rather nice little Java applet which lets you drag and drop a whole host of mathematical symbols around, and then produces code in a format which computer algebra systems like Maxima and Maple, or L<sup>A</sup>T<sub>E</sub>X or MathML can interpret correctly. Very nice work, and better still, Open Source, with the project over on <a href="http://sourceforge.net/projects/dragmath">Sourceforge</a>.</p>
+
+<p>Chris’s <a href="http://stack.bham.ac.uk/stack/">STACK</a> project also continues development. STACK is an online assessment tool for mathematics, with a computer algebra system, in this case the open source, and very splendid, <a href="http://maxima.sourceforge.net/">Maxima</a>, running in the background. Thus, Chris has an assessment system which understands matematics, and so questions like “Give a fraction equivalent to 1/4”, and “Factorise x<sup>2</sup>+5x+6″ become things which can be marked automatically without having to type in semi-infinite lists of alternative expressions.</p>
+
+<p>There’s been attempts at getting Moodle and Stack to talk since, I think, Moodle 1.5 in Spring 2005, but whilst I played with this I never managed to get it working. The <a href="http://mantis.york.ac.uk/moodle/mod/forum/discuss.php?d=953">future of STACK</a> looks like being as a fully integrated Moodle module, together with some support for more intuitive, interactive interfaces such as DragMath above, and the java based open-source interactive geometry tool <a href="http://www.geogebra.org/cms/">GeoGebra</a>.</p>
+
+<p><em><a href="http://eduspaces.net/mberry/weblog/190539.html">http://eduspaces.net/mberry/weblog/190539.html</a></em></p>
+
+
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Algebra on Computers&quot;%20http://milesberry.github.io/2007/08/algebra-on-computers/%20via%20&#64;mberry" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/" title="The Roehampton Annual Computing Education Report 2015">The Roehampton Annual Compu... </a></span>
+              <span class="date">Dec 21, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/making-change/" title="Making Change">Making Change </a></span>
+              <span class="date">Nov 30, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/" title="Computational thinking and mathematical reasoning">Computational thinking and ... </a></span>
+              <span class="date">Nov 27, 2016</span>
+            </li>
+        
+      </ol>
+
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:m.berry@roehampton.ac.uk"><span class="foot-link">Contact Me</span></a></li>
+
+            
+            <li><a id="twit" href="http://twitter.com/mberry" target="_blank"><span class="foot-link">@mberry</span></a></li>
+            
+
+
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2017 Miles Berry. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://localhost:4000/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://localhost:4000/assets/js/scripts.js"></script>
+
+
+  </body>
+</html>
+

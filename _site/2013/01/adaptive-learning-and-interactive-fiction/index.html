@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<title>Adaptive Learning and Interactive Fiction &#8211; An open mind</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- DSLs for various open graph languages -->
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Adaptive Learning and Interactive Fiction &#8211; An open mind">
+<meta property="og:description" content="A post prompted by a discussion on the Mirandanet discussion list asking for software suggestions for developing adap...">
+<meta property="og:url" content="http://localhost:4000/2013/01/adaptive-learning-and-interactive-fiction/">
+<meta property="og:site_name" content="An open mind">
+
+
+
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="An open mind Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='http://localhost:4000/assets/cal.css' media='all' />
+-->
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">An open mind</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="An open mind">Home</a>
+            </li>
+            
+            
+                <li><a href="http://localhost:4000/about-3" >About</a></li>
+            
+                <li><a href="http://localhost:4000/presentations" >Presentations</a></li>
+            
+                <li><a href="http://localhost:4000/publications" >Publications</a></li>
+            
+                <li><a href="http://localhost:4000/media-coverage" >media</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://localhost:4000/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Adaptive Learning and Interactive Fiction</h1>
+            <p class="date">Jan 18, 2013</p>
+            <p class="author">Miles Berry</p>
+            <p class="intro"></p>
+          </hgroup>
+        </header>
+
+        <p><em>A post prompted by a discussion on the Mirandanet discussion list asking for software suggestions for developing adaptive learning materials.</em></p>
+
+<p>I’m still not <em>quite</em> sure how I feel about adaptive learning, and I think this is down to some concerns about the ‘computer knows best’ which can be detected beneath the surface. My first encounter was a rather lovely ‘teach yourself trigonomety’ text (probably <a href="http://www.worldcat.org/title/trigonometry-the-right-angled-triangle/oclc/30293229">Austwick’s Trigonometry: the right angled triangle</a>) that I checked out from our local library at a very young age – pages comprised trig problems with multi-choice answers, you followed the page reference for what you thought was right and then got specific feedback or another, slightly harder problem. Cool stuff, back then, and reminiscent of Ian Livingstone’s <a href="http://fightingfantasy.com">Fighting Fantasy</a> game books, of which I played a few not longer after.</p>
+
+<p>As Roger Broadie pointed out on the Mirandanet list, adaptive learning design seemed pretty cool back in the mid 2000s when we were all excited about VLEs and learning objects. Ruth Kelly summed the vision up well in the introduction to the <a href="https://www.education.gov.uk/publications/eOrderingDownload/1296-2005PDF-EN-01.pdf">e-strategy</a>:</p>
+
+<blockquote>
+  <p>In the future it will be more than simply a storage place – a digital space that is personalised, that remembers what the learner is interested in and suggests relevant websites, or alerts them to courses and learning opportunities that fit their needs.</p>
+</blockquote>
+
+<p>These ideas are, perhaps, due for something of a renaissance, with current interest in learning analytics, which I see as essentially the application of the data mining techniques of credit/loyalty cards to the massive data sets that could be generated as more and more of a pupils’ work and interaction with the education system moves online. A sat-nav approach to the learning journey if you will – ie a system that has a pretty accurate picture of where the learner is (their profile), a map of the landscape (curriculum?) and some way of establishing the most efficient route to the destination (ideally crowd-sourced), chosen, on a good day, by the learner themselves. All well and a good way of getting from A to B.</p>
+
+<p>Perhaps, though, there’s more to learning than getting to a destination; perhaps education ought to be a bit more about exploring a landscape, and a bit less about completing a journey? Google and Wikipedia are <em>different</em>: The former has a pretty good model of what I’m interested in (qv <a href="http://www.thefilterbubble.com">Pariser on the Filter Bubble</a>) and is startlingly effective at finding the right content (learning object?), the latter, thanks to the network of links, a wonderful place to explore and discover things that I <em>wasn’t</em> interested in. There are parallels here between downloading the e-text you want from the Web and browsing books and journals in a good library: the former is certainly more efficient, but the latter allows much more opportunity for chance discoveries.</p>
+
+<p>Playing with adaptive learning in the VLE isn’t too hard – Moodle’s <a href="http://docs.moodle.org/24/en/Lesson_module">Lesson module</a> has plenty of flexibility, and at a higher level Moodle 2 has support for <a href="http://docs.moodle.org/22/en/Conditional_activities">conditional activities</a>. <a href="http://www.lamsfoundation.org/index.htm">LAMS</a> is still around, and there are polished, commercial tools like <a href="http://www.articulate.com/products/storyline-top-features.php#interactivity_href">Articulate Storyline</a> for developing e-learning materials.</p>
+
+<p>One of the early lectures in the Roehampton Creativity and Computing module looks at non-linear narrative, which gives students a great excuse to check out the aforementioned Fighting Fantasy game books from the library, play old school text adventures (eg <a href="http://thcnet.net/error/index.php">Zork</a>), watch a little of <a href="http://www.getlamp.com">Get Lamp</a> and learn a little about <a href="http://www.kristianstill.co.uk/wordpress/">Kristian Still</a>‘s impressive work using IF (interactive fiction) at the intersection of literacy and coding.</p>
+
+<p>Now there’s a thought… Surely it wouldn’t be too difficult to take some of the tools used for developing Interactive Fiction, like <a href="http://inform7.com">Inform7</a> or <a href="http://www.textadventures.co.uk/quest/">Quest</a> and use these to knock up some quite complex adaptive learning tools. The tool that’s really caught my attention though is <a href="http://undum.com">Undum</a>, which is a lovely HTML5 / Javascript client side framework for interactive fiction – check out the <a href="http://undum.com/games/tutorial.en.html">tutorial</a> and the <a href="http://www.markoftheninja.com/undum/">Mark of the Ninja</a> to get a feel for this. Like <a href="http://imakewebthings.com/deck.js/">HTML5 presentations</a> and <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>, another example of how learning a little HTML (and a bit of Javascript this time) opens up some powerful possibilities for teachers to build high class teaching resources themselves.</p>
+
+<p>Of course, as <a href="http://dspace.mit.edu/handle/1721.1/5835">Papert argued back in 1971</a> in relation to drill and practice programs that children learn much more through making educational software than through using educational software:</p>
+
+<blockquote>
+  <p>It is said that the best way to learn something is to teach it. Perhaps writing a teaching program is better still in its insistence on forcing one to consider all possible misunderstandings and mistakes.</p>
+</blockquote>
+
+<p>I could see a far stronger case for getting students to code up some adaptive learning resources, perhaps using IF tools, than using AL resources. I’m thinking now about where I might be able to squeeze this sort of thing in to Roehampton modules…</p>
+
+
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Adaptive Learning and Interactive Fiction&quot;%20http://milesberry.github.io/2013/01/adaptive-learning-and-interactive-fiction/%20via%20&#64;mberry" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/" title="The Roehampton Annual Computing Education Report 2015">The Roehampton Annual Compu... </a></span>
+              <span class="date">Dec 21, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/making-change/" title="Making Change">Making Change </a></span>
+              <span class="date">Nov 30, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/" title="Computational thinking and mathematical reasoning">Computational thinking and ... </a></span>
+              <span class="date">Nov 27, 2016</span>
+            </li>
+        
+      </ol>
+
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:m.berry@roehampton.ac.uk"><span class="foot-link">Contact Me</span></a></li>
+
+            
+            <li><a id="twit" href="http://twitter.com/mberry" target="_blank"><span class="foot-link">@mberry</span></a></li>
+            
+
+
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2017 Miles Berry. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://localhost:4000/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://localhost:4000/assets/js/scripts.js"></script>
+
+
+  </body>
+</html>
+

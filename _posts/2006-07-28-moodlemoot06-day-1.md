@@ -1,0 +1,93 @@
+---
+id: 1097
+title: 'Moodlemoot06 &#8211; day 1'
+date: 2006-07-28T08:25:30+00:00
+author: Miles Berry
+layout: post
+guid: http://milesberry.net/?p=1097
+permalink: /2006/07/moodlemoot06-day-1/
+categories:
+  - Ed Tech
+  - Open Source
+---
+<p style="color: #495865;">
+  Sean and the team had put together an excellent programme for the moot, with most of the time sessions divided into four tracks, schools, FE/HE (who got the air conditioning and the AV coverage 😉 ), commercial and developers, and I spent most of my time in the school track, although I dipped into a couple of the others when things particularly caught my eye, and I&#8217;m glad that I did. It is one of the great strengths of open source in general, and I think particularly projects like Moodle and Elgg, that the various user/developer groups intermingle as much as they do, and in UK learning platform terms, there seem so many important lessons that schools could learn from the experience and expertise that&#8217;s been gleaned in the FE and HE sectors.
+</p>
+
+<p style="color: #495865;">
+  <a style="color: #008947;" title="Ray Le Couteur" href="http://web.archive.org/web/20061102114756/http://www.flickr.com/photos/mberry/199510539/"><img class="floatLeft alignleft" title="Ray Le Couteur" src="http://web.archive.org/web/20061102114756im_/http://static.flickr.com/67/199510539_ec4a1fa181_m.jpg" alt="Ray Le Couteur" width="200" height="184" border="0" /></a>Moodle pioneer (he posted to Moodle.org back in February 2003, and has a userid below 2000!) Ray Le Couteur spoke about the way they&#8217;re using Moodle at <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.kegswebsite.org.uk/index.php">King Edward VI Grammar, Chelmsford</a> (<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://moodlemoot.org/mod/resource/view.php?id=112">mp3 audio</a>). They&#8217;re coming close to 50% of staff regularly posting stuff into their course areas, and Ray thinks it unlikely that there&#8217;ll be much more take-up without some compulsion on staff to use the VLE, which raises issues of professional autonomy. Most of their use focuses around using Moodle to post resources for pupils to access from home, with relatively little use of forums, quizzes and wikis, which we&#8217;ve come to rely on a lot at <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://st-ives.surrey.sch.uk/">St Ives</a>, but this means that they can make most of their courses open to guest access without worrying about the child protection issues that would be associated with more pupil contributions being accessible. It&#8217;s also interesting that they&#8217;re only providing accounts for their sixth form (ie 16+) students for the most part. Ray&#8217;s evaluation suggests the key benefits as perceived by students have been:
+</p>
+
+<ul style="color: #495865;">
+  <li>
+    help with revision;
+  </li>
+  <li>
+    extending learning;
+  </li>
+  <li>
+    helping pupils keep up with difficult topics;
+  </li>
+  <li>
+    enabling pupils to keep up with work when absent; and
+  </li>
+  <li>
+    helping pupils manage their own learning.
+  </li>
+</ul>
+
+<p style="color: #495865;">
+  They&#8217;re making good use of it for the extracurricular dimension of school life, and actually seem to have more interaction in these areas than in the academic areas. Ray also gave a good overview of some of the technical issues, at the moment they&#8217;re hosting externally with Sean&#8217;s <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.pteppic.net/">Pteppic.net</a>, but he&#8217;s thinking about moving to an in-house server soon. He reckons that moodle site admin takes up a couple of hours a week, which is more than I put in, but then again he&#8217;s got aroud 300 students enrolled!
+</p>
+
+<p style="color: #495865;">
+  There then followed a mad dash to the other side of the campus to sign in person for an OU wifi access account, and then back again (nearly) in time for my own presentation.
+</p>
+
+<p style="color: #495865;">
+  I think my own presentation (<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://elgg.net/mberry/files/-1/8028/CPD%20Toolkit.pdf">slides</a>, <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://moodlemoot.org/mod/resource/view.php?id=113">mp3 audio</a>) went down pretty well, and sparked some interesting discussions around pupil centred learning and learner autonomy in the room and afterwards. I had offered to speak about the Naace CPD toolkit back when the idea was to actually put some materials together for this, but as the brief got scaled back to just writing <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://elgg.net/mberry/future-learning.net/effective_learning_platforms.pdf">the spec</a> for this, in the end I was only able to talk about the learning landscape / community of practice approach to CPD that Mike Partridge and I came up with, and I think it significant that this seems not too far removed from the model of CPD that the <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.dfes.gov.uk/publications/e-strategy/docs/e-strategy.pdf">e-strategy</a> envisages:
+</p>
+
+<blockquote style="color: #495865;">
+  <p>
+    &#8220;Staff need … time to experiment and refine their practice; opportunities to share ideas and experiences with other practitioners, and to adapt them to their own work; and sufficient support from experts.&#8221;
+  </p>
+</blockquote>
+
+<p style="color: #495865;">
+  The landscape vs journey metaphor of <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://stiveshaslemere.com/mgb/Learning%20Topology.pdf">learning topology</a> that I&#8217;d explored with Mirandanet seemed to capture folks&#8217; imagination, and it was only whilst chatting to folk afterwards that I was struck by the pertinence of the dictionary definition of &#8220;moodle&#8221; in this context, although this probably wouldn&#8217;t go down to well with the |DfES folk 😉
+</p>
+
+<blockquote style="color: #495865;">
+  <p>
+    &#8220;To dawdle aimlessly; to idle time away&#8221; (OED)
+  </p>
+</blockquote>
+
+<p style="color: #495865;">
+  <a style="color: #008947;" title="Photo Sharing" href="http://web.archive.org/web/20061102114756/http://www.flickr.com/photos/mberry/199509414/"><img class="floatLeft alignleft" title="Melissa Lindsey" src="http://web.archive.org/web/20061102114756im_/http://static.flickr.com/61/199509414_85daf1428a_m.jpg" alt="Melissa Lindsey" width="200" height="167" border="0" /></a>Next up was <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.kentuckyclassroom.com/moodle_blog/">Steve Hyndman</a> and his team of Melissa Lindsey, Liese Rhodus and Susan Neumann from <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.modellabschool.com/online/">Eastern Kentucky&#8217;s Model Laboratory School</a> (<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://moodlemoot.org/mod/resource/view.php?id=119">mp3 auido</a>)- the school&#8217;s attached to the university, as is Steve, and he&#8217;s been working with the teachers there to use Moodle as a way of providing fairly static course information pages to their students. I love the idea of collaboration across sectors between university departments and schools, and it was interesting to hear about how Steve&#8217;s provided such a smooth learning curve for the teachers at the school by turning off at admin level many of Moodle&#8217;s features, so it&#8217;s tended to be used as an educationally focussed content management system there. <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.modellabschool.com/online/course/view.php?id=24">Melissa&#8217;s 4th Grade course</a> provides lots of home-school communication, and I could imagine something like this being a very accessible way in to Moodle for primary teachers here; I was particularly struck by her really effective use of Moodle&#8217;s labels. Again, Liese is using labels and links to external websites fairly extensively for her<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.modellabschool.com/online/course/view.php?id=34">middle school social studies course</a>, as was Susan for her <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.modellabschool.com/online/course/view.php?id=28">high school life science class</a>, although in these cases the courses are much more about providing resources to the students themselves rather than communication with their parents. As with Ray&#8217;s courses, because these are essentially non-interactive pages, there are no issues about providing guest access out to the open net.
+</p>
+
+<p style="color: #495865;">
+  <a style="color: #008947;" title="Photo Sharing" href="http://web.archive.org/web/20061102114756/http://www.flickr.com/photos/mberry/199512105/"><img class="floatLeft alignleft" src="http://web.archive.org/web/20061102114756im_/http://static.flickr.com/61/199512105_a9bf21f3a4_m.jpg" alt="Ian Usher" width="200" height="143" border="0" /></a>After lunch, and Jason Cole&#8217;s keynote, <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://moodlea.blogspot.com/">Ian Usher</a> led a session showcasing the work of a couple of Buckinghamshire teachers (<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://moodlemoot.org/mod/resource/view.php?id=129">mp3 audio</a>), starting with Katie Bownes who&#8217;s been using Moodle for art and literacy at<a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.winslow.bucks.sch.uk/">Winslow primary</a>. Katie&#8217;s art course a was really nice: &#8220;Michelangelo&#8217;s Laptop&#8221;, and again included a lot of teacher produced content as labels and resources, but also a number of more intereactive activities, including fairly focussed forums. She&#8217;s had very postivie feedback from pupils, and sees the advantages as access to the VLE from different locations, use of the VLE to support learning and extend opportunities, and providing space for reflection and for pupils to pursue their own interests. Greg Hodgson at <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.chalfonts.org/">Chalfonts Community College</a> has been developing a GCSE course in digital art, much of which is now supported through Moodle, and had some really interesting observations about how Moodle had helped enhance the delivery of this course: his perception was that the online discussions were actually more meaningful, more reflective, than many of the ones in class, and it was great to see some of the art his students had posted into the forums for feedback from their classmates &#8211; inspiring to realise that with Moodle&#8217;s multimedia support forums can contain pictures, animations, movies, audio etc rather than the text that we&#8217;ve tended to limit ourselves to at St Ives. It&#8217;s great how Ian&#8217;s taking the whole of the county forward with Moodle: Greg&#8217;s observation that things were working well from the classroom up, and from the LA down, and soon enough the SLT would catch up was illuminating, and I am impressed by Ian&#8217;s determination to see the collaboration that characterizes the best Moodle courses, and open source development itself, feature prominently in the <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.bucksgfl.org.uk/learningplatform">BucksGFL</a> approach, with a policy of &#8220;if you want to play, you have to share&#8221;. Of course, it&#8217;s not enough just to let folks download courses to use in their Moodles, what we really need is a mechanism for working together on the courses so that we can collaboratively improve them for everyone&#8217;s benefit, but the idea of a national repository of Moodle courses, quizzes, glossaries etc does make a lot of sense. Those who still think that Moodle&#8217;s going to cost more than commercial solutions might be interested to learn that Ian&#8217;s using the money saved through going the Moodle route to fund lots of CPD for his teachers.
+</p>
+
+<p style="color: #495865;">
+  I swapped to the (air conditioned) HE/FE track for the last session of the day, a pretty high brow session from <a style="color: #008947;" href="http://web.archive.org/web/20061102114756/http://www.athabascau.ca/">Athabasca University</a>&#8216;s Derek Britton on leveraging moodle in support of inquiry based, student centred learning. I&#8217;ll admit that some of the discussion of Moodle as a master signifier went a little over my head, but there was some jolly interesting stuff here, much of which was derived from Baxter Magolda&#8217;s work on ways of knowing, with a particular challenge being the moving students from absolute to contextual or independent ways of knowing. Derek made an interesting distinction between learning inquiry and research skills and the development of a sense of identity or belief system, with constructive development pedagogy being premised on the both subject and self mastery, with three principles:
+</p>
+
+<ul style="color: #495865;">
+  <li>
+    Validate students as knowers (each has their own perspective, we need to listen carefully to each of them);
+  </li>
+  <li>
+    Situate learning in the learner&#8217;s own experience; and
+  </li>
+  <li>
+    Define learning as mutually constructing meaning.
+  </li>
+</ul>
+
+<p style="color: #495865;">
+  For all the social constructivists amongst the delegates and speakers, this was the only session of the day where time was made for the &#8216;audience&#8217; to engage with one another about these ideas, as Derek invited us to talk through the ways that we&#8217;d used (or might use) Moodle to support this sort of pedagogy: not surprisingly many of us focussed on tools such as forum discussions and wiki activities, which had received relatively little attention in the schools stuff above. Interesting.
+</p>

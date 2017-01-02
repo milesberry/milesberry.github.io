@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<title>Elgg v 0.3 &#8211; An open mind</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- DSLs for various open graph languages -->
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Elgg v 0.3 &#8211; An open mind">
+<meta property="og:description" content="Wow.Many thanks for all the work that’s gone into getting the new release up and running.I spotted the download was a...">
+<meta property="og:url" content="http://localhost:4000/2005/09/elgg-v-03/">
+<meta property="og:site_name" content="An open mind">
+
+
+
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="An open mind Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='http://localhost:4000/assets/cal.css' media='all' />
+-->
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">An open mind</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="An open mind">Home</a>
+            </li>
+            
+            
+                <li><a href="http://localhost:4000/about-3" >About</a></li>
+            
+                <li><a href="http://localhost:4000/presentations" >Presentations</a></li>
+            
+                <li><a href="http://localhost:4000/publications" >Publications</a></li>
+            
+                <li><a href="http://localhost:4000/media-coverage" >media</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://localhost:4000/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Elgg v 0.3</h1>
+            <p class="date">Sep 28, 2005</p>
+            <p class="author">Miles Berry</p>
+            <p class="intro"></p>
+          </hgroup>
+        </header>
+
+        <p>Wow.</p>
+
+<p>Many thanks for all the work that’s gone into getting the new release up and running.</p>
+
+<p>I spotted the download was available first thing this morning, and took the plunge to upgrade from v0.2 <a href="http://stiveshaslemere.com">here</a>.</p>
+
+<!--more-->
+<p>It took about 90 minutes to get things working right – the two main problems were:</p>
+
+<ul>
+  <li>
+    <p>MySQL didn’t like the first two lines of update.sql, rewriting as</p>
+
+    <blockquote>
+      <p>DELETE FROM templates WHERE 1&gt;0;</p>
+    </blockquote>
+
+    <blockquote>
+      <p>DELETE FROM template_elements WHERE 1&gt;0;</p>
+    </blockquote>
+
+    <p>seemed to do the trick.&lt;/li&gt;</p>
+
+    <ul>
+      <li>v 0.3 is <em>not</em> happy sitting in a webserver subdirectory. The rewritebase in .htaccess needs changing, and to get things working I’ve had to put another .htaccess in the webserver root, with manual rewrites for each of my users’ profiles. Aargh. If there’s some simple way to get round this, please say!&lt;/ul&gt;</li>
+    </ul>
+
+    <p>That said, all this was sorted in time for the lesson – more posts focussing mainly on yesterday’s drama workshop, together with great fun creating avatars from the creative commons collection at <a href="http://www.stortroopers.com/">Stortroopers.com</a>. Interestingly, one or two of my pupils miss the old style grey and purple interface, especially the pencil star icon. Now they can see who’s who, they’re rapidly creating lists of friends.</p>
+
+    <p><em><a href="http://eduspaces.net/mberry/weblog/2627.html">http://eduspaces.net/mberry/weblog/2627.html</a></em></p>
+  </li>
+</ul>
+
+
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Elgg v 0.3&quot;%20http://milesberry.github.io/2005/09/elgg-v-03/%20via%20&#64;mberry" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/" title="The Roehampton Annual Computing Education Report 2015">The Roehampton Annual Compu... </a></span>
+              <span class="date">Dec 21, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/making-change/" title="Making Change">Making Change </a></span>
+              <span class="date">Nov 30, 2016</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/" title="Computational thinking and mathematical reasoning">Computational thinking and ... </a></span>
+              <span class="date">Nov 27, 2016</span>
+            </li>
+        
+      </ol>
+
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:m.berry@roehampton.ac.uk"><span class="foot-link">Contact Me</span></a></li>
+
+            
+            <li><a id="twit" href="http://twitter.com/mberry" target="_blank"><span class="foot-link">@mberry</span></a></li>
+            
+
+
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2017 Miles Berry. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://localhost:4000/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://localhost:4000/assets/js/scripts.js"></script>
+
+
+  </body>
+</html>
+

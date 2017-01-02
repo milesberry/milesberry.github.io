@@ -1,0 +1,525 @@
+---
+id: 628
+title: Computing in School, the Naace Response
+date: 2010-11-17T14:58:48+00:00
+author: Miles Berry
+layout: post
+guid: http://milesberry.net/?p=628
+permalink: /2010/11/computing-in-school-the-naace-response/
+categories:
+  - Uncategorized
+---
+<div style="padding: 0px; margin: 0px;">
+  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 30px; margin: 0px;">
+    <em>Some fascinating conversations on <a href="http://www.naace.co.uk">Naace</a>&#8216;s Advisory Talk List in response to the Royal Society&#8217;s call for evidence on computing in schools, many of which formed the basis for the following, which I compiled as Naace&#8217;s response.</em>
+  </p>
+  
+  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+    Naace, as the ICT subject association, is pleased to respond to the Royal Society’s call for evidence on computing in school.<br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" />Naace shares the Royal Society’s concern about declining numbers studying ICT and computing at GCSE and A-level and beyond, despite young people’s obvious enthusiasm for the creative use of technology. Naace is eager to work with other organisations to ensure the best possible experience of ICT and computing in schools and colleges, just as Naace members are committed to supporting and challenging their colleagues across the education system to use technology in ways that can transform learning for all.<!--more-->
+  </p>
+  
+  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+    Naace is a community of educators, technologists and policy makers who share a vision for the role of technology in advancing education. Our members include teachers, school leaders, advisors and consultants working within and across all phases of UK education.
+  </p>
+  
+  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+    As a professional association, we represent the voice of the UK education technology community in the schools sector at a national and international level, as well as supporting one another across the sector through conferences, courses and the dissemination of resources, research and reflection. We play a key role in both members’ professional development, through the challenge and support of a community of practice, and the development of the profession as a whole, through the sharing of innovation and expertise.
+  </p>
+  
+  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+      Naace was founded in 1984, as the National Association of Advisors in Computer Education, merging in 2004 with MAPE, CEG and ACITT to provide a single community and united voice for all those engaged in ICT education.
+    </p>
+    
+    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+        In what follows, we make a distinction between computing, seen as ‘the academic discipline which provides the theoretical foundations on which ICT systems depend and through whose study, or at least application, the creative endeavour of developing or improving such systems is possible’, and ICT, understood as ‘the knowledge, skills, concepts and understanding which enable learners to make use of diverse information systems to accomplish particular purposes’.
+      </p>
+      
+      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+          The response has been compiled by Miles Berry (m.berry@roehampton.ac.uk), one of Naace’s Vice Chairs and senior lecturer in ICT Education at Roehampton University, to whom further queries should be addressed. In compiling the response, Miles has drawn on submissions from an open consultation with Naace members. He particularly wishes to acknowledge the contributions of Mike Bostock, Roger Broadie, Pam Counsell, Gabriel Goldstein, Mike Kendall, Ian Lynch, John Hammond, Tim Scratherd and Ray Tolley.
+        </p>
+        
+        <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+          <strong style="padding: 0px; margin: 0px;">1. Is computing a discipline, in the same way that mathematics, physics, chemistry are?</strong>
+        </h2>
+        
+        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+          Computing is a discipline in its own right, with associated knowledge, skills, concepts and understanding that, whilst not unconnected with other disciplines, particularly mathematics, engineering, physics and philosophy, are specific to it alone.
+        </p>
+        
+        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+            As with other disciplines, this knowledge, skills, concepts and understanding provides a unique way of thinking about the world, a particular perspective on reality shared by those who study the discipline but rarely encountered beyond it: for computing, this computational thinking can be seen as a disposition to look for patterns and structures, to view a complex system as both an integrated whole and as interconnected components, and an interactive approach to the solution of problems in which feedback is used to progressively refine systems being developed. Computational thinking includes:
+          </p>
+          
+          <ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 1em; padding-top: 0px; padding-right: 1em; padding-bottom: 0px; padding-left: 1em;">
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Programming</strong>; analysis of processes in order to produce complete and correct programs that will provide the desired result. This analysis of processes is an important skill whether or not ICT is involved in the way processes are implemented.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Interface design</strong>; this is about human interactions with information and with other humans, and the ways in which information and the development of the interaction are presented to stimulate and guide the interaction. Other subjects touch on this but none can handle it with the depth and effectiveness that computing can.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Information structuring</strong>; this includes hierarchical, relational and hyper-linked structures, and while some of these are covered in say science with biological keys, relational and hyper info structures can only be satisfactorily worked on with ICT.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Networked communication</strong>; even simple examples such as how to use the asynchronous nature of email effectively are hardly covered in the English subject curriculum, and where social networking is taking us most certainly is not. There are also technical aspects of communication such as coding, degradation and error-checking that are important concepts for all human interactions.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Language structure and semantics</strong>; while this is shared with human language studies when they look at grammar, there is a broad range of semantic structures used in programming languages that human language does not use.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              <strong style="padding: 0px; margin: 0px;">Data</strong>; including coding of data, data redundancy and issues around compression of data.
+            </li>
+            <li style="padding: 0px; margin: 0px;">
+              Search and information validation.
+            </li>
+          </ul>
+          
+          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+              There is a discipline that needs to be included in the school curriculum that is not covered by the other accepted curriculum subjects. The central ideas and concepts in this discipline need much wider discussion and need to be explicit in the way the subject is taught, in the same way that observation, measurement, hypothesis and experiment are very clearly understood as being central to science.
+            </p>
+            
+            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                Computing should not be seen merely as an extension of ICT, but as the academic discipline which provides the theoretical foundations on which ICT systems depend and through whose study, or at least application, the creative endeavour of developing or improving such systems is possible.
+              </p>
+              
+              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                  ICT, at school level at least, consists of the knowledge, skills, concepts and understanding that enable learners to make use of diverse information systems to accomplish particular purposes; computing enhances and enriches its students ICT capability. ICT provides a clear context for the application of computing.
+                </p>
+                
+                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                  <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                    <strong style="padding: 0px; margin: 0px;">2. Is programming a fundamental form of literacy for the modern age?</strong>
+                  </h2>
+                  
+                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                    Just as literacy and numeracy are now essential for an individual to be able to learn in other disciplines, for almost all employment and to participate fully in modern society, ICT has now become similarly an essential for learning and life . Without a degree of competence and confidence in using familiar and learning new ICT systems, opportunities for learning, employment and social participation are curtailed to a very great extent.
+                  </p>
+                  
+                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                      The same argument cannot be made for computing per se: You don&#8217;t need to be able to program to access learning in general, you do need to be literate, numerate and possess information skills. However, education is not to be seen in terms of offering students the minimum necessary to get by. Our concept of an educated person is of a rounded individual capable of taking delight in and having some understanding of a wide variety of pursuits for their own sake . Just as school children should learn to write poetry, to compose music, to solve equations and to bake a cake, so they should also learn to write computer programs; not because these things are essential for their future careers or for further study (although, for some, they will be), but because these things are of intrinsic value, they offer additional opportunities for the expression of creativity and allow children to access and appreciate all the better the glories of our civilisation, which must surely include the Web alongside Hamlet and the B Minor Mass.
+                    </p>
+                    
+                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                        Without a knowledge of at least some elements of computing, a learners’ experience of technology will be a diminished one, making use of the creations of others without any clear grasp of the principles underlying these tools or the proceses by which they come about. Given the way ICT has transformed the personal and professional lives, then the technological empowerment which knowledge of computing affords seems something to which all pupils should be entitled.
+                      </p>
+                      
+                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                          If we believe that children should be taught to write as well as to read, then they should learn to program as well as to use ICT.
+                        </p>
+                        
+                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                          <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                            <strong style="padding: 0px; margin: 0px;">3. What purpose should the teaching of ICT and computing in schools serve?</strong>
+                          </h2>
+                          
+                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                            The teaching of ICT and computing makes a unique and distinctive contribution to fulfilling the overarching purposes of school education. These might be seen to include:
+                          </p>
+                          
+                          <ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 1em; padding-top: 0px; padding-right: 1em; padding-bottom: 0px; padding-left: 1em;">
+                            <li style="padding: 0px; margin: 0px;">
+                              <strong style="padding: 0px; margin: 0px;">Rational autonomy</strong>: ICT and computing empower their students to think and act independently, making efficient and effective use of the technology available. The study of computing provides the underlying understanding of principles and processes necessary for sound, informed and strategic decision making rather than acting merely on the basis of prior experience in familiar contexts.
+                            </li>
+                            <li style="padding: 0px; margin: 0px;">
+                              <strong style="padding: 0px; margin: 0px;">Contribution to society</strong>: To participate fully and actively in modern society, confidence and competence with ICT is essential. An understanding of computing, going beyond familiarity with ICT, provides a degree of systematic thinking, attention to detail and technological literacy that allow a higher order contribution to society, and a proper understanding of what has become a fundamental aspect of modern life. Furthermore, increasing the proportion of the population with an understanding of computing would allow for wider participation in democratic and commercial decision-making about technology.
+                            </li>
+                            <li style="padding: 0px; margin: 0px;">
+                              <strong style="padding: 0px; margin: 0px;">Fulfilled lives: </strong>ICT permits individuals to continue to learn through access to vast quantities of information in any sphere of life and to participate in communities and networks for any purpose. ICT also supports the creative expression of individuals through many media, and provides a diverse, global audience for the fruits of such creativity. Computing offers more specialist avenues for creativity, design, inventiveness and problem solving which many find rewarding, both intrinsically and through the value placed on such endeavours by the market and wider society.
+                            </li>
+                            <li style="padding: 0px; margin: 0px;">
+                              <strong style="padding: 0px; margin: 0px;">Preparation for future study and the world of work</strong>: ICT has become an essential requirement for employment in many occupations, further and higher education already assume a degree of familiarity with web-based systems and both general and specialist desktop applications, and access to lifelong learning opportunities is undoubtedly enhanced through the mastery of certain ICT skills. A knowledge of computing opens up career opportunities which would otherwise be unavailable; transferable skills of abstraction, logic, system thinking and problem solving would support the study of other disciplines at undergraduate level and beyond as well as supporting those in management or technical roles that rely on information systems, and computing knowledge acquired at school would provide a useful foundation for further study of this discipline and others at university. One Naace member observes that:
+                            </li>
+                          </ul>
+                          
+                          <blockquote style="margin-top: 0px; margin-right: 92px; margin-bottom: 0px; margin-left: 92px; color: #165481; font-style: italic; padding: 0px;">
+                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                              “[A colleague] found that he was the one who could identify the gaps in the new [management] processes being proposed, that others couldn&#8217;t see. He conjectured that this was because of his programming training, which had equipped him with the ability to logically analyse. I suppose this is really part of general thinking skills, but what other area of the curriculum does this as well as programming? And so much of the world, right across industry and commerce, now requires really good analysis and understanding of the processes being managed (usually with computers) be they stock management at Tesco, the tuning of cars, or how best to get people to engage with cultural activities.”
+                            </p>
+                          </blockquote>
+                          
+                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                              A workforce in which greater numbers have a deeper understanding and greater experience of ICT and computing would, it seems reasonable to assume, strengthen this key sector of the UK’s economy. Too much focus on the specific skills required for using current application software may be unlikely to foster the creativity, understanding and flexibility necessary for those at school now to adapt to those systems with which they will work when entering the workforce.
+                            </p>
+                            
+                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                              <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                <strong style="padding: 0px; margin: 0px;">4. Is the teaching of ICT (and accompanying qualifications, such as ICT GCSE) fit for purpose for all students? What should be done to address this?</strong>
+                              </h2>
+                              
+                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                The teaching of ICT is determined by a number of factors, including the curriculum and exam specifications, schemes of work developed by schools and other agencies, teachers’ subject and pedagogic knowledge and available resources.
+                              </p>
+                              
+                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                  The <strong style="padding: 0px; margin: 0px;">National Curriculum</strong> for ICT has the strength of permitting much and prescribing little: there is nothing in it which would prevent a school from introducing pupils to programming and other aspects of computing, with some aspects of computing being required as part of the statutory entitlement to ICT. Furthermore, it can be interpreted in such a way as to allow it to be personalised to cater better for the needs and enthusiasms of individual pupils. However, the National Curriculum for Key Stage 1 and 2 has not been revised since 1999, which gives quite a dated feel to some aspects of the ICT curriculum, particularly to the non-statutory examples cited; Naace was impressed by the approach to ICT taken by Sir Jim Rose in his recommendations for the primary curriculum, and noted the retention of programming within both mathematics and science areas of learning throughout the primary phase.
+                                </p>
+                                
+                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                    <strong style="padding: 0px; margin: 0px;">Schemes of work </strong>developed by schools vary widely, and reflect, in part, the subject and pedagogic knowledge of those teachers who have developed them. At their best, these seek to create a stimulating, challenging programme of learning for all those students within a school, taking into account local contexts, students’ experience and enthusiasms and the expertise of staff. Commercially published schemes of work or those developed at local authority level also vary widely, with the best allowing much scope for adaptation to meet learners’ needs, teachers’ skills and the school’s context. The QCA ‘optional’ schemes of work, whilst never intended as a ‘one size fits all’ planning document for all schools, now seem out of date and, without significant modification, are unlikely to provide much that contemporary pupils will find realistic or challenging.
+                                  </p>
+                                  
+                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                      <strong style="padding: 0px; margin: 0px;">Exam specifications</strong> in ICT at GCSE and GCE, as well as many ‘functional skills’ qualifications at a lower level seem to offer little by way of challenge to students, focussing on far too limited a range of ICT skills in hypothetical business contexts which fail to capture the diversity, creativity and flexibility of ICT in a real world commercial context and rarely encompass the broad range of applications of ICT outside of such settings. These qualifications avoid all but the most basic aspects of computing. Assessment methodologies and rubrics are too narrow, tend to reward ‘teaching to the test’ and a box ticking approach to coursework or controlled tasks, and rarely allow students of even moderate ability levels to demonstrate all of which they are capable. A richer, portfolio based approach to assessment with a substantial degree of autonomy over context and content, perhaps not far removed from primary school projects or university dissertations, would offer a far richer approach to assessment, although might be incompatible with the present qualifications infrastructure.
+                                    </p>
+                                    
+                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                        We discuss <strong style="padding: 0px; margin: 0px;">teachers’ subject and pedagogic knowledge </strong>in response to Question 8 below.
+                                      </p>
+                                      
+                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                          The <strong style="padding: 0px; margin: 0px;">resources</strong> available for teaching ICT, due to the needs of providing a robust, secure standard infrastructure for all users, rarely offer students the flexibility they are used to out of school or which might be necessary for them to progress beyond a restricted user level of ICT access within the curriculum. It is thus often impossible for students to install or run their own choice of software on school owned computers, including open source applications or their own compiled software. At present, most schools discourage students from using their own laptops or mobile devices. Students’ access to the web is routinely filtered due to the perceived requirements of child protection, which can prevent them from using websites with high quality, educationally relevant content or from participating in online discussion. In some cases, decisions relating to executable software or Internet access are made at a level above the school itself, by local authorities and other providers of managed services.
+                                        </p>
+                                        
+                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                            The following steps might help make the teaching of ICT more fit for its purpose:
+                                          </p>
+                                          
+                                          <ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 1em; padding-top: 0px; padding-right: 1em; padding-bottom: 0px; padding-left: 1em;">
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Encourage teachers to make the most of the freedom they are afforded within the national curriculum.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Ensure that any revisions to the national curriculum continue to allow teachers to interpret this in a way appropriate to their students and the context of their school, whilst ensuring that either it is sufficiently general to not date or that it be regularly revised in light of the changing character of the subject.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Encourage schools to develop their own schemes of work, or to be more critical in their selection of schemes developed by others.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Radically overhaul the specification of GCE and GCSE ICT qualifications to offer greater challenge and recognise creative use of ICT in a wider range of contexts, as well as including some aspects of computing.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Replace such qualifications with a richer portfolio in which the full spectrum of students’ learning in ICT and computing is recognised.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Enhance the subject and pedagogic knowledge of teachers.
+                                            </li>
+                                            <li style="padding: 0px; margin: 0px;">
+                                              Seek ways of allowing students greater autonomy over institutional desktop applications (virtual machines, portable apps, configurable thin clients). Move towards monitoring rather than filtering of Internet access, with devolution of responsibility for this to school, teacher and student level as appropriate.
+                                            </li>
+                                          </ul>
+                                          
+                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                              <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                <strong style="padding: 0px; margin: 0px;">5. Is computing and ICT best ‘taught’ in classrooms or ‘learnt’ by other means? How do learners learn computing and ICT skills?</strong>
+                                              </h2>
+                                              
+                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                Many skilful, creative users of ICT and software developers will share a common experience of having learnt the ICT and programming skills that they have through working on problems, developing software or other digital artefacts for others, exploring interfaces and languages with an attitude of discovery, experiment and play. Training courses and software manuals, whilst they have their place, are rarely the main stay of such just-in-time directly applicable learning. These approaches find a theoretical underpinning in Piaget’s concept of constructivism , in which mental schema are refined through processes of assimilating and accommodating experience, through the social constructivism of Vygotsky , in which learning takes place within the ‘zone of proximal development’ through the support, encouragement and example of more knowledgeable others, and, for particularly for ICT and computing, in relation to Papert’s notion of constructionism which expresses the insight that learning happens particularly effectively when learners are engaged in the creation of public artefacts which in some sense embody their understanding. Such approaches can take place within and beyond the classroom; it could be argued that they occur naturally within the distributed learning communities and networks of the Internet as well as in guided, ‘taught’ lessons within schools. We would go so far as to say that the practical skills of ICT and the craft of programming is best learnt through such approaches, irrespective of the particular context of learning.
+                                              </p>
+                                              
+                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                  There are though aspects of ICT and computing as disciplines that go beyond such practical skills. For these, whilst we acknowledge that practical experience is important in providing examples and context for more theoretical understanding, and that some aspects of theory may be acquired by learners directly through practical activities, more traditional classroom approaches of presentations, reading and discussion are as appropriate for ICT and computing as any other subject. As with other subject areas, opportunities for authentic learning, problem solving, independent study and peer support should be exploited whenever possible.
+                                                </p>
+                                                
+                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                  <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                    <strong style="padding: 0px; margin: 0px;">6. What motivates learners to study computing? Is it what they learn in school or something else?</strong>
+                                                  </h2>
+                                                  
+                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                    There seem to be a number of factors that, in combination, provide motivation for young people to study computing.
+                                                  </p>
+                                                  
+                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                      Particularly for computing, a significant factor appears to be <strong style="padding: 0px; margin: 0px;">an interest in technology outside of school</strong>. There is much enthusiasm for using a wide range of technology amongst young people, to provide access to information and for communication, but also for creative work and for its own sake. Such interest is perhaps motivated by a sense of being in control of the technology and of the autonomy young people enjoy in their use of technology; these factors are less common within school ICT lessons or inside school generally.
+                                                    </p>
+                                                    
+                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                        A significant minority of young people develop a deeper interest in those aspects of technology with which they might be most familiar: web based applications, mobile phones and computer games. In each case an interest in programming might come about through a desire to extend the functions available, through developing a community site, programming new ‘apps’ or ‘modding’ an existing game. The desire <strong style="padding: 0px; margin: 0px;">to learn how to program</strong> (or to become better at programming) appears to be a significant factor in motivating students to study computing at GCSE or GCE. The <strong style="padding: 0px; margin: 0px;">intellectual challenge</strong> afforded by creative problem solving in programming and other aspects of computing is likely to sustain such an interest through these exam courses.
+                                                      </p>
+                                                      
+                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                          More extrinsic motivation might be found through an awareness of the <strong style="padding: 0px; margin: 0px;">opportunities for further study </strong>and for interesting and often lucrative <strong style="padding: 0px; margin: 0px;">careers</strong> that knowledge of computing provides. Young people’s awareness of such opportunities might often be focussed on the computer games industry.
+                                                        </p>
+                                                        
+                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                            As with any school subject, <strong style="padding: 0px; margin: 0px;">inspirational teaching</strong> may have a significant motivational effect, particularly when coupled with a curriculum which provides exposure to interesting, up to date concepts and techniques with sufficient intellectual challenge to sustain curiosity.
+                                                          </p>
+                                                          
+                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                            <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                              <strong style="padding: 0px; margin: 0px;">7. How is computing presented at school, and is there a variation between schools? Why?</strong>
+                                                            </h2>
+                                                            
+                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                              Whilst it is difficult to generalise here, in part for the reasons stated below, computing is most often presented as part of a broader ICT curriculum, as the hard bit. This can be seen positively, with pupils encouraged to rise to the intellectual challenge and to apply themselves creatively and with perseverance to the task of solving authentic, motivating problems, or it can, perhaps all too often, be left to one side and taught, if at all, through worksheets or text books focussed on completing particular activities so that a troublesome area of the curriculum or assessment specification might be completed. As their study of computing is, for most children, embedded within the practical subject of ICT, it rarely moves beyond the craft of programming to the more abstract or theoretical aspects of the discipline.
+                                                            </p>
+                                                            
+                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                There is inevitably a variation in the way computing is presented between schools. This will depend to an extent on the school’s own priorities and understanding of both ICT and computing: the perception that computing is ‘the hard bit’ of ICT is, other factors apart, unlikely to win it much support amongst those in senior management, or even subject leadership, whose focus is league table positions determined by proportion of pupils obtaining five good GCSEs, GCE point scores or university entrance. Such concerns, coupled with the relative rarity of teachers with expertise or enthusiasm for computing provides some explanation for the relatively small proportion of schools offering computing at Key Stages 4 and 5.
+                                                              </p>
+                                                              
+                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                  Where, however, school and subject leaders feel sufficiently secure in their school’s (or subject’s) position that they may look beyond external measures to rigour, intellectual challenge and the engagement of their students, the picture may be a more positive one. Indeed, the position of computing within the ICT curriculum up to and including Key Stage 3 is more positive, with much innovative, engaging work taking place using now common tools such as Bee Bots, Roamers, Logo, Scratch, Game Maker and Lego.
+                                                                </p>
+                                                                
+                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                    A further factor explaining some of the variation between schools is different approaches to network security. In schools with particularly restrictive policies in place and where academic staff have little control over the computers used for subject teaching, teachers report difficulties in providing students with access to interpreters and compilers or installing software development environments.
+                                                                  </p>
+                                                                  
+                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                      Within-school variation in the presentation of computing is likely to be due to variation in the subject knowledge, pedagogy and enthusiasm of individual teachers – few teachers at primary or secondary level have degrees in computing, or significant prior personal or professional experience of the discipline compared to those with confidence and competence in ICT from an end-user perspective. That said, many school network managers may have some experience of software development, and possibly academic qualifications in computing: schools might be encouraged to make use of such expertise within their curriculum in addition to the provision of their IT infrastructure.
+                                                                    </p>
+                                                                    
+                                                                    <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                      <strong style="padding: 0px; margin: 0px;">8. Who is teaching computing, and what qualifications do they hold? Are teachers sufficiently supported with subject-specific CPD? Are there enough specialist teachers? Why do they leave/join the profession? What are the barriers to improving the situation?</strong>
+                                                                    </h2>
+                                                                    
+                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                      Computing as a qualification (i.e. at Key Stage 4 or 5) is nearly always taught by specialists who generally support themselves. Where such specialists do not have academic qualifications in the field, they are likely to have prior professional experience, or at least an abiding interest and enthusiasm for computing as self-taught amateurs. Computing at this level is seen as difficult to teach so it is generally only offered where there is someone who knows they can offer it and wants to.
+                                                                    </p>
+                                                                    
+                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                        Where computing is taught well at Key Stage 3 or lower, this is often due to the presence of a qualified, well-informed or enthusiastic teacher within the department or school, or to particularly active encouragement and support from those in advisory roles in the local authority.
+                                                                      </p>
+                                                                      
+                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                          The situation is very different with ICT, where the use of non-specialists is very common (the 2007 Secondary School Curriculum and Staffing Survey by NFER for the DCSF showed a mere 23% of ICT teachers having a degree in a related subject, compared to 47% in mathematics and 41% in business studies, with 59% having no qualification beyond A-level in ICT); whilst many of these staff bring enthusiasm and cross-curricular insights to the subject, a lack of subject, technical and specific pedagogic knowledge can result in learning experiences which fall far short of the ideal and result in student disengagement.
+                                                                        </p>
+                                                                        
+                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                            Online and face to face support networks, through informal means such as Twitter, Teachmeets and the support communities for particular programming languages and tools, as well as associations such as Naace, Computing at School and Mirandanet do much to support the continued professional development of teachers of both computing and ICT. Online CPD materials, such as Naace’s TDA funded ICT CPD for Free resource and the Open University’s Vital project provide an additional resource. The recognition of teachers’ professional development through such schemes as Naace Certified Professional might provide encouragement for more teachers to develop their subject expertise alongside their wider professional skills.
+                                                                          </p>
+                                                                          
+                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                              These networks and resources are, however, unlikely to provide the same level of expertise offered by a degree course within the subject; universities might be encouraged to make their course materials freely available to school teachers, as well as exploring ways in which tutorial support or further qualifications might be provided.
+                                                                            </p>
+                                                                            
+                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                There is, of course, something of a vicious circle here – a lack of specialists teaching computing at school may result in negative perceptions or experience of computing, in turn putting young people off the further study of the subject at A-level or university, resulting in fewer computing graduates and thus fewer still specialists teaching the subject at school. Possible points of intervention in this cycle would be to encourage a higher proportion of computing graduates to enter the teaching profession, and to ensure that computing is experienced as an interesting and challenging subject irrespective of the qualifications and experience of those teaching it: online resources and support networks for students may be of value here, as with further mathematics and classics.
+                                                                              </p>
+                                                                              
+                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                  <strong style="padding: 0px; margin: 0px;">9. Why do some universities prefer their undergraduate applicants to have studied mathematics rather than computing at A-level?</strong>
+                                                                                </h2>
+                                                                                
+                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                  Computer science courses with a significant theoretical component are likely to draw extensively on students’ mathematical ability and prior knowledge. Given the present low proportion of students studying computing at A-level, to set this as a course requirement would restrict admissions unnecessarily and unfairly, and thus many courses will be constructed in such a way as to assume a certain level of mathematical ability but little or no prior study of computing, or even experience of programming, per se. Whilst it is to be hoped that more students seeking to study computing at university will study the subject at GCE, a revision of the computing specifications at A-level to ensure that they cover sufficient relevant mathematics to have comparable esteem to a mathematics A-level would perhaps allay admission tutors’ concerns.
+                                                                                </p>
+                                                                                
+                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                  <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; text-align: left; padding: 0px;">
+                                                                                    <strong style="padding: 0px; margin: 0px;">10. What are the perceptions of computing and ICT amongst learners, teachers and headteachers? How can information, advice and guidance be improved?</strong>
+                                                                                  </h2>
+                                                                                  
+                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                    <strong style="padding: 0px; margin: 0px;">Learners</strong>
+                                                                                  </p>
+                                                                                  
+                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                    Initially, in EYFS and KS1, both ICT and computing are viewed very positively by almost all learners – there’s much enthusiasm for working with computers in ICT lessons and across the curriculum, and young pupils take delight in creating complex sequences of instructions for programmable toys. In increasing numbers of primary schools, this enthusiasm for ICT can be maintained throughout the primary phase, with children working autonomously on creative ICT tasks across the primary curriculum. The same may be the case at the lower end of the secondary phase, although the structure of the timetable makes it harder for ICT to be embedded across the curriculum, and secondary schemes of work can sometimes fail to offer sufficient novelty or challenge for children who already have a considerable degree of familiarity with computers. Computing in Key Stages 2 and 3 is identified quite closely with programming (or ‘control’), and most learners’ perception of computing is coloured by the attitudes shown by their teachers – where computing is presented positively as a challenging, interesting and creative subject then learners will often see it in these terms.
+                                                                                  </p>
+                                                                                  
+                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                      ICT as a curriculum subject at Key Stage 4 and 5 is perhaps viewed somewhat more instrumentally, in terms of qualifications that many see as lacking in intellectual challenge, opportunities for creative expression or fresh material and are overly bureaucratic in their assessment methodologies . Many learners, do, however, continue to do exciting, creative things using computers in other areas of the curriculum or in their informal learning outside of school. Computing is studied by a minority at this stage, and thus is likely to be seen by others at this stage as the preserve of a geeky few, carrying the dual stigma of ‘dull’ ICT and ‘geeky’ complexity. Those who do study computing at GCSE or GCE are likely to have a more balanced, positive perception of the subject, although this too is likely to be influenced by the demands of the exam specifications followed.
+                                                                                    </p>
+                                                                                    
+                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                        <strong style="padding: 0px; margin: 0px;">Teachers</strong>
+                                                                                      </p>
+                                                                                      
+                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                          At primary school, the picture is mixed, with many recent entrants to the profession themselves competent and confident users of technology in their personal and professional lives with a clear vision for how ICT might be used effectively to enhance and enrich learning across the curriculum, and, in many cases, a willingness to develop their pupils’ ICT skills through a curriculum in which, resources permitting, the learning of ICT is embedded within the context of other areas of learning, much in the way advocated by Sir Jim Rose in his proposals for the primary curriculum, subsequently rejected by the incoming Secretary of State. For a significant number of primary teachers, however, ICT remains an unloved part of the curriculum, often omitted from a busy timetable and all too frequently characterized by unreliable kit, inaccessible technical support, challenging behaviour and teach-by-numbers schemes of work. Despite what is often a limited personal experience of programming, many primary teachers do demonstrate a positive attitude to computing, making good use of Bee Bots and other programmable toys, as well as simple scripted animations and game design in Scratch.
+                                                                                        </p>
+                                                                                        
+                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                            At secondary school, non-specialist teachers generally appreciate the role of ICT in supporting and enhancing learning of their subject, but they often are not aware of the full range of things ICT can do for the subject and may have a limited range of ICT competence themselves. They do not feel responsible for teaching the more difficult or specialist concepts of ICT, let alone computing, and their understandable emphasis on their own subject domain will rarely permit them to explore such concepts.
+                                                                                          </p>
+                                                                                          
+                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                              ICT specialist staff have, as might be expected, a more positive attitude to the subject, although, due to the difficulties indicated in response to Question 8 above, may be loathe to move from the familiar territory of ICT in a ‘business’ context to what they see as the more complex, academic aspects of computing.
+                                                                                            </p>
+                                                                                            
+                                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                <strong style="padding: 0px; margin: 0px;">Headteachers</strong>
+                                                                                              </p>
+                                                                                              
+                                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                  Whilst many headteachers and others involved in school leadership see value in using ICT tools across the curriculum, such as interactive whiteboards and virtual learning environments, ICT and computing as curriculum subjects are, from their perspective, comparable to other non-core subjects apart from the somewhat higher budget demands and staffing requirements they make. Raising the profile, increasing resources or recruiting specialist staff for ICT or computing is rarely seen as likely to have a significant positive impact on the school’s league table position, inspection outcomes, or pupil or parental satisfaction. Furthermore, the advice of school network managers or others responsible for technical infrastructure might make school leaders hesitant to support requests for the devolution of access controls to teaching staff or computing students.
+                                                                                                </p>
+                                                                                                
+                                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                    Much high quality information and guidance is already available, although the dissemination of this to all school leaders and teachers of ICT is perhaps not as effective as it might be. Whilst some might argue that Becta might have done more to promote the teaching of ICT and computing as subjects, the demise of this agency, and the anticipated reduction in local authority support services, places a responsibility on Naace as the ICT subject association, other bodies such as Computing at School, and commercial entities to work together to provide the best possible support for teachers and school leaders to ensure an excellent experience of ICT and computing at school for all learners. Naace has a well established portfolio of CPD opportunities to support professionals and is continuing to develop new offerings given its recent success in delivering both on-line and face to face courses to practitioners.
+                                                                                                  </p>
+                                                                                                  
+                                                                                                  <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                    <strong style="padding: 0px; margin: 0px;">11. Are these issues unique to the UK?</strong>
+                                                                                                  </h2>
+                                                                                                  
+                                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                    The ACM’s study, ‘Running on Empty’ (http://www.acm.org/runningonempty/fullreport.pdf) suggest that similar issues are encountered in the USA.
+                                                                                                  </p>
+                                                                                                  
+                                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                      <a style="text-decoration: none; color: #165481; padding: 0px; margin: 0px;" href="http://www.inca.org.uk/" target="_blank">http://www.inca.org.uk/</a> provides some insights into curricula and education policy for 21 countries, although summary tables do not distinguish between ICT and computing.
+                                                                                                    </p>
+                                                                                                    
+                                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                        Anecdotal evidence suggests that the UK has strong provision for ICT across the curriculum in schools, but that other European countries, and a number of Asian countries, have larger proportions of students studying computing as an optional subject, and that computing forms a more significant component of IT/informatics curricula.
+                                                                                                      </p>
+                                                                                                      
+                                                                                                      <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                        <strong style="padding: 0px; margin: 0px;"><br style="padding: 0px; margin: 0px;" /></strong>
+                                                                                                      </h2>
+                                                                                                      
+                                                                                                      <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                        <strong style="padding: 0px; margin: 0px;">12. What can universities do to improve the situation?</strong>
+                                                                                                      </h2>
+                                                                                                      
+                                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                          Many universities are doing much already, including master-class lectures, programming and animation competitions and resources such as CS4FN . Other initiatives might include:
+                                                                                                        </p>
+                                                                                                        
+                                                                                                        <ol style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 1em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 1em;">
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Making first year computing course materials available to teachers and sixth-form students. Additionally, allowing assessment of learning on such courses, perhaps with transferable credits. The Open University’s YASS scheme offers one possible model for sixth form access to HE courses.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Taking a more pro-active approach to the marketing of computing degrees.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            The development of credit-bearing computing for non-specialist modules, such as Berkeley’s ‘Beauty and joy of computing’.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            The development of closer links between university education and computing departments, perhaps offering additional subject knowledge courses to both trainee and qualified teachers, as well as computing education modules as an option to computer science students.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Creating or extending outreach/community service schemes in which computer science students spend some time working with pupils in nearby schools studying ICT or computing.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Provision of summer school sessions or master classes which include some computer science alongside popular programming topics such as web applications, games or phone apps.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Facilitation of hack spaces, hack days and barcamps to bring university students, sixthformers and local software developers together.
+                                                                                                          </li>
+                                                                                                          <li style="padding: 0px; margin: 0px;">
+                                                                                                            Consider broadening admission requirements to include a portfolio of annotated work as an alternative to A-level computing and/or mathematics, as well as fast-tracking of students who have already completed HE level courses (see point 1 above).
+                                                                                                          </li>
+                                                                                                        </ol>
+                                                                                                        
+                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                          <strong style="padding: 0px; margin: 0px;"> </strong>
+                                                                                                        </p>
+                                                                                                        
+                                                                                                        <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                          <strong style="padding: 0px; margin: 0px;">13. Is there a cause for curriculum reform? Is this the barrier?</strong>
+                                                                                                        </h2>
+                                                                                                        
+                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                          The national curriculum as it stands permits much, and certainly does not prevent schools from teaching programming and other aspects of computing.
+                                                                                                        </p>
+                                                                                                        
+                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                            A case could be made for embedding the teaching and learning of ICT across the other areas of the national curriculum, as Sir Jim Rose proposed for the primary curriculum. This would build on the excellent work done by leading teachers on the use of ICT to support and extend learning across the curriculum to include a contextualised study of the body of knowledge, skills, understanding and key concepts necessary for students to become confident and independent users of technology. Such an approach might be considered as equivalent to embedding functional literacy and numeracy across the curriculum.
+                                                                                                          </p>
+                                                                                                          
+                                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                              Going beyond this, a case could be made for the hypothecation of computing as a subject in its own right, given the arguments presented in response to Question 2 above. Such computational thinking should be an entitlement for all pupils at least as far as the end of Key Stage 3, with modern, academically rigorous computing qualifications available at Key Stages 4 and 5 for those students who wish to pursue them, perhaps supplemented by qualifications in business information systems and digital arts for others.
+                                                                                                            </p>
+                                                                                                            
+                                                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                A Naace member states:
+                                                                                                              </p>
+                                                                                                              
+                                                                                                              <blockquote style="margin-top: 0px; margin-right: 92px; margin-bottom: 0px; margin-left: 92px; color: #165481; font-style: italic; padding: 0px;">
+                                                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                  “There is no doubt in my mind that the inter-related skills of logic, analysis, design, algorithmic representation, etc., are serious areas of human development that continue to be under-represented in the English curriculum &#8211; which is still defined and dominated by knowledge in an age of infinite information.”
+                                                                                                                </p>
+                                                                                                              </blockquote>
+                                                                                                              
+                                                                                                              <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                                  <strong style="padding: 0px; margin: 0px;">14. Is there a need for an increased recognition of ICT and computing as part of the T in STEM, through representation in STEM forums and increased funding?</strong>
+                                                                                                                </h2>
+                                                                                                                
+                                                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                  Yes, although some aspects of computing might be closer to science or mathematics than technology per se. Given the importance of computing within the UK economy and as a field of academic endeavour it seems anomalous that ICT and computing are not presently recognised within STEM arrangements.
+                                                                                                                </p>
+                                                                                                                
+                                                                                                                <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                  <h2 style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: Optima, Georgia, Times, serif; color: #444444; font-weight: normal; line-height: 27px; font-size: 1.5em; padding: 0px;">
+                                                                                                                    <strong style="padding: 0px; margin: 0px;">15. What happens if we do nothing?</strong>
+                                                                                                                  </h2>
+                                                                                                                  
+                                                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                    Put simply, if we do nothing, the situation, at least as far as formal education is concerned, worsens rather than staying the same, due to the vicious circle effect indicated in our response to Question 8, resulting, if not redressed through other factors, in a cumulative and significant impact on the country’s education, research and economy.
+                                                                                                                  </p>
+                                                                                                                  
+                                                                                                                  <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                      The rapid, and seemingly ever hastening pace of technological change inevitably provides a challenge for those concerned with ICT and computing education to keep up: standing still within these domains means falling further and further behind the leading edge of the domains, resulting in a curriculum and pedagogies which seem increasingly anachronistic, irrelevant and dull.
+                                                                                                                    </p>
+                                                                                                                    
+                                                                                                                    <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                        The only solace here is young people’s own continued enthusiasm for technology, and the ease with which they may now learn independently in this area, as with many others. However, the access to an education which encompasses digital literacy and an understanding of the principles and process underlying modern technology should be an entitlement for all, and not merely to those sufficiently self-motivated to take charge of this aspect of their education fro themselves.
+                                                                                                                      </p>
+                                                                                                                      
+                                                                                                                      <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                          One Naace member sees this in stark terms:
+                                                                                                                        </p>
+                                                                                                                        
+                                                                                                                        <blockquote style="margin-top: 0px; margin-right: 92px; margin-bottom: 0px; margin-left: 92px; color: #165481; font-style: italic; padding: 0px;">
+                                                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                            We seem again to be at another crossroads when the values of education are being reappraised, and the structures that we devise to provide educational experiences for all are once again the subject of such alarming certainty. ICT is either in there; timetabled, controlled, defined, rationed. Or it sits pervasively at the bottom of every pupil&#8217;s bag, banned from use during school hours, but keenly waiting for 4pm when it will connect every pupil to a social world of learning with altogether different values.
+                                                                                                                          </p>
+                                                                                                                        </blockquote>
+                                                                                                                        
+                                                                                                                        <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                          <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                            Another sees opportunities afforded by the Coalition’s apparent willingness to step back from the micro-management of pedagogy and curriculum:
+                                                                                                                          </p>
+                                                                                                                          
+                                                                                                                          <blockquote style="margin-top: 0px; margin-right: 92px; margin-bottom: 0px; margin-left: 92px; color: #165481; font-style: italic; padding: 0px;">
+                                                                                                                            <p style="padding-top: 0.5em; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin: 0px;">
+                                                                                                                              The way is open for those who believe in what they propound as the correct way forward to establish their own schools, after all the government has created the vehicle for such visionaries or pragmatists to establish their own ‘free’ schools where they can design and deliver the proposed curriculum and outcomes unfettered by the national curriculum and thus demonstrating to the unconverted the folly of their current pathway to fundamental literacy.
+                                                                                                                            </p>
+                                                                                                                          </blockquote></div>

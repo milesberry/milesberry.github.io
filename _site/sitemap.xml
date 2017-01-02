@@ -1,28 +1,956 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://localhost:4000</loc>
     </url>
 
     
     <url>
-        <loc>/articles/test-post</loc>
+        <loc>http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/</loc>
     </url>
     
     <url>
-        <loc>/articles/the-little-prince</loc>
+        <loc>http://localhost:4000/2016/11/making-change/</loc>
     </url>
     
     <url>
-        <loc>/articles/post-with-figure</loc>
+        <loc>http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/</loc>
     </url>
     
     <url>
-        <loc>/articles/post-with-feature</loc>
+        <loc>http://localhost:4000/2016/07/coding-across-the-primary-curriculum/</loc>
     </url>
     
     <url>
-        <loc>/articles/longform-post</loc>
+        <loc>http://localhost:4000/2016/05/this-is-cs50/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/04/lessons-from-abroad/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/04/revisiting-agile-pedagogy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/04/gender-and-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/04/computers-and-brains/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/03/snap/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/02/the-only-way-is-ethics/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/01/laying-the-foundations-for-computing-in-the-early-years/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2016/01/making-the-links-between-computing-and-mathematics/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/12/mytechstory/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/10/coding-and-digital-skills/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/09/that-oecd-computers-in-schools-report/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/08/computing-one-year-on/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/07/debugging-and-the-growth-mindset/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/02/from-data-to-wisdom/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/02/teaching-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/02/integrating-technology-and-creating-the-best-computing-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2015/01/papert-turtles-and-creativity/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/12/computing-supporting-effective-teaching/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/11/the-new-computing-curriculum-a-global-perspective/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/11/computing-and-social-mobility/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/11/software-engineering-in-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/11/making-computing-more-inclusive/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/09/open-badges-and-primary-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/09/creativity-in-the-new-computing-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/08/ofsted-and-switched-on-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/08/resourcing-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/08/advice-for-parents/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/08/computational-thinking-and-creativity/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/07/this-is-for-everyone/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/07/assessing-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/05/assessing-attainment-in-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/05/there-is-more-to-the-new-computing-curriculum-than-just-coding/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/04/computer-science-in-the-national-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/03/computational-thinking-in-primary-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/03/switched-on-computing-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/02/text-based-programming-in-primary-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2014/01/more-to-computing-than-coding/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/11/computing-in-the-national-curriculum-a-guide-for-primary-teachers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/09/the-last-few-tweaks/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/09/froebel-and-the-pedagogy-of-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/07/934/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/05/the-computing-pos/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/03/naace-conference-introduction/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/webmaking-with-trainee-teachers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/the-new-computing-curriculum-some-thoughts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/switched-on-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/my-first-reactions-to-the-new-national-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/cpd-through-making/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/02/making-things-in-ict-at-roehampton/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/01/computer-science-makes-it-to-the-ebacc/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/01/adaptive-learning-and-interactive-fiction/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2013/01/some-thoughts-on-cs-cpd/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/10/832/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/10/social-networking-in-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/10/the-pln-and-informal-cpd/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/06/scratch-across-the-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/06/gamification/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/05/coders-and-compscis/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/05/on-the-purpose-of-education/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/05/creating-a-new-ict-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/05/the-case-for-agile-pedagogy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/04/raspberry-pi-interview/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/03/inaugural-address/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/02/rethinking-ict/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2012/01/voice-recognition-software-and-interview-transcription/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/12/national-curriculum-review-and-eyfs-revisions/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/12/the-beauty-and-joy-of-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/12/ofsteds-latest-subject-survey-ict-2008-2011/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/11/a-is-for-apps/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/10/the-new-teachers-standards/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/07/reinventing-the-primary-ict-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/07/michael-gove-at-the-royal-society/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/05/computing-and-pedagogy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/04/should-ict-remain-on-the-national-curriculum/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/03/how-open-source-allows-schools-to-do-more-with-less/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2011/01/some-thoughts-on-bett/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/11/computing-in-school-the-naace-response/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/10/open-source-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/07/control-technology-in-the-foundation-stage/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/07/programming-for-androids-with-app-inventor/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/07/on-saving-money/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/07/technology-and-the-rights-of-the-child/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/05/primary-curriculum-reform/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/05/596/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/04/open-source-education/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2010/03/social-constructivism-and-open-source/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/10/a-learning-journey/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/09/open-source-projects-as-communities-of-practice/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/09/firefox-is-my-ple/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/09/tes-on-10000-new-undergraduate-places-in-stem-subjects/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/09/meaningful-learning-and-ict/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/09/michael-kolling-on-greenfoot/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/07/the-bcs-response-to-the-rose-recommendations/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/05/schooltool-1-0-released/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/04/sugar-on-a-stick/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/04/ofsted-and-open-source/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/04/why-schools-should-use-open-source-software/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/03/bbc-learning-open-lab/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/02/a-level-playing-field-for-open-source-software/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/02/laconica/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/02/moodle-and-open-source-security/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/informal-learning-wordles/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/my-interview-with-tessy-britton-of-thriving/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/what-are-your-kids-learning-when-youre-not-looking/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/open-source-schools-presentation-at-bett/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/my-first-teachmeet/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/moodle-and-e-safety/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2009/01/open-source-schools-relaunch/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/12/accessapps/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/11/what-are-your-kids-learning-whilst-youre-not-looking/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/11/learners-and-technology-7-11/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/11/dynamic-geometry-software/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/11/real-time-reporting/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/11/be-very-afraid/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/the-science-of-teaching/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/opensourceschools-the-inaugural-meeting/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/as-ict-some-thoughts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/cloud-classification/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/vle-vs-informal-learning/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/open-source-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/personal-productivity-tools-for-teachers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/the-paperless-school/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/flickr-and-indesign/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/twitter/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/edtech-2013/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/10/creative-clicking/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/09/the-art-of-teaching/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/09/curric-08/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/09/are-we-ready-for-parents-to-watch-our-lessons-by-webcam/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/06/working-progress/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2008/01/moodle-nudges-forward/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2007/09/bringing-order-to-chaos/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2007/09/curric-07/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2007/08/open-source-presentation-tools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2007/08/algebra-on-computers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2007/03/wiki-man/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/12/bett-07/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/11/open-source-and-web-20/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/10/personalisation-and-the-bcs-edtrep-working-weekend/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/10/primary-mathematics/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/10/dfes-technology-benefits-realisation-workshop/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/09/network-manager-or-learning-technologist/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/09/curric/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/09/a-new-job/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/learning-platform-update/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/a-few-knowledge-management-finds/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/tablet-pc-stuff/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/other-highlights-of-the-salzburg-trip/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/cosi-fan-tutte-salzburg/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/die-zauberflote-in-salzburg/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/08/moodlemoot-06-day-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/moodlemoot-06-martin-dougiamas-keynote/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/1092/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/mode-dfes-learning-platform-wisdom/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/moodlemoot06-day-1/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/moodlemoot-06-introduction-niall-sclaters-keynote/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/flossie-06-day-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/flossie-06-day-1/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/why-minimally-guided-instruction-does-not-work/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/bsf-and-innovation/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/becta-futurelab-innovation-workshop-day-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/becta-futurelab-innovation-workshop-day-1/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/london-grid-for-learning-the-dangers-of-diy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/xchange06-the-challenge-of-innovation/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/xchange06-innovation-in-practice/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/xchange06-crossing-the-digital-divides/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/xchange06-the-challenge-of-change/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/07/xchange-2006-the-next-curve/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/06/blog-ac-uk-guidelines-or-tramlines-blogging-safely-towards-digital-literacy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/06/becta-open-source-seminar/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/a-day-in-sussex/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/school-choice-of-learning-platform/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/live-blogging-and-art/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/leicestershire-vs-moodle/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/the-writings-on-the-wall-for-paper-and-pencil/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/geotagging-update/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/moodle-in-the-tes-friday-5th-may/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/latin-and-programming-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/latin-and-programming/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/more-fun-with-flickr/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/flickrschool/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/gotterdammerung/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/harnessing-technology-beyond-tomorrow/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/05/moodle-concept-map-navigation/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/learning-topology-and-mirandanet/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/coming-of-age-an-introduction-to-the-new-world-wide-web/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/gliffy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/the-potential-of-open-source-approaches-for-education/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/pupils-home-use-of-computers/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/the-royal-maundy/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/florence/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/primary-vles/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/top-10-moodle-myths/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/beethoven-and-bruckner-at-cadogan-hall/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/04/end-of-term/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/knowledge-management-in-education-and-the-role-of-vles/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/moodle-and-elgg-at-ncsl/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/st-ives-mootlet/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/hercules/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/moodle-in-the-tes-friday-10th-march/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/readability/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/moodle-at-bett-the-video/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/the-education-show/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/moodle-at-bett-and-after/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/that-guardian-interview-in-full/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/elgg-moodle-and-now-drupal/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/excel-dice-and-bar-charts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/03/virtual-torquay/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/becta-publish-learning-services-framework-agreement/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/snow-in-godalming/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/non-linear-learning-and-research/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/a-short-history-of-computing/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/mindmapping/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/gifted-and-talented/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/schooltool/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/half-term-culture/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/primary-matters-spring-06/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/lams/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/naace-and-transformed-education/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/futurelab-enquiring-minds/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/futurelab-seminar-on-re-thinking-learning-networks-part-2/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/futurelab-seminar-on-re-thinking-learning-networks/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/02/tes-culture-vulture/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2006/01/elgg-at-bett/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/10/images-in-elgg/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/10/customizing-elgg/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/09/elgg-v-03/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/09/blogging-in-schools/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/09/our-first-posts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2005/09/elgg-the-first-day/</loc>
     </url>
     
 </urlset>
