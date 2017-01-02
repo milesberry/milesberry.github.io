@@ -22,44 +22,13 @@ I&#8217;m a chartered fellow of the [British Computer Society](http://bcs.org.uk
 
 Until 2009, I was head of Alton Convent Prep. In my former post as deputy head of St Ives School, Haslemere, I pioneered the use of Moodle and Elgg in primary education. My work on implementing Moodle was documented as the dissertation for Leicester University&#8217;s MBA in Educational Management, and won the 2006 Becta ICT in Practice Award for primary teaching. Other interests include classical music, creative cookery and photography. My wife, Clare, is a primary school teacher and we have one daughter, born December 2010.
 
-<div id='gallery-535-1' class='gallery gallery-535'>
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <img width="150" height="150" src="/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
-      </dt>
-    </dl>
 
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <img width="150" height="150" src="/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1.jpg 246w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-      </dt>
-    </dl>
-
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <img width="150" height="150" src="wp-content/uploads/2009/09/ICTWrgbweb1-150x150.gif" class="attachment-thumbnail size-thumbnail" alt="" />
-      </dt>
-    </dl>
-  </div>
-
-  <div class='gallery-row gallery-clear'>
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <img width="150" height="150" src="/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11.jpg 222w" sizes="(max-width: 150px) 100vw, 150px" />
-      </dt>
-    </dl>
-
-    <dl class='gallery-item col-3'>
-      <dt class='gallery-icon'>
-        <img width="150" height="150" src="/wp-content/uploads/2009/09/era1501.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-      </dt>
-    </dl>
-  </div>
-</div>
-
-<!-- .gallery -->
 
 # Social Media
 
-[Twitter](http://twitter.com/mberry) | [Facebook](https://www.facebook.com/mberry001) | [Linked In](http://www.linkedin.com/in/mgberry) | [YouTube](http://www.youtube.com/user/milesberry?feature=mhee) | [Flickr](http://www.flickr.com/photos/mberry/) | [Slideshare](http://www.slideshare.net/mgberry) | [Instagram](https://www.instagram.com/mgberry/)
+[Twitter](http://twitter.com/mberry)  
+[Facebook](https://www.facebook.com/mberry001) 
+[Linked In](http://www.linkedin.com/in/mgberry)
+[YouTube](http://www.youtube.com/user/milesberry?feature=mhee)
+[Flickr](http://www.flickr.com/photos/mberry/) 
+[Slideshare](http://www.slideshare.net/mgberry)  [Instagram](https://www.instagram.com/mgberry/)
