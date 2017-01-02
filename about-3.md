@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=535
 ---
 <div id="attachment_788" style="width: 247px" class="wp-caption alignleft">
-  <a href="http://milesberry.net/about-3/ade-global-institute-2012miles-berry/" rel="attachment wp-att-788"><img class="size-medium wp-image-788" title="Miles Berry" src="http://milesberry.net/wp-content/uploads/2009/09/mgb12-237x300.jpg" alt="" width="237" height="300" srcset="http://milesberry.net/wp-content/uploads/2009/09/mgb12-237x300.jpg 237w, http://milesberry.net/wp-content/uploads/2009/09/mgb12-810x1024.jpg 810w" sizes="(max-width: 237px) 100vw, 237px" /></a>
+  <img class="size-medium wp-image-788" title="Miles Berry" src="/wp-content/uploads/2009/09/mgb12-237x300.jpg" alt="" width="237" height="300" srcset="/wp-content/uploads/2009/09/mgb12-237x300.jpg 237w, /wp-content/uploads/2009/09/mgb12-810x1024.jpg 810w" sizes="(max-width: 237px) 100vw, 237px" />
   
   <p class="wp-caption-text">
     Miles Berry
