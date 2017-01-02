@@ -59,7 +59,7 @@ Point out a couple of things about this algorithm to your pupils. Firstly, that 
 
 Once pupils have an algorithm that works, either their own or one you’ve shared with them, they can program this into Scratch (or another programming language). You’ll need to explain a few ideas here, or just remind them of these. You might like to give them a partially complete program (e.g. [one that works for only 1p, 2p and 5p coins](http://scratch.mit.edu/projects/123787916/#editor)) and ask them to complete it:
 
-<img class="aligncenter size-full wp-image-1450" src="http://milesberry.net/wp-content/uploads/2016/12/prog1.png" alt="prog1" width="387" height="624" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog1.png 387w, http://milesberry.net/wp-content/uploads/2016/12/prog1-186x300.png 186w" sizes="(max-width: 387px) 100vw, 387px" />
+<img class="aligncenter size-full wp-image-1450" src="/wp-content/uploads/2016/12/prog1.png" alt="prog1" width="387" height="624" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog1.png 387w, http://milesberry.net/wp-content/uploads/2016/12/prog1-186x300.png 186w" sizes="(max-width: 387px) 100vw, 387px" />
 
 Or you could walk through the steps as a class, or you could just remind them of a few key ideas: it depends on how much experience your pupils have already.
 
@@ -74,13 +74,13 @@ Make sure pupils test their programs for different starting amounts, and do give
 
 There’s [a simple solution to the problem online](http://scratch.mit.edu/projects/123785554/#editor%20) which you’re free to remix and / or share with your pupils.
 
-<img class="aligncenter size-full wp-image-1451" src="http://milesberry.net/wp-content/uploads/2016/12/prog2.png" alt="prog2" width="299" height="1000" />
+<img class="aligncenter size-full wp-image-1451" src="/wp-content/uploads/2016/12/prog2.png" alt="prog2" width="299" height="1000" />
 
 **Extension ideas**
 
 Can pupils improve their program, making it clearer or more elegant? Using so many _similar_ repeating blocks suggests a couple of ways to make this better: one would be to use would be to break out the blocks that are repeated here into [custom (purple) blocks in Scratch](scratch.mit.edu/projects/124133028/#editor), another would be to use _lists_ of possible coins, and perhaps [keep a list of the coins we’ve given in change](scratch.mit.edu/projects/115112039/#editor).
 
-<img class="aligncenter size-full wp-image-1452" src="http://milesberry.net/wp-content/uploads/2016/12/prog3.png" alt="prog3" width="569" height="948" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog3.png 569w, http://milesberry.net/wp-content/uploads/2016/12/prog3-180x300.png 180w" sizes="(max-width: 569px) 100vw, 569px" />
+<img class="aligncenter size-full wp-image-1452" src="/wp-content/uploads/2016/12/prog3.png" alt="prog3" width="569" height="948" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog3.png 569w, http://milesberry.net/wp-content/uploads/2016/12/prog3-180x300.png 180w" sizes="(max-width: 569px) 100vw, 569px" />
 
 Our greedy algorithm here can break down in odd coinage systems (for example, use a coinage system with 25p, 20p, 10p and 5p coins to make change for 40p). You could challenge pupils to experiment with their program to see if they could find coinage systems where the algorithm _didn’t_ work.
 
