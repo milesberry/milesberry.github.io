@@ -8,7 +8,7 @@ guid: http://milesberry.net/?page_id=535
 ---
 <div id="attachment_788" style="width: 247px" class="wp-caption alignleft">
   <img class="size-medium wp-image-788" title="Miles Berry" src="/wp-content/uploads/2009/09/mgb12-237x300.jpg" alt="" width="237" height="300" srcset="/wp-content/uploads/2009/09/mgb12-237x300.jpg 237w, /wp-content/uploads/2009/09/mgb12-810x1024.jpg 810w" sizes="(max-width: 237px) 100vw, 237px" />
-  
+
   <p class="wp-caption-text">
     Miles Berry
   </p>
@@ -26,33 +26,33 @@ Until 2009, I was head of Alton Convent Prep. In my former post as deputy head o
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='http://milesberry.net/about-3/mirandanet-logo-fellow-300x143-2/'><img width="150" height="150" src="http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+        <img width="150" height="150" src="/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/Mirandanet-logo-Fellow-300x143.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
       </dt>
     </dl>
-    
+
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='http://milesberry.net/about-3/bcs_4colour_logo-2/'><img width="150" height="150" src="http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1.jpg 246w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+        <img width="150" height="150" src="/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/fbcs-logo-colour1.jpg 246w" sizes="(max-width: 150px) 100vw, 150px" /></a>
       </dt>
     </dl>
-    
+
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='http://milesberry.net/about-3/ictwrgbweb-2/'><img width="150" height="150" src="http://milesberry.net/wp-content/uploads/2009/09/ICTWrgbweb1-150x150.gif" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <img width="150" height="150" src="wp-content/uploads/2009/09/ICTWrgbweb1-150x150.gif" class="attachment-thumbnail size-thumbnail" alt="" />
       </dt>
     </dl>
   </div>
-  
+
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='http://milesberry.net/about-3/bettawardswinnerlogo2015-1-2/'><img width="150" height="150" src="http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11.jpg 222w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+        <img width="150" height="150" src="/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11-150x150.jpg 150w, http://milesberry.net/wp-content/uploads/2009/09/bettawardswinnerlogo2015-11.jpg 222w" sizes="(max-width: 150px) 100vw, 150px" />
       </dt>
     </dl>
-    
+
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='http://milesberry.net/about-3/era150-2/'><img width="150" height="150" src="http://milesberry.net/wp-content/uploads/2009/09/era1501.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+        <img width="150" height="150" src="/wp-content/uploads/2009/09/era1501.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
       </dt>
     </dl>
   </div>
@@ -63,12 +63,3 @@ Until 2009, I was head of Alton Convent Prep. In my former post as deputy head o
 # Social Media
 
 [Twitter](http://twitter.com/mberry) | [Facebook](https://www.facebook.com/mberry001) | [Linked In](http://www.linkedin.com/in/mgberry) | [YouTube](http://www.youtube.com/user/milesberry?feature=mhee) | [Flickr](http://www.flickr.com/photos/mberry/) | [Slideshare](http://www.slideshare.net/mgberry) | [Instagram](https://www.instagram.com/mgberry/)
-
-# Contact me
-
-<div role="form" class="wpcf7" id="wpcf7-f782-o1" dir="ltr">
-  <div class="screen-reader-response">
-  </div>
-</div>
-
-#
