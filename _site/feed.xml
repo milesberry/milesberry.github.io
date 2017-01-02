@@ -3,26 +3,26 @@
 <title type="text">An open mind</title>
 <subtitle type="text">A personal perspective on education, technology and culture</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-01-02T22:57:33+00:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2017-01-02T22:59:52+00:00</updated>
+<id>/</id>
 <author>
   <name>Miles Berry</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>/</uri>
   <email>m.berry@roehampton.ac.uk</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[The Roehampton Annual Computing Education Report 2015]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/" />
-  <id>http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015</id>
+  <link rel="alternate" type="text/html" href="/2016/12/the-roehampton-annual-computing-education-report-2015/" />
+  <id>/2016/12/the-roehampton-annual-computing-education-report-2015</id>
   <published>2016-12-21T16:03:34+00:00</published>
   <updated>2016-12-21T16:03:34+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
@@ -227,19 +227,19 @@
   &lt;em&gt;This is the executive summary of &lt;a href=&quot;http://bit.ly/TRACER15&quot;&gt;The Roehampton Annual Computing Education Report 2015&lt;/a&gt;, published 13 December 2016.&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/12/the-roehampton-annual-computing-education-report-2015/&quot;&gt;The Roehampton Annual Computing Education Report 2015&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/12/the-roehampton-annual-computing-education-report-2015/&quot;&gt;The Roehampton Annual Computing Education Report 2015&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on December 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Making Change]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/11/making-change/" />
-  <id>http://localhost:4000/2016/11/making-change</id>
+  <link rel="alternate" type="text/html" href="/2016/11/making-change/" />
+  <id>/2016/11/making-change</id>
   <published>2016-11-30T15:40:14+00:00</published>
   <updated>2016-11-30T15:40:14+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;It’s a seemingly easy problem: how to make a certain amount of money using the smallest number of coins possible. For example, 42p needs three coins: a couple of twenty pence pieces and a 2p coin. It’s something that comes up on the maths national curriculum:&lt;/p&gt;
@@ -355,19 +355,19 @@
   &lt;em&gt;The above lesson plan was published in the November 2016 edition of Teach Primary from &lt;a href=&quot;http://www.teachwire.net/&quot;&gt;Teachwire&lt;/a&gt;. © all rights reserved.&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/11/making-change/&quot;&gt;Making Change&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on November 30, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/11/making-change/&quot;&gt;Making Change&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on November 30, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Computational thinking and mathematical reasoning]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/" />
-  <id>http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning</id>
+  <link rel="alternate" type="text/html" href="/2016/11/computational-thinking-and-mathematical-reasoning/" />
+  <id>/2016/11/computational-thinking-and-mathematical-reasoning</id>
   <published>2016-11-27T16:39:05+00:00</published>
   <updated>2016-11-27T16:39:05+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p class=&quot;p1&quot; style=&quot;padding-left: 30px;&quot;&gt;
@@ -568,19 +568,19 @@
   &lt;em&gt;Our sides are below:&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/11/computational-thinking-and-mathematical-reasoning/&quot;&gt;Computational thinking and mathematical reasoning&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on November 27, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/11/computational-thinking-and-mathematical-reasoning/&quot;&gt;Computational thinking and mathematical reasoning&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on November 27, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Coding across the primary curriculum]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/07/coding-across-the-primary-curriculum/" />
-  <id>http://localhost:4000/2016/07/coding-across-the-primary-curriculum</id>
+  <link rel="alternate" type="text/html" href="/2016/07/coding-across-the-primary-curriculum/" />
+  <id>/2016/07/coding-across-the-primary-curriculum</id>
   <published>2016-07-25T18:21:39+01:00</published>
   <updated>2016-07-25T18:21:39+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;Quite recently, we thought the future of ICT education would be one in which technology was embedded seamlessly throughout all aspects of teaching and learning, and that all a child could possibly need to learn about IT could be taught within the context of other subject areas. The seamless embedding of technology throughout the life of a school remains a dream for many, but schools at the cutting edge have already achieved much with 1:1 devices, robust wifi, great training and a vision for how technology can transform education.&lt;/p&gt;
@@ -683,19 +683,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Originally published in &lt;a href=&quot;http://www.teachwire.net/&quot; target=&quot;_blank&quot;&gt;Teach Primary&lt;/a&gt;, June 2016. © all rights reserved. I explored these ideas further, with reference to the secondary curriculum, in my plenary at #casconf16:&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/07/coding-across-the-primary-curriculum/&quot;&gt;Coding across the primary curriculum&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on July 25, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/07/coding-across-the-primary-curriculum/&quot;&gt;Coding across the primary curriculum&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on July 25, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[This is CS50.]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/05/this-is-cs50/" />
-  <id>http://localhost:4000/2016/05/this-is-cs50</id>
+  <link rel="alternate" type="text/html" href="/2016/05/this-is-cs50/" />
+  <id>/2016/05/this-is-cs50</id>
   <published>2016-05-31T21:38:47+01:00</published>
   <updated>2016-05-31T21:38:47+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;https://cs50.harvard.edu/&quot;&gt;CS50&lt;/a&gt; is an introductory computer science course offered at Harvard. Lots of US universities are offering ‘CS101’ introductory courses for programming and computer science, designed with a far broader audience than just those pursuing computer science as the subject, or major, for their degree. UK higher education generally lacks this flexibility, but it’s possible to think of A Level CS as a qualification with a similar sort of scope, and one which would be of value for any future academic or professional use of programming rather than merely as prep for a CS degree. CS50 is now &lt;a href=&quot;http://www.businessinsider.com/most-popular-course-at-harvard-2014-9?IR=T&quot;&gt;the most popular course&lt;/a&gt; at Harvard (and &lt;a href=&quot;http://yaledailynews.com/blog/2015/09/22/cs50-yales-most-popular-course/&quot;&gt;Yale&lt;/a&gt;), and similar courses have attracted similar levels of interest elsewhere.&lt;/p&gt;
@@ -803,19 +803,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;I’d be interested to hear what others think about using these materials, teaching this course: is the context too far removed from our own? Is C too off-putting? Does the mismatch between the course and our qualification / accountability framework make this a non-starter for most English schools? Have you made use of MOOCs such as this for developing your own, or your colleagues’ subject knowledge? Was that a positive experience?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/05/this-is-cs50/&quot;&gt;This is CS50.&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on May 31, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/05/this-is-cs50/&quot;&gt;This is CS50.&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on May 31, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lessons from abroad]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/04/lessons-from-abroad/" />
-  <id>http://localhost:4000/2016/04/lessons-from-abroad</id>
+  <link rel="alternate" type="text/html" href="/2016/04/lessons-from-abroad/" />
+  <id>/2016/04/lessons-from-abroad</id>
   <published>2016-04-26T14:45:08+01:00</published>
   <updated>2016-04-26T14:45:08+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;There’s a global movement to teach children to code, and through this to give them the tools for solving problems and understanding systems that computational thinking offers. England is leading the way worldwide through including computer science as part of its national curriculum from primary onwards, and there seems ever increasing numbers of countries that are following in our footsteps, or at least taking a keen interest in what we’re doing here. There’s much that’s happening elsewhere that we can learn from – other countries are responding to this opportunity, and tackling this challenge in quite different ways, and I’d like to explore some of these here.&lt;/p&gt;
@@ -842,19 +842,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Originally published as Global computing: learning the lessons from initiatives abroad in &lt;a href=&quot;http://community.computingatschool.org.uk/files/7270/original.pdf&quot;&gt;Switched On&lt;/a&gt;, the Computing At School newsletter, Summer 2016&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/04/lessons-from-abroad/&quot;&gt;Lessons from abroad&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on April 26, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/04/lessons-from-abroad/&quot;&gt;Lessons from abroad&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on April 26, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Revisiting agile pedagogy]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/04/revisiting-agile-pedagogy/" />
-  <id>http://localhost:4000/2016/04/revisiting-agile-pedagogy</id>
+  <link rel="alternate" type="text/html" href="/2016/04/revisiting-agile-pedagogy/" />
+  <id>/2016/04/revisiting-agile-pedagogy</id>
   <published>2016-04-16T20:32:09+01:00</published>
   <updated>2016-04-16T20:32:09+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;color: #000000;&quot;&gt;
@@ -914,19 +914,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   Teaching agile methods in computing lessons is another matter, but I think we’ve far more chance of being able to do this in primary school and in KS3 than we have under current exam specifications at GCSE / A Level, although even here I see agile and iterative development are now &lt;a href=&quot;http://www.ocr.org.uk/Images/231756-software-development-delivery-guide.pdf&quot;&gt;getting a look-in&lt;/a&gt;. I reckon that this could be taught through collaborative group project work fairly effectively: starting with groups thinking about what they’re going to make; reviewing lesson by lesson what they’ve done, problems they’ve encountered and things they still need to do; sharing tasks out between the group; working with a partner using &lt;a href=&quot;http://www.quickstartcomputing.org/secondary/Paired-programming.html&quot;&gt;pair programming&lt;/a&gt; if possible; testing units as they go; getting to a minimum viable product and then developing this further. I think projects like &lt;a href=&quot;http://www.appsforgood.org/&quot;&gt;Apps for Good&lt;/a&gt; provide some scope for this sort of approach, and I tried to include elements of this in some of the &lt;a href=&quot;http://www.risingstars-uk.com/Series/Switched-On-Computing&quot;&gt;Switched On Computing&lt;/a&gt; units.
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/04/revisiting-agile-pedagogy/&quot;&gt;Revisiting agile pedagogy&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on April 16, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/04/revisiting-agile-pedagogy/&quot;&gt;Revisiting agile pedagogy&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on April 16, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Gender and Computing]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/04/gender-and-computing/" />
-  <id>http://localhost:4000/2016/04/gender-and-computing</id>
+  <link rel="alternate" type="text/html" href="/2016/04/gender-and-computing/" />
+  <id>/2016/04/gender-and-computing</id>
   <published>2016-04-16T09:52:31+01:00</published>
   <updated>2016-04-16T09:52:31+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p class=&quot;p1&quot;&gt;
@@ -960,19 +960,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;span class=&quot;s1&quot;&gt;Is this a problem in your school? How have you got on with making computing more inclusive for girls? Or indeed, better for boys and girls?&lt;/span&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/04/gender-and-computing/&quot;&gt;Gender and Computing&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on April 16, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/04/gender-and-computing/&quot;&gt;Gender and Computing&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on April 16, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Computers and brains]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/04/computers-and-brains/" />
-  <id>http://localhost:4000/2016/04/computers-and-brains</id>
+  <link rel="alternate" type="text/html" href="/2016/04/computers-and-brains/" />
+  <id>/2016/04/computers-and-brains</id>
   <published>2016-04-08T15:18:02+01:00</published>
   <updated>2016-04-08T15:18:02+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;An interesting interview with Prof Steve Furber for this week’s &lt;a href=&quot;https://www.youtube.com/watch?v=wnSjR04qang&amp;amp;list=PLfZL5AW0loWk3vFyY7ge3EFHV553YU208&quot;&gt;#CASTV programme&lt;/a&gt;:&lt;/p&gt;
@@ -989,19 +989,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;&lt;span id=&quot;span_post_74460&quot; style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/04/computers-and-brains/&quot;&gt;Computers and brains&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on April 08, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/04/computers-and-brains/&quot;&gt;Computers and brains&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on April 08, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Snap!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/03/snap/" />
-  <id>http://localhost:4000/2016/03/snap</id>
+  <link rel="alternate" type="text/html" href="/2016/03/snap/" />
+  <id>/2016/03/snap</id>
   <published>2016-03-30T10:08:32+01:00</published>
   <updated>2016-03-30T10:08:32+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;color: #000000;&quot;&gt;
@@ -1035,19 +1035,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/03/snap/&quot;&gt;Snap!&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on March 30, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/03/snap/&quot;&gt;Snap!&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on March 30, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The only way is ethics]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/02/the-only-way-is-ethics/" />
-  <id>http://localhost:4000/2016/02/the-only-way-is-ethics</id>
+  <link rel="alternate" type="text/html" href="/2016/02/the-only-way-is-ethics/" />
+  <id>/2016/02/the-only-way-is-ethics</id>
   <published>2016-02-03T15:10:48+00:00</published>
   <updated>2016-02-03T15:10:48+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;We need to pay more attention to ethics when we teach computing. You’d be forgiven for thinking computing in the national curriculum is all about coding. It’s not. There should be a balance between computer science, information technology and digital literacy, or the theoretical foundations, practical applications and societal implications of computing.&lt;/p&gt;
@@ -1070,19 +1070,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Originally published as Digital Devilry in the January 2015 edition of &lt;a href=&quot;http://www.teachprimary.com/&quot;&gt;Teach Primary&lt;/a&gt;. © 2015, all rights reserved.&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/02/the-only-way-is-ethics/&quot;&gt;The only way is ethics&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on February 03, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/02/the-only-way-is-ethics/&quot;&gt;The only way is ethics&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on February 03, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Laying the foundations for computing in the early years]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/01/laying-the-foundations-for-computing-in-the-early-years/" />
-  <id>http://localhost:4000/2016/01/laying-the-foundations-for-computing-in-the-early-years</id>
+  <link rel="alternate" type="text/html" href="/2016/01/laying-the-foundations-for-computing-in-the-early-years/" />
+  <id>/2016/01/laying-the-foundations-for-computing-in-the-early-years</id>
   <published>2016-01-18T19:36:33+00:00</published>
   <updated>2016-01-18T19:36:33+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;Computing co-ordinators often wonder what to encourage in the nursery or reception class. The easy answer is, ‘not computing!’ However, there is a lot of learning in the Early Years Foundation Stage (EYFS) that provides a foundation for computational thinking.&lt;/p&gt;
@@ -1138,19 +1138,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Written by &lt;a href=&quot;http://www.winchester.ac.uk/academicdepartments/teacherdevelopment/Peopleprofilesteacherdevelopment/Academicprofiles/Pages/mrs-emma-goto.aspx&quot;&gt;Emma Goto&lt;/a&gt; and me for the &lt;a href=&quot;http://community.computingatschool.org.uk/files/6917/original.pdf&quot;&gt;Spring 2016 edition of Switched On&lt;/a&gt;, the &lt;a href=&quot;http://www.computingatschool.org.uk/&quot;&gt;CAS&lt;/a&gt; Newsletter. &lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/01/laying-the-foundations-for-computing-in-the-early-years/&quot;&gt;Laying the foundations for computing in the early years&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on January 18, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/01/laying-the-foundations-for-computing-in-the-early-years/&quot;&gt;Laying the foundations for computing in the early years&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on January 18, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Making the links between computing and mathematics]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2016/01/making-the-links-between-computing-and-mathematics/" />
-  <id>http://localhost:4000/2016/01/making-the-links-between-computing-and-mathematics</id>
+  <link rel="alternate" type="text/html" href="/2016/01/making-the-links-between-computing-and-mathematics/" />
+  <id>/2016/01/making-the-links-between-computing-and-mathematics</id>
   <published>2016-01-07T11:10:01+00:00</published>
   <updated>2016-01-07T11:10:01+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;There are some great ways to link computing and all the other subjects on the school curriculum, but there’s a particularly strong argument for making connections with mathematics.&lt;/p&gt;
@@ -1194,19 +1194,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Originally published in the &lt;a href=&quot;https://t.co/F9b3FGePJQ&quot;&gt;Spring 2016 edition of Switched On&lt;/a&gt;, the Computing at School newsletter, as an introduction to a section on computing and mathematics.&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2016/01/making-the-links-between-computing-and-mathematics/&quot;&gt;Making the links between computing and mathematics&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on January 07, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2016/01/making-the-links-between-computing-and-mathematics/&quot;&gt;Making the links between computing and mathematics&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on January 07, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Some thoughts on pupils ‘bringing their own device’ (BYOD)]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/" />
-  <id>http://localhost:4000/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod</id>
+  <link rel="alternate" type="text/html" href="/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/" />
+  <id>/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod</id>
   <published>2015-12-17T19:01:42+00:00</published>
   <updated>2015-12-17T19:01:42+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;This is prompted in part by the &lt;a href=&quot;https://www.tes.com/news/school-news/breaking-news/ofsted-warns-against-extremely-disruptive-tablets-school&quot;&gt;TES&lt;/a&gt; citing &lt;a href=&quot;http://www.slideshare.net/Ofstednews/childinternetsafetysummitonlinesafetyinspection&quot;&gt;some data&lt;/a&gt; from HMI David Brown which appeared to show that 30% of secondary pupils questioned by inspectors in Section 5 inspections last March said they were able to use their own device (eg laptop or tablet) at their school. I was pleasantly surprised his figures were as high as this. To spoil my fun, the TES included a somewhat reactionary quote from an Ofsted spokesperson:&lt;/p&gt;
@@ -1301,19 +1301,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;These are interesting times. I’ve little doubt that in 10-20 years time this will be as commonplace as bringing your own stationery, calculator or reading book to school is (or was). This seems increasingly  common practice in the independent sector, particularly where boarding is involved, although the social exclusion issue is less of an issue there. It’s already how we do things in HE. Isn’t it time that we recognised that students in schools &lt;em&gt;already&lt;/em&gt; have access to some phenomenal digital technology, and removed the artificial barriers to their using it effectively in school?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/&quot;&gt;Some thoughts on pupils ‘bringing their own device’ (BYOD)&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on December 17, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/&quot;&gt;Some thoughts on pupils ‘bringing their own device’ (BYOD)&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on December 17, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[#mytechstory]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/12/mytechstory/" />
-  <id>http://localhost:4000/2015/12/mytechstory</id>
+  <link rel="alternate" type="text/html" href="/2015/12/mytechstory/" />
+  <id>/2015/12/mytechstory</id>
   <published>2015-12-04T19:12:18+00:00</published>
   <updated>2015-12-04T19:12:18+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;padding-left: 30px;&quot;&gt;
@@ -1350,19 +1350,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;What interests me now is researching how programming and other aspects of computer science are best taught or learnt in school: we’ve evidence from the early days of Logo programming in schools, and present day work with undergraduate computer science students, but we’re gradually developing the teaching profession’s shared expertise in effective classroom. I’m also rediscovering my statistical background, getting interested in data mining, machine learning and predictive analytics in the context of education, and gradually getting to grips with analysis and programming in the utterly fab R.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/12/mytechstory/&quot;&gt;#mytechstory&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on December 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/12/mytechstory/&quot;&gt;#mytechstory&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on December 04, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[&#8216;This House believes 21st Century skills aren’t being taught  &#8211; and they should be&#8217;]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/" />
-  <id>http://localhost:4000/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be</id>
+  <link rel="alternate" type="text/html" href="/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/" />
+  <id>/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be</id>
   <published>2015-12-03T18:12:54+00:00</published>
   <updated>2015-12-03T18:12:54+00:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;padding-left: 30px;&quot;&gt;
@@ -1462,19 +1462,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;Passing on knowledge. Nurturing character. Sounds a bit old-fashioned, but honestly, what better preparation for the rest of the 21st century?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/&quot;&gt;&#8216;This House believes 21st Century skills aren’t being taught  &#8211; and they should be&#8217;&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on December 03, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/&quot;&gt;&#8216;This House believes 21st Century skills aren’t being taught  &#8211; and they should be&#8217;&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on December 03, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Coding and digital skills]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/coding-and-digital-skills/" />
-  <id>http://localhost:4000/2015/10/coding-and-digital-skills</id>
+  <link rel="alternate" type="text/html" href="/2015/10/coding-and-digital-skills/" />
+  <id>/2015/10/coding-and-digital-skills</id>
   <published>2015-10-15T06:35:31+01:00</published>
   <updated>2015-10-15T06:35:31+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;padding-left: 30px;&quot;&gt;
@@ -1592,19 +1592,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/coding-and-digital-skills/&quot;&gt;Coding and digital skills&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on October 15, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/10/coding-and-digital-skills/&quot;&gt;Coding and digital skills&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on October 15, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[That OECD computers in schools report]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/09/that-oecd-computers-in-schools-report/" />
-  <id>http://localhost:4000/2015/09/that-oecd-computers-in-schools-report</id>
+  <link rel="alternate" type="text/html" href="/2015/09/that-oecd-computers-in-schools-report/" />
+  <id>/2015/09/that-oecd-computers-in-schools-report</id>
   <published>2015-09-22T06:41:45+01:00</published>
   <updated>2015-09-22T06:41:45+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;div class=&quot;gmail_default&quot; style=&quot;color: #073763;&quot;&gt;
@@ -1710,19 +1710,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/09/that-oecd-computers-in-schools-report/&quot;&gt;That OECD computers in schools report&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on September 22, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/09/that-oecd-computers-in-schools-report/&quot;&gt;That OECD computers in schools report&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on September 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Computing: one year on]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/08/computing-one-year-on/" />
-  <id>http://localhost:4000/2015/08/computing-one-year-on</id>
+  <link rel="alternate" type="text/html" href="/2015/08/computing-one-year-on/" />
+  <id>/2015/08/computing-one-year-on</id>
   <published>2015-08-27T06:45:53+01:00</published>
   <updated>2015-08-27T06:45:53+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p style=&quot;padding-left: 30px;&quot;&gt;
@@ -1757,19 +1757,19 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
 
 &lt;p&gt;&lt;em&gt;© all rights reserved&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/08/computing-one-year-on/&quot;&gt;Computing: one year on&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on August 27, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/08/computing-one-year-on/&quot;&gt;Computing: one year on&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on August 27, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Debugging and the growth mindset]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/07/debugging-and-the-growth-mindset/" />
-  <id>http://localhost:4000/2015/07/debugging-and-the-growth-mindset</id>
+  <link rel="alternate" type="text/html" href="/2015/07/debugging-and-the-growth-mindset/" />
+  <id>/2015/07/debugging-and-the-growth-mindset</id>
   <published>2015-07-20T16:49:51+01:00</published>
   <updated>2015-07-20T16:49:51+01:00</updated>
   <author>
     <name>Miles Berry</name>
-    <uri>http://localhost:4000</uri>
+    <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
   <content type="html">&lt;p&gt;How good are your pupils at rising to a challenge? When they encounter something difficult, do they show grit in persevering, or do they give up easily? Given a choice, would they choose to tackle easier or harder work? How do they cope when they fail?&lt;/p&gt;
@@ -1798,7 +1798,7 @@ play_pattern_timed [:d,:c,:c], [0.75,0.25,1]&lt;/pre&gt;
   &lt;em&gt;Originally published in &lt;a href=&quot;http://www.teachprimary.com/&quot;&gt;Teach Primary&lt;/a&gt; 9.5 as Working out the Bugs. Reproduced here with permission. © all rights reserved.&lt;/em&gt;
 &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/07/debugging-and-the-growth-mindset/&quot;&gt;Debugging and the growth mindset&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;http://localhost:4000&quot;&gt;An open mind&lt;/a&gt; on July 20, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2015/07/debugging-and-the-growth-mindset/&quot;&gt;Debugging and the growth mindset&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on July 20, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
