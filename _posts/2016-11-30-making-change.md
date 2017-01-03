@@ -59,7 +59,12 @@ Point out a couple of things about this algorithm to your pupils. Firstly, that 
 
 Once pupils have an algorithm that works, either their own or one you’ve shared with them, they can program this into Scratch (or another programming language). You’ll need to explain a few ideas here, or just remind them of these. You might like to give them a partially complete program (e.g. [one that works for only 1p, 2p and 5p coins](http://scratch.mit.edu/projects/123787916/#editor)) and ask them to complete it:
 
-<img class="aligncenter size-full wp-image-1450" src="/wp-content/uploads/2016/12/prog1.png" alt="prog1" width="387" height="624" srcset="http://milesberry.net/wp-content/uploads/2016/12/prog1.png 387w, http://milesberry.net/wp-content/uploads/2016/12/prog1-186x300.png 186w" sizes="(max-width: 387px) 100vw, 387px" />
+
+<figure>
+ 	<img src="/wp-content/uploads/2016/12/prog1.png">
+ 	<figcaption>Caption describing these two images.</figcaption>
+</figure>
+
 
 Or you could walk through the steps as a class, or you could just remind them of a few key ideas: it depends on how much experience your pupils have already.
 
