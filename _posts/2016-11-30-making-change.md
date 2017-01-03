@@ -82,7 +82,7 @@ There’s [a simple solution to the problem online](http://scratch.mit.edu/proje
 
 
 <figure>
- 	<img src="/wp-content/uploads/2016/12/prog2.png">
+ 	<img src="/wp-content/uploads/2016/12/prog2.png" width="350">
  	<figcaption>One solution to change making in Scratch</figcaption>
 </figure>
 
