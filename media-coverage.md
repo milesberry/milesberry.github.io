@@ -9,7 +9,9 @@ guid: http://milesberry.net/?page_id=1169
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LB9hS60yvgw" frameborder="0" allowfullscreen></iframe>
 
-Quotes and other media coverage:
+---
+
+### Quotes and other media coverage:
 
 [Introducing the CSTA interim standards](https://www.youtube.com/watch?v=61srsnoOpUI) for computer science, Sept 2016.
 
