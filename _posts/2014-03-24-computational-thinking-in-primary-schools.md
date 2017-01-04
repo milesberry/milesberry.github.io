@@ -4,6 +4,7 @@ title: Computational Thinking in Primary Schools
 date: 2014-03-24T19:43:12+00:00
 author: Miles Berry
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1018
 permalink: /2014/03/computational-thinking-in-primary-schools/
 categories:
