@@ -33,13 +33,13 @@ categories:
   <span class="s1">The first phase of mathematics &#8211; thinking about the problem or the system &#8211; remains largely unchanged. Creative and imaginative problem solving lies at the heart of mathematics. Polya suggested four principles for problem solving: understand the problem, devise a plan, carry out the plan and look back, plus a number of associated heuristics.</span>
 </p>
 
-<div style="width: 1246px" class="wp-caption alignnone">
-  <a href="http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg"><img src="http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg" alt="" width="1236" height="1600" /></a>
-  
-  <p class="wp-caption-text">
-    Polya: how to solve it
-  </p>
-</div>
+
+<figure>
+<img src="http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg">
+<figcaption>Polya: how to solve it</figcaption>
+</figure>
+
+
 
 <p class="p2">
   <span class="s4"><a href="https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBM_brochure.pdf">Wolfram</a></span><span class="s1"> argues convincingly that this is what mathematics education should now focus on, given that actual computation is now done by machines, and suggests his own four-stage helix for problem solving: define questions, translate to maths, computer answers and interpret. There are parallels here with the development process in software engineering: specification, design, implementation and testing.</span>
@@ -47,7 +47,7 @@ categories:
 
 <div style="width: 350px" class="wp-caption aligncenter">
   <a href="https://www.computerbasedmath.org/case-for-computer-based-math-education.php"><img src="https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBMManMovie.gif" alt="" width="340" height="386" /></a>
-  
+
   <p class="wp-caption-text">
     Computer Based Math
   </p>
@@ -60,7 +60,7 @@ categories:
 > <p class="p4">
 >   <span class="s1"><i>reason mathematically by following a line of enquiry, conjecturing relationships and generalisations, and developing an argument, justification or proof using mathematical language; and</i></span>
 > </p>
-> 
+>
 > <p class="p4">
 >   <span class="s1"><i>can solve problems by applying their mathematics to a variety of routine and non-routine problems with increasing sophistication, including breaking down problems into a series of simpler steps and persevering in seeking solutions.</i></span>
 > </p>
@@ -91,7 +91,7 @@ categories:
 
 <div style="width: 1201px" class="wp-caption aligncenter">
   <a href="http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/"><img src="http://barefootcas.org.uk/wp-content/uploads/2014/06/Barefoot-CT-Poster-for-website.jpg" alt="" width="1191" height="842" /></a>
-  
+
   <p class="wp-caption-text">
     The computational thinker
   </p>
@@ -108,7 +108,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li class="li4">
     <strong><span class="s1">Algorithms</span></strong> <ul class="ul2">
       <li class="li4">
@@ -119,7 +119,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li class="li4">
     <strong><span class="s1">Decomposition</span></strong> <ul class="ul2">
       <li class="li4">
@@ -130,7 +130,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li class="li4">
     <strong><span class="s1">Patterns and generalisation</span></strong> <ul class="ul2">
       <li class="li4">
@@ -141,7 +141,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li class="li4">
     <strong><span class="s1">Abstraction</span></strong> <ul>
       <li class="li4">
@@ -152,7 +152,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li class="li4">
     <strong><span class="s1">Evaluation</span></strong> <ul>
       <li class="li4">
