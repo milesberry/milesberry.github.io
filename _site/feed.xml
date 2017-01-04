@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-01-04T10:47:58+00:00</updated>
+<updated>2017-01-04T11:20:30+00:00</updated>
 <id>/</id>
 <author>
   <name>Miles Berry</name>
@@ -597,13 +597,11 @@
 
 &lt;p&gt;The relationship between maths and programming goes back to Alan Turing and the the foundations of computer science. Simple turtle graphics are a great way to help pupils get a far more visceral feel for geometry, as they put themselves in the place of the turtle. Pupils quickly learn for themselves that exterior angles sum to 360˚. Writing programs where sprites move around the screen in Scratch similarly makes coordinates and negative numbers seem more real and more useful.&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1401&quot; style=&quot;width: 312px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;img class=&quot;wp-image-1401 size-full&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/07/download.png&quot; alt=&quot;Euclid's Algorithm&quot; width=&quot;302&quot; height=&quot;220&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/07/download.png 302w, http://milesberry.net/wp-content/uploads/2016/07/download-300x218.png 300w&quot; sizes=&quot;(max-width: 302px) 100vw, 302px&quot; /&gt;
-
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Snap! code for finding highest common factors using Euclid&amp;#8217;s algorithm
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/07/download.png&quot; /&gt;
+&lt;figcaption&gt;Snap! code for finding highest common factors using Euclid&amp;#8217;s algorithm
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;In maths, we make use of algorithms (sequences of steps and sets of rules) all the time. We’ll teach pupils algorithms for checking if a number is prime, for finding common factors or for doing arithmetic with fractions. With a few coding skills, pupils could put their knowledge of these to the test by writing their own programs to implement these rules, trying them out with much bigger numbers than the exercises we set, and perhaps even finding faster algorithms for the same problem.&lt;/p&gt;
 
@@ -651,25 +649,21 @@
 
 &lt;p&gt;Turtle graphics in Scratch, Logo or Python needn’t be restricted to maths – there’s ample scope to use this as a medium for pupils creative work in art too. QCA’s &lt;a href=&quot;http://webarchive.nationalarchives.gov.uk/content/20090608182316/http://standards.dfes.gov.uk/schemes2/it/itx4b/?view=get&quot;&gt;old scheme of work for ICT&lt;/a&gt; had a lovely unit on crystal flowers, there’s plenty of scope to explore tessellating patterns and Islamic art has a rich history of beautiful, geometric art to provide inspiration here. There’s also scope for exploring more natural patterns, experimenting with simple code to create recursive fractals for trees, fern leaves, broccoli or coastlines.&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1402&quot; style=&quot;width: 310px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;img class=&quot;wp-image-1402 size-medium&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png&quot; alt=&quot;Fractal broccoli in Scratch&quot; width=&quot;300&quot; height=&quot;281&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42.png 798w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;
-
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Fractal broccoli in Scratch
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png&quot; /&gt;
+&lt;figcaption&gt;Fractal broccoli in Scratch
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h2 id=&quot;foreign-languages&quot;&gt;Foreign languages&lt;/h2&gt;
 
 &lt;p&gt;Scratch has excellent support for working in foreign languages – the familiar English of the programming blocks can be replaced with keywords from many other languages, even including Latin. This is great for pupils learning English as an additional language, but is also a nice way to build up pupils’ familiarity with a foreign language. Scratch is great for producing short, scripted animations, with on-screen and recorded dialogue or narration: why not have pupils program animations for a language they’re learning, or even a simple chatbot?&lt;/p&gt;
 
-&lt;div id=&quot;attachment_1403&quot; style=&quot;width: 310px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;img class=&quot;wp-image-1403 size-medium&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png&quot; alt=&quot;Coding is the new Latin!&quot; width=&quot;300&quot; height=&quot;290&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48.png 756w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;
-
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Coding is the new Latin!
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png&quot; /&gt;
+&lt;figcaption&gt;Coding is the new Latin!
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;You can also program Scratch (or Python) to generate semi-random, but grammatically correct sentences, using the computer science idea of a finite state machine. Playing with this gives some insights into the structure of a language: you could do this for English, but also for any other language that pupils are learning.&lt;/p&gt;
 
