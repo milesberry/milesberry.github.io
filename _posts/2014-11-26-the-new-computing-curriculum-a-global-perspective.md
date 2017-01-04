@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1242
 permalink: /2014/11/the-new-computing-curriculum-a-global-perspective/
 categories:
   - Uncategorized
+image:
+    feature: 141122.jpg
 ---
 Nick Gibb, the minister for school reform, [describes the new curriculum](https://www.gov.uk/government/news/new-curriculum-will-make-education-system-envy-of-the-world) as one that will make England’s education system the ‘envy of the world’. For computer science education, there’s a good chance that he’s right.  Whilst many countries teach programming in high schools, the entitlement for all pupils from five up to be taught computer science has very few precedents; English schools really are leading the way here, and there’s global interest, including from the likes of Finland and Singapore, in how we’re approaching this. That said, English computing teachers can still learn much from examples of some of the best practice elsewhere.
 

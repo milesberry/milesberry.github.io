@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1049
 permalink: /2014/04/computer-science-in-the-national-curriculum/
 categories:
   - CS
+image:
+    feature: 140421.jpg
 ---
 I&#8217;ve written an ebook, aimed at introducing a few aspects of computer science to a general education audience for [Microsoft Education](http://www.microsoft.com/education/en-gb/Pages/index.aspx). This was released today on [Slideshare](http://www.slideshare.net/Microsofteduk/computer-science-in-the-national-curriculum), from where a PDF version can be downloaded. This is more of a ramble through interesting countryside taking in some nice views than a detailed treatment of the subject. Of particular interest is the mapping of Microsoft products and technologies to the requirements of the [computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) at the end of the book.
 

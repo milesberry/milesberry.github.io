@@ -9,6 +9,8 @@ permalink: /2014/11/making-computing-more-inclusive/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 141026.jpg
 ---
 This September saw the introduction of a new National Curriculum for local authority supported schools. Perhaps one of the most significant changes is the move from the old ‘ICT’, characterised by some as focussing on the development of skills in using ‘office’ productivity and other software, to a new subject, ‘computing’, which seeks to develop an understanding of the fundamental principles which underpin computation.  [The new programmes of study for computing](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) are ambitious ones. The opening sentence sets the agenda: ‘A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world.’.
 
@@ -18,13 +20,13 @@ There are economic arguments for including much more computer science on the cur
 
 The notion of **an entitlement for all** is central to the very idea of a national curriculum, even if this has been somewhat watered down in the move to academisation. The new curriculum applies to pupils with special educational needs and disabilities, as it does their peers: ‘This is for everyone’, as its inventor, Tim Berners-Lee said of the web.
 
-<div style="width: 330px" class="wp-caption aligncenter">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/This_is_for_Everyone.jpg/320px-This_is_for_Everyone.jpg" alt="" width="320" height="213" />
-  
-  <p class="wp-caption-text">
-    CC by Nick Webb
-  </p>
-</div>
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/This_is_for_Everyone.jpg/320px-This_is_for_Everyone.jpg">
+<figcaption>This is for everyone - CC by Nick Webb
+</figcaption>
+</figure>
+
+
 
 The framework [acknowledges](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4#inclusion) that this means ‘ensuring that the national curriculum is taught in ways that enable all pupils to have an equal opportunity to succeed’. Furthermore, being able to program can be hugely empowering for many with SEN/D. Without wishing to generalise, some with Asperger’s syndrome find the predictability of computing reassuring; the immediate feedback on semantics and syntax in computer code can help some with dyslexia; decomposing problems into their components might help some with ADHD; and simple, text based interfaces can be used effectively by many with sensory or motor difficulties.
 

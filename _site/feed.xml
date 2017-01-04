@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-01-04T20:45:09+00:00</updated>
+<updated>2017-01-04T22:18:24+00:00</updated>
 <id>/</id>
 <author>
   <name>Miles Berry</name>
@@ -1129,8 +1129,6 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;The non-statutory guidance in &lt;a href=&quot;http://www.foundationyears.org.uk/files/2012/03/Development-Matters-FINAL-PRINT-AMENDED.pdf&quot;&gt;Development Matters&lt;/a&gt; gives plenty of examples of how these characteristics of effective learning develop, and these link directly with the notion of computational thinking. So, for example, the early stages of logical reasoning will draw on ‘making predictions’ – getting a child to say what will happen if they do or change something, as well as ‘developing ideas of cause and effect’ – can they link their actions to the effects they produce, on screen or off? Abstraction starts early too: representative play captures the essence of a thing, putting to one side much of the detail: children ‘pretend objects are things from experience’ and ‘represent experiences as play’. Debugging, whilst not called that, is common in Early Years with children ‘learning by trial and error’ and ‘persisting with activities when challenges occur’.&lt;/p&gt;
 
 &lt;p&gt;As with all learning, we need to recognise the importance of children’s early experiences. If we can get the environment right in these early days, we can set children off on the right foot to develop computational thinking and creativity.&lt;/p&gt;
@@ -1682,7 +1680,7 @@
 &lt;h3&gt; 5 Trust teachers &lt;/h3&gt;
 
 &lt;p&gt;
-    I love the bit in the report about teacher agency in relation to technology: “It is vital that teachers become active agents for change, not just in implementing technological innovations, but in designing them too.” For me, some of the best ‘ed tech’ has been that where educators have been directly involved in developing products and projects: foe example: Moodle, Scratch, the 100 Word Challenge and the Raspberry Pi. I’m hopeful that, as more teachers in England become confident in teaching computing, we’ll see more putting their skills to good use through developing software themselves, or at lease more willing to get involved in the processes of software development.
+    I love the bit in the report about teacher agency in relation to technology: “It is vital that teachers become active agents for change, not just in implementing technological innovations, but in designing them too.” For me, some of the best ‘ed tech’ has been that where educators have been directly involved in developing products and projects: for example: Moodle, Scratch, the 100 Word Challenge and the Raspberry Pi. I’m hopeful that, as more teachers in England become confident in teaching computing, we’ll see more putting their skills to good use through developing software themselves, or at lease more willing to get involved in the processes of software development.
   &lt;/p&gt;
 
 &lt;p&gt;

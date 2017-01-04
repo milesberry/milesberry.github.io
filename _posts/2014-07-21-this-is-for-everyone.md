@@ -9,14 +9,16 @@ permalink: /2014/07/this-is-for-everyone/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 140718.jpg
 ---
-<div style="width: 650px" class="wp-caption aligncenter">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/This_is_for_Everyone.jpg/640px-This_is_for_Everyone.jpg" alt="" width="640" height="425" />
-  
-  <p class="wp-caption-text">
-    CC by Nick Webb
-  </p>
-</div>
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/This_is_for_Everyone.jpg/640px-This_is_for_Everyone.jpg">
+<figcaption>This is for everyone - CC by Nick Webb
+</figcaption>
+</figure>
+
+
 
 Can anyone learn to program? I think so, and I think it’s important that those teaching computing think so too. I’ve been at a couple of conferences in the last month where the question came up, and I was really surprised by how many in these audiences thought there’d be at least some in their classes who would just not get programming. This worries me, I think because it suggests that some teachers are approaching the new curriculum with a fixed model of pupils’ ability, as if this were presented to us as a given with which to do what we can.
 

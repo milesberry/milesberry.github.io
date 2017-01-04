@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=990
 permalink: /2014/01/more-to-computing-than-coding/
 categories:
   - Uncategorized
+image:
+    feature: 140102.jpg
 ---
 My contribution to the Friday afternoon Mirandamod at BETT 2014
 
@@ -17,11 +19,11 @@ I&#8217;d like to start by rejecting the premise of the question. Learning to co
 
 That apart, a few thoughts on what else should students know about digital technology.
 
-Firstly, that computers can only do so much: that in any bit of software, or any system, something is lost &#8211; the digital is granular: you see the bits if you zoom in closely enough; the analogue is far finer grained &#8211; at least all the way down to the Planck length. When we computerize something we keep what we think matters &#8211; the audio and the video in the hangout, but don&#8217;t worry about the rest &#8211; those online have no knowledge of how warm it is in here, or what it smells like. 
+Firstly, that computers can only do so much: that in any bit of software, or any system, something is lost &#8211; the digital is granular: you see the bits if you zoom in closely enough; the analogue is far finer grained &#8211; at least all the way down to the Planck length. When we computerize something we keep what we think matters &#8211; the audio and the video in the hangout, but don&#8217;t worry about the rest &#8211; those online have no knowledge of how warm it is in here, or what it smells like.
 
 Students ought to know, we have to admit, how to get things done, with whatever the right / best / available tool is for the job in hand. Often this comes down to a grasp of the steps to follow, but an attitude of looking for better ways is useful too &#8211; witness those who center text using the space bar or go to Facebook by searching for it on Google every time. I&#8217;d been led to believe that computers were meant to make things easier, let&#8217;s let them.
 
-Akin to this is looking for the common ground, the repeatable patterns, the ways of working that transfer from one application, or application, to another &#8211; write first, format later. Write first, correct later, save as you go, keep a backup, invite and provide review, be generous, be kind etc. 
+Akin to this is looking for the common ground, the repeatable patterns, the ways of working that transfer from one application, or application, to another &#8211; write first, format later. Write first, correct later, save as you go, keep a backup, invite and provide review, be generous, be kind etc.
 
 At a bigger scale, students should also know how to go about managing projects. A former colleague did a memorable assembly on how to eat an elephant &#8211; one bite at a time. Teaching students, or giving the chance to learn, that research projects, media assignments, whatever, are tackled through breaking big problems down into smaller ones, and then getting on with solving these, isn&#8217;t just an IT thing, but IT is one of the domains where the need might be greatest.
 

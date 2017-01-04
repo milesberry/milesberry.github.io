@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1154
 permalink: /2014/08/computational-thinking-and-creativity/
 categories:
   - Uncategorized
+image:
+    feature: 140810.jpg
 ---
 The first sentence of [the new computing programme of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) sets out our ambition:
 

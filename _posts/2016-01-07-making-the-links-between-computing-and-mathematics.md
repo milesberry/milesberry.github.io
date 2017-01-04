@@ -30,8 +30,6 @@ Given our current focus on thinking rather than coding, there are strong paralle
 </figcaption>
 </figure>
 
-
-
 There&#8217;s a fair amount of mathematical content in computer science as taught in schools. In primary, Bee Bots and similar are used early on to practise positional language and emerging measure and children are now more likely to meet angles and coordinates in Scratch before these get covered in maths lessons. Topics such as [binary conversion](http://www.cimt.plymouth.ac.uk/projects/mepres/book9/bk9i1/bk9_1i1.html), binary arithmetic, Boolean logic and functions all make demands on pupils&#8217; mathematical understanding. There&#8217;s some potentially gritty maths in computing at GCSE and A level: graph theory, modular arithmetic, formal logic and measures of algorithmic efficiency.  It&#8217;s perhaps no surprise that grade B in GCSE maths is seen as a prerequisite for A Level computer science, or that A level maths / further maths, is often [a requirement](http://www.russellgroup.ac.uk/media/5320/informedchoices.pdf) for studying CS at Russell Group universities.
 
 Going in the other direction, there are very many opportunities to enrich school mathematics through computing, but more than that, computer science provides a means through which mathematical ideas become “incarnate, tangible and executable”.

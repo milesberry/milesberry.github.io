@@ -11,6 +11,8 @@ categories:
   - Curriculum
   - Open Source
   - Uncategorized
+image:
+    feature: 141109.jpg
 ---
 There’s much more to software development than coding: the process of developing software has much in common with other engineering disciplines, and so there are some close parallels with design-make-evaluate projects in Design and Technology on the school curriculum.
 

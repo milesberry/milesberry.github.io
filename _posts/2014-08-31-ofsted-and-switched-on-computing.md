@@ -9,299 +9,301 @@ permalink: /2014/08/ofsted-and-switched-on-computing/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 140830-2.jpg
 ---
 At the launch event for the [BCS Barefoot Computing](http://barefootcas.org.uk/) project, HMI David Brown, Ofsted&#8217;s national lead for computing, gave [an excellent presentation](http://www.slideshare.net/Ofstednews/barefoot-conference-computing-and-e-safety-in-schools-jul-11-14), setting out his views on what good and outstanding computing would look like in schools. Whilst we&#8217;re not expecting any subject survey visits for the new curriculum, I think this gives a pretty good view of how the more general criteria for section 5 inspections should be interpreted in the context of the new computing curriculum.
 
-<div id="attachment_1179" style="width: 510px" class="wp-caption aligncenter">
-  <a href="https://plus.google.com/photos/103184705528014520165/albums/6035090944798002273"><img class="size-full wp-image-1179" src="http://milesberry.net/wp-content/uploads/2014/08/140711-111754.jpg" alt="David Brown HMI" width="500" height="333" srcset="http://milesberry.net/wp-content/uploads/2014/08/140711-111754.jpg 500w, http://milesberry.net/wp-content/uploads/2014/08/140711-111754-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
-  
-  <p class="wp-caption-text">
-    David Brown HMI at the launch of Barefoot Computing. Photo by Zoe Ross
-  </p>
-</div>
+<figure>
+<img src="/wp-content/uploads/2014/08/140711-111754.jpg">
+<figcaption>David Brown HMI at the launch of Barefoot Computing. Photo by Zoe Ross
+</figcaption>
+</figure>
+
+
 
 [Rising Stars](http://www.risingstars-uk.com/)&#8216; Naomi Watson and I have been looking through David&#8217;s bullet points to see how well [Switched on Computing](http://www.switchedoncomputing.co.uk/) matches up to the job of supporting teachers and schools in meeting these expectations. I hope you&#8217;ll agree that we&#8217;ve done a pretty good job here.
 
-<h2 id="achievement-in-computing-is-good-or-better-when" style="color: #111111;">
+<h3 id="achievement-in-computing-is-good-or-better-when">
   Achievement in computing is good or better when:
-</h2>
+</h3>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils demonstrate excellent understanding of important concepts in all three strands of the computing curriculum and are able to make connections within the subject because they have highly developed transferable knowledge, skills and understanding
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing has full coverage of the new Programme of Study for computing from Years 1–6, ensuring that children develop the knowledge, skills and understanding required throughout the primary years. The links within the subject are highlighted throughout the scheme, with digital literacy elements integrated fully into computer science and IT-based units.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils consistently use their subject knowledge and understanding very effectively in written and verbal explanations and can solve challenging problems
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Each unit requires children to solve a real-life problem using digital technology. Children are encouraged to apply their knowledge in both verbal and written forms and to produce a tangible outcome. Pupils are expected to present, review or write-up their work in many units.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils make highly effective use of a wide range of hardware and software appropriate to their age and ability
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing prompts teachers to employ a range of readily available or free software in their lessons from Paint and iMovie, to Scratch and Kodu. Use is also made of hardware such as digital cameras, video cameras, GPS, tablets or smartphones and web servers.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils show independence in their use of computing across all three strands of the curriculum and exhibit positive attitudes towards the subject and working constructively with others
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Each unit shows teachers how to set their children off on independent projects that require them to solve real-life problems. In collaborative groups, they produce tangible outcomes using digital technology. Links with local and national IT and other organisations are suggested.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils show high levels of originality, imagination, creativity and innovation in their understanding and application of skills in computing
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Creativity is at the heart of every Switched on Computing unit, from Year 1’s We are TV chefs, which teaches algorithms and video, to Year 6’s We are app designers where children program simple mobile apps. It is through these creative projects that pupils develop their understanding of concepts in computing.
 </p>
 
-<h2 id="teaching-in-computing-is-good-or-better-when" style="color: #111111;">
-  <a class="headeranchor-link" style="color: #4d4d4c;" href="#teaching-in-computing-is-good-or-better-when" name="user-content-teaching-in-computing-is-good-or-better-when"></a>Teaching in computing is good or better when:
-</h2>
+<h3 id="teaching-in-computing-is-good-or-better-when">
+  <a class="headeranchor-link" href="#teaching-in-computing-is-good-or-better-when" name="user-content-teaching-in-computing-is-good-or-better-when"></a>Teaching in computing is good or better when:
+</h3>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     it is informed by excellent subject knowledge and understanding of continuing developments in teaching and learning in computing
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Regardless of their prior computing experience, teachers are supported to get up to speed with the knowledge and understanding of the new curriculum. Background knowledge and useful links are provided, which highlight the best advice and guidance available. Switched on Computing was written by a nationally recognised expert and has been endorsed by Computing at School and Naace.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     teachers have a high level of competence and expertise, both in terms of their specialist knowledge and technical skills and in their understanding of active learning in computing, which they use effectively to secure achievement which is at least good
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   ‘Software in 60 seconds’ demos for each unit at beginner, intermediate and advanced levels give teachers a good understanding of the technical skills they will be asking their pupils to employ. This is supplemented by additional Switched on Computing training and CPD addressing computer science and IT subject knowledge through video and interactive tutorials.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing provides progression through the computing curriculum. Each unit highlights the knowledge and skills examined in past units to help children make connections across topics. Within units, lessons are sequences to provide progression and continuity with a clear sense of meaningful purpose.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     lessons address pupils’ misconceptions very effectively; teachers’ responses to pupils’ questions are accurate and highly effective in stimulating further thought
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Assessment opportunities are highlighted throughout, with suggestions for how teachers can best elicit pupils’ understanding. Suggestions are made for how common misconceptions may be addressed.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     teachers communicate high expectations, enthusiasm and passion about computing to pupils; they challenge and inspire pupils to produce the best work they can
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing is an unashamedly ambitious scheme of work that has been carefully trialled in schools to ensure that expectations are high but achievable. Units have been designed to provide many ‘wow’ moments as pupils develop their skills and understanding.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing draws on cutting-edge software and online resources. The teaching strategies recommended emphasise collaborative and creative projects that can be linked to work in other curriculum areas. Suggestions are made for further independent activities and links between home and school.
 </p>
 
-<h2 id="the-computing-curriculum-is-good-or-better-when" style="color: #111111;">
-  <a class="headeranchor-link" style="color: #4d4d4c;" href="#the-computing-curriculum-is-good-or-better-when" name="user-content-the-computing-curriculum-is-good-or-better-when"></a>The computing curriculum is good or better when:
-</h2>
+<h3 id="the-computing-curriculum-is-good-or-better-when">
+  <a class="headeranchor-link" href="#the-computing-curriculum-is-good-or-better-when" name="user-content-the-computing-curriculum-is-good-or-better-when"></a>The computing curriculum is good or better when:
+</h3>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     an imaginative and stimulating curriculum is skilfully designed to match to the full range of pupils’ needs to ensure highly effective continuity and progression in their learning
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing offers a highly innovative and creative route through the new computing curriculum offering progression from Years 1–6. There are suggestions for stretch and challenge at every level, and recommendations are made for how content can best beadapted for pupils with SEN/D or EAL.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     the curriculum is broad and balanced with all three computing strands covered well for all pupils in computing lessons and/or across the school curriculum
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   This has been a guiding principle in the development of Switched on Computing. For each year, three units are based around computer science elements, and three for information technology. Digital literacy elements are integrated within all units. Suggestions are made for how units can be linked with other curriculum topics.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry; excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Each Switched on Computing unit requires children to produce a tangible outcome in a real-life context, making computing relevant to their lives. There are suggested opportunities for taking each activity further, including parental involvement, educational visits, and links with local and national organisations.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     links with other subjects in the school are productive in strengthening pupils’ learning in computing
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   There are clear cross curricular links suggested for each unit. Many units take pupils’ learning in other areas of the curriculum as their starting point.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils are expected to use their computing knowledge, skills and understanding in realistic and challenging situations
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Each Switched on Computing unit requires children to produce a tangible outcome in a real-life context, making computing relevant to their lives, and demonstrating its relevance to the lives of others.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     pupils’ have comprehensive knowledge and understanding of how to stay safe when using new technologies
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   E-safety guidance is addressed in every unit so that teachers feel confident in guiding their pupils to stay safe while carrying out the unit activities. Digital literacy elements are integrated into all units, and units emphasise the implications of aspects of computer science and IT for pupils’ and others’ safe and responsible use of digital technology.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     rigorous curriculum planning ensures the subject makes an outstanding contribution to pupils’ spiritual, moral, social and cultural development.
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Philosophical and ethical implications of computing are addressed in a number of units, particularly in relation to privacy, intellectual property and responsibility. Social development is addressed through an emphasis on collaborative project work in many units. Some units focus specifically on cultural development, including We are photographers, We are musicians and We are architects
 </p>
 
-<h2 id="leadership-of-computing-is-good-or-better-when" style="color: #111111;">
-  <a class="headeranchor-link" style="color: #4d4d4c;" href="#leadership-of-computing-is-good-or-better-when" name="user-content-leadership-of-computing-is-good-or-better-when"></a>Leadership of computing is good or better when:
-</h2>
+<h3 id="leadership-of-computing-is-good-or-better-when">
+  <a class="headeranchor-link" href="#leadership-of-computing-is-good-or-better-when" name="user-content-leadership-of-computing-is-good-or-better-when"></a>Leadership of computing is good or better when:
+</h3>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     leadership is informed by a high level of subject expertise and vision that has a clear impact on the performance and practice of members of the department and on outcomes for pupils
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing draws on a deep and extensive knowledge of computing and computing pedagogy. It was developed by CAS and Naace board members and has been endorsed by both associations. It includes an assessment framework that makes it easy to show impact on pupils’ progress and attainment to be demonstrated.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     there is a strong track record of innovation in computing; subject reviews, self-evaluation and improvement planning are well-informed by current best practice in computing education
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing drew extensively on material from the highly successful Switched on ICT scheme, with development informed by curriculum changes, technological innovation and teachers’ evaluation of the older scheme. It is directly informed by current models of best practice in computing education and primary education more generally.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     subject leadership inspires confidence and whole-hearted commitment from pupils and colleagues; there are effective strategies to delegate subject responsibilities where appropriate and to share good practice and secure high-quality professional development in the subject
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   The scheme incorporates sufficient flexibility for class teachers to adapt content to the interests and enthusiasms of their class and to link content to other areas of the curriculum.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     continuing professional development is well-targeted and thoroughly evaluated for its impact; it includes up-to-date training for teaching assistants and technical support staff
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Implementing Switched on Computing provides an excellent opportunity for targeted CPD. CPD resources available include ‘Software in 60 seconds’ walkthroughs plus further video and interactive tutorial CPD to build subject knowledge.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     computing has a very high profile in the life of the school and is at the cutting edge of initiatives to raise pupil progress
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing offers many opportunities to raise the profile of computing in the life of a primary school, from cross-curricular projects to assemblies and educational visits to cross-phase projects such as opinion polls and educational game development.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     access to computing equipment is outstanding, and the school is likely to have promoted the use of mobile technologies; the computing infrastructure enables pupils and staff to have very good access to their work and to the school’s learning resources at all times, and contributes to pupils’ achievement.
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   Switched on Computing allows and encourages the use of cutting edge technology such as cloud-based software and tablet apps. Use of mobile technology forms a focus for Year 6 units on app design and development.
 </p>
 
-<h2 id="leadership-is-good-or-better-when" style="color: #111111;">
-  <a class="headeranchor-link" style="color: #4d4d4c;" href="#leadership-is-good-or-better-when" name="user-content-leadership-is-good-or-better-when"></a>Leadership is good or better when:
-</h2>
+<h3 id="leadership-is-good-or-better-when">
+  <a class="headeranchor-link" href="#leadership-is-good-or-better-when" name="user-content-leadership-is-good-or-better-when"></a>Leadership is good or better when:
+</h3>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     there is an age-appropriate e-safety curriculum that is flexible, relevant and engages pupils’ interest; that is used to promote e-safety through teaching pupils how to stay safe, how to protect themselves from harm and how to take responsibility for their own and others’ safety
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   E-safety guidance is addressed in every unit so that teachers feel confident in guiding their pupils to stay safe while carrying out the unit activities. The development of pupils’ digital literacy, including the safe, respectful and responsible use of technology, is integrated throughout the scheme. An e-safety pathway and checklist is provided for every year ensure a good level of e-safety support.
 </p>
 
-<blockquote style="color: #666666;">
+<blockquote>
   <p>
     rigorous e-safety policies and procedures are in place, written in plain English, contributed to by the whole school, updated regularly and ratified by governors.
   </p>
 </blockquote>
 
-<p style="color: #4d4d4c;">
+<p>
   In unit 5.4, We are web developers, pupils work together to create a website explaining e-safety and responsible online behaviour. Other units also allow pupils to form and express opinions in relation to the safe and responsible use of technology.
 </p>
 
-<p style="color: #4d4d4c; padding-left: 30px;">
+<p style="padding-left: 30px;">
   <em>The above (apart from the text from David&#8217;s slides) is © Rising Stars, all rights reserved. It is posted here with permission. It should not be taken as implying any specific endorsement by Ofsted of Switched on Computing.</em>
 </p>

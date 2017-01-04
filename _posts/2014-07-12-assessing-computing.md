@@ -9,6 +9,8 @@ permalink: /2014/07/assessing-computing/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 140622.jpg
 ---
 When they reported on the state of ICT in [2004](http://www.ofsted.gov.uk/sites/default/files/documents/surveys-and-good-practice/t/The%20impact%20of%20government%20initiatives%20five%20years%20on%20%28PDF%20format%29.pdf), [2009](http://www.ofsted.gov.uk/sites/default/files/documents/surveys-and-good-practice/t/The%20importance%20of%20ICT.pdf) and again in [2011](http://www.ofsted.gov.uk/sites/default/files/documents/surveys-and-good-practice/i/ICT%20in%20schools%202008-2011.pdf), Ofsted were unimpressed by how assessment was being done &#8211; by 2011, it was no better than satisfactory in 61% of their sample, including several schools where no assessment of what pupils had achieved in ICT took place at all. With the new computing curriculum and the abolition of the old level descriptors, there&#8217;s a chance to put this right, and to make sure we&#8217;re using assessment in computing in a way which is useful for pupils, teachers and parents.
 
@@ -41,3 +43,5 @@ I&#8217;d be the first to acknowledge the importance of tracking progress, setti
 </p>
 
 The following video was recorded for the inaugural CAS Calderdale hub and covers some similar territory to the above.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wgmG72lEnLI" frameborder="0" allowfullscreen></iframe>

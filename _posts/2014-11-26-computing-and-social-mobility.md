@@ -9,6 +9,8 @@ permalink: /2014/11/computing-and-social-mobility/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 141122-2.jpg
 ---
 <p style="padding-left: 30px;">
   <em>My remarks at a Teach First dinner hosted by Google, 25 November 2014</em>
@@ -16,7 +18,13 @@ categories:
 
 I don’t normally do much by way of autobiography, but being as Google probably knows all this about me anyhow, it seems only fair for the rest of you. My grandfather was a coal miner. Both of my parents left school by sixteen. I went to a comprehensive school in the midlands. I went on to read mathematics at Cambridge, became a head teacher and a university lecturer, sit on the boards of Naace and CAS, and helped draft the new computing curriculum. In part at least these achievements are thanks to Dave Pidcock, the head of maths at my school, who brought in his Sharp MZ-80k (anybody remember?) so a few of us could spend lunchtimes learning to program.
 
-<img class="aligncenter" src="http://upload.wikimedia.org/wikipedia/commons/1/1f/Mz80k.jpg" alt="" width="466" height="355" />
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/1/1f/Mz80k.jpg">
+<figcaption>Sharp MZ-80K
+</figcaption>
+</figure>
+
+
 
 These _are_ such exciting times. Thanks to the work of Ian Livingstone, Simon Peyton Jones and others, we’re the first country in the world to have computer science as a curriculum entitlement for all, from age five up. Given the role that software plays in all of our lives, it’s about time that children are now learning to write programs as well as use programs: even better, that they’re learning about the fundamental principles of computation and the processes of computational thinking, as well as the craft skills of coding.
 
@@ -26,13 +34,13 @@ The picture is a patchy one, but I’m worried about where the patches are: I su
 
 Anyone seen The Imitation Game? Who knows who built Colossus, the computer they used to crack the Lorenz cipher at Bletchley?&#8230;
 
-<div style="width: 310px" class="wp-caption aligncenter">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/8/84/Tommy_Flowers.jpg" alt="" width="300" height="407" />
-  
-  <p class="wp-caption-text">
-    Tommy Flowers
-  </p>
-</div>
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/8/84/Tommy_Flowers.jpg">
+<figcaption>Tommy Flowers
+</figcaption>
+</figure>
+
+
 
 Tommy Flowers was a working class lad, the son of a bricklayer, learning engineering through an apprenticeship and evening classes. We rightly celebrate the achievements of Alan Turing, but I hope not at the expense of working class heroes such as Flowers. We have very little knowledge about social mobility within the computing industry. It&#8217;s a question that very few businesses ask and report upon? Does yours? We need role models from all backgrounds&#8230;
 

@@ -63,8 +63,6 @@ So how do we encourage the development of these approaches? This is often about 
 
 
 
-&nbsp;
-
 The non-statutory guidance in [Development Matters](http://www.foundationyears.org.uk/files/2012/03/Development-Matters-FINAL-PRINT-AMENDED.pdf) gives plenty of examples of how these characteristics of effective learning develop, and these link directly with the notion of computational thinking. So, for example, the early stages of logical reasoning will draw on ‘making predictions’ &#8211; getting a child to say what will happen if they do or change something, as well as ‘developing ideas of cause and effect’ &#8211; can they link their actions to the effects they produce, on screen or off? Abstraction starts early too: representative play captures the essence of a thing, putting to one side much of the detail: children ‘pretend objects are things from experience’ and ‘represent experiences as play’. Debugging, whilst not called that, is common in Early Years with children ‘learning by trial and error’ and ‘persisting with activities when challenges occur’.
 
 As with all learning, we need to recognise the importance of children’s early experiences. If we can get the environment right in these early days, we can set children off on the right foot to develop computational thinking and creativity.

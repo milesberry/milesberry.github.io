@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1184
 permalink: /2014/09/open-badges-and-primary-computing/
 categories:
   - Uncategorized
+image:
+    feature: 140830.jpg
 ---
 [Rising Stars](http://risingstars-uk.com) have been working with [Makewav.es](https://www.makewav.es/) to develop [a set of digital badges](https://www.makewav.es/badges/18419/) to support assessment for the primary computing curriculum, with each of the programme of study bullet points mapped to its own badge. These are linked to the outcomes from units in [Switched on Computing](http://www.risingstars-uk.com/all-series/switched-on-computing/?offset=all), but as they&#8217;re available to all Makewav.es users (free registration required) and are based on the programme of study content I think they&#8217;d work very well for schools using their own or other schemes of work too.
 

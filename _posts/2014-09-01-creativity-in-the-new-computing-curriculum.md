@@ -9,6 +9,8 @@ permalink: /2014/09/creativity-in-the-new-computing-curriculum/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 140830-3.jpg
 ---
 Whilst it’s easy to focus on the ‘[core knowledge](http://blogs.spectator.co.uk/coffeehouse/2013/04/michael-goves-planned-national-curriculum-is-designed-to-renew-teaching-as-a-vocation/)’ aspects of the new National Curriculum, creativity is an important dimension to the curriculum, and I think rightly so. The stated aims for the curriculum as a whole include engendering an appreciation for human creativity, and it’s hard to see this happening without some opportunity for pupils to work creatively themselves. The computing programme of study speaks of pupils coming to understand and change the world through computational thinking and creativity, and includes as one of its aims, that pupils become creative users of ICT.
 

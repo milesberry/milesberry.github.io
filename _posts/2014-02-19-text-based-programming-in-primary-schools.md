@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1001
 permalink: /2014/02/text-based-programming-in-primary-schools/
 categories:
   - Uncategorized
+image:
+    feature: 140216.jpg
 ---
 [Logo](http://www.calormen.com/jslogo/), [Small Basic](http://smallbasic.com/) and [Python](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html) are all accessible languages for the top end of primary. Good folk like [Phil Bagge](http://www.pythoncode.co.uk/) and [Dr Chips](http://primarycomputing.co.uk/python-resources/) have been very successful in teaching Python with primary pupils, and Logo has a long, noble heritage in primary. _Personally_, I’d be reluctant to do text-based programming with a primary class for a few reasons:
 

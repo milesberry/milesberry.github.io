@@ -10,10 +10,12 @@ permalink: /2014/03/computational-thinking-in-primary-schools/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 140316.jpg
 ---
 The change in the primary national curriculum from ICT to Computing, which takes effect this September, is undoubtedly a significant one, but perhaps not for quite the reasons you might first think. Given that much of the attention in the media has focussed on pupils being taught to program computers, you might be forgiven for thinking this is something new &#8211; this is far from the case. Even before the first national curriculum, programming BBC Micros was a common sight, and &#8216;control&#8217; or sequencing instructions has been [part of the National Curriculum right from its start](https://dl.dropboxusercontent.com/u/8648376/IT%201990.pdf). For me, the significant change is the shift of focus from the skills of using ICT to developing an understanding of computer science.
 
-[The new programme of study is ambitious](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study). It begins with the assertion that
+[The new programme of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) is ambitious. It begins with the assertion that
 
 > &#8216;A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world&#8217;.
 

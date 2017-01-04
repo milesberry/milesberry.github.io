@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1047
 permalink: /2014/05/there-is-more-to-the-new-computing-curriculum-than-just-coding/
 categories:
   - Curriculum
+image:
+    feature: 140506-2.jpg
 ---
 It will have been hard to miss the changes afoot in the move from ICT in the old national curriculum to computing in the new version, coming into effect in September. We&#8217;ve seen lots of headlines about how children will be &#8216;learning to code&#8217; from the age of five, and a number of great initiatives such as [Code Club](https://www.codeclub.org.uk/), [Code Club Pro](http://codeclubpro.org/), [Year of Code](http://yearofcode.org/), [Hour of Code](http://uk.code.org/), [Codecademy](http://www.codecademy.com/) and [Decoded](http://decoded.co/uk/education/) which aim, amongst other things, to give children and their teachers the opportunity to learn to write &#8216;computer code&#8217;. This _really is great_, but you&#8217;d be forgiven for thinking that &#8216;coding&#8217; is all there is to [the new programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study); this is far from the case &#8211; &#8216;code&#8217; and &#8216;coding&#8217; aren&#8217;t mentioned at all! What we do have is a mix (I&#8217;d now say a balanced mix, but others would disagree) between computer science (CS), information technology (IT) and digital literacy, or the foundations, applications and implications of the discipline. There&#8217;s much more to computing than computer science, and there&#8217;s much more to computer science than coding.
 
