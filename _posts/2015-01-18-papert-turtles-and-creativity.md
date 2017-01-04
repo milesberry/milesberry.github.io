@@ -29,7 +29,7 @@ The Logo programming language is probably best known for its implementation of *
 
 Logo’s turtle graphics provides a great way in to the language. Children can experiment to find a way to draw familiar geometric shapes (squares, then equilateral triangles, then regular pentagons and so on), their own pictures (remembering the importance of creativity in computing), or more complex geometric figures, such as the ‘crystal flowers’ of the old QCA schemes of work.
 
-```
+```logo
 repeat 10 [
   repeat 5 [
     fd 100
