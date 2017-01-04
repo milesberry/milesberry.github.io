@@ -3,7 +3,7 @@ id: 1454
 title: The Roehampton Annual Computing Education Report 2015
 date: 2016-12-21T16:03:34+00:00
 author: Peter Kemp, Billy Wong and Miles Berry
-layout: post
+layout: post-no-feature
 guid: http://milesberry.net/?p=1454
 permalink: /2016/12/the-roehampton-annual-computing-education-report-2015/
 categories:
@@ -48,10 +48,10 @@ categories:
 	<img src="/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.04.57.png">
  	<figcaption>English schools entering students for GCSE computing, 2015</figcaption>
  </figure>
-  
-  
-  
- 
+
+
+
+
 
 <p style="color: #1e1e1e;">
   There was considerable variation between school types in entries for GCSE and A-level computing:
@@ -104,7 +104,7 @@ categories:
 
 <div id="attachment_1460" style="width: 659px" class="wp-caption aligncenter">
   <a href="http://bit.ly/TRACER15"><img class="wp-image-1460 size-full" src="http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png" alt="Computing GCSE grades by gender, 2015" width="649" height="807" srcset="http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png 649w, http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47-241x300.png 241w" sizes="(max-width: 649px) 100vw, 649px" /></a>
-  
+
   <p class="wp-caption-text">
     Computing GCSE grades by gender, 2015
   </p>
@@ -165,7 +165,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li>
     Schools and colleges offering computing should aim to expand the numbers of pupils and students taking the qualification. <ul>
       <li>
@@ -173,7 +173,7 @@ categories:
       </li>
     </ul>
   </li>
-  
+
   <li>
     Schools should consider if changes are needed in the teaching of computing to bring outcomes in line with those which entry profiles would indicate.
   </li>
