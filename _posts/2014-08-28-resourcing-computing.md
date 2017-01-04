@@ -12,7 +12,7 @@ categories:
   - Ed Tech
   - Open Source
 image:
-    feature: 140825.jpg
+    feature: 140810-2.jpg
 ---
 <p>
   Most folk involved in English schools will already be well aware that there are some significant changes planned for the national curriculum this September. After two years of &#8216;disapplication&#8217; we are about to see the old ICT replaced by a new subject, computing. This includes a significant element of programming, alongside other aspects of computer science, as well as the critical digital literacy necessary for young people to address issues of safety, responsibility, privacy and security. The opening sentence of <a href="https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study">the new programme of study</a> puts it well: &#8216;a high quality computing education equips pupils with computational thinking be creativity to understand and change the world&#8217;. Neither the baby nor the bath water of ICT has been thrown out: the creative projects that pupils undertook under the old curriculum still have a place in the new one.
@@ -58,7 +58,7 @@ image:
   The programme of study expects pupils to work across a range of devices: whilst this can include their home computers and web servers, I do think some access to smartphones and tablets alongside laptops or desktops would be beneficial, particularly for those pupils who’ve not got access to such devices at home.
 </p>
 
-### Software 
+### Software
 
 <p>
   I don’t think there’s any need to rush out and buy lots of new software for the new curriculum. The multi-purpose software schools have been using for ICT is still just as relevant for much of computing &#8211; so <a href="http://office.microsoft.com/en-gb/">Office</a>, the <a href="https://www.2simple.com/">2Simple</a> suite, <a href="http://www.google.co.uk/enterprise/apps/education/">Google Apps for Education</a> and much else remains directly relevant. It’s still really important that pupils move on to secondary education being able to word process their work, create a presentation, and analyse data on in a spreadsheet. Tools such as these are relevant for programming too &#8211; making an interactive presentation provides some insights into sequencing and selection, and creating a spreadsheet model draws on much computational thinking and some basic functional programming.
