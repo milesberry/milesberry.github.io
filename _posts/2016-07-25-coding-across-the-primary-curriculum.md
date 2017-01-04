@@ -26,7 +26,7 @@ I think we can go further than this though. As pupils have been getting better a
 The relationship between maths and programming goes back to Alan Turing and the the foundations of computer science. Simple turtle graphics are a great way to help pupils get a far more visceral feel for geometry, as they put themselves in the place of the turtle. Pupils quickly learn for themselves that exterior angles sum to 360˚. Writing programs where sprites move around the screen in Scratch similarly makes coordinates and negative numbers seem more real and more useful.
 
 <figure>
-<img src="http://milesberry.net/wp-content/uploads/2016/07/download.png">
+<img src="/wp-content/uploads/2016/07/download.png">
 <figcaption>Snap! code for finding highest common factors using Euclid&#8217;s algorithm
 </figcaption>
 </figure>
