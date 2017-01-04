@@ -11,6 +11,7 @@ categories:
   - Curriculum
 image:
         feature: 20161220@2x.jpg
+comments: true
 ---
 <p style="color: #1e1e1e;">
   <a href="http://bit.ly/TRACER15">This report</a> aims to analyse the uptake of computing / computer science qualifications at GCSE and A-level by looking at the schools that offered the qualifications and the students sitting them in 2015. Below are the key findings.
