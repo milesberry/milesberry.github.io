@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-01-03T03:54:04+00:00</updated>
+<updated>2017-01-04T09:21:45+00:00</updated>
 <id>/</id>
 <author>
   <name>Miles Berry</name>
@@ -58,13 +58,10 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div id=&quot;attachment_1456&quot; style=&quot;width: 731px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;http://bit.ly/TRACER15&quot;&gt;&lt;img class=&quot;size-full wp-image-1456&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.04.57.png&quot; alt=&quot;English schools entering students for GCSE computing, 2015&quot; width=&quot;721&quot; height=&quot;889&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.04.57.png 721w, http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.04.57-243x300.png 243w&quot; sizes=&quot;(max-width: 721px) 100vw, 721px&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    English schools entering students for GCSE computing, 2015
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.04.57.png&quot; /&gt;
+ 	&lt;figcaption&gt;English schools entering students for GCSE computing, 2015&lt;/figcaption&gt;
+ &lt;/figure&gt;
 
 &lt;p style=&quot;color: #1e1e1e;&quot;&gt;
   There was considerable variation between school types in entries for GCSE and A-level computing:
@@ -322,7 +319,10 @@
 
 &lt;p&gt;Once pupils have an algorithm that works, either their own or one you’ve shared with them, they can program this into Scratch (or another programming language). You’ll need to explain a few ideas here, or just remind them of these. You might like to give them a partially complete program (e.g. &lt;a href=&quot;http://scratch.mit.edu/projects/123787916/#editor&quot;&gt;one that works for only 1p, 2p and 5p coins&lt;/a&gt;) and ask them to complete it:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-1450&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/12/prog1.png&quot; alt=&quot;prog1&quot; width=&quot;387&quot; height=&quot;624&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/12/prog1.png 387w, http://milesberry.net/wp-content/uploads/2016/12/prog1-186x300.png 186w&quot; sizes=&quot;(max-width: 387px) 100vw, 387px&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+ 	&lt;img src=&quot;/wp-content/uploads/2016/12/prog1.png&quot; /&gt;
+ 	&lt;figcaption&gt;Making change with 1p, 2p and 5p coins&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Or you could walk through the steps as a class, or you could just remind them of a few key ideas: it depends on how much experience your pupils have already.&lt;/p&gt;
 
@@ -339,13 +339,19 @@
 
 &lt;p&gt;There’s &lt;a href=&quot;http://scratch.mit.edu/projects/123785554/#editor%20&quot;&gt;a simple solution to the problem online&lt;/a&gt; which you’re free to remix and / or share with your pupils.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-1451&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/12/prog2.png&quot; alt=&quot;prog2&quot; width=&quot;299&quot; height=&quot;1000&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+ 	&lt;img src=&quot;/wp-content/uploads/2016/12/prog2.png&quot; width=&quot;350&quot; /&gt;
+ 	&lt;figcaption&gt;One solution to change making in Scratch&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Extension ideas&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Can pupils improve their program, making it clearer or more elegant? Using so many &lt;em&gt;similar&lt;/em&gt; repeating blocks suggests a couple of ways to make this better: one would be to use would be to break out the blocks that are repeated here into &lt;a href=&quot;scratch.mit.edu/projects/124133028/#editor&quot;&gt;custom (purple) blocks in Scratch&lt;/a&gt;, another would be to use &lt;em&gt;lists&lt;/em&gt; of possible coins, and perhaps &lt;a href=&quot;scratch.mit.edu/projects/115112039/#editor&quot;&gt;keep a list of the coins we’ve given in change&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-1452&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/12/prog3.png&quot; alt=&quot;prog3&quot; width=&quot;569&quot; height=&quot;948&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/12/prog3.png 569w, http://milesberry.net/wp-content/uploads/2016/12/prog3-180x300.png 180w&quot; sizes=&quot;(max-width: 569px) 100vw, 569px&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+ 	&lt;img src=&quot;/wp-content/uploads/2016/12/prog3.png&quot; /&gt;
+ 	&lt;figcaption&gt;A more elegant, list based solution&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Our greedy algorithm here can break down in odd coinage systems (for example, use a coinage system with 25p, 20p, 10p and 5p coins to make change for 40p). You could challenge pupils to experiment with their program to see if they could find coinage systems where the algorithm &lt;em&gt;didn’t&lt;/em&gt; work.&lt;/p&gt;
 
@@ -394,25 +400,19 @@
   &lt;span class=&quot;s1&quot;&gt;The first phase of mathematics &amp;#8211; thinking about the problem or the system &amp;#8211; remains largely unchanged. Creative and imaginative problem solving lies at the heart of mathematics. Polya suggested four principles for problem solving: understand the problem, devise a plan, carry out the plan and look back, plus a number of associated heuristics.&lt;/span&gt;
 &lt;/p&gt;
 
-&lt;div style=&quot;width: 1246px&quot; class=&quot;wp-caption alignnone&quot;&gt;
-  &lt;a href=&quot;http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg&quot;&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg&quot; alt=&quot;&quot; width=&quot;1236&quot; height=&quot;1600&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Polya: how to solve it
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://4.bp.blogspot.com/-rW8XSQOyupo/UZEYSQrmuWI/AAAAAAAABiA/LlKtkGtPUA0/s1600/how-to-solve-it_Polya.jpg&quot; /&gt;
+&lt;figcaption&gt;Polya: how to solve it&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p class=&quot;p2&quot;&gt;
   &lt;span class=&quot;s4&quot;&gt;&lt;a href=&quot;https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBM_brochure.pdf&quot;&gt;Wolfram&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt; argues convincingly that this is what mathematics education should now focus on, given that actual computation is now done by machines, and suggests his own four-stage helix for problem solving: define questions, translate to maths, computer answers and interpret. There are parallels here with the development process in software engineering: specification, design, implementation and testing.&lt;/span&gt;
 &lt;/p&gt;
 
-&lt;div style=&quot;width: 350px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;https://www.computerbasedmath.org/case-for-computer-based-math-education.php&quot;&gt;&lt;img src=&quot;https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBMManMovie.gif&quot; alt=&quot;&quot; width=&quot;340&quot; height=&quot;386&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Computer Based Math
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBMManMovie.gif&quot; /&gt;
+&lt;figcaption&gt;Computer Based Math&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p class=&quot;p2&quot;&gt;
   &lt;span class=&quot;s1&quot;&gt;It would be wrong to think of school mathematics as being confined to manual computation. Problem solving and mathematical reasoning is an essential part of mathematics education. For example, the &lt;a href=&quot;https://www.gov.uk/government/collections/national-curriculum&quot;&gt;&lt;span class=&quot;s2&quot;&gt;English National Curriculum&lt;/span&gt;&lt;/a&gt; aims to ensure that all pupils:&lt;/span&gt;
@@ -456,13 +456,10 @@
   &lt;span class=&quot;s1&quot;&gt;Building on &lt;a href=&quot;http://web.media.mit.edu/%7Ekbrennan/files/Brennan_Resnick_AERA2012_CT.pdf&quot;&gt;&lt;span class=&quot;s2&quot;&gt;Brennan and Resinick’s work&lt;/span&gt;&lt;/a&gt; in which computational thinking is explored as concepts, practices and perspectives, Computing At School’s &lt;a href=&quot;http://barefootcas.org.uk/&quot;&gt;&lt;span class=&quot;s2&quot;&gt;‘Barefoot Computing’&lt;/span&gt;&lt;/a&gt; continuing professional development programme for primary teachers identified six concepts and five approaches for computational thinking (qv Computing At School’s &lt;a href=&quot;http://primary.quickstartcomputing.org/resources/pdf/qs_handbook.pdf&quot;&gt;&lt;span class=&quot;s2&quot;&gt;QuickStart Computing handbook&lt;/span&gt;&lt;/a&gt;). The concepts provide a unified approach to problem solving in both mathematics and computing, with a number of the example activities produced for Barefoot Computing linking these to topics in the English mathematics curriculum.&lt;/span&gt;
 &lt;/p&gt;
 
-&lt;div style=&quot;width: 1201px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/&quot;&gt;&lt;img src=&quot;http://barefootcas.org.uk/wp-content/uploads/2014/06/Barefoot-CT-Poster-for-website.jpg&quot; alt=&quot;&quot; width=&quot;1191&quot; height=&quot;842&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    The computational thinker
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://barefootcas.org.uk/wp-content/uploads/2014/06/Barefoot-CT-Poster-for-website.jpg&quot; /&gt;
+&lt;figcaption&gt;The computational thinker&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;ul class=&quot;ul1&quot;&gt;
   &lt;li class=&quot;li4&quot;&gt;
@@ -475,7 +472,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li class=&quot;li4&quot;&gt;
     &lt;strong&gt;&lt;span class=&quot;s1&quot;&gt;Algorithms&lt;/span&gt;&lt;/strong&gt; &lt;ul class=&quot;ul2&quot;&gt;
       &lt;li class=&quot;li4&quot;&gt;
@@ -486,7 +483,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li class=&quot;li4&quot;&gt;
     &lt;strong&gt;&lt;span class=&quot;s1&quot;&gt;Decomposition&lt;/span&gt;&lt;/strong&gt; &lt;ul class=&quot;ul2&quot;&gt;
       &lt;li class=&quot;li4&quot;&gt;
@@ -497,7 +494,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li class=&quot;li4&quot;&gt;
     &lt;strong&gt;&lt;span class=&quot;s1&quot;&gt;Patterns and generalisation&lt;/span&gt;&lt;/strong&gt; &lt;ul class=&quot;ul2&quot;&gt;
       &lt;li class=&quot;li4&quot;&gt;
@@ -508,7 +505,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li class=&quot;li4&quot;&gt;
     &lt;strong&gt;&lt;span class=&quot;s1&quot;&gt;Abstraction&lt;/span&gt;&lt;/strong&gt; &lt;ul&gt;
       &lt;li class=&quot;li4&quot;&gt;
@@ -519,7 +516,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li class=&quot;li4&quot;&gt;
     &lt;strong&gt;&lt;span class=&quot;s1&quot;&gt;Evaluation&lt;/span&gt;&lt;/strong&gt; &lt;ul&gt;
       &lt;li class=&quot;li4&quot;&gt;
@@ -567,6 +564,7 @@
 &lt;p class=&quot;p2&quot;&gt;
   &lt;em&gt;Our sides are below:&lt;/em&gt;
 &lt;/p&gt;
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/1DgsXcriFW4z1n3BcVl9pmu-Ncc-AoIrMy7G6MdPZX8A/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
   &lt;p&gt;&lt;a href=&quot;/2016/11/computational-thinking-and-mathematical-reasoning/&quot;&gt;Computational thinking and mathematical reasoning&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on November 27, 2016.&lt;/p&gt;</content>
 </entry>
