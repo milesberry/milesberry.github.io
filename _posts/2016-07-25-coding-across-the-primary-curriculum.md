@@ -32,7 +32,6 @@ The relationship between maths and programming goes back to Alan Turing and the 
 </figure>
 
 
-
 In maths, we make use of algorithms (sequences of steps and sets of rules) all the time. We’ll teach pupils algorithms for checking if a number is prime, for finding common factors or for doing arithmetic with fractions. With a few coding skills, pupils could put their knowledge of these to the test by writing their own programs to implement these rules, trying them out with much bigger numbers than the exercises we set, and perhaps even finding faster algorithms for the same problem.
 
 ## Music
@@ -81,25 +80,25 @@ The most exciting work in physical computing, at school and beyond, is happening
 
 Turtle graphics in Scratch, Logo or Python needn’t be restricted to maths &#8211; there’s ample scope to use this as a medium for pupils creative work in art too. QCA’s [old scheme of work for ICT](http://webarchive.nationalarchives.gov.uk/content/20090608182316/http://standards.dfes.gov.uk/schemes2/it/itx4b/?view=get) had a lovely unit on crystal flowers, there’s plenty of scope to explore tessellating patterns and Islamic art has a rich history of beautiful, geometric art to provide inspiration here. There’s also scope for exploring more natural patterns, experimenting with simple code to create recursive fractals for trees, fern leaves, broccoli or coastlines.
 
-<div id="attachment_1402" style="width: 310px" class="wp-caption aligncenter">
-  <img class="wp-image-1402 size-medium" src="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png" alt="Fractal broccoli in Scratch" width="300" height="281" srcset="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42.png 798w" sizes="(max-width: 300px) 100vw, 300px" />
+<figure>
+<img src="/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png">
+<figcaption>Fractal broccoli in Scratch
+</figcaption>
+</figure>
 
-  <p class="wp-caption-text">
-    Fractal broccoli in Scratch
-  </p>
-</div>
+
 
 ## Foreign languages
 
 Scratch has excellent support for working in foreign languages &#8211; the familiar English of the programming blocks can be replaced with keywords from many other languages, even including Latin. This is great for pupils learning English as an additional language, but is also a nice way to build up pupils’ familiarity with a foreign language. Scratch is great for producing short, scripted animations, with on-screen and recorded dialogue or narration: why not have pupils program animations for a language they’re learning, or even a simple chatbot?
 
-<div id="attachment_1403" style="width: 310px" class="wp-caption aligncenter">
-  <img class="wp-image-1403 size-medium" src="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png" alt="Coding is the new Latin!" width="300" height="290" srcset="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48.png 756w" sizes="(max-width: 300px) 100vw, 300px" />
+<figure>
+<img src="/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png">
+<figcaption>Coding is the new Latin!
+</figcaption>
+</figure>
 
-  <p class="wp-caption-text">
-    Coding is the new Latin!
-  </p>
-</div>
+
 
 You can also program Scratch (or Python) to generate semi-random, but grammatically correct sentences, using the computer science idea of a finite state machine. Playing with this gives some insights into the structure of a language: you could do this for English, but also for any other language that pupils are learning.
 
