@@ -34,13 +34,13 @@ image:
   So, what sort of infrastructure, hardware and software might a school need to do justice to the new curriculum requirements?
 </p>
 
-### Connectivity is king {.normal}
+### Connectivity is king 
 
 <p>
   The new curriculum broadens the scope for computing beyond the traditional Windows desktop computer of old, with an expectation that pupils in KS1 will be taught to ‘recognise common uses of information technology beyond school’, such as digital cameras, smartphones and tablets, and that at KS2 pupils should ‘select, use and combine a variety of software (including internet services) on a range of digital devices’, as well as learning about ‘computer networks, including the internet’. To do this well, and to best support learning and teaching with technology across the curriculum, a first class internet connection seems essential &#8211; ideally one in which the school can take responsibility for decisions over what sites are and are not permitted. With the potential of iPads, Android tablets and <a href="http://www.google.co.uk/intl/en_uk/chrome/devices/">Chromebooks</a> to provide 1:1 access to the web, robust wifi provision would also be high up my shopping list, and not <i>just</i> for the computing curriculum.
 </p>
 
-### Hardware {.normal}
+### Hardware 
 
 <p>
   There’s nothing in the KS1 programming expectations that requires pupils to use technology more advanced than <a href="http://www.tts-group.co.uk/shops/tts/Products/PD1723538/Bee-Bot-Floor-Robot/">Bee Bots</a> or <a href="http://www.valiant-technology.com/us/pages/roamertoohome.php">Roamer Toos</a>: floor turtles such as these provide a great way in to programming for younger children, as Ofsted acknowledged in <a href="http://www.ofsted.gov.uk/resources/ict-schools-2008-11">their 2011 report on ICT</a>. In KS2, the computing programme of study leaves open the option of either controlling or simulating physical systems, although <a href="https://www.gov.uk/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study/national-curriculum-in-england-design-and-technology-programmes-of-study">the D&T curriculum</a> includes the expectation that pupils ‘apply their understanding of computing to program, monitor and control their products’, so some control technology here would be great, and this is a very motivating context for programming for many. <a href="http://education.lego.com/en-gb/preschool-and-school/lower-primary/7plus-education-wedo">Lego’s Wedo kit</a>, whilst not cheap, is very good and interfaces directly with Scratch for programming (see below). The more geeky could have <i>much </i> fun with <a href="http://arduino.cc/">Arduino</a>, although even I might be reluctant to try this with a class of thirty…
