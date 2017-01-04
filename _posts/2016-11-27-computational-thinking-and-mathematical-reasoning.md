@@ -45,13 +45,12 @@ categories:
   <span class="s4"><a href="https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBM_brochure.pdf">Wolfram</a></span><span class="s1"> argues convincingly that this is what mathematics education should now focus on, given that actual computation is now done by machines, and suggests his own four-stage helix for problem solving: define questions, translate to maths, computer answers and interpret. There are parallels here with the development process in software engineering: specification, design, implementation and testing.</span>
 </p>
 
-<div style="width: 350px" class="wp-caption aligncenter">
-  <a href="https://www.computerbasedmath.org/case-for-computer-based-math-education.php"><img src="https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBMManMovie.gif" alt="" width="340" height="386" /></a>
 
-  <p class="wp-caption-text">
-    Computer Based Math
-  </p>
-</div>
+<figure>
+<img src="https://www.computerbasedmath.org/assets/img/case-for-computer-based-math-education/CBMManMovie.gif">
+<figcaption>Computer Based Math</figcaption>
+</figure>
+
 
 <p class="p2">
   <span class="s1">It would be wrong to think of school mathematics as being confined to manual computation. Problem solving and mathematical reasoning is an essential part of mathematics education. For example, the <a href="https://www.gov.uk/government/collections/national-curriculum"><span class="s2">English National Curriculum</span></a> aims to ensure that all pupils:</span>
@@ -89,13 +88,14 @@ categories:
   <span class="s1">Building on <a href="http://web.media.mit.edu/%7Ekbrennan/files/Brennan_Resnick_AERA2012_CT.pdf"><span class="s2">Brennan and Resinick’s work</span></a> in which computational thinking is explored as concepts, practices and perspectives, Computing At School’s <a href="http://barefootcas.org.uk/"><span class="s2">‘Barefoot Computing’</span></a> continuing professional development programme for primary teachers identified six concepts and five approaches for computational thinking (qv Computing At School’s <a href="http://primary.quickstartcomputing.org/resources/pdf/qs_handbook.pdf"><span class="s2">QuickStart Computing handbook</span></a>). The concepts provide a unified approach to problem solving in both mathematics and computing, with a number of the example activities produced for Barefoot Computing linking these to topics in the English mathematics curriculum.</span>
 </p>
 
-<div style="width: 1201px" class="wp-caption aligncenter">
-  <a href="http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/"><img src="http://barefootcas.org.uk/wp-content/uploads/2014/06/Barefoot-CT-Poster-for-website.jpg" alt="" width="1191" height="842" /></a>
 
-  <p class="wp-caption-text">
-    The computational thinker
-  </p>
-</div>
+
+<figure>
+<img src="http://barefootcas.org.uk/wp-content/uploads/2014/06/Barefoot-CT-Poster-for-website.jpg">
+<figcaption>The computational thinker</figcaption>
+</figure>
+
+
 
 <ul class="ul1">
   <li class="li4">
@@ -196,3 +196,4 @@ categories:
 <p class="p2">
   <em>Our sides are below:</em>
 </p>
+<iframe src="https://docs.google.com/presentation/d/1DgsXcriFW4z1n3BcVl9pmu-Ncc-AoIrMy7G6MdPZX8A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
