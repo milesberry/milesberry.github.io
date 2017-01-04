@@ -25,13 +25,13 @@ I think we can go further than this though. As pupils have been getting better a
 
 The relationship between maths and programming goes back to Alan Turing and the the foundations of computer science. Simple turtle graphics are a great way to help pupils get a far more visceral feel for geometry, as they put themselves in the place of the turtle. Pupils quickly learn for themselves that exterior angles sum to 360˚. Writing programs where sprites move around the screen in Scratch similarly makes coordinates and negative numbers seem more real and more useful.
 
-<div id="attachment_1401" style="width: 312px" class="wp-caption aligncenter">
-  <img class="wp-image-1401 size-full" src="http://milesberry.net/wp-content/uploads/2016/07/download.png" alt="Euclid's Algorithm" width="302" height="220" srcset="http://milesberry.net/wp-content/uploads/2016/07/download.png 302w, http://milesberry.net/wp-content/uploads/2016/07/download-300x218.png 300w" sizes="(max-width: 302px) 100vw, 302px" />
+<figure>
+<img src="http://milesberry.net/wp-content/uploads/2016/07/download.png">
+<figcaption>Snap! code for finding highest common factors using Euclid&#8217;s algorithm
+</figcaption>
+</figure>
 
-  <p class="wp-caption-text">
-    Snap! code for finding highest common factors using Euclid&#8217;s algorithm
-  </p>
-</div>
+
 
 In maths, we make use of algorithms (sequences of steps and sets of rules) all the time. We’ll teach pupils algorithms for checking if a number is prime, for finding common factors or for doing arithmetic with fractions. With a few coding skills, pupils could put their knowledge of these to the test by writing their own programs to implement these rules, trying them out with much bigger numbers than the exercises we set, and perhaps even finding faster algorithms for the same problem.
 
