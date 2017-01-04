@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1317
 permalink: /2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/
 categories:
   - Uncategorized
+image:
+    feature: 151203.jpg
 ---
 <p style="padding-left: 30px;">
   <em>I found myself invited to <a href="http://www.online-educa.com/">Online Educa Berlin</a> to speak with <a href="https://twitter.com/allanpall">Allan Päll</a> <strong>against</strong> the above motion. Which we defeated! Here&#8217;s what I said.</em>

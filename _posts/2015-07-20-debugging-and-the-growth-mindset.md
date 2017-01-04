@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1298
 permalink: /2015/07/debugging-and-the-growth-mindset/
 categories:
   - CS
+image:
+    feature: 150719.jpg
 ---
 How good are your pupils at rising to a challenge? When they encounter something difficult, do they show grit in persevering, or do they give up easily? Given a choice, would they choose to tackle easier or harder work? How do they cope when they fail?
 

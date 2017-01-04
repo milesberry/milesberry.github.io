@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1305
 permalink: /2015/10/coding-and-digital-skills/
 categories:
   - Uncategorized
+image:
+    feature: 151014.jpg
 ---
 <p style="padding-left: 30px;">
   <em>Remarks for <a href="http://www.ecdl.org/eskillsatschoolevent">eSkills at Schools event</a>, European Parliament, Brussels</em>

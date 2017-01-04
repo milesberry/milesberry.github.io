@@ -8,34 +8,36 @@ guid: http://milesberry.net/?p=1308
 permalink: /2015/09/that-oecd-computers-in-schools-report/
 categories:
   - Uncategorized
+image:
+    feature: 150922.jpg
 ---
-<div class="gmail_default" style="color: #073763;">
+
   <p>
-    There was much media fuss on Tuesday this week around the publication of the <a style="color: #1155cc;" href="http://www.oecd-ilibrary.org/education/students-computers-and-learning_9789264239555-en" target="_blank"><span class="il">OECD</span>’s report, Students, Computers and Learning: Making the Connection</a>. As with many such stories, the headlines don’t entirely reflect the nuance of the report or the broader context. The BBC’s headline, <a style="color: #1155cc;" href="http://www.bbc.co.uk/news/business-34174796" target="_blank">“Computers ‘do not improve’ pupil results, says <span class="il">OECD</span>”</a> certainly captured some attention, and, strictly speaking, they’re right &#8211; computers don’t improve pupils’ results, it’s only pupils who can do that.
+    There was much media fuss on Tuesday this week around the publication of the <a  href="http://www.oecd-ilibrary.org/education/students-computers-and-learning_9789264239555-en" target="_blank"><span class="il">OECD</span>’s report, Students, Computers and Learning: Making the Connection</a>. As with many such stories, the headlines don’t entirely reflect the nuance of the report or the broader context. The BBC’s headline, <a  href="http://www.bbc.co.uk/news/business-34174796" target="_blank">“Computers ‘do not improve’ pupil results, says <span class="il">OECD</span>”</a> certainly captured some attention, and, strictly speaking, they’re right &#8211; computers don’t improve pupils’ results, it’s only pupils who can do that.
   </p>
-  
+
   <p>
     But <i>how</i> might a pupil go about improving her results? Having an outstanding teacher helps, as would going to a good school, as would living in a country with a great education system. But motivation and self-discipline are going to be part of the picture too: pupils who do well are, by and large, interested in learning things and willing to stick at things when they get difficult. Another thing that might be quite useful is access to knowledge. Textbooks and libraries are good for this, although both are inevitably limited, and both, by the way, are technological artefacts. Computers can help too, particularly if through these the pupil has access to the web: for the motivated and self-disciplined pupil, the web offers (almost) unlimited potential for the pursuit of any academic endeavour. Indeed, <i>even without an outstanding teacher, a good school and a great education system</i>, the motivated, self-disciplined and connected pupil could still do much to improve her results. Can the<span class="il">OECD</span> really be arguing that computers don&#8217;t help? Well, no. The <span class="il">OECD</span>’s argument is much more about the way computers are being used <i>in</i> schools, rather than by young people themselves. The <span class="il">OECD</span>’s Andreas Schleicher puts it really very well:
   </p>
-</div>
 
-<blockquote style="color: #222222;">
-  <div class="gmail_default" style="color: #073763;">
+
+<blockquote >
+
     <p>
       <i>“School systems need to find more effective ways to integrate technology into teaching and learning to provide educators with learning environments that support 21st century pedagogies and provide children with the 21st century skills they need to succeed in tomorrow’s world. Technology is the only way to dramatically expand access to knowledge. To deliver on the promises technology holds, countries need to invest more effectively and ensure that teachers are at the forefront of designing and implementing this change”</i>
     </p>
-  </div>
+
 </blockquote>
 
-<div class="gmail_default" style="color: #073763;">
+
   <p>
     I think he’s pretty much right.
   </p>
-  
+
   <p>
     That said, I do have some concerns about <span class="il">OECD</span>’s research here.
   </p>
-  
+
   <ul>
     <li>
       As is often the case in education, there’s the danger that that which we measure becomes that which we value. Whilst Andreas Schleicher speaks eloquently of ‘21st century skills’, but it’s not obvious how PISA’s tests measure these, whatever they may be. Of course mathematics and literacy <i>matter</i>, but so do being able to find things quickly and with a degree of discernment on Google, being able to collaborate on a project, being able to teach yourself something new, etc. So does the courage to stand up for what you know to be right. I don&#8217;t think these things come up very often in PISA questions.
@@ -50,64 +52,53 @@ categories:
       From what I hear, there’s some great practice going on with technology in schools in some of the countries not included in the <span class="il">OECD</span> study: places such as Canada, the USA, the UK…
     </li>
   </ul>
-  
+
   <p>
     That said, there’s much that we can learn from the report as it stands, and I&#8217;d like to make a few observations:
   </p>
-  
-  <p>
-    <b>1 Not everything works well</b>
-  </p>
-  
+
+  <h3> 1 Not everything works well </h3>
+
   <p>
     As the report observes, ‘ICT is linked to better student performance only in certain contexts, such as when computer software and Internet connections help to increase study time and practice.’ It’s clear that education systems that invest heavily in ICT don’t perform appreciably better in PISA tests. An awful lot of money still gets spent on overpriced hardware and software, with little attention paid to evaluating the impact of such investments with anything approach rigour (tablets, whiteboards, anyone?). Whilst not without its problems, schools could save much by allowing pupils to bring and use their own devices, which they are already moderately skilled at using. Similarly there’s little need to pay for software when we’ve got great open source software and free online tools (Google Apps for Education, Scratch…).
   </p>
-  
-  <p>
-    <b>2 Use technology to support strategies we know work</b>
-  </p>
-  
+
+  <h3> 2 Use technology to support strategies we know work </h3>
+
   <p>
     According to the report, “In the end, technology can amplify great teaching, but great technology cannot replace poor teaching.” For pupils who, through no fault of their own, have to put up with poor teaching, technology (books, libraries, the web) may be the only help they can get, but yes, using technology well in school is about using it to promote those practices which we know to be effective. As John Hattie argues in Visible Learning, “The biggest effects on student learning occur when … students become their own teachers.” Textbooks, libraries and web make this possible. The Education Endowment Foundation’s Toolkit lists feedback, meta-cognition, peer tutoring and collaborative learning as four of the most effective things a school can do to raise outcomes &#8211; none of these <i>need</i> computers, but it’s not hard to see how computers can be used very effectively to support these strategies. Interstingly, the EEF rate ‘digital technology’ as a moderately effective intervention (with an effect size of four months progress). EEF observe ‘technology should be used to supplement other teaching, rather than replace more traditional approaches,’ whereas the <span class="il">OECD</span> report indicates ‘technology can support new pedagogies that focus on learners as active participants with tools for inquiry-based pedagogies and collaborative workspaces.’ Perhaps we need both?
   </p>
-  
-  <p>
-    <b>3 Digital skills do matter</b>
-  </p>
-  
+
+  <h3> 3 Digital skills do matter </h3>
+
   <p>
     The report reveals a high correlation between ‘digital reading’ scores and both ‘print reading’ and paper-based mathematics scores. This isn’t surprising, and the report acknowledges the importance of digital skills alongside literacy
   </p>
-  
+
   <p>
     <i>“Students who have not acquired basic skills in reading, writing and navigating through a digital landscape will find themselves unable to participate fully in the economic, social and cultural life around them.”</i>
   </p>
-  
+
   <p>
     Interestingly, Korea and Singapore (countries it’s been my priviledge to visit this last year) scored top on ‘digital reading’, even though they report relatively infrequent use of ICT in school to <span class="il">OECD</span>. However, both countries “have excellent broadband infrastructure, and their 15-year-old students use computers with ease in their daily lives.” I don’t think we can simply assume that all pupils will pick up these digital skills for themselves: they ought really to be taught and practised &#8211; the former, I’d say in computing (née ICT) lessons, the latter across and beyond the curriculum. In Switched on Computing, the BETT and ERA award winning scheme of work I developed for Rising Stars, we try to provide plenty of opportunity for both, recognising that there’s much more to ‘computing’ than coding, and looking for ways in which digital skills can be applied in authentic, meaningful context across the curriculum.
   </p>
-  
-  <p>
-    <b>4 The digital divide isn&#8217;t what it was, but it&#8217;s still an issue</b>
-  </p>
-  
+
+  <h3> 4 The digital divide isn&#8217;t what it was, but it&#8217;s still an issue  </h3>
+
   <p>
     The report has an interesting take on digital divide: the gap in access to computers (and, crucially, the internet) between advantages and disadvantaged students seems to be narrowing, which is good. The UK scores highly in these tables, so well done us. However, there does seem to be a difference around the way computers are used: ‘what students do with computers, from using e-mail to reading news on the Internet, is related to students’ socio-economic background.’ To me this makes an even stronger case for ensuring better, more equitable education in digital skills at school, opening up the horizons of pupils from less advantaged backgrounds: an essential part of what an entitlement to a broad and balanced computing curriculum should include.
   </p>
-  
-  <p>
-    <b>5 Trust teachers</b>
-  </p>
-  
+
+  <h3> 5 Trust teachers </h3>
+
   <p>
     I love the bit in the report about teacher agency in relation to technology: “It is vital that teachers become active agents for change, not just in implementing technological innovations, but in designing them too.” For me, some of the best ‘ed tech’ has been that where educators have been directly involved in developing products and projects: foe example: Moodle, Scratch, the 100 Word Challenge and the Raspberry Pi. I’m hopeful that, as more teachers in England become confident in teaching computing, we’ll see more putting their skills to good use through developing software themselves, or at lease more willing to get involved in the processes of software development.
   </p>
-  
+
   <p>
     Finally, I suspect that working out whether or not computers help with education may well be determined as much by our understanding of what education is for as it is by the technologies we use. If education is about passing exams, which haven’t changed <i>that</i> much since the 19th century, then perhaps computers and the web may have only a small part to play. If, on the other hand, it’s more about preparing pupils for the ‘opportunities, responsibilities and experiences of later life’, then I think the relevance and potential contribution of digital technology is so much greater, and we are obliged to use this as well as we possibly can in our teaching.
   </p>
-  
+
   <p style="padding-left: 30px;">
     <em>Originally published by Education Technology as <a href="http://edtechnology.co.uk/Article/what-the-oecd-report-really-means">What the OECD Report Really Means</a>. © all rights reserved.</em>
   </p>
-</div>

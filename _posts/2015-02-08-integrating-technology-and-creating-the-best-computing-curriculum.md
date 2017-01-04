@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1259
 permalink: /2015/02/integrating-technology-and-creating-the-best-computing-curriculum/
 categories:
   - Uncategorized
+image:
+    feature: 150208.jpg
 ---
 <p style="padding-left: 30px;">
   <em>Opening remarks on the above for <a href="http://www.bettshow.com/Seminar/Speed-Learning-Integrating-technology-and-creating-the-best-computer-science-Curriculum">a BETT Futures panel</a>.</em>

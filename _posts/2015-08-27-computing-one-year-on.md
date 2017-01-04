@@ -8,12 +8,14 @@ guid: http://milesberry.net/?p=1310
 permalink: /2015/08/computing-one-year-on/
 categories:
   - Uncategorized
+image:
+    feature: 150827.jpg
 ---
 <p style="padding-left: 30px;">
   <em>Responses to questions for a round table, reviewing the first year of the English computing curriculum for Education Technology</em>
 </p>
 
-_It’s been almost one year since the computing curriculum was introduced in primary and secondary schools. Have the past 12 months gone as expected? Were there any challenges you didn&#8217;t envisage?_ 
+_It’s been almost one year since the computing curriculum was introduced in primary and secondary schools. Have the past 12 months gone as expected? Were there any challenges you didn&#8217;t envisage?_
 
 In primary, the response has exceeded the expectations of many of us, with primary teachers up and down the country doing great work to get children coding with Scratch and other platforms, develop their understanding of the internet and provide the foundations of computational thinking, due in part to the successes of schemes such as Switched on Computing, Barefoot Computing and QuickStart. The picture in secondary schools is more mixed, I think, with many doing outstanding work and others struggling to recruit or retrain the staff needed to teach this unashamedly ambitious curriculum.
 
@@ -38,5 +40,5 @@ The new curriculum is more focussed on developing understanding than it is in 
 _6.)_   _From what we’ve seen over the past 12 months, what changes can we make going into the next academic year to ensure students get the most out of the new curriculum? What could we be doing better?_
 
 Firstly, making sure that every school is teaching computing as part of a broad, balanced curriculum, and that qualifications such as GCSE computing are offered in every school to every student who&#8217;d like to pursue them. I&#8217;d also like to see that schools teach the whole of the computing curriculum &#8211; there&#8217;s much more to computer science than &#8216;coding&#8217;, and there&#8217;s much more to computing than just the computer science bits. Whilst I welcome the renewed focus on the foundations, it&#8217;s also important that pupils can apply technology to solving problems, and consider critically the implications of technology for themselves and others.
-  
+
 _© all rights reserved_

@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1262
 permalink: /2015/02/teaching-computing/
 categories:
   - CS
+image:
+    feature: 150208-2.jpg
 ---
 The new computing programmes of study are in place and initiatives such <a href="http://www.computingatschool.org.uk/index.php?id=noe" target="_blank">Computing At School’s Network of Excellence</a>, <a href="http://barefootcas.org.uk/" target="_blank">Barefoot Computing</a> and <a href="http://www.codeclubpro.org/" target="_blank">Code Club Pro</a> have been working hard to equip primary computing teachers with the subject knowledge they need to teach these with confidence. Now seems like a good time to turn our attention from _what_ to teach to the question of _how_ to teach.
 

@@ -9,6 +9,8 @@ permalink: /2015/02/from-data-to-wisdom/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 150222.jpg
 ---
 <p style="padding-left: 30px;">
   <em>The text of my presentation at the Mirandanet / IFIP / IBO / ITTE policy thinktank on &#8216;Towards tomorrow&#8217;s successful digital citizens&#8217;, at London Knowledge Lab, 24 February 2015.</em>
@@ -16,7 +18,10 @@ categories:
 
 I’d like to spend my five minutes or so doing some mountain climbing with you.
 
-<img class="alignnone" src="https://i0.wp.com/farm2.staticflickr.com/1389/5159435186_2427321d2f.jpg" alt="" width="500" height="374" />
+<figure>
+<img src="https://i0.wp.com/farm2.staticflickr.com/1389/5159435186_2427321d2f.jpg">
+<figcaption>David McCandless</figcaption>
+</figure>
 
 [David McCandless](http://www.informationisbeautiful.net/) does some beautiful information visualisations &#8211; I’d highly recommend his ‘[Information is Beautiful](http://www.amazon.co.uk/Information-Beautiful-David-McCandless/dp/0007294662)’ for your coffee tables. This is by him, and it nicely sums up something of the relationship between data, information, knowledge and wisdom. It’s tempting to equate this with the three-fold view of computing that we have in the new computing curriculum thanks, in part at least, to [the Royal Society report](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-computing-in-schools.pdf), linking computer science with the foundational data, recognising the applications of IT in the information and knowledge layers and, on a good day, hoping that a more inclusive definition of ‘digital literacy’ might encompass at least some elements of wisdom. As Ben Goldacre would have it: [I think you’ll find it’s a bit more complicated than that](http://www.amazon.co.uk/Think-Youll-Find-More-Complicated/dp/0007462484). The definitions of and boundaries between CS, IT and DL are by no means universally agreed or fixed, although I do think foundations / applications / implications model is a helpful one for curriculum design and development. More importantly than mere semantics though, there’s a sense in which ‘computational thinking’, our new buzz phrase, gives insights into the big picture here: recognising in part that information represents the patterns in the data, and knowledge is, again in part, a generalisation of information. For [Jeanette Wing](http://www.cs.cmu.edu/~wing/publications/Wing08a.pdf), oft credited with coining the term computational thinking (although it goes back to [Papert](http://www.papert.org/articles/AnExplorationintheSpaceofMathematicsEducations.html)…), abstraction lies at the heart of computational thinking, and abstraction is about managing complexity &#8211; as we climb the mountain here, we engage in abstraction, setting to one side the detail of the data in information, and the detail of information in knowledge.
 

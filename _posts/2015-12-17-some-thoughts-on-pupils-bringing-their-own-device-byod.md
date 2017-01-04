@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1322
 permalink: /2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/
 categories:
   - Ed Tech
+image:
+    feature: 151211.jpg
 ---
 This is prompted in part by the [TES](https://www.tes.com/news/school-news/breaking-news/ofsted-warns-against-extremely-disruptive-tablets-school) citing [some data](http://www.slideshare.net/Ofstednews/childinternetsafetysummitonlinesafetyinspection) from HMI David Brown which appeared to show that 30% of secondary pupils questioned by inspectors in Section 5 inspections last March said they were able to use their own device (eg laptop or tablet) at their school. I was pleasantly surprised his figures were as high as this. To spoil my fun, the TES included a somewhat reactionary quote from an Ofsted spokesperson:
 
@@ -21,7 +23,7 @@ Which was somewhat reassuring, as was [Mike Cameron’s analysis of inspection r
 
 Subsequently, [it emerged](https://cogitateit.wordpress.com/2015/12/16/disruptive-technology-part-2/) that Ofsted’s spokesperson had, er, misunderstood the TES’s enquiry, and affirmed that actually technology, even pupils _own_ technology wasn’t intrinsically bad if it was used for learning:
 
-> &#8220;Ofsted is clear that technology can of course have a positive impact on a pupil’s learning experience (as noted in many of our reports) and we are not against the use of tablets, laptops or other devices in school when part of planned lessons.&#8221;
+> Ofsted is clear that technology can of course have a positive impact on a pupil’s learning experience (as noted in many of our reports) and we are not against the use of tablets, laptops or other devices in school when part of planned lessons.
 
 The debate though about the appropriateness of students using their own technology in school goes on. One of the reasons why, in England at least,  there’s so much disagreement over young people’s use of smartphones, tablets and laptops in school, whether they’re their own or the institution’s, is that autonomous access to technology such as this  goes to the heart of what education and schooling should be for.
 
