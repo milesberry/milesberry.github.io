@@ -6,13 +6,12 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=535
 ---
-<div id="attachment_788" style="width: 247px" class="wp-caption alignleft">
-  <img class="size-medium wp-image-788" title="Miles Berry" src="/wp-content/uploads/2009/09/mgb12-237x300.jpg" alt="" width="237" height="300" srcset="/wp-content/uploads/2009/09/mgb12-237x300.jpg 237w, /wp-content/uploads/2009/09/mgb12-810x1024.jpg 810w" sizes="(max-width: 237px) 100vw, 237px" />
+<figure>
+<a href="/wp-content/uploads/2009/09/mgb12-810x1024.jpg"><img src="/wp-content/uploads/2009/09/mgb12-237x300.jpg"></a>
+<figcaption>Miles Berry</figcaption>
+</figure>
 
-  <p class="wp-caption-text">
-    Miles Berry
-  </p>
-</div>
+
 
 I&#8217;m a principal lecturer and the subject leader for Computing Education at the [University of Roehampton](http://roehampton.ac.uk). I teach initial teacher training courses as part of the [undergraduate](http://www.roehampton.ac.uk/undergraduate-courses/primary-education/index.html) and [postgraduate](http://www.roehampton.ac.uk/Templates/Pages/Course.aspx?id=2147486445&terms=pgce) programmes, as well as tutoring [masters](http://www.roehampton.ac.uk/postgraduate-courses/education/index.html) students. I ran a combined blogging / e-portfolio platform for ITT students, and acted as technical lead for the [Creative Connections](http://creativeconnexions.eu) EU Comenius project. My principal research focus is on pedagogies for computing education. Other professional interests include knowledge management in education, use of open source software and principles in schools, independent learning and online communities in professional learning.
 

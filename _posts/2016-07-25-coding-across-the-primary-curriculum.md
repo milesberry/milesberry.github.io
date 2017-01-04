@@ -27,7 +27,7 @@ The relationship between maths and programming goes back to Alan Turing and the 
 
 <div id="attachment_1401" style="width: 312px" class="wp-caption aligncenter">
   <img class="wp-image-1401 size-full" src="http://milesberry.net/wp-content/uploads/2016/07/download.png" alt="Euclid's Algorithm" width="302" height="220" srcset="http://milesberry.net/wp-content/uploads/2016/07/download.png 302w, http://milesberry.net/wp-content/uploads/2016/07/download-300x218.png 300w" sizes="(max-width: 302px) 100vw, 302px" />
-  
+
   <p class="wp-caption-text">
     Snap! code for finding highest common factors using Euclid&#8217;s algorithm
   </p>
@@ -41,7 +41,9 @@ Scratch has music making tools built in &#8211; it’s easy enough to record and
 
 Beyond Scratch, [Sonic Pi](http://sonic-pi.net/) and [EarSketch](https://earsketch.gatech.edu/landing/) take the text-based, grown-up programming languages Ruby and Python and make them directly applicable to musical composition. They’re certainly accessible to upper primary pupils, but go way beyond that level. There’s some amazing work going on at the moment at the intersection between music and computer science.
 
-<pre>use_bpm 90
+
+```ruby
+use_bpm 90
 use_synth :pretty_bell
 
 define :sequence1 do
@@ -59,9 +61,11 @@ play_pattern_timed [:d,:e,:f,:e,:c], [0.5,0.25,0.25,0.5,0.5]
 play_pattern_timed [:d,:e,:f,:e,:d], [0.5,0.25,0.25,0.5,0.5]
 play_pattern_timed [:c,:d,:g3], [0.5,0.25,1]
 sequence1
-play_pattern_timed [:d,:c,:c], [0.75,0.25,1]</pre>
+play_pattern_timed [:d,:c,:c], [0.75,0.25,1]
+```
 
-_Sonic Pi code to play the melody from Beethoven&#8217;s Ode to Joy._
+
+
 
 ## D&T
 
@@ -79,7 +83,7 @@ Turtle graphics in Scratch, Logo or Python needn’t be restricted to maths &#82
 
 <div id="attachment_1402" style="width: 310px" class="wp-caption aligncenter">
   <img class="wp-image-1402 size-medium" src="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png" alt="Fractal broccoli in Scratch" width="300" height="281" srcset="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42-300x281.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-18.39.42.png 798w" sizes="(max-width: 300px) 100vw, 300px" />
-  
+
   <p class="wp-caption-text">
     Fractal broccoli in Scratch
   </p>
@@ -91,7 +95,7 @@ Scratch has excellent support for working in foreign languages &#8211; the famil
 
 <div id="attachment_1403" style="width: 310px" class="wp-caption aligncenter">
   <img class="wp-image-1403 size-medium" src="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png" alt="Coding is the new Latin!" width="300" height="290" srcset="http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48-300x290.png 300w, http://milesberry.net/wp-content/uploads/2016/07/Screen-Shot-2016-05-14-at-20.48.48.png 756w" sizes="(max-width: 300px) 100vw, 300px" />
-  
+
   <p class="wp-caption-text">
     Coding is the new Latin!
   </p>
@@ -106,3 +110,5 @@ Looking for ways for pupils to use their IT skills across the curriculum, such a
 <p style="padding-left: 30px;">
   <em>Originally published in <a href="http://www.teachwire.net/" target="_blank">Teach Primary</a>, June 2016. © all rights reserved. I explored these ideas further, with reference to the secondary curriculum, in my plenary at #casconf16:</em>
 </p>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-JBgaR8sNcE" frameborder="0" allowfullscreen></iframe>

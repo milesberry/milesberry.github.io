@@ -494,6 +494,14 @@ header.site-header nav {
         @include br(4px);
     }
 
+    iframe {
+	max-width: 100%;
+	max-height: 100%;
+    display: block;
+    margin: $lh auto;
+    @include br(4px);
+    }
+
         table {
         margin-bottom: $lh;
         width: 100%;
