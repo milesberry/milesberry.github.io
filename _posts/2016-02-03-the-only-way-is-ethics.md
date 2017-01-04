@@ -9,6 +9,8 @@ permalink: /2016/02/the-only-way-is-ethics/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 20160203@2x.jpg
 ---
 We need to pay more attention to ethics when we teach computing. You’d be forgiven for thinking computing in the national curriculum is all about coding. It’s not. There should be a balance between computer science, information technology and digital literacy, or the theoretical foundations, practical applications and societal implications of computing.
 

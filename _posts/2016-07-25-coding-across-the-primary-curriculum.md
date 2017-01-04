@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1400
 permalink: /2016/07/coding-across-the-primary-curriculum/
 categories:
   - Uncategorized
+image:
+      feature: 160725.jpg
 ---
 Quite recently, we thought the future of ICT education would be one in which technology was embedded seamlessly throughout all aspects of teaching and learning, and that all a child could possibly need to learn about IT could be taught within the context of other subject areas. The seamless embedding of technology throughout the life of a school remains a dream for many, but schools at the cutting edge have already achieved much with 1:1 devices, robust wifi, great training and a vision for how technology can transform education.
 

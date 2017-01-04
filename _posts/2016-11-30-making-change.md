@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1449
 permalink: /2016/11/making-change/
 categories:
   - Uncategorized
+image:
+    feature: 161129.jpg
 ---
 It’s a seemingly easy problem: how to make a certain amount of money using the smallest number of coins possible. For example, 42p needs three coins: a couple of twenty pence pieces and a 2p coin. It’s something that comes up on the maths national curriculum:
 
@@ -38,21 +40,21 @@ To program machines to do this, we first need to think of an algorithm &#8211; t
 A typical algorithm might be:
 
   * Start with the total amount, and no coins in the change.
-  * Repeat until amount left is less than £2: 
+  * Repeat until amount left is less than £2:
       * Subtract £2 from the amount; add £2 to the change.
-  * Repeat until amount left is less than £1: 
+  * Repeat until amount left is less than £1:
       * Subtract £1 from the amount; add £1 to the change.
-  * Repeat until amount left is less than 50p: 
+  * Repeat until amount left is less than 50p:
       * Subtract 50p from the amount; add 50p to the change.
-  * Repeat until amount left is less than 20p: 
+  * Repeat until amount left is less than 20p:
       * Subtract 20p from the amount; add 20p to the change.
-  * Repeat until amount left is less than 10p: 
+  * Repeat until amount left is less than 10p:
       * Subtract 10p from the amount; add 10p to the change.
-  * Repeat until amount left is less than 5p: 
+  * Repeat until amount left is less than 5p:
       * Subtract 5p from the amount; add 5p to the change.
-  * Repeat until amount left is less than 2p: 
+  * Repeat until amount left is less than 2p:
       * Subtract 2p from the amount; add 2p to the change.
-  * Repeat until amount left is less than 1p: 
+  * Repeat until amount left is less than 1p:
       * Subtract 1p from the amount; add 1p to the change.
 
 Point out a couple of things about this algorithm to your pupils. Firstly, that this is what we call a ‘greedy’ algorithm: at each step we take off the largest amount we can. Secondly, there’s a pattern here, and that’s something which we might be able to use if we wanted to write our algorithm in a clearer or more compact.

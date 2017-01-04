@@ -8,6 +8,9 @@ guid: http://milesberry.net/?p=1369
 permalink: /2016/04/lessons-from-abroad/
 categories:
   - CS
+image:
+    feature: 160424.jpg
+
 ---
 There’s a global movement to teach children to code, and through this to give them the tools for solving problems and understanding systems that computational thinking offers. England is leading the way worldwide through including computer science as part of its national curriculum from primary onwards, and there seems ever increasing numbers of countries that are following in our footsteps, or at least taking a keen interest in what we’re doing here. There’s much that’s happening elsewhere that we can learn from &#8211; other countries are responding to this opportunity, and tackling this challenge in quite different ways, and I’d like to explore some of these here.
 

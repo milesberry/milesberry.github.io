@@ -8,10 +8,13 @@ guid: http://milesberry.net/?p=1364
 permalink: /2016/04/gender-and-computing/
 categories:
   - Uncategorized
+image:
+    feature: 160416.jpg
 ---
 <p class="p1">
   <span class="s1">Our latest <a href="https://www.youtube.com/watch?v=zlYOJSlM0Ac&list=PLfZL5AW0loWk3vFyY7ge3EFHV553YU208"><span class="s2">CAS TV programme</span></a> explore some of the issues around gender and computing with Carrie Anne Philbin (<a href="https://www.raspberrypi.org/"><span class="s2">Raspberry Pi Foundation</span></a>, <a href="https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ"><span class="s2">Geek Gurl Diaries</span></a>, <a href="http://casinclude.org.uk/"><span class="s2">CAS #include</span></a>). Do watch, and <a href="https://www.youtube.com/channel/UCGsFzBpGCUiWwRZdnpnaS3A?sub_confirmation=1"><span class="s2">subscribe</span></a> if you haven’t already 🙂</span>
 </p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zlYOJSlM0Ac" frameborder="0" allowfullscreen></iframe>
 
 <p class="p1">
 </p>

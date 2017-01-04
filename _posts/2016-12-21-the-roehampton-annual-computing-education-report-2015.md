@@ -3,12 +3,14 @@ id: 1454
 title: The Roehampton Annual Computing Education Report 2015
 date: 2016-12-21T16:03:34+00:00
 author: Peter Kemp, Billy Wong and Miles Berry
-layout: post-no-feature
+layout: post
 guid: http://milesberry.net/?p=1454
 permalink: /2016/12/the-roehampton-annual-computing-education-report-2015/
 categories:
   - CS
   - Curriculum
+image:
+        feature: 20161220@2x.jpg
 ---
 <p style="color: #1e1e1e;">
   <a href="http://bit.ly/TRACER15">This report</a> aims to analyse the uptake of computing / computer science qualifications at GCSE and A-level by looking at the schools that offered the qualifications and the students sitting them in 2015. Below are the key findings.

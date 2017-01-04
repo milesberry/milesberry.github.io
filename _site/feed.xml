@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-01-04T11:20:30+00:00</updated>
+<updated>2017-01-04T15:56:41+00:00</updated>
 <id>/</id>
 <author>
   <name>Miles Berry</name>
@@ -112,13 +112,11 @@
   At GCSE computing, girls outperformed boys, achieving proportionally more A* to B grades, and proportionally fewer other grades. A-level shows a similar pattern to GCSE, with girls, achieving proportionally more A* to B grades, and proportionally fewer other grades.
 &lt;/p&gt;
 
-&lt;div id=&quot;attachment_1460&quot; style=&quot;width: 659px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;http://bit.ly/TRACER15&quot;&gt;&lt;img class=&quot;wp-image-1460 size-full&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png&quot; alt=&quot;Computing GCSE grades by gender, 2015&quot; width=&quot;649&quot; height=&quot;807&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png 649w, http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47-241x300.png 241w&quot; sizes=&quot;(max-width: 649px) 100vw, 649px&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    Computing GCSE grades by gender, 2015
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png&quot; /&gt;
+&lt;figcaption&gt;Computing GCSE grades by gender, 2015
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p style=&quot;color: #1e1e1e;&quot;&gt;
   Computing students might be characterised as relatively academic, although performance on exams is rather lower than might be expected given the entry profile. It is unclear whether this is due to the relative difficulty of the qualification, teaching in the subject or some combination of these and other factors. Computing and ICT seem rather different qualifications:
@@ -175,7 +173,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li&gt;
     Schools and colleges offering computing should aim to expand the numbers of pupils and students taking the qualification. &lt;ul&gt;
       &lt;li&gt;
@@ -183,7 +181,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  
+
   &lt;li&gt;
     Schools should consider if changes are needed in the teaching of computing to bring outcomes in line with those which entry profiles would indicate.
   &lt;/li&gt;
@@ -851,60 +849,60 @@
     <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
-  <content type="html">&lt;p style=&quot;color: #000000;&quot;&gt;
+  <content type="html">&lt;p&gt;
   Back in 2012 I &lt;a href=&quot;http://www.theguardian.com/teacher-network/teacher-blog/2012/may/16/agile-pedagogy-computer-programming-learning&quot;&gt;wrote&lt;/a&gt; and presented a bit about &amp;#8216;agile pedagogy&amp;#8217; &amp;#8211; the notion of applying some of the ideas of agile development to the craft of teaching. There&amp;#8217;s been some renewed interest of late in this, as well as teaching students about agile development, so I&amp;#8217;m taking this opportunity to revisit the them.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   I’m not a software engineer, so I come to agile development from the outside.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   I think there’s a couple of things going on. One is taking some of the ideas from agile development and applying them to our work as teachers, which is what I was trying to get at in the talk above. The other is teaching students agile development approaches. You can do both at the same time, but it’s probably worth thinking about them separately.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   I think the former comes quite naturally to teachers.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   We think of the ‘stories’ of our students &amp;#8211; Sam loves tinkering with things but struggles with theory; Alex is happy following instructions but finds it hard to get started when faced with a blank screen; Chris will get this immediately but won’t see the point of finishing off the documentation.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   We have in mind a minimum viable product &amp;#8211; making sure the class know the things they need to / complete the tasks they have to, but I hope we’re not entirely satisfied with just getting them through the exams. Love of learning, reading round the subject, that sort of thing.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   We think in terms of time boxed development &amp;#8211; here’s my backlog of things we need to teach in this unit, and misconceptions we have to correct.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   The job comes into its own when we see our learners as partners in the educational process as &lt;a href=&quot;https://books.google.co.uk/books?id=x6rpxF-bpr4C&amp;amp;lpg=PP1&amp;amp;dq=visible%20learning&amp;amp;pg=PT53#v=snippet&amp;amp;q=%22when%20students%20become%20their%20own%20teachers%22&amp;amp;f=false&quot;&gt;Hattie&lt;/a&gt; observes:
 &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;color: #000000;&quot;&gt;
+  &lt;p&gt;
   The biggest effects on student learning occur when … students become their own teachers.
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   For me, this is a crucial element of any ‘agile pedagogy’. A consequence of this has to be far more responsiveness to what happens in the room: taking their questions, interests and misconceptions as a starting point for what comes next.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   I think there’s also a place for &lt;a href=&quot;https://en.wikipedia.org/wiki/Test-driven_development&quot;&gt;test driven development&lt;/a&gt; in our work. Check (test?) first whether pupils know something &amp;#8211; there’s little point teaching it if they do. Teach the thing. Check (test?) then whether they’ve learnt the thing. There’s evidence, should anyone ask for some) of progress and the impact of your teaching. Don’t stop at that point though &amp;#8211; ‘refactor’ the learning, making it better integrated with pupils’ schemata and more readily applicable to solving problems.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   See also other folk writing about &lt;a href=&quot;http://www.opencolleges.edu.au/informed/features/agile-based-learning-what-is-it-and-how-can-it-change-education/&quot;&gt;agile schools&lt;/a&gt;, &lt;a href=&quot;http://www.edutopia.org/blog/the-agile-classroom-douglas-kiang&quot;&gt;agile classrooms&lt;/a&gt;, &lt;a href=&quot;http://www.cs.cityu.edu.hk/~hwchun/research/PDF/CHUN%20-%20ATLM%20v2%20b.pdf&quot;&gt;agile teaching / learning methodology&lt;/a&gt;, and &lt;a href=&quot;https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en&quot;&gt;agile parenting&lt;/a&gt; (seriously).
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #000000;&quot;&gt;
+&lt;p&gt;
   Teaching agile methods in computing lessons is another matter, but I think we’ve far more chance of being able to do this in primary school and in KS3 than we have under current exam specifications at GCSE / A Level, although even here I see agile and iterative development are now &lt;a href=&quot;http://www.ocr.org.uk/Images/231756-software-development-delivery-guide.pdf&quot;&gt;getting a look-in&lt;/a&gt;. I reckon that this could be taught through collaborative group project work fairly effectively: starting with groups thinking about what they’re going to make; reviewing lesson by lesson what they’ve done, problems they’ve encountered and things they still need to do; sharing tasks out between the group; working with a partner using &lt;a href=&quot;http://www.quickstartcomputing.org/secondary/Paired-programming.html&quot;&gt;pair programming&lt;/a&gt; if possible; testing units as they go; getting to a minimum viable product and then developing this further. I think projects like &lt;a href=&quot;http://www.appsforgood.org/&quot;&gt;Apps for Good&lt;/a&gt; provide some scope for this sort of approach, and I tried to include elements of this in some of the &lt;a href=&quot;http://www.risingstars-uk.com/Series/Switched-On-Computing&quot;&gt;Switched On Computing&lt;/a&gt; units.
 &lt;/p&gt;
 
@@ -926,6 +924,7 @@
   <content type="html">&lt;p class=&quot;p1&quot;&gt;
   &lt;span class=&quot;s1&quot;&gt;Our latest &lt;a href=&quot;https://www.youtube.com/watch?v=zlYOJSlM0Ac&amp;amp;list=PLfZL5AW0loWk3vFyY7ge3EFHV553YU208&quot;&gt;&lt;span class=&quot;s2&quot;&gt;CAS TV programme&lt;/span&gt;&lt;/a&gt; explore some of the issues around gender and computing with Carrie Anne Philbin (&lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;&lt;span class=&quot;s2&quot;&gt;Raspberry Pi Foundation&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ&quot;&gt;&lt;span class=&quot;s2&quot;&gt;Geek Gurl Diaries&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;http://casinclude.org.uk/&quot;&gt;&lt;span class=&quot;s2&quot;&gt;CAS #include&lt;/span&gt;&lt;/a&gt;). Do watch, and &lt;a href=&quot;https://www.youtube.com/channel/UCGsFzBpGCUiWwRZdnpnaS3A?sub_confirmation=1&quot;&gt;&lt;span class=&quot;s2&quot;&gt;subscribe&lt;/span&gt;&lt;/a&gt; if you haven’t already 🙂&lt;/span&gt;
 &lt;/p&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/zlYOJSlM0Ac&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p class=&quot;p1&quot;&gt;
 &lt;/p&gt;
@@ -971,6 +970,8 @@
   </author>
   <content type="html">&lt;p&gt;An interesting interview with Prof Steve Furber for this week’s &lt;a href=&quot;https://www.youtube.com/watch?v=wnSjR04qang&amp;amp;list=PLfZL5AW0loWk3vFyY7ge3EFHV553YU208&quot;&gt;#CASTV programme&lt;/a&gt;:&lt;/p&gt;
 
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/wnSjR04qang&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;The focus of the discussion is on the &lt;a href=&quot;http://apt.cs.manchester.ac.uk/projects/SpiNNaker/&quot;&gt;SpiNNaker project&lt;/a&gt;, a massively parallel, ARM powered machine capable of simulating at least some of how a brain functions. Programming a machine like this involves thinking about problems differently, but events and messages are something we can introduce pupils to via Scratch, not that I’m suggesting we start emulating brains in Scratch…&lt;/p&gt;
 
 &lt;p&gt;Simulating a brain isn’t necessarily the same as simulating consciousness (qv &lt;a href=&quot;http://www.amazon.co.uk/The-Emperors-New-Mind-Concerning/dp/0192861980&quot;&gt;Penrose, 1999&lt;/a&gt;), and this could lead on to some interesting philosophical / ethical discussions in class. Is anyone exploring these ideas with their pupils? How?&lt;/p&gt;
@@ -978,10 +979,6 @@
 &lt;p&gt;Steve’s been a hugely influential figure in UK computing – as the hardware designer for the BBC Micro (qv&lt;a href=&quot;https://www.youtube.com/watch?v=XXBxV6-zamM&quot;&gt;Micro Men&lt;/a&gt;), and subsequently with ARM. He also chaired the Royal Society’s &lt;a href=&quot;https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-computing-in-schools.pdf&quot;&gt;Shutdown or Restart&lt;/a&gt; report, which was a key influence on the move from ICT to computing. His &lt;a href=&quot;https://www.youtube.com/watch?v=q5SxGrowoYI&quot;&gt;Lovelace lecture&lt;/a&gt; for the BCS is well worth a watch.&lt;/p&gt;
 
 &lt;p&gt;Are we doing enough to prepare pupils for a not too distant future in which machines like SpiNNaker might be able to simulate the connections and behaviour of human brains?&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;span_post_74460&quot; style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;/2016/04/computers-and-brains/&quot;&gt;Computers and brains&lt;/a&gt; was originally published by Miles Berry at &lt;a href=&quot;&quot;&gt;An open mind&lt;/a&gt; on April 08, 2016.&lt;/p&gt;</content>
 </entry>
@@ -1001,6 +998,8 @@
   <content type="html">&lt;p style=&quot;color: #000000;&quot;&gt;
   Our latest CAS TV programme features &lt;a href=&quot;https://www.youtube.com/watch?v=7tjNnF4fAgI&quot;&gt;John Stout, discussing programming in Snap!&lt;/a&gt; (a close relation to Scratch), including some ways of using it to introduce pupils to functional programming.
 &lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/7tjNnF4fAgI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p style=&quot;color: #000000;&quot;&gt;
   I wonder who’s using &lt;a href=&quot;http://snap.berkeley.edu/&quot;&gt;Snap!&lt;/a&gt; in their schools? Does it make sense to use this as a block-based language in KS3 to provide a little higher ceilings that Scratch offers, especially as many will have ‘done’ Scratch whilst at primary? What sort of thing have you done with Snap! if so?
@@ -1095,7 +1094,11 @@
 
 &lt;p&gt;Further up the primary school, we recognise that there is much more to computing than learning to use digital technology. Computational thinking, understood, after &lt;a href=&quot;http://rsta.royalsocietypublishing.org/content/366/1881/3717&quot;&gt;Jeanette Wing&lt;/a&gt;, as “taking an approach to solving problems, designing systems and understanding human behaviour that draws on concepts fundamental to computing”, is the golden thread running through the computing curriculum. But computational thinking doesn’t begin in Key Stage 1: the foundations are laid in EYFS.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1342&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg&quot; alt=&quot;Barefoot-CT-Poster-for-website&quot; width=&quot;440&quot; height=&quot;310&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg 1024w, http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-300x212.jpg 300w, http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website.jpg 1191w&quot; sizes=&quot;(max-width: 440px) 100vw, 440px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg&quot; /&gt;
+&lt;figcaption&gt;The Barefoot computational thinker
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://barefootcas.org.uk/&quot;&gt;Barefoot Computing&lt;/a&gt;, developed by CAS, offers a model of computational thinking as being made up of both concepts and approaches. It’s widely used in primary schools. All these concepts and approaches can be applied, at least to some extent with four and five year olds. Indeed, some begin earlier still. The nursery or reception classroom is full of opportunities to solve problems. Carrying the water up the hill; solving (or making) jigsaws; building models; spotting and extending a pattern. When children are faced with these problems, the questions that Early Years practitioners would naturally be posing can encourage computational thinking. Here’s some examples:&lt;/p&gt;
 
@@ -1120,7 +1123,11 @@
 
 &lt;p&gt;So how do we encourage the development of these approaches? This is often about getting the learning environment right. By providing open ended activities that encourage children to use all their senses to observe, discover and engage with the world, we encourage them to tinker, play and explore. Opportunities to take things apart, to build and make models help children to be creative. Getting children to do a jigsaw, recreate a pattern or draw a picture can all encourage them to debug. We provide activities that require longer periods of engagement, concentration and perseverance. Sharing books and toys, playing with puppets or taking part in a nativity play or harvest festival all help develop collaboration.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.foundationyears.org.uk/files/2012/03/Development-Matters-FINAL-PRINT-AMENDED.pdf&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1345&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png&quot; alt=&quot;Screen Shot 2016-01-18 at 20.17.20&quot; width=&quot;878&quot; height=&quot;540&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png 878w, http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20-300x184.png 300w&quot; sizes=&quot;(max-width: 878px) 100vw, 878px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png&quot; /&gt;
+&lt;figcaption&gt;Some of the characteristics of effective learning
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -1162,13 +1169,11 @@
   &lt;li&gt;interpret&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;div id=&quot;attachment_1338&quot; style=&quot;width: 423px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
-  &lt;a href=&quot;https://www.computerbasedmath.org/case-for-computer-based-math-education.html&quot;&gt;&lt;img class=&quot;size-full wp-image-1338&quot; src=&quot;http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-11.53.38.png&quot; alt=&quot;CBM Solution Helix of Math&quot; width=&quot;413&quot; height=&quot;409&quot; srcset=&quot;http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-11.53.38.png 413w, http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-11.53.38-150x150.png 150w, http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-11.53.38-300x297.png 300w&quot; sizes=&quot;(max-width: 413px) 100vw, 413px&quot; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&quot;wp-caption-text&quot;&gt;
-    CBM Solution Helix of Math
-  &lt;/p&gt;
-&lt;/div&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/wp-content/uploads/2016/01/Screen-Shot-2016-01-07-at-11.53.38.png&quot; /&gt;
+&lt;figcaption&gt;CBM Solution Helix of Math
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;There’s a fair amount of mathematical content in computer science as taught in schools. In primary, Bee Bots and similar are used early on to practise positional language and emerging measure and children are now more likely to meet angles and coordinates in Scratch before these get covered in maths lessons. Topics such as &lt;a href=&quot;http://www.cimt.plymouth.ac.uk/projects/mepres/book9/bk9i1/bk9_1i1.html&quot;&gt;binary conversion&lt;/a&gt;, binary arithmetic, Boolean logic and functions all make demands on pupils’ mathematical understanding. There’s some potentially gritty maths in computing at GCSE and A level: graph theory, modular arithmetic, formal logic and measures of algorithmic efficiency.  It’s perhaps no surprise that grade B in GCSE maths is seen as a prerequisite for A Level computer science, or that A level maths / further maths, is often &lt;a href=&quot;http://www.russellgroup.ac.uk/media/5320/informedchoices.pdf&quot;&gt;a requirement&lt;/a&gt; for studying CS at Russell Group universities.&lt;/p&gt;
 

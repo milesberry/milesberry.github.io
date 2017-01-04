@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1244
 permalink: /2015/01/papert-turtles-and-creativity/
 categories:
   - CS
+image:
+    feature: 150104.jpg
 ---
 Computer science as an entitlement for all as part of the national curriculum is undoubtedly an achievement of which CAS and its friends can be proud. It’s appropriate that our attention now moves from the ‘what’ to the ‘how’ of computing education. We would, though, be wrong to think that this is all entirely new: programming has been on the national curriculum since its very beginning in 1989, and school children have been learning to program in Logo since well before that.
 
@@ -27,37 +29,54 @@ The Logo programming language is probably best known for its implementation of *
 
 Logo’s turtle graphics provides a great way in to the language. Children can experiment to find a way to draw familiar geometric shapes (squares, then equilateral triangles, then regular pentagons and so on), their own pictures (remembering the importance of creativity in computing), or more complex geometric figures, such as the ‘crystal flowers’ of the old QCA schemes of work.
 
-<pre>repeat 10 [
+```
+repeat 10 [
   repeat 5 [
     fd 100
     rt 72
   ]
   rt 36
-] </pre>
+]
+```
 
-<img class="aligncenter size-full wp-image-1245" src="/wp-content/uploads/2015/01/rose.png" alt="rose" width="602" height="563" srcset="/wp-content/uploads/2015/01/rose.png 602w, /wp-content/uploads/2015/01/rose-300x280.png 300w" sizes="(max-width: 602px) 100vw, 602px" />
+<figure>
+<img src="/wp-content/uploads/2015/01/rose.png">
+<figcaption>A Logo rose
+</figcaption>
+</figure>
+
 
 Through experimenting with turtle graphics programs like this, children can develop a better feel for geometry, discovering for themselves that 360° makes a full turn, the exterior angles of regular polygons, and so on, as well as [some aesthetic appreciation of geometric beauty](http://turtleart.org/gallery/index.html).
 
 Papert writes about the importance of user-defined **procedures** in Logo, not merely as a convenient programming construct for decomposing complex problems, but, drawing perhaps on his background in AI research, as a means for a child to learn more about learning, as the child teaches the computer a new word, defining that using the words already in its language.
 
-<pre>to square :length
+```
+to square :length
   repeat 4 [ fd :length rt 90 ]
-end</pre>
+end
+```
 
 Logo also supports functions and recursion, and indeed could be used as an introduction to functional programming:
 
-<pre>to factorial :number
+```
+to factorial :number
   if :number = 1 [output 1]
   output :number * factorial :number - 1
-end</pre>
+end
+```
+
 
 Given the ‘powerful ideas’ that turtle graphics provides access to, it’s not surprising that it’s been incorporated into so many of the programming languages used in schools. Scratch has a good implementation and the building block approach helps reduce the cognitive load of remembering commands and punctuation. User-defined procedures only came to Scratch in version 2, which is surprising given Papert was Mitch Resnick’s PhD supervisor. There are good turtle graphics libraries for Python, Small Basic and Touch Develop: I think moving from Scratch to one of these text-based languages is all the easier if pupils can see the connections between their Scratch scripts and their text based programs:
 
-<img class="aligncenter size-full wp-image-1246" src="http://milesberry.net/wp-content/uploads/2015/01/tree.png" alt="tree" width="586" height="719" srcset="http://milesberry.net/wp-content/uploads/2015/01/tree.png 586w, http://milesberry.net/wp-content/uploads/2015/01/tree-244x300.png 244w" sizes="(max-width: 586px) 100vw, 586px" />
+<figure>
+<img src="/wp-content/uploads/2015/01/tree.png">
+<figcaption>A fractal tree in Scratch
+</figcaption>
+</figure>
 
-<pre>def tree(turtle, depth, size):
-  if depth &gt; 0:
+```python
+def tree(turtle, depth, size):
+  if depth > 0:
     turtle.pendown()
     turtle.forward(size)
     turtle.left(15)
@@ -66,7 +85,8 @@ Given the ‘powerful ideas’ that turtle graphics provides access to, it’s n
     tree(turtle, depth-1, size*0.6)
     turtle.left(20)
     turtle.penup()
-    turtle.backward(size)</pre>
+    turtle.backward(size)
+```
 
 Lovely as turtle graphics are, there’s so much more to Logo than just this. [One of Papert’s early papers (1971!)](http://stager.org/articles/teachingchildrenteaching.pdf) discusses using Logo to make a drill and practice maths quiz, in much the same way as we might get Year 4 to use Scratch to make this sort of ‘educational game’ now:. He observed:
 

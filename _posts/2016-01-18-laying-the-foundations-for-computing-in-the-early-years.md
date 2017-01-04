@@ -9,6 +9,8 @@ permalink: /2016/01/laying-the-foundations-for-computing-in-the-early-years/
 categories:
   - CS
   - Curriculum
+image:
+    feature: 160118.jpg
 ---
 Computing co-ordinators often wonder what to encourage in the nursery or reception class. The easy answer is, ‘not computing!’ However, there is a lot of learning in the Early Years Foundation Stage (EYFS) that provides a foundation for computational thinking.
 
@@ -26,7 +28,13 @@ The use of technology can support children across other areas of learning, provi
 
 Further up the primary school, we recognise that there is much more to computing than learning to use digital technology. Computational thinking, understood, after [Jeanette Wing](http://rsta.royalsocietypublishing.org/content/366/1881/3717), as “taking an approach to solving problems, designing systems and understanding human behaviour that draws on concepts fundamental to computing”, is the golden thread running through the computing curriculum. But computational thinking doesn’t begin in Key Stage 1: the foundations are laid in EYFS.
 
-[<img class="aligncenter size-large wp-image-1342" src="http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg" alt="Barefoot-CT-Poster-for-website" width="440" height="310" srcset="http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg 1024w, http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-300x212.jpg 300w, http://milesberry.net/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website.jpg 1191w" sizes="(max-width: 440px) 100vw, 440px" />](http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/)
+<figure>
+<img src="/wp-content/uploads/2016/01/Barefoot-CT-Poster-for-website-1024x723.jpg">
+<figcaption>The Barefoot computational thinker
+</figcaption>
+</figure>
+
+
 
 [Barefoot Computing](http://barefootcas.org.uk/), developed by CAS, offers a model of computational thinking as being made up of both concepts and approaches. It’s widely used in primary schools. All these concepts and approaches can be applied, at least to some extent with four and five year olds. Indeed, some begin earlier still. The nursery or reception classroom is full of opportunities to solve problems. Carrying the water up the hill; solving (or making) jigsaws; building models; spotting and extending a pattern. When children are faced with these problems, the questions that Early Years practitioners would naturally be posing can encourage computational thinking. Here’s some examples:
 
@@ -47,7 +55,13 @@ There are very close connections here with the ‘approaches’ to computational
 
 So how do we encourage the development of these approaches? This is often about getting the learning environment right. By providing open ended activities that encourage children to use all their senses to observe, discover and engage with the world, we encourage them to tinker, play and explore. Opportunities to take things apart, to build and make models help children to be creative. Getting children to do a jigsaw, recreate a pattern or draw a picture can all encourage them to debug. We provide activities that require longer periods of engagement, concentration and perseverance. Sharing books and toys, playing with puppets or taking part in a nativity play or harvest festival all help develop collaboration.
 
-[<img class="aligncenter size-full wp-image-1345" src="http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png" alt="Screen Shot 2016-01-18 at 20.17.20" width="878" height="540" srcset="http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png 878w, http://milesberry.net/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20-300x184.png 300w" sizes="(max-width: 878px) 100vw, 878px" />](http://www.foundationyears.org.uk/files/2012/03/Development-Matters-FINAL-PRINT-AMENDED.pdf)
+<figure>
+<img src="/wp-content/uploads/2016/01/Screen-Shot-2016-01-18-at-20.17.20.png">
+<figcaption>Some of the characteristics of effective learning
+</figcaption>
+</figure>
+
+
 
 &nbsp;
 

@@ -12,6 +12,8 @@
 <meta property="og:url" content="/2015/01/papert-turtles-and-creativity/">
 <meta property="og:site_name" content="An open mind">
 
+<meta property="og:image" content="150104.jpg">
+
 
 
 
@@ -49,7 +51,7 @@
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -64,7 +66,7 @@
             <li>
               <a href="/" title="An open mind">Home</a>
             </li>
-            
+
             
                 <li><a href="/about-3" >About</a></li>
             
@@ -85,7 +87,9 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(/images/typewriter.jpg)"></div>
+  
+  <div class="featured-image" style="background-image: url(/images/150104.jpg)"></div>
+  
 
 
 
@@ -119,46 +123,62 @@
 
 <p>Logo’s turtle graphics provides a great way in to the language. Children can experiment to find a way to draw familiar geometric shapes (squares, then equilateral triangles, then regular pentagons and so on), their own pictures (remembering the importance of creativity in computing), or more complex geometric figures, such as the ‘crystal flowers’ of the old QCA schemes of work.</p>
 
-<pre>repeat 10 [
+<div class="highlighter-rouge"><pre class="highlight"><code>repeat 10 [
   repeat 5 [
     fd 100
     rt 72
   ]
   rt 36
-] </pre>
+]
+</code></pre>
+</div>
 
-<p><img class="aligncenter size-full wp-image-1245" src="/wp-content/uploads/2015/01/rose.png" alt="rose" width="602" height="563" srcset="/wp-content/uploads/2015/01/rose.png 602w, /wp-content/uploads/2015/01/rose-300x280.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
+<figure>
+<img src="/wp-content/uploads/2015/01/rose.png" />
+<figcaption>A Logo rose
+</figcaption>
+</figure>
 
 <p>Through experimenting with turtle graphics programs like this, children can develop a better feel for geometry, discovering for themselves that 360° makes a full turn, the exterior angles of regular polygons, and so on, as well as <a href="http://turtleart.org/gallery/index.html">some aesthetic appreciation of geometric beauty</a>.</p>
 
 <p>Papert writes about the importance of user-defined <strong>procedures</strong> in Logo, not merely as a convenient programming construct for decomposing complex problems, but, drawing perhaps on his background in AI research, as a means for a child to learn more about learning, as the child teaches the computer a new word, defining that using the words already in its language.</p>
 
-<pre>to square :length
+<div class="highlighter-rouge"><pre class="highlight"><code>to square :length
   repeat 4 [ fd :length rt 90 ]
-end</pre>
+end
+</code></pre>
+</div>
 
 <p>Logo also supports functions and recursion, and indeed could be used as an introduction to functional programming:</p>
 
-<pre>to factorial :number
+<div class="highlighter-rouge"><pre class="highlight"><code>to factorial :number
   if :number = 1 [output 1]
   output :number * factorial :number - 1
-end</pre>
+end
+</code></pre>
+</div>
 
 <p>Given the ‘powerful ideas’ that turtle graphics provides access to, it’s not surprising that it’s been incorporated into so many of the programming languages used in schools. Scratch has a good implementation and the building block approach helps reduce the cognitive load of remembering commands and punctuation. User-defined procedures only came to Scratch in version 2, which is surprising given Papert was Mitch Resnick’s PhD supervisor. There are good turtle graphics libraries for Python, Small Basic and Touch Develop: I think moving from Scratch to one of these text-based languages is all the easier if pupils can see the connections between their Scratch scripts and their text based programs:</p>
 
-<p><img class="aligncenter size-full wp-image-1246" src="http://milesberry.net/wp-content/uploads/2015/01/tree.png" alt="tree" width="586" height="719" srcset="http://milesberry.net/wp-content/uploads/2015/01/tree.png 586w, http://milesberry.net/wp-content/uploads/2015/01/tree-244x300.png 244w" sizes="(max-width: 586px) 100vw, 586px" /></p>
+<figure>
+<img src="/wp-content/uploads/2015/01/tree.png" />
+<figcaption>A fractal tree in Scratch
+</figcaption>
+</figure>
 
-<pre>def tree(turtle, depth, size):
-  if depth &gt; 0:
-    turtle.pendown()
-    turtle.forward(size)
-    turtle.left(15)
-    tree(turtle, depth-1, size*0.75)
-    turtle.right(35)
-    tree(turtle, depth-1, size*0.6)
-    turtle.left(20)
-    turtle.penup()
-    turtle.backward(size)</pre>
+<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="k">def</span> <span class="nf">tree</span><span class="p">(</span><span class="n">turtle</span><span class="p">,</span> <span class="n">depth</span><span class="p">,</span> <span class="n">size</span><span class="p">):</span>
+<span class="err"> </span> <span class="k">if</span> <span class="n">depth</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">pendown</span><span class="p">()</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">forward</span><span class="p">(</span><span class="n">size</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">left</span><span class="p">(</span><span class="mi">15</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">tree</span><span class="p">(</span><span class="n">turtle</span><span class="p">,</span> <span class="n">depth</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">size</span><span class="o">*</span><span class="mf">0.75</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">right</span><span class="p">(</span><span class="mi">35</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">tree</span><span class="p">(</span><span class="n">turtle</span><span class="p">,</span> <span class="n">depth</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">size</span><span class="o">*</span><span class="mf">0.6</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">left</span><span class="p">(</span><span class="mi">20</span><span class="p">)</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">penup</span><span class="p">()</span>
+<span class="err">   </span> <span class="n">turtle</span><span class="o">.</span><span class="n">backward</span><span class="p">(</span><span class="n">size</span><span class="p">)</span>
+</code></pre>
+</div>
 
 <p>Lovely as turtle graphics are, there’s so much more to Logo than just this. <a href="http://stager.org/articles/teachingchildrenteaching.pdf">One of Papert’s early papers (1971!)</a> discusses using Logo to make a drill and practice maths quiz, in much the same way as we might get Year 4 to use Scratch to make this sort of ‘educational game’ now:. He observed:</p>
 

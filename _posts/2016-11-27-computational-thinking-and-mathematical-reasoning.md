@@ -8,6 +8,8 @@ guid: http://milesberry.net/?p=1438
 permalink: /2016/11/computational-thinking-and-mathematical-reasoning/
 categories:
   - Uncategorized
+image:
+    feature: 161127.jpg
 ---
 <p class="p1" style="padding-left: 30px;">
   <em>Andrew Csizmadia and I presented on Computing: the silent C in STEM at a CIDREE expert group of STEM curriculum developers in Utrecht last week. Here&#8217;s an extract of our paper, exploring the connections between computational thinking and mathematical reasoning.</em>
