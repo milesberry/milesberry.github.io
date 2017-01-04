@@ -102,13 +102,13 @@ categories:
   At GCSE computing, girls outperformed boys, achieving proportionally more A* to B grades, and proportionally fewer other grades. A-level shows a similar pattern to GCSE, with girls, achieving proportionally more A* to B grades, and proportionally fewer other grades.
 </p>
 
-<div id="attachment_1460" style="width: 659px" class="wp-caption aligncenter">
-  <a href="http://bit.ly/TRACER15"><img class="wp-image-1460 size-full" src="http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png" alt="Computing GCSE grades by gender, 2015" width="649" height="807" srcset="http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png 649w, http://milesberry.net/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47-241x300.png 241w" sizes="(max-width: 649px) 100vw, 649px" /></a>
+<figure>
+<img src="/wp-content/uploads/2016/12/Screen-Shot-2016-12-21-at-16.17.47.png">
+<figcaption>Computing GCSE grades by gender, 2015
+</figcaption>
+</figure>
 
-  <p class="wp-caption-text">
-    Computing GCSE grades by gender, 2015
-  </p>
-</div>
+
 
 <p style="color: #1e1e1e;">
   Computing students might be characterised as relatively academic, although performance on exams is rather lower than might be expected given the entry profile. It is unclear whether this is due to the relative difficulty of the qualification, teaching in the subject or some combination of these and other factors. Computing and ICT seem rather different qualifications:
