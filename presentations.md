@@ -8,49 +8,83 @@ guid: http://milesberry.net/?page_id=718
 ---
 ## **Forthcoming**
 
-## <a id="user-content-2017" class="anchor" style="color: #4078c0;" href="#2017"></a>2017
+### 2017
 
-_26 January 2017_ Approaches to assessment. HE Leaders Summit, BETT.
+_11 July 2017_ A guide to UK computing resources. CSTA Conference, Baltimore.
 
-## <a id="user-content-2016" class="anchor" style="color: #4078c0;" href="#2016"></a>2016
+_23 June 2017_ Opening keynote, ICT Live, Brighton.
 
-_15 Novermber 2016_ <a style="color: #4078c0;" href="http://go.fireflylearning.com/Firefly_Conference_2016_Registration.html">Firefly Learning Confernece</a>, Birmingham.
+_19 May 2017_ Opening keynote, ICT Live, Norwich.
 
-_10 November 2016_ Education Network Northern Ireland Innovation Forum.
+_9 May 2017_ Keynote, Challenges 2017, Braga, Portugal.
 
-_27 October 2016_ Computing At School. Education in the digital age, Paderborn Podium. <a style="color: #4078c0;" href="http://www.hnf.de/en/home.html">Heinz Nixdorf Museumsforum</a>, Germany.
+_24 March 2017_ Opening keynote, ICT Live, Maidstone.
 
-_21 October, 2016_ This is for everyone: computing in English schools. <a style="color: #4078c0;" href="http://www.ifema.es/simoeducacion_06/">SIMO, Madrid</a>.
+_23 March 2017_ Assessing computing. GDST.
 
-_20 October 2016_ Computing across the curriculum. <a style="color: #4078c0;" href="http://nape.org.uk/cec/">NAPE Computing and Ed Tech Conference, Oxford</a>.
+_25 February 2017_ Presentations on primary pedagogy and secondary assessment, CAS London Conference, Gladesmore Community College.
 
-_6 October 2016_ Computing At School. Early education in computer science expert forum, Haus der kleinen Forscher, Berlin.
+_9-11 February 2017_ Presentations on what we're learning about teaching computing and computing across the curriculum. New Technologies in Education, 2017, Belgrade.
 
-## **Previous**
+_1 February 2017_ Researching technology enhanced learning. University of Roeahmpton Secondary PGCE conference.
 
-_2 July 2016_ <a style="color: #4078c0;" href="https://docs.google.com/presentation/d/1QvchJf11GMNoe-7zqgi757WZTaQ_rNORs3PVKhIIFSA/edit">What we&#8217;re learning about teaching computing.</a> ITTE Conference, London.
+_28 January 2017_ Project Quantum. Google at BETT.
 
-_29 June 2016_ Keynote: <a style="color: #4078c0;" href="https://drive.google.com/open?id=1aPLdj-KQWhqiWHSBInt9n4nuGkh21XO48XB9mqygmtQ">the silent C in STEM</a>, plus workshops on programming and mathematics (<a style="color: #4078c0;" href="https://drive.google.com/open?id=1CWbvXQBUKOswjDZi7SA4wgOQdpH4TX9pfgmzNgFnLdw">primary</a> and <a style="color: #4078c0;" href="https://drive.google.com/open?id=18Mi3NYXQ6Tj2-SUdTF-uR2mwCkJkhad33P4MmbuMolU">secondary</a>). National STEM Centre, University of York.
+_26 January 2017_ [Nordic @ BETT](http://www.bettshow.com/Exhibitor/Nordic-BETT2017)
+
+_26 January 2017_ Panel debate: [How far can traditional methods of assessment suit modern pedagogy?](http://www.bettshow.com/Seminar/How-far-can-traditional-methods-of-assessment-suit-modern-pedagogy) HE Leaders Summit, BETT.
+
+_13 January 2017_ Opening keynote, Islington Computing Celebration, Emirates Stadium.
+
+_10 January 2017_ Curriculum conference and workshops, Hanoi, Vietnam.
+
+## Previous
+
+### 2016
+
+_1 December 2016_ [Problem based learning and computational thinking](http://bit.ly/iscdigital). ISC Digital Strategy Group, Microsoft, Reading.
+
+_22 November 2016_ [The silent C in STEM](https://drive.google.com/open?id=1DgsXcriFW4z1n3BcVl9pmu-Ncc-AoIrMy7G6MdPZX8A). CIDREE expert group, Utrecht.
+
+_15 Novermber 2016_ [An introduction to analytics](https://www.youtube.com/watch?v=qQbt41Uq7nI). Firefly Learning Confernece, Birmingham.
+
+_12 November 2016_ [Project Quantum](https://www.youtube.com/watch?v=PLqAH77gy18). CAS London Primary CPD day, Camden CLC.
+
+_10 November 2016_ [Coding and computer science: progression from EYFS to KS5](https://drive.google.com/open?id=1_nJh4ffKYl9T0DXVyaa-7uehL8AaRWYWMNAPGo4275M). Education Network Northern Ireland Innovation Forum.
+
+_27 October 2016_ [Computing At School](https://www.youtube.com/watch?v=t_vmV4kYXJI). Education in the digital age, Paderborn Podium. Heinz Nixdorf Museumsforumvim, Germany.
+
+_21 October, 2016_ [This is for everyone: computing in English schools](https://docs.google.com/presentation/d/1XyqhWJrweb7YdU1pBxQ92g0hGmddJk90KhilEuGyXkI/edit#slide=id.p62). SIMO, Madrid.
+
+_20 October 2016_ [Computing across the curriculum](https://docs.google.com/presentation/d/1Xfy309hFl43ksEMR1W-sS7b80kck0QJyGUPC5TXmr5A/edit?usp=sharing). NAPE Computing and Ed Tech Conference, Oxford.
+
+_6 October 2016_ [Computing At School](https://drive.google.com/open?id=10oMosncEBkiGJR5232MpEaBJAShp3yAJATXNXfAQTKE). Early education in computer science expert forum, Haus der kleinen Forscher, Berlin.
+
+
+
+_2 July 2016_ <a  href="https://docs.google.com/presentation/d/1QvchJf11GMNoe-7zqgi757WZTaQ_rNORs3PVKhIIFSA/edit">What we&#8217;re learning about teaching computing.</a> ITTE Conference, London.
+
+_29 June 2016_ Keynote: <a  href="https://drive.google.com/open?id=1aPLdj-KQWhqiWHSBInt9n4nuGkh21XO48XB9mqygmtQ">the silent C in STEM</a>, plus workshops on programming and mathematics (<a  href="https://drive.google.com/open?id=1CWbvXQBUKOswjDZi7SA4wgOQdpH4TX9pfgmzNgFnLdw">primary</a> and <a  href="https://drive.google.com/open?id=18Mi3NYXQ6Tj2-SUdTF-uR2mwCkJkhad33P4MmbuMolU">secondary</a>). National STEM Centre, University of York.
 
 _27 June 2016_ Clever stuff for common problems. CAS Tenderfoot CPD, London CLC.
 
-_24 June 2016_ <a style="color: #4078c0;" href="https://drive.google.com/open?id=1FxY5br7cavHkGQz-PN4rMaQTXC9Pwh_kts5uYA20wGk">Crowdsourcing Assessment</a>, Assessment panel, Festival of Education, Wellington College.
+_24 June 2016_ <a  href="https://drive.google.com/open?id=1FxY5br7cavHkGQz-PN4rMaQTXC9Pwh_kts5uYA20wGk">Crowdsourcing Assessment</a>, Assessment panel, Festival of Education, Wellington College.
 
-_24 June 2016_ Keynote, <a style="color: #4078c0;" href="https://drive.google.com/open?id=11ElpKQjnLwbTa516LbPNnBc8ExHhO2rG37jkx60bl98">Teaching computing effectively</a>, ICT for Education, Brighton.
+_24 June 2016_ Keynote, <a  href="https://drive.google.com/open?id=11ElpKQjnLwbTa516LbPNnBc8ExHhO2rG37jkx60bl98">Teaching computing effectively</a>, ICT for Education, Brighton.
 
-_23 June 2016_ <a style="color: #4078c0;" href="https://drive.google.com/open?id=1tK-K_nxtRylS9ottoaAp1RuBhxERozvg-0bexoaJrTk">Computing: what&#8217;s working in schools</a>. Festival of Education, Wellington College.
+_23 June 2016_ <a  href="https://drive.google.com/open?id=1tK-K_nxtRylS9ottoaAp1RuBhxERozvg-0bexoaJrTk">Computing: what&#8217;s working in schools</a>. Festival of Education, Wellington College.
 
-_18 June 2016_ Plenary, <a style="color: #4078c0;" href="https://www.youtube.com/watch?v=-JBgaR8sNcE">computing across the curriculum</a>. CAS National Conference, Univesity of Birmingham.
+_18 June 2016_ Plenary, <a  href="https://www.youtube.com/watch?v=-JBgaR8sNcE">computing across the curriculum</a>. CAS National Conference, Univesity of Birmingham.
 
-_17 June 2016_ Keynote, <a style="color: #4078c0;" href="https://www.youtube.com/watch?v=pu3BvJH3i9Y">coding across the curriculum</a>. Roehampton Festival of Education.
+_17 June 2016_ Keynote, <a  href="https://www.youtube.com/watch?v=pu3BvJH3i9Y">coding across the curriculum</a>. Roehampton Festival of Education.
 
 _16 June 2016_ The video essay. University of Roehampton e-learning meet.
 
-_10 June 2016_ Keynote, <a style="color: #4078c0;" href="https://drive.google.com/open?id=1WKBBwsKmBkey_zJNbbLtc4fWvb-rCiLc3Dg4sj5M0s4">Problems</a>, Haberdashers&#8217; Aske&#8217;s Boys&#8217; School.
+_10 June 2016_ Keynote, <a  href="https://drive.google.com/open?id=1WKBBwsKmBkey_zJNbbLtc4fWvb-rCiLc3Dg4sj5M0s4">Problems</a>, Haberdashers&#8217; Aske&#8217;s Boys&#8217; School.
 
-_29 April 2016_ Keynote, <a style="color: #4078c0;" href="https://drive.google.com/open?id=11ElpKQjnLwbTa516LbPNnBc8ExHhO2rG37jkx60bl98">Teaching computing effectively</a>, ICT for Education, Doncaster.
+_29 April 2016_ Keynote, <a  href="https://drive.google.com/open?id=11ElpKQjnLwbTa516LbPNnBc8ExHhO2rG37jkx60bl98">Teaching computing effectively</a>, ICT for Education, Doncaster.
 
-_19 March 2016_ <a style="color: #4078c0;" href="https://drive.google.com/open?id=1-5JE2RgbFjJaTiuUMvDTMTkoTIyg7HwVzBBmgWxeDss">Computational thinking and Nim</a>. Big Bang Fair, Birmingham.
+_19 March 2016_ <a  href="https://drive.google.com/open?id=1-5JE2RgbFjJaTiuUMvDTMTkoTIyg7HwVzBBmgWxeDss">Computational thinking and Nim</a>. Big Bang Fair, Birmingham.
 
 <p align="left">
   <em>15 March 2016, </em><a href="https://drive.google.com/open?id=1ae3d6yPd96AQ67QND6HD7osEgPNZPyVNnLcgMdfG1MU">Strategies for developing computational thinking through programming with Scratch.</a> Robofest, Singapore.
@@ -102,7 +136,7 @@ _19 January 2016,_ Computing in English schools. Danish delegation, Microsoft Lo
 
 _13 January 2016_, Keynote: [Computing across the curriculum.](https://drive.google.com/open?id=186Aj69rBmZ_QvSc8Q5Favb6C-I40WRoSBNbJLOHSsrE) Islington Computing and Digital Skills celebration, Emirates Stadium.
 
-## 2015
+### 2015
 
 _10 Dec 2015_ Panel discussion, [identifying and supporting the next generation of computing teachers](https://drive.google.com/open?id=1MRIY60mAeYKNFitcXQVaNrkSsVTW1wRiqGxE7D6Xh78), the future of computing in schools, Westminster Forum
 
