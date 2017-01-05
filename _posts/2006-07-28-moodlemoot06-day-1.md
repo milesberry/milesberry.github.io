@@ -3,7 +3,8 @@ id: 1097
 title: 'Moodlemoot06 &#8211; day 1'
 date: 2006-07-28T08:25:30+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1097
 permalink: /2006/07/moodlemoot06-day-1/
 categories:

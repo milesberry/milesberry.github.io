@@ -3,7 +3,8 @@ id: 201
 title: Mindmapping
 date: 2006-02-22T18:04:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=201
 permalink: /2006/02/mindmapping/
 categories:

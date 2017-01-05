@@ -3,7 +3,8 @@ id: 352
 title: Open Source and Web 2.0
 date: 2006-11-26T09:29:07+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=352
 permalink: /2006/11/open-source-and-web-20/
 categories:

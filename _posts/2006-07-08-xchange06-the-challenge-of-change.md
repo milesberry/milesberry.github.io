@@ -3,7 +3,8 @@ id: 1119
 title: 'XChange06 &#8211; The Challenge of Change'
 date: 2006-07-08T10:45:15+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1119
 permalink: /2006/07/xchange06-the-challenge-of-change/
 categories:

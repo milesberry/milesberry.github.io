@@ -3,7 +3,8 @@ id: 780
 title: Creating a new ICT curriculum
 date: 2012-05-22T10:52:17+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=780
 permalink: /2012/05/creating-a-new-ict-curriculum/
 categories:

@@ -3,7 +3,8 @@ id: 733
 title: 'Inaugural address&#8230;'
 date: 2012-03-10T10:21:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=733
 permalink: /2012/03/inaugural-address/
 categories:

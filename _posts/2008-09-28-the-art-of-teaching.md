@@ -3,7 +3,8 @@ id: 364
 title: The Art of Teaching
 date: 2008-09-28T20:13:53+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=364
 permalink: /2008/09/the-art-of-teaching/
 categories:

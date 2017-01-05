@@ -3,7 +3,8 @@ id: 1244
 title: Papert, turtles and creativity
 date: 2015-01-18T20:59:39+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1244
 permalink: /2015/01/papert-turtles-and-creativity/
 categories:

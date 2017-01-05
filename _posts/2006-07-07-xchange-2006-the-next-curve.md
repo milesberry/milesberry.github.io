@@ -3,7 +3,8 @@ id: 1121
 title: 'XChange 2006 &#8211; The Next Curve'
 date: 2006-07-07T12:46:11+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1121
 permalink: /2006/07/xchange-2006-the-next-curve/
 categories:

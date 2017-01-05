@@ -3,7 +3,8 @@ id: 298
 title: Creative Clicking
 date: 2008-10-03T12:00:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=298
 permalink: /2008/10/creative-clicking/
 categories:

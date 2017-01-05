@@ -3,7 +3,8 @@ id: 286
 title: 'Harnessing technology &#8211; beyond tomorrow'
 date: 2006-05-05T13:55:13+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=286
 permalink: /2006/05/harnessing-technology-beyond-tomorrow/
 categories:

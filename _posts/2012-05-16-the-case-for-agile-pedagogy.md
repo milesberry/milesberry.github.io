@@ -3,7 +3,8 @@ id: 736
 title: The case for agile pedagogy
 date: 2012-05-16T10:30:04+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=736
 permalink: /2012/05/the-case-for-agile-pedagogy/
 categories:

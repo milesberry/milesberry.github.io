@@ -3,7 +3,8 @@ id: 829
 title: Social networking in schools
 date: 2012-10-22T08:39:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=829
 permalink: /2012/10/social-networking-in-schools/
 categories:

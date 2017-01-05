@@ -3,7 +3,8 @@ id: 175
 title: NAACE and transformed education
 date: 2006-02-16T19:05:32+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=175
 permalink: /2006/02/naace-and-transformed-education/
 categories:

@@ -3,7 +3,8 @@ id: 519
 title: Ofsted and Open Source
 date: 2009-04-12T19:47:14+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=519
 permalink: /2009/04/ofsted-and-open-source/
 categories:

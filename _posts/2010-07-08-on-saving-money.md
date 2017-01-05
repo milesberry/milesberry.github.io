@@ -3,7 +3,8 @@ id: 614
 title: 'On saving money&#8230;'
 date: 2010-07-08T09:52:26+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=614
 permalink: /2010/07/on-saving-money/
 categories:

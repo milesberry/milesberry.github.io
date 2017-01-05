@@ -3,7 +3,8 @@ id: 296
 title: Moodle in the TES, Friday 5th May
 date: 2006-05-12T12:00:26+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=296
 permalink: /2006/05/moodle-in-the-tes-friday-5th-may/
 categories:

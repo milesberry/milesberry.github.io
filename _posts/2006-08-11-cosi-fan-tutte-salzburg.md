@@ -3,7 +3,8 @@ id: 1084
 title: Così Fan Tutte, Salzburg
 date: 2006-08-11T12:15:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1084
 permalink: /2006/08/cosi-fan-tutte-salzburg/
 categories:

@@ -3,7 +3,8 @@ id: 990
 title: 'More to computing than coding&#8230;'
 date: 2014-01-24T19:06:42+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=990
 permalink: /2014/01/more-to-computing-than-coding/
 categories:

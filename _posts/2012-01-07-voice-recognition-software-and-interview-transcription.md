@@ -3,7 +3,8 @@ id: 709
 title: 'Voice recognition software and interview transcription&#8230;'
 date: 2012-01-07T21:32:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=709
 permalink: /2012/01/voice-recognition-software-and-interview-transcription/
 categories:

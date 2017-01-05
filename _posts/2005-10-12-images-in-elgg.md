@@ -3,7 +3,8 @@ id: 151
 title: Images in Elgg
 date: 2005-10-12T18:59:57+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=151
 permalink: /2005/10/images-in-elgg/
 categories:

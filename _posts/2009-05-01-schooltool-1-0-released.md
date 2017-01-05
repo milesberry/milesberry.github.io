@@ -3,7 +3,8 @@ id: 530
 title: Schooltool 1.0 released
 date: 2009-05-01T21:12:05+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=530
 permalink: /2009/05/schooltool-1-0-released/
 categories:

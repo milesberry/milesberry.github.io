@@ -3,7 +3,8 @@ id: 937
 title: The Computing PoS
 date: 2013-05-01T13:38:55+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=937
 permalink: /2013/05/the-computing-pos/
 categories:

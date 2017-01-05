@@ -3,7 +3,8 @@ id: 1178
 title: Ofsted and Switched on Computing
 date: 2014-08-31T14:24:12+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1178
 permalink: /2014/08/ofsted-and-switched-on-computing/
 categories:

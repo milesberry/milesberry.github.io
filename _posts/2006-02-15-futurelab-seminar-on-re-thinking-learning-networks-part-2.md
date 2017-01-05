@@ -3,7 +3,8 @@ id: 171
 title: 'Futurelab seminar on re-thinking learning networks &#8211; part 2'
 date: 2006-02-15T17:16:06+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=171
 permalink: /2006/02/futurelab-seminar-on-re-thinking-learning-networks-part-2/
 categories:

@@ -3,7 +3,8 @@ id: 1076
 title: Learning platform update
 date: 2006-08-22T12:10:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1076
 permalink: /2006/08/learning-platform-update/
 categories:

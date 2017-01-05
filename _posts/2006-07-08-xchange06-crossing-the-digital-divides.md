@@ -3,7 +3,8 @@ id: 1117
 title: 'XChange06 &#8211; Crossing the digital divides'
 date: 2006-07-08T11:44:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1117
 permalink: /2006/07/xchange06-crossing-the-digital-divides/
 categories:

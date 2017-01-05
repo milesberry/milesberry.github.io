@@ -3,7 +3,8 @@ id: 382
 title: 'OpenSourceSchools &#8211; the inaugural meeting'
 date: 2008-10-21T21:14:34+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=382
 permalink: /2008/10/opensourceschools-the-inaugural-meeting/
 categories:

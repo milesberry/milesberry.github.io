@@ -3,7 +3,8 @@ id: 247
 title: Moodle and Elgg at NCSL
 date: 2006-03-25T11:47:26+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=247
 permalink: /2006/03/moodle-and-elgg-at-ncsl/
 categories:

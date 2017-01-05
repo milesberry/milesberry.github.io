@@ -3,7 +3,8 @@ id: 1215
 title: Making computing more inclusive
 date: 2014-11-01T17:24:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1215
 permalink: /2014/11/making-computing-more-inclusive/
 categories:

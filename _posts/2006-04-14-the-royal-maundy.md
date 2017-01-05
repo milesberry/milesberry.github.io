@@ -3,7 +3,8 @@ id: 268
 title: The Royal Maundy
 date: 2006-04-14T12:28:47+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=268
 permalink: /2006/04/the-royal-maundy/
 categories:

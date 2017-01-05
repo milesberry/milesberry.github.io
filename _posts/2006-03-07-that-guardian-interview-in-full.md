@@ -3,7 +3,8 @@ id: 224
 title: That Guardian interview in full
 date: 2006-03-07T07:17:17+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=224
 permalink: /2006/03/that-guardian-interview-in-full/
 categories:

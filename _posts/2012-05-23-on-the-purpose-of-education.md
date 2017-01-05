@@ -3,7 +3,8 @@ id: 740
 title: On the purpose of education
 date: 2012-05-23T09:00:40+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=740
 permalink: /2012/05/on-the-purpose-of-education/
 categories:

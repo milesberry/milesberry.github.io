@@ -3,7 +3,8 @@ id: 859
 title: Making things in ICT at Roehampton
 date: 2013-02-03T17:06:34+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=859
 permalink: /2013/02/making-things-in-ict-at-roehampton/
 categories:

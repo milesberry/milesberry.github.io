@@ -3,7 +3,8 @@ id: 817
 title: The PLN and informal CPD
 date: 2012-10-07T16:59:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=817
 permalink: /2012/10/the-pln-and-informal-cpd/
 categories:

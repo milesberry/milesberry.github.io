@@ -3,7 +3,8 @@ id: 1105
 title: BSF and innovation
 date: 2006-07-16T12:31:18+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1105
 permalink: /2006/07/bsf-and-innovation/
 categories:

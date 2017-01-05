@@ -4,6 +4,7 @@ title: 'Computing: Supporting effective teaching'
 date: 2014-12-01T20:33:08+00:00
 author: Miles Berry
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1240
 permalink: /2014/12/computing-supporting-effective-teaching/
 categories:

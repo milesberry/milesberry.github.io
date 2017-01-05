@@ -3,7 +3,8 @@ id: 182
 title: Half Term Culture
 date: 2006-02-19T23:17:06+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=182
 permalink: /2006/02/half-term-culture/
 categories:

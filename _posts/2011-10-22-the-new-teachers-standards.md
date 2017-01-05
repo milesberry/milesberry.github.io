@@ -3,7 +3,8 @@ id: 702
 title: 'The new Teachers&#8217; Standards'
 date: 2011-10-22T21:15:28+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=702
 permalink: /2011/10/the-new-teachers-standards/
 categories:

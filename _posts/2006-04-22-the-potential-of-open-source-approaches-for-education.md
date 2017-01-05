@@ -3,7 +3,8 @@ id: 272
 title: The potential of open source approaches for education
 date: 2006-04-22T10:27:37+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=272
 permalink: /2006/04/the-potential-of-open-source-approaches-for-education/
 categories:

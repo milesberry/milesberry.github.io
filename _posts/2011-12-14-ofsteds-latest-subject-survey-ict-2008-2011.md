@@ -3,7 +3,8 @@ id: 694
 title: 'Ofsted&#8217;s latest subject survey: ICT 2008-2011'
 date: 2011-12-14T21:09:09+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=694
 permalink: /2011/12/ofsteds-latest-subject-survey-ict-2008-2011/
 categories:

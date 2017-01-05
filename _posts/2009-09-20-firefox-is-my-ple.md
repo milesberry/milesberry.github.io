@@ -3,7 +3,8 @@ id: 552
 title: Firefox is my PLE
 date: 2009-09-20T20:11:14+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=552
 permalink: /2009/09/firefox-is-my-ple/
 categories:

@@ -3,7 +3,8 @@ id: 863
 title: CPD through making
 date: 2013-02-03T20:12:10+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=863
 permalink: /2013/02/cpd-through-making/
 categories:

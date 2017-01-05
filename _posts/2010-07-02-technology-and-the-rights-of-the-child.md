@@ -3,7 +3,8 @@ id: 609
 title: Technology and the Rights of the Child
 date: 2010-07-02T11:08:55+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=609
 permalink: /2010/07/technology-and-the-rights-of-the-child/
 categories:

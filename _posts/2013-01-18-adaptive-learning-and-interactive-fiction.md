@@ -3,7 +3,8 @@ id: 844
 title: Adaptive Learning and Interactive Fiction
 date: 2013-01-18T21:09:56+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=844
 permalink: /2013/01/adaptive-learning-and-interactive-fiction/
 categories:

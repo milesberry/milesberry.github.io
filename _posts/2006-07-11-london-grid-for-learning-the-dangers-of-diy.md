@@ -3,7 +3,8 @@ id: 1111
 title: 'London Grid for Learning &#8211; the dangers of DIY'
 date: 2006-07-11T12:36:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1111
 permalink: /2006/07/london-grid-for-learning-the-dangers-of-diy/
 categories:

@@ -3,7 +3,8 @@ id: 1454
 title: The Roehampton Annual Computing Education Report 2015
 date: 2016-12-21T16:03:34+00:00
 author: Peter Kemp, Billy Wong and Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1454
 permalink: /2016/12/the-roehampton-annual-computing-education-report-2015/
 categories:

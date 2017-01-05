@@ -3,7 +3,8 @@ id: 1135
 title: Geotagging update
 date: 2006-05-14T12:54:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1135
 permalink: /2006/05/geotagging-update/
 categories:

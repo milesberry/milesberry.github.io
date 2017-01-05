@@ -3,7 +3,8 @@ id: 746
 title: Raspberry Pi interview
 date: 2012-04-13T12:00:46+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=746
 permalink: /2012/04/raspberry-pi-interview/
 categories:

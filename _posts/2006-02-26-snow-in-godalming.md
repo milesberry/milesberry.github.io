@@ -3,7 +3,8 @@ id: 208
 title: Snow in Godalming
 date: 2006-02-26T21:53:44+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=208
 permalink: /2006/02/snow-in-godalming/
 categories:

@@ -3,7 +3,8 @@ id: 1125
 title: Becta open source seminar
 date: 2006-06-01T12:48:37+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1125
 permalink: /2006/06/becta-open-source-seminar/
 categories:

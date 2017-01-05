@@ -3,7 +3,8 @@ id: 645
 title: Computing and Pedagogy
 date: 2011-05-07T18:35:54+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=645
 permalink: /2011/05/computing-and-pedagogy/
 categories:

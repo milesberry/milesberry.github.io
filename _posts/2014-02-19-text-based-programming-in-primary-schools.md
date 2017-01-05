@@ -3,7 +3,8 @@ id: 1001
 title: Text based programming in primary schools?
 date: 2014-02-19T08:00:15+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1001
 permalink: /2014/02/text-based-programming-in-primary-schools/
 categories:

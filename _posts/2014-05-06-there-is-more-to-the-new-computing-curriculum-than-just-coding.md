@@ -3,7 +3,8 @@ id: 1047
 title: There is more to the new computing curriculum than just coding
 date: 2014-05-06T17:07:11+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1047
 permalink: /2014/05/there-is-more-to-the-new-computing-curriculum-than-just-coding/
 categories:

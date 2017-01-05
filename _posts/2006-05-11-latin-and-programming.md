@@ -3,7 +3,8 @@ id: 294
 title: Latin and programming
 date: 2006-05-11T14:24:01+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=294
 permalink: /2006/05/latin-and-programming/
 categories:

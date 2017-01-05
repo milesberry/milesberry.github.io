@@ -3,7 +3,8 @@ id: 405
 title: Dynamic Geometry Software
 date: 2008-11-14T12:58:30+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=405
 permalink: /2008/11/dynamic-geometry-software/
 categories:

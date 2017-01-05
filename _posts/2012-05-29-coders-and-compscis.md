@@ -3,7 +3,8 @@ id: 752
 title: Coders and CompScis
 date: 2012-05-29T16:07:47+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=752
 permalink: /2012/05/coders-and-compscis/
 categories:

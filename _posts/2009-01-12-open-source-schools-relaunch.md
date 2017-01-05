@@ -3,7 +3,8 @@ id: 433
 title: Open Source Schools Relaunch
 date: 2009-01-12T20:35:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=433
 permalink: /2009/01/open-source-schools-relaunch/
 categories:

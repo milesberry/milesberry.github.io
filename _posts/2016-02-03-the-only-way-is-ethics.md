@@ -3,7 +3,8 @@ id: 1350
 title: The only way is ethics
 date: 2016-02-03T15:10:48+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1350
 permalink: /2016/02/the-only-way-is-ethics/
 categories:

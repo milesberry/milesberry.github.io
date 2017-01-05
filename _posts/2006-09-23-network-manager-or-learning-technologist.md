@@ -3,7 +3,8 @@ id: 1070
 title: Network Manager or Learning Technologist
 date: 2006-09-23T12:06:41+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1070
 permalink: /2006/09/network-manager-or-learning-technologist/
 categories:

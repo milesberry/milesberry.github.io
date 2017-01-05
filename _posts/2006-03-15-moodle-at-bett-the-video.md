@@ -3,7 +3,8 @@ id: 235
 title: 'Moodle at BETT &#8211; the video'
 date: 2006-03-15T17:42:33+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=235
 permalink: /2006/03/moodle-at-bett-the-video/
 categories:

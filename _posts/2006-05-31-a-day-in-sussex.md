@@ -3,7 +3,8 @@ id: 1127
 title: A day in Sussex
 date: 2006-05-31T12:49:23+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1127
 permalink: /2006/05/a-day-in-sussex/
 categories:

@@ -3,7 +3,8 @@ id: 1305
 title: Coding and digital skills
 date: 2015-10-15T05:35:31+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1305
 permalink: /2015/10/coding-and-digital-skills/
 categories:

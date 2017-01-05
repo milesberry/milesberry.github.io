@@ -3,7 +3,8 @@ id: 1335
 title: Making the links between computing and mathematics
 date: 2016-01-07T11:10:01+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1335
 permalink: /2016/01/making-the-links-between-computing-and-mathematics/
 categories:

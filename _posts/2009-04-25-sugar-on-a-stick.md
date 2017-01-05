@@ -3,7 +3,8 @@ id: 525
 title: Sugar on a stick
 date: 2009-04-25T20:23:32+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=525
 permalink: /2009/04/sugar-on-a-stick/
 categories:

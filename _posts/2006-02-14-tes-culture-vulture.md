@@ -3,7 +3,8 @@ id: 158
 title: TES Culture Vulture
 date: 2006-02-14T08:03:39+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=158
 permalink: /2006/02/tes-culture-vulture/
 categories:

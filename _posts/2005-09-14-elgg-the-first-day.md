@@ -3,7 +3,8 @@ id: 135
 title: 'Elgg &#8211; the first day'
 date: 2005-09-14T17:02:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://192.168.0.3/?p=135
 permalink: /2005/09/elgg-the-first-day/
 categories:

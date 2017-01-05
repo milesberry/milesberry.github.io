@@ -3,7 +3,8 @@ id: 1262
 title: Teaching computing
 date: 2015-02-09T16:18:56+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1262
 permalink: /2015/02/teaching-computing/
 categories:

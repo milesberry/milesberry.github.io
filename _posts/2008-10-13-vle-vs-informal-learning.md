@@ -3,7 +3,8 @@ id: 346
 title: VLE vs Informal Learning
 date: 2008-10-13T21:32:39+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=346
 permalink: /2008/10/vle-vs-informal-learning/
 categories:

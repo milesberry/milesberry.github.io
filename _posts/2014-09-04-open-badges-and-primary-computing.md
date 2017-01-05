@@ -3,7 +3,8 @@ id: 1184
 title: Open Badges and Primary Computing
 date: 2014-09-04T08:53:17+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1184
 permalink: /2014/09/open-badges-and-primary-computing/
 categories:

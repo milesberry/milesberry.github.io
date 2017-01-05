@@ -3,7 +3,8 @@ id: 442
 title: Open Source Schools Presentation at BETT
 date: 2009-01-20T22:56:57+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=442
 permalink: /2009/01/open-source-schools-presentation-at-bett/
 categories:

@@ -3,7 +3,8 @@ id: 173
 title: 'Futurelab &#8211; enquiring minds'
 date: 2006-02-16T14:16:53+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=173
 permalink: /2006/02/futurelab-enquiring-minds/
 categories:

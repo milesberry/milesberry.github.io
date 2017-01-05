@@ -3,7 +3,8 @@ id: 215
 title: Virtual Torquay
 date: 2006-03-01T09:58:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=215
 permalink: /2006/03/virtual-torquay/
 categories:

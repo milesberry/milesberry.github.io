@@ -3,7 +3,8 @@ id: 1361
 title: Computers and brains
 date: 2016-04-08T14:18:02+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1361
 permalink: /2016/04/computers-and-brains/
 categories:

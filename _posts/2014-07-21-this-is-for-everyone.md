@@ -3,7 +3,8 @@ id: 1142
 title: This is for everyone
 date: 2014-07-21T06:04:41+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1142
 permalink: /2014/07/this-is-for-everyone/
 categories:

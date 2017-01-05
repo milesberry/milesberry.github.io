@@ -3,7 +3,8 @@ id: 940
 title: Froebel and the pedagogy of computing
 date: 2013-09-12T19:55:43+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=940
 permalink: /2013/09/froebel-and-the-pedagogy-of-computing/
 categories:

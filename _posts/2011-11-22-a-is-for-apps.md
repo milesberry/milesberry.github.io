@@ -3,7 +3,8 @@ id: 699
 title: '&#8216;A is for Apps&#8217;'
 date: 2011-11-22T21:12:25+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=699
 permalink: /2011/11/a-is-for-apps/
 categories:

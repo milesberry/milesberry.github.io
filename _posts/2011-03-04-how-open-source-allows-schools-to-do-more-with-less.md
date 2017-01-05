@@ -3,7 +3,8 @@ id: 641
 title: How open source allows schools to do more with less
 date: 2011-03-04T18:24:41+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=641
 permalink: /2011/03/how-open-source-allows-schools-to-do-more-with-less/
 categories:

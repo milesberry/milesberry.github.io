@@ -3,7 +3,8 @@ id: 1066
 title: Primary Mathematics
 date: 2006-10-09T12:04:30+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1066
 permalink: /2006/10/primary-mathematics/
 categories:

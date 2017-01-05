@@ -3,7 +3,8 @@ id: 301
 title: Are we ready for parents to watch our lessons by webcam?
 date: 2008-09-12T12:00:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=301
 permalink: /2008/09/are-we-ready-for-parents-to-watch-our-lessons-by-webcam/
 categories:

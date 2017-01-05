@@ -3,7 +3,8 @@ id: 551
 title: The BCS Response to the Rose Recommendations
 date: 2009-07-23T11:32:28+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=551
 permalink: /2009/07/the-bcs-response-to-the-rose-recommendations/
 categories:

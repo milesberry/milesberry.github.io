@@ -3,7 +3,8 @@ id: 689
 title: National Curriculum Review and EYFS revisions
 date: 2011-12-23T21:05:01+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=689
 permalink: /2011/12/national-curriculum-review-and-eyfs-revisions/
 categories:

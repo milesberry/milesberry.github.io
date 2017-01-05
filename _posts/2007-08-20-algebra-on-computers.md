@@ -3,7 +3,8 @@ id: 374
 title: Algebra on Computers
 date: 2007-08-20T16:06:07+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=374
 permalink: /2007/08/algebra-on-computers/
 categories:

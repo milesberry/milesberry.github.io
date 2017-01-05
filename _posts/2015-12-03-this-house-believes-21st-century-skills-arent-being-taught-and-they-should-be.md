@@ -3,7 +3,8 @@ id: 1317
 title: '&#8216;This House believes 21st Century skills aren’t being taught  &#8211; and they should be&#8217;'
 date: 2015-12-03T18:12:54+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1317
 permalink: /2015/12/this-house-believes-21st-century-skills-arent-being-taught-and-they-should-be/
 categories:

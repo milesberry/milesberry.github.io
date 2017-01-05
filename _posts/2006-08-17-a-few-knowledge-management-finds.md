@@ -3,7 +3,8 @@ id: 1078
 title: A few knowledge management finds
 date: 2006-08-17T12:12:10+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1078
 permalink: /2006/08/a-few-knowledge-management-finds/
 categories:

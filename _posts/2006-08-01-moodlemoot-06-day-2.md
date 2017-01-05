@@ -3,7 +3,8 @@ id: 1088
 title: 'Moodlemoot 06 &#8211; day 2'
 date: 2006-08-01T08:18:33+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1088
 permalink: /2006/08/moodlemoot-06-day-2/
 categories:

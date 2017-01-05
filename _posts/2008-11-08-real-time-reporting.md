@@ -3,7 +3,8 @@ id: 399
 title: Real time reporting
 date: 2008-11-08T20:26:05+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=399
 permalink: /2008/11/real-time-reporting/
 categories:

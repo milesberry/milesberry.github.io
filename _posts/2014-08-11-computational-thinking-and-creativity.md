@@ -3,7 +3,8 @@ id: 1154
 title: Computational thinking and creativity
 date: 2014-08-11T10:36:40+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1154
 permalink: /2014/08/computational-thinking-and-creativity/
 categories:

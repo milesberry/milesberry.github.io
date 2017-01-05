@@ -3,7 +3,8 @@ id: 1049
 title: Computer Science in the National Curriculum
 date: 2014-04-23T17:59:35+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1049
 permalink: /2014/04/computer-science-in-the-national-curriculum/
 categories:

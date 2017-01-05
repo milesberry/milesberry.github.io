@@ -3,7 +3,8 @@ id: 316
 title: The Paperless School?
 date: 2008-10-08T18:00:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=316
 permalink: /2008/10/the-paperless-school/
 categories:

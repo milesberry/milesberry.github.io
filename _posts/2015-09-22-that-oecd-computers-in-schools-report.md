@@ -3,7 +3,8 @@ id: 1308
 title: That OECD computers in schools report
 date: 2015-09-22T05:41:45+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1308
 permalink: /2015/09/that-oecd-computers-in-schools-report/
 categories:

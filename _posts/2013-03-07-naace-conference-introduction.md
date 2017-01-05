@@ -3,7 +3,8 @@ id: 918
 title: Naace Conference Introduction
 date: 2013-03-07T07:56:37+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=918
 permalink: /2013/03/naace-conference-introduction/
 categories:

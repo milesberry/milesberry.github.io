@@ -3,7 +3,8 @@ id: 276
 title: 'Coming of Age &#8211; an introduction to the new world wide web'
 date: 2006-04-27T05:55:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=276
 permalink: /2006/04/coming-of-age-an-introduction-to-the-new-world-wide-web/
 categories:

@@ -3,7 +3,8 @@ id: 509
 title: A level playing field for open source software
 date: 2009-02-26T06:57:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=509
 permalink: /2009/02/a-level-playing-field-for-open-source-software/
 categories:

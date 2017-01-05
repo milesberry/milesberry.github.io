@@ -3,7 +3,8 @@ id: 238
 title: Readability
 date: 2006-03-15T22:08:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=238
 permalink: /2006/03/readability/
 categories:

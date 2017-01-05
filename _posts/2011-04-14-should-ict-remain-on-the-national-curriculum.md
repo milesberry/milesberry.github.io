@@ -3,7 +3,8 @@ id: 636
 title: Should ICT remain on the National Curriculum?
 date: 2011-04-14T18:15:25+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=636
 permalink: /2011/04/should-ict-remain-on-the-national-curriculum/
 categories:

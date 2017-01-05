@@ -3,7 +3,8 @@ id: 1041
 title: Switched on Computing
 date: 2014-03-20T16:55:55+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1041
 permalink: /2014/03/switched-on-computing-2/
 categories:

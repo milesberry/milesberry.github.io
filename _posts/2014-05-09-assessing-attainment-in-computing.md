@@ -3,7 +3,8 @@ id: 1053
 title: Assessing attainment in computing
 date: 2014-05-09T08:34:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1053
 permalink: /2014/05/assessing-attainment-in-computing/
 categories:

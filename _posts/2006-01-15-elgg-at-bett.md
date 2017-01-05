@@ -3,7 +3,8 @@ id: 153
 title: Elgg at BETT
 date: 2006-01-15T12:28:32+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=153
 permalink: /2006/01/elgg-at-bett/
 categories:

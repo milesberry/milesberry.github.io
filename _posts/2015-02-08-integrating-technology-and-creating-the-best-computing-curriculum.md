@@ -3,7 +3,8 @@ id: 1259
 title: Integrating technology and creating the best computing curriculum
 date: 2015-02-08T08:36:48+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1259
 permalink: /2015/02/integrating-technology-and-creating-the-best-computing-curriculum/
 categories:

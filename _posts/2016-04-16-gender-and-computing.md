@@ -3,7 +3,8 @@ id: 1364
 title: Gender and Computing
 date: 2016-04-16T08:52:31+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1364
 permalink: /2016/04/gender-and-computing/
 categories:

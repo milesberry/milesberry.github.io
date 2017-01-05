@@ -3,7 +3,8 @@ id: 760
 title: Gamification
 date: 2012-06-11T11:33:35+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=760
 permalink: /2012/06/gamification/
 categories:

@@ -3,7 +3,8 @@ id: 908
 title: Webmaking with trainee teachers
 date: 2013-02-19T10:45:36+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=908
 permalink: /2013/02/webmaking-with-trainee-teachers/
 categories:

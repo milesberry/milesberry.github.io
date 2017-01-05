@@ -3,7 +3,8 @@ id: 393
 title: Be Very Afraid
 date: 2008-11-08T12:02:40+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=393
 permalink: /2008/11/be-very-afraid/
 categories:

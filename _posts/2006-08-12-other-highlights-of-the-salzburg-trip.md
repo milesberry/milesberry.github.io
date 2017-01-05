@@ -3,7 +3,8 @@ id: 1082
 title: Other highlights of the Salzburg trip
 date: 2006-08-12T08:13:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1082
 permalink: /2006/08/other-highlights-of-the-salzburg-trip/
 categories:

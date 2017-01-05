@@ -3,7 +3,8 @@ id: 1369
 title: Lessons from abroad
 date: 2016-04-26T13:45:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1369
 permalink: /2016/04/lessons-from-abroad/
 categories:

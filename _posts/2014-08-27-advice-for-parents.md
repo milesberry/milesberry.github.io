@@ -3,7 +3,8 @@ id: 1157
 title: 'Advice for parents&#8230;'
 date: 2014-08-27T09:24:02+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1157
 permalink: /2014/08/advice-for-parents/
 categories:

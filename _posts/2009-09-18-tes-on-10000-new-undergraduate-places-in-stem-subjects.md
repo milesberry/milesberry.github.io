@@ -3,7 +3,8 @@ id: 568
 title: TES on 10,000 new undergraduate places in Stem subjects
 date: 2009-09-18T11:38:25+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=568
 permalink: /2009/09/tes-on-10000-new-undergraduate-places-in-stem-subjects/
 categories:

@@ -3,7 +3,8 @@ id: 603
 title: Primary curriculum reform
 date: 2010-05-28T11:54:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=603
 permalink: /2010/05/primary-curriculum-reform/
 categories:

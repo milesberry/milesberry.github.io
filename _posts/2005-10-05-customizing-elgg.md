@@ -3,7 +3,8 @@ id: 149
 title: Customizing Elgg
 date: 2005-10-05T20:08:31+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=149
 permalink: /2005/10/customizing-elgg/
 categories:

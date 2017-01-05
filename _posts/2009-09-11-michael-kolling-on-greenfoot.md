@@ -3,7 +3,8 @@ id: 534
 title: Michael Kölling on Greenfoot
 date: 2009-09-11T21:27:29+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=534
 permalink: /2009/09/michael-kolling-on-greenfoot/
 categories:

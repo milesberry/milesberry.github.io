@@ -3,7 +3,8 @@ id: 570
 title: Open Source Projects as Communities of Practice
 date: 2009-09-27T16:56:49+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=570
 permalink: /2009/09/open-source-projects-as-communities-of-practice/
 categories:

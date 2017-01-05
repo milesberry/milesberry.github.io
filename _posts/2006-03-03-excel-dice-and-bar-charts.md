@@ -3,7 +3,8 @@ id: 218
 title: Excel, dice and bar charts
 date: 2006-03-03T18:37:06+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=218
 permalink: /2006/03/excel-dice-and-bar-charts/
 categories:

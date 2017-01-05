@@ -3,7 +3,8 @@ id: 254
 title: Beethoven and Bruckner at Cadogan Hall
 date: 2006-04-03T07:28:49+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=254
 permalink: /2006/04/beethoven-and-bruckner-at-cadogan-hall/
 enclosure:

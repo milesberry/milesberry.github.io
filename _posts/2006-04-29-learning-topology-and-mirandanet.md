@@ -3,7 +3,8 @@ id: 282
 title: Learning topology and Mirandanet
 date: 2006-04-29T18:22:57+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=282
 permalink: /2006/04/learning-topology-and-mirandanet/
 categories:

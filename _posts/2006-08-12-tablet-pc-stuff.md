@@ -3,7 +3,8 @@ id: 1080
 title: Tablet PC stuff
 date: 2006-08-12T12:13:05+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1080
 permalink: /2006/08/tablet-pc-stuff/
 categories:

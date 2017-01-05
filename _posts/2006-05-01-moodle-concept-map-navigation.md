@@ -3,7 +3,8 @@ id: 284
 title: Moodle concept map navigation
 date: 2006-05-01T18:07:57+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=284
 permalink: /2006/05/moodle-concept-map-navigation/
 categories:

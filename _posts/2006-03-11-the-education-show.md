@@ -3,7 +3,8 @@ id: 231
 title: The Education Show
 date: 2006-03-11T16:42:41+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=231
 permalink: /2006/03/the-education-show/
 categories:

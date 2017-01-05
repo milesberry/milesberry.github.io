@@ -3,7 +3,8 @@ id: 1113
 title: 'XChange06 &#8211; the challenge of innovation'
 date: 2006-07-09T12:42:43+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1113
 permalink: /2006/07/xchange06-the-challenge-of-innovation/
 categories:

@@ -3,7 +3,8 @@ id: 839
 title: Some thoughts on CS CPD
 date: 2013-01-16T19:06:12+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=839
 permalink: /2013/01/some-thoughts-on-cs-cpd/
 categories:

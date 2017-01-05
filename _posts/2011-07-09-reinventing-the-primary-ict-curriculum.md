@@ -3,7 +3,8 @@ id: 687
 title: Reinventing the primary ICT curriculum.
 date: 2011-07-09T20:53:47+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=687
 permalink: /2011/07/reinventing-the-primary-ict-curriculum/
 categories:

@@ -3,7 +3,8 @@ id: 258
 title: Top 10 Moodle Myths
 date: 2006-04-03T11:57:12+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=258
 permalink: /2006/04/top-10-moodle-myths/
 categories:

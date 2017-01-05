@@ -3,7 +3,8 @@ id: 516
 title: Why schools should use open source software
 date: 2009-04-10T09:01:17+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=516
 permalink: /2009/04/why-schools-should-use-open-source-software/
 categories:

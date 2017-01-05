@@ -3,7 +3,8 @@ id: 1068
 title: DfES Technology Benefits Realisation Workshop
 date: 2006-10-08T12:05:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1068
 permalink: /2006/10/dfes-technology-benefits-realisation-workshop/
 categories:

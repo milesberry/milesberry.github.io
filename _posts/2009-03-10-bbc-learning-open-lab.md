@@ -3,7 +3,8 @@ id: 504
 title: 'BBC Learning &#8211; Open Lab'
 date: 2009-03-10T16:20:31+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=504
 permalink: /2009/03/bbc-learning-open-lab/
 categories:

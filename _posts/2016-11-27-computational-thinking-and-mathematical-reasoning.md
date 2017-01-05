@@ -4,6 +4,7 @@ title: Computational thinking and mathematical reasoning
 date: 2016-11-27T16:39:05+00:00
 author: Miles Berry and Andrew Csizmadia
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1438
 permalink: /2016/11/computational-thinking-and-mathematical-reasoning/
 categories:

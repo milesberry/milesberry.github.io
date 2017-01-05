@@ -3,7 +3,8 @@ id: 711
 title: Rethinking ICT
 date: 2012-02-12T09:12:13+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=711
 permalink: /2012/02/rethinking-ict/
 categories:

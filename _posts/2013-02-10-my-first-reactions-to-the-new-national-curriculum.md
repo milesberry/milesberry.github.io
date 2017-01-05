@@ -3,7 +3,8 @@ id: 879
 title: My first reactions to the new national curriculum
 date: 2013-02-10T14:26:28+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=879
 permalink: /2013/02/my-first-reactions-to-the-new-national-curriculum/
 categories:

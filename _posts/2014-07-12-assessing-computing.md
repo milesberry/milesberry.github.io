@@ -3,7 +3,8 @@ id: 1137
 title: Assessing Computing
 date: 2014-07-12T19:03:31+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1137
 permalink: /2014/07/assessing-computing/
 categories:

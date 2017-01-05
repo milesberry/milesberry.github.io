@@ -3,7 +3,8 @@ id: 1115
 title: 'XChange06 &#8211; Innovation in Practice'
 date: 2006-07-08T12:43:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1115
 permalink: /2006/07/xchange06-innovation-in-practice/
 categories:

@@ -3,7 +3,8 @@ id: 184
 title: Schooltool
 date: 2006-02-20T22:31:42+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=184
 permalink: /2006/02/schooltool/
 categories:

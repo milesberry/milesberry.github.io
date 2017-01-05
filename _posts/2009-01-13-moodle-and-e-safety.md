@@ -3,7 +3,8 @@ id: 447
 title: Moodle and e-safety
 date: 2009-01-13T23:23:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=447
 permalink: /2009/01/moodle-and-e-safety/
 categories:

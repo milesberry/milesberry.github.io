@@ -3,7 +3,8 @@ id: 1133
 title: Leicestershire vs Moodle
 date: 2006-05-16T12:54:04+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1133
 permalink: /2006/05/leicestershire-vs-moodle/
 categories:

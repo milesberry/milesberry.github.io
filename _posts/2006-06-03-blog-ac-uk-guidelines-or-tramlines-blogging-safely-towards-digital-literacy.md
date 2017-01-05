@@ -3,7 +3,8 @@ id: 1123
 title: 'blog.ac.uk: Guidelines or Tramlines &#8211; blogging safely towards digital literacy'
 date: 2006-06-03T12:47:39+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1123
 permalink: /2006/06/blog-ac-uk-guidelines-or-tramlines-blogging-safely-towards-digital-literacy/
 categories:

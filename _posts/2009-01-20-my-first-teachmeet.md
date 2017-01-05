@@ -3,7 +3,8 @@ id: 435
 title: My first teachmeet
 date: 2009-01-20T22:35:30+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=435
 permalink: /2009/01/my-first-teachmeet/
 categories:

@@ -3,7 +3,8 @@ id: 1366
 title: Revisiting agile pedagogy
 date: 2016-04-16T19:32:09+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1366
 permalink: /2016/04/revisiting-agile-pedagogy/
 categories:

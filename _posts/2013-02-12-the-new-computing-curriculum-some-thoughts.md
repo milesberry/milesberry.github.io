@@ -3,7 +3,8 @@ id: 890
 title: 'The new computing curriculum &#8211; some thoughts'
 date: 2013-02-12T21:50:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=890
 permalink: /2013/02/the-new-computing-curriculum-some-thoughts/
 categories:

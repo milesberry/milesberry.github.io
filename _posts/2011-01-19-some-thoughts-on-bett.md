@@ -3,7 +3,8 @@ id: 630
 title: Some thoughts on BETT
 date: 2011-01-19T16:07:37+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=630
 permalink: /2011/01/some-thoughts-on-bett/
 categories:

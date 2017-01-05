@@ -3,7 +3,8 @@ id: 476
 title: Informal learning Wordles
 date: 2009-01-27T22:46:26+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=476
 permalink: /2009/01/informal-learning-wordles/
 categories:

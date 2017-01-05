@@ -3,7 +3,8 @@ id: 1107
 title: 'Becta / Futurelab Innovation Workshop &#8211; Day 2'
 date: 2006-07-16T08:32:16+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1107
 permalink: /2006/07/becta-futurelab-innovation-workshop-day-2/
 categories:

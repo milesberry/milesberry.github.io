@@ -3,7 +3,8 @@ id: 628
 title: Computing in School, the Naace Response
 date: 2010-11-17T14:58:48+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=628
 permalink: /2010/11/computing-in-school-the-naace-response/
 categories:

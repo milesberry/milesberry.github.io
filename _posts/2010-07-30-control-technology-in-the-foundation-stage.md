@@ -3,7 +3,8 @@ id: 794
 title: Control technology in the foundation stage
 date: 2010-07-30T13:22:07+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=794
 permalink: /2010/07/control-technology-in-the-foundation-stage/
 categories:

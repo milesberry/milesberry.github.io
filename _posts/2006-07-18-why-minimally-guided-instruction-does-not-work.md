@@ -3,7 +3,8 @@ id: 1062
 title: '&#8220;Why minimally guided instruction does not work&#8221;'
 date: 2006-07-18T10:15:30+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1062
 permalink: /2006/07/why-minimally-guided-instruction-does-not-work/
 categories:

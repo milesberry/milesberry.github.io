@@ -4,6 +4,7 @@ title: Creativity in the new computing curriculum
 date: 2014-09-01T11:08:49+00:00
 author: Miles Berry
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1164
 permalink: /2014/09/creativity-in-the-new-computing-curriculum/
 categories:

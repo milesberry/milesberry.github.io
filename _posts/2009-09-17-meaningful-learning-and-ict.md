@@ -3,7 +3,8 @@ id: 541
 title: Meaningful Learning and ICT
 date: 2009-09-17T05:55:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=541
 permalink: /2009/09/meaningful-learning-and-ict/
 categories:

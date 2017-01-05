@@ -3,7 +3,8 @@ id: 312
 title: Open Source Schools
 date: 2008-10-11T18:00:44+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=312
 permalink: /2008/10/open-source-schools/
 categories:

@@ -3,7 +3,8 @@ id: 1226
 title: Computing and social mobility
 date: 2014-11-26T08:26:41+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1226
 permalink: /2014/11/computing-and-social-mobility/
 categories:

@@ -3,7 +3,8 @@ id: 851
 title: Computer Science makes it to the EBacc
 date: 2013-01-30T19:22:14+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=851
 permalink: /2013/01/computer-science-makes-it-to-the-ebacc/
 categories:

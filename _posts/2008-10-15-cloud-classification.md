@@ -3,7 +3,8 @@ id: 358
 title: Cloud Classification
 date: 2008-10-15T21:04:52+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=358
 permalink: /2008/10/cloud-classification/
 categories:

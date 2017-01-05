@@ -3,7 +3,8 @@ id: 304
 title: Working progress
 date: 2008-06-06T12:00:38+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=304
 permalink: /2008/06/working-progress/
 categories:

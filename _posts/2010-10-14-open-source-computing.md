@@ -3,7 +3,8 @@ id: 620
 title: Open Source Computing
 date: 2010-10-14T21:45:53+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=620
 permalink: /2010/10/open-source-computing/
 categories:

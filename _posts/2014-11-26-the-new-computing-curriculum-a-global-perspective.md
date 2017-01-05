@@ -3,7 +3,8 @@ id: 1242
 title: 'The new computing curriculum &#8211; a global perspective'
 date: 2014-11-26T20:39:09+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1242
 permalink: /2014/11/the-new-computing-curriculum-a-global-perspective/
 categories:

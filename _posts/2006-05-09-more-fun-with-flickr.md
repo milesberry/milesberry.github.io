@@ -3,7 +3,8 @@ id: 292
 title: More fun with Flickr
 date: 2006-05-09T13:30:19+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=292
 permalink: /2006/05/more-fun-with-flickr/
 categories:

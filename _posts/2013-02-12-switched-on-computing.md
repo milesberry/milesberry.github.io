@@ -3,7 +3,8 @@ id: 888
 title: 'Switched on Computing&#8230;'
 date: 2013-02-12T20:29:21+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=888
 permalink: /2013/02/switched-on-computing/
 categories:

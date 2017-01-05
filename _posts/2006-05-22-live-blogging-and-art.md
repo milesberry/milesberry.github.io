@@ -3,7 +3,8 @@ id: 1131
 title: Live blogging and art
 date: 2006-05-22T12:51:13+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1131
 permalink: /2006/05/live-blogging-and-art/
 categories:

@@ -3,7 +3,8 @@ id: 138
 title: Our first posts
 date: 2005-09-27T17:20:00+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://192.168.0.3/?p=138
 permalink: /2005/09/our-first-posts/
 categories:

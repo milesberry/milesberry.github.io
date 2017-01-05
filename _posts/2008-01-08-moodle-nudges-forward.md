@@ -3,7 +3,8 @@ id: 334
 title: Moodle nudges forward
 date: 2008-01-08T12:00:28+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=334
 permalink: /2008/01/moodle-nudges-forward/
 categories:

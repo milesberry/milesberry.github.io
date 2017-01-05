@@ -3,7 +3,8 @@ id: 616
 title: Programming for Androids with App Inventor
 date: 2010-07-14T20:48:22+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=616
 permalink: /2010/07/programming-for-androids-with-app-inventor/
 categories:

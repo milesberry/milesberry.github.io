@@ -3,7 +3,8 @@ id: 240
 title: Moodle in the TES, Friday 10th March
 date: 2006-03-17T18:50:58+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=240
 permalink: /2006/03/moodle-in-the-tes-friday-10th-march/
 categories:

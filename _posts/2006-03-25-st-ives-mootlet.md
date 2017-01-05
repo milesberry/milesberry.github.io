@@ -3,7 +3,8 @@ id: 245
 title: St Ives Mootlet
 date: 2006-03-25T10:25:06+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=245
 permalink: /2006/03/st-ives-mootlet/
 categories:

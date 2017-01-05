@@ -3,7 +3,8 @@ id: 290
 title: Flickr@School
 date: 2006-05-07T08:39:50+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=290
 permalink: /2006/05/flickrschool/
 categories:

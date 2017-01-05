@@ -3,7 +3,8 @@ id: 336
 title: 'The writing&#039;s on the wall for paper and pencil'
 date: 2006-05-16T12:00:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=336
 permalink: /2006/05/the-writings-on-the-wall-for-paper-and-pencil/
 categories:

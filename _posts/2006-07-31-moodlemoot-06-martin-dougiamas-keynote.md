@@ -3,7 +3,8 @@ id: 1090
 title: 'Moodlemoot 06 &#8211; Martin Dougiamas&#8217; keynote'
 date: 2006-07-31T12:19:52+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1090
 permalink: /2006/07/moodlemoot-06-martin-dougiamas-keynote/
 categories:

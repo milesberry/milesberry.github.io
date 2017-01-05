@@ -3,7 +3,8 @@ id: 777
 title: 'Scratch &#8211; across the curriculum'
 date: 2012-06-30T10:04:32+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=777
 permalink: /2012/06/scratch-across-the-curriculum/
 categories:

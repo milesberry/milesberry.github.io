@@ -3,7 +3,8 @@ id: 221
 title: Elgg, Moodle and now Drupal.
 date: 2006-03-05T08:55:34+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=221
 permalink: /2006/03/elgg-moodle-and-now-drupal/
 categories:

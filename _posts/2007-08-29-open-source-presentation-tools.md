@@ -3,7 +3,8 @@ id: 372
 title: Open Source Presentation Tools
 date: 2007-08-29T15:07:19+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=372
 permalink: /2007/08/open-source-presentation-tools/
 categories:

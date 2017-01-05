@@ -4,6 +4,7 @@ title: Making Change
 date: 2016-11-30T15:40:14+00:00
 author: Miles Berry
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1449
 permalink: /2016/11/making-change/
 categories:

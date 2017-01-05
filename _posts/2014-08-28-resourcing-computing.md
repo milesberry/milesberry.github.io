@@ -4,6 +4,7 @@ title: Resourcing primary computing
 date: 2014-08-28T09:30:26+00:00
 author: Miles Berry
 layout: post
+comments: true
 guid: http://milesberry.net/?p=1159
 permalink: /2014/08/resourcing-computing/
 categories:

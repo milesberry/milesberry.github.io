@@ -3,7 +3,8 @@ id: 1219
 title: Software engineering in schools
 date: 2014-11-20T05:52:12+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1219
 permalink: /2014/11/software-engineering-in-schools/
 categories:

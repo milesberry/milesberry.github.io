@@ -3,7 +3,8 @@ id: 387
 title: The Science of Teaching
 date: 2008-10-26T09:53:19+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=387
 permalink: /2008/10/the-science-of-teaching/
 categories:

@@ -3,7 +3,8 @@ id: 582
 title: A learning journey
 date: 2009-10-20T23:11:28+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=582
 permalink: /2009/10/a-learning-journey/
 categories:

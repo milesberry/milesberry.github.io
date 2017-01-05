@@ -3,7 +3,8 @@ id: 589
 title: Open Source Education
 date: 2010-04-08T08:14:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=589
 permalink: /2010/04/open-source-education/
 categories:

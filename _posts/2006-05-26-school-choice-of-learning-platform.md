@@ -3,7 +3,8 @@ id: 1129
 title: School choice of learning platform
 date: 2006-05-26T12:50:19+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1129
 permalink: /2006/05/school-choice-of-learning-platform/
 categories:

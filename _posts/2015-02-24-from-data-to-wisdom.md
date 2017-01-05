@@ -3,7 +3,8 @@ id: 1265
 title: From data to wisdom
 date: 2015-02-24T15:38:24+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1265
 permalink: /2015/02/from-data-to-wisdom/
 categories:

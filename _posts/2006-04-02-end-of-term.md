@@ -3,7 +3,8 @@ id: 252
 title: End of term
 date: 2006-04-02T08:09:24+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=252
 permalink: /2006/04/end-of-term/
 categories:

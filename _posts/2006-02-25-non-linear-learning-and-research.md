@@ -3,7 +3,8 @@ id: 205
 title: Non-linear learning and research
 date: 2006-02-25T21:06:52+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=205
 permalink: /2006/02/non-linear-learning-and-research/
 categories:

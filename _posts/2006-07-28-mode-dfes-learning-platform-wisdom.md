@@ -3,7 +3,8 @@ id: 1095
 title: Mode DfES Learning Platform Wisdom
 date: 2006-07-28T12:23:57+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1095
 permalink: /2006/07/mode-dfes-learning-platform-wisdom/
 categories:

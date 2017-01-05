@@ -3,7 +3,8 @@ id: 592
 title: Social Constructivism and Open Source
 date: 2010-03-08T08:19:09+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=592
 permalink: /2010/03/social-constructivism-and-open-source/
 categories:

@@ -3,7 +3,8 @@ id: 229
 title: Moodle at BETT and after
 date: 2006-03-10T06:11:35+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=229
 permalink: /2006/03/moodle-at-bett-and-after/
 categories:

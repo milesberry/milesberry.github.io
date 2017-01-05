@@ -3,7 +3,8 @@ id: 250
 title: Knowledge management in education and the role of VLEs
 date: 2006-03-31T08:55:08+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=250
 permalink: /2006/03/knowledge-management-in-education-and-the-role-of-vles/
 categories:

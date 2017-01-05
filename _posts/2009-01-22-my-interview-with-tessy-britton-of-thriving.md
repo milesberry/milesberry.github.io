@@ -3,7 +3,8 @@ id: 464
 title: My interview with Tessy Britton of Thriving
 date: 2009-01-22T21:40:42+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=464
 permalink: /2009/01/my-interview-with-tessy-britton-of-thriving/
 categories:

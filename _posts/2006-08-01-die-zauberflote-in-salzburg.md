@@ -3,7 +3,8 @@ id: 1086
 title: Die Zauberflöte in Salzburg
 date: 2006-08-01T12:17:33+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1086
 permalink: /2006/08/die-zauberflote-in-salzburg/
 categories:

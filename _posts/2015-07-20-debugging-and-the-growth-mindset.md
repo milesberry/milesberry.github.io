@@ -3,7 +3,8 @@ id: 1298
 title: Debugging and the growth mindset
 date: 2015-07-20T15:49:51+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1298
 permalink: /2015/07/debugging-and-the-growth-mindset/
 categories:

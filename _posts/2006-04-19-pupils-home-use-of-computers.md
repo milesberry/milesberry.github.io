@@ -3,7 +3,8 @@ id: 270
 title: 'Pupils&#039; home use of computers'
 date: 2006-04-19T11:46:45+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=270
 permalink: /2006/04/pupils-home-use-of-computers/
 categories:

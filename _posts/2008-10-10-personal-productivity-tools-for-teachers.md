@@ -3,7 +3,8 @@ id: 314
 title: Personal productivity tools for teachers
 date: 2008-10-10T12:00:19+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=314
 permalink: /2008/10/personal-productivity-tools-for-teachers/
 categories:

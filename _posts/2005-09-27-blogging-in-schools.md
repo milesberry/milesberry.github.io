@@ -3,7 +3,8 @@ id: 143
 title: Blogging in schools
 date: 2005-09-27T17:48:06+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=143
 permalink: /2005/09/blogging-in-schools/
 categories:

@@ -3,7 +3,8 @@ id: 1340
 title: Laying the foundations for computing in the early years
 date: 2016-01-18T19:36:33+00:00
 author: Miles Berry and Emma Goto
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1340
 permalink: /2016/01/laying-the-foundations-for-computing-in-the-early-years/
 categories:

@@ -3,7 +3,8 @@ id: 210
 title: Becta publish learning services framework agreement
 date: 2006-02-28T21:46:51+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=210
 permalink: /2006/02/becta-publish-learning-services-framework-agreement/
 categories:

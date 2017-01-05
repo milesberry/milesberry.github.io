@@ -3,7 +3,8 @@ id: 376
 title: 'AS ICT &#8211; Some thoughts'
 date: 2008-10-20T21:47:52+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=376
 permalink: /2008/10/as-ict-some-thoughts/
 categories:

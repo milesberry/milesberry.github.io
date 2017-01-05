@@ -3,7 +3,8 @@ id: 203
 title: A short history of computing
 date: 2006-02-24T22:25:00+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=203
 permalink: /2006/02/a-short-history-of-computing/
 categories:

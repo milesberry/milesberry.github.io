@@ -3,7 +3,8 @@ id: 415
 title: 'What are your kids learning whilst you&#8217;re not looking?'
 date: 2008-11-23T22:45:34+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=415
 permalink: /2008/11/what-are-your-kids-learning-whilst-youre-not-looking/
 categories:

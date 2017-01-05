@@ -3,7 +3,8 @@ id: 180
 title: Primary Matters Spring 06
 date: 2006-02-18T16:07:04+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=180
 permalink: /2006/02/primary-matters-spring-06/
 categories:

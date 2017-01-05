@@ -3,7 +3,8 @@ id: 967
 title: The last few tweaks
 date: 2013-09-16T15:40:56+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=967
 permalink: /2013/09/the-last-few-tweaks/
 categories:

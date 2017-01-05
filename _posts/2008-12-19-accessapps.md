@@ -3,7 +3,8 @@ id: 429
 title: AccessApps
 date: 2008-12-19T19:54:56+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=429
 permalink: /2008/12/accessapps/
 categories:

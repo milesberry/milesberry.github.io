@@ -3,7 +3,8 @@ id: 1322
 title: Some thoughts on pupils ‘bringing their own device’ (BYOD)
 date: 2015-12-17T19:01:42+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1322
 permalink: /2015/12/some-thoughts-on-pupils-bringing-their-own-device-byod/
 categories:

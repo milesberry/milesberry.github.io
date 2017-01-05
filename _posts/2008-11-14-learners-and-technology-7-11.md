@@ -3,7 +3,8 @@ id: 409
 title: 'Learners and Technology: 7-11'
 date: 2008-11-14T19:23:23+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=409
 permalink: /2008/11/learners-and-technology-7-11/
 categories:

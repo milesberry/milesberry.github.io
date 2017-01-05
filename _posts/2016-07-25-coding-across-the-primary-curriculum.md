@@ -3,7 +3,8 @@ id: 1400
 title: Coding across the primary curriculum
 date: 2016-07-25T17:21:39+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1400
 permalink: /2016/07/coding-across-the-primary-curriculum/
 categories:

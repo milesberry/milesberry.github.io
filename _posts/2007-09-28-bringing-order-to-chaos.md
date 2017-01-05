@@ -3,7 +3,8 @@ id: 308
 title: Bringing order to chaos
 date: 2007-09-28T12:00:42+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=308
 permalink: /2007/09/bringing-order-to-chaos/
 categories:

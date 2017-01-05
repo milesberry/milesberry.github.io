@@ -3,7 +3,8 @@ id: 261
 title: Primary VLEs
 date: 2006-04-08T08:30:18+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=261
 permalink: /2006/04/primary-vles/
 categories:

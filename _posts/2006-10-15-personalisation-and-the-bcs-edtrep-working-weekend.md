@@ -3,7 +3,8 @@ id: 1064
 title: Personalisation and the BCS EdTrEP working weekend
 date: 2006-10-15T12:02:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1064
 permalink: /2006/10/personalisation-and-the-bcs-edtrep-working-weekend/
 categories:

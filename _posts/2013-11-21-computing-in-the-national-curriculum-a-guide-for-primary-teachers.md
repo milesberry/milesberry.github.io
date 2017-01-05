@@ -3,7 +3,8 @@ id: 978
 title: 'Computing in the national curriculum: A guide for primary teachers'
 date: 2013-11-21T09:29:44+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=978
 permalink: /2013/11/computing-in-the-national-curriculum-a-guide-for-primary-teachers/
 categories:

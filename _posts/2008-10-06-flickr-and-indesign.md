@@ -3,7 +3,8 @@ id: 328
 title: Flickr and InDesign
 date: 2008-10-06T18:00:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=328
 permalink: /2008/10/flickr-and-indesign/
 categories:

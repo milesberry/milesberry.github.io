@@ -3,7 +3,8 @@ id: 488
 title: Moodle and Open Source Security
 date: 2009-02-03T09:40:59+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=488
 permalink: /2009/02/moodle-and-open-source-security/
 categories:

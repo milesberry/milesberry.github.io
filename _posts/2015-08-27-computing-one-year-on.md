@@ -3,7 +3,8 @@ id: 1310
 title: 'Computing: one year on'
 date: 2015-08-27T05:45:53+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1310
 permalink: /2015/08/computing-one-year-on/
 categories:

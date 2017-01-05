@@ -3,7 +3,8 @@ id: 186
 title: Gifted and Talented
 date: 2006-02-21T18:38:23+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=186
 permalink: /2006/02/gifted-and-talented/
 categories:

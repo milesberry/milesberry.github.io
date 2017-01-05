@@ -3,7 +3,8 @@ id: 288
 title: Götterdämmerung
 date: 2006-05-06T13:35:46+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=288
 permalink: /2006/05/gotterdammerung/
 categories:

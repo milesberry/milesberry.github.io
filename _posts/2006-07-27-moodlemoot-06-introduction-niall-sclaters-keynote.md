@@ -3,7 +3,8 @@ id: 1099
 title: 'Moodlemoot 06 &#8211; Introduction &#038; Niall Sclater&#8217;s Keynote'
 date: 2006-07-27T12:27:14+00:00
 author: Miles Berry
-layout: post
+layout: post 
+comments: true
 guid: http://milesberry.net/?p=1099
 permalink: /2006/07/moodlemoot-06-introduction-niall-sclaters-keynote/
 categories:
