@@ -3,7 +3,7 @@ id: 1454
 title: The Roehampton Annual Computing Education Report 2015
 date: 2016-12-21T16:03:34+00:00
 author: Peter Kemp, Billy Wong and Miles Berry
-layout: post 
+layout: post
 comments: true
 guid: http://milesberry.net/?p=1454
 permalink: /2016/12/the-roehampton-annual-computing-education-report-2015/
@@ -12,21 +12,20 @@ categories:
   - Curriculum
 image:
         feature: 20161220@2x.jpg
-comments: true
 ---
-<p style="color: #1e1e1e;">
+<p>
   <a href="http://bit.ly/TRACER15">This report</a> aims to analyse the uptake of computing / computer science qualifications at GCSE and A-level by looking at the schools that offered the qualifications and the students sitting them in 2015. Below are the key findings.
 </p>
 
-<h2 id="key-findings" style="color: #1e1e1e;">
+<h2 id="key-findings">
   Key Findings
 </h2>
 
-<p style="color: #1e1e1e;">
+<p>
   Despite computing’s place on the national curriculum as a foundation subject, only a minority of schools (28.5%) entered pupils for GCSE computing in 2015. At A-level, only 24% of providers entered students for the qualification. Provision of GCSE and A-level computing varied significantly across the country:
 </p>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     There were 9 Local Authorities (LAs) where less than 2% of students took GCSE computing. At the other end of the scale, there were six (Reading, Blackpool, Newham, Sefton, Bournemouth and West Berkshire) where more than 10% of students are entered.
   </li>
@@ -57,11 +56,11 @@ comments: true
 
 
 
-<p style="color: #1e1e1e;">
+<p>
   There was considerable variation between school types in entries for GCSE and A-level computing:
 </p>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     51.1% of academy converters offered GCSE computing, compared to 37.8% of community schools, 37.1% of foundation schools, 35.2% of sponsor led academies and 34.8% of voluntary aided schools. Only 14.1% of independent schools and 2% of special schools offered GCSE computing.
   </li>
@@ -79,15 +78,15 @@ comments: true
   </li>
 </ul>
 
-<p style="color: #1e1e1e;">
+<p>
   At GCSE, it was very unusual for computing to be taken by the majority of students in a year group &#8211; there were only twenty-one schools where this was the case, seven of which were independent schools. Nevertheless, cohort sizes at GCSE might be considered robust, averaging 22.9. 47.6% of schools offering computing did so with groups smaller than 20 at GCSE. At A-level, cohort sizes were much smaller, with a mean of 7 and a median of just 4. 58.5% of A-level computing providers had fewer than 6 entries. The average cohort size for further education institutions (including sixth form colleges) that offer A-level computing was 18.5, but academy converters offering the subject had an average cohort size of just 5.7 . If the number of students taking computing A-level in many of these providers does not increase then questions are likely to be raised over the economic viability of the qualification due to recent sixth form provision funding changes. Where computing provision did exist in mixed schools, girls were often absent. At GCSE 26.9% of mixed providers had no female students, at A-level the figure was 65.3%.
 </p>
 
-<p style="color: #1e1e1e;">
+<p>
   The entitlement to computing which the national curriculum provides did not appear to be maintained at GCSE or A-level. Only a small fraction of pupils chose (and/or were allowed) to take qualifications in computing: 5.5% of GCSE students and only 1.7% of A-level candidates. As with schools’ take up of the qualification, so with individual students’: there is considerable variation between gender, socio-economic status and ethnicity.
 </p>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     Pupil premium students were under-represented in GCSE computing (19%, compared to 26.6% across GCSE entries); entrants had a lower <a href="https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015">IDACI</a> index than the average (0.194 vs 0.218). Pupil premium students, on average, scored worse than their peers.
   </li>
@@ -102,7 +101,7 @@ comments: true
   </li>
 </ul>
 
-<p style="color: #1e1e1e;">
+<p>
   At GCSE computing, girls outperformed boys, achieving proportionally more A* to B grades, and proportionally fewer other grades. A-level shows a similar pattern to GCSE, with girls, achieving proportionally more A* to B grades, and proportionally fewer other grades.
 </p>
 
@@ -114,11 +113,11 @@ comments: true
 
 
 
-<p style="color: #1e1e1e;">
+<p>
   Computing students might be characterised as relatively academic, although performance on exams is rather lower than might be expected given the entry profile. It is unclear whether this is due to the relative difficulty of the qualification, teaching in the subject or some combination of these and other factors. Computing and ICT seem rather different qualifications:
 </p>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     At GCSE and A-level, ICT has a much more equitable gender spread than computing.
   </li>
@@ -151,11 +150,11 @@ comments: true
   </li>
 </ul>
 
-<h2 id="recommendations" style="color: #1e1e1e;">
+<h2 id="recommendations">
   Recommendations
 </h2>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     Increase the proportion of schools and colleges offering GCSE and A-level computing. <ul>
       <li>
@@ -195,11 +194,11 @@ comments: true
   </li>
 </ul>
 
-<p style="color: #1e1e1e;">
+<p>
   The research topics outlined in this report need further study, in particular there seems a pressing need to explore:
 </p>
 
-<ul style="color: #1e1e1e;">
+<ul>
   <li>
     the uptake of GCSE computing amongst pupil premium females.
   </li>

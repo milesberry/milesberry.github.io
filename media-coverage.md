@@ -319,6 +319,8 @@ Radio interviews for launch of QuickStart Computing for Sky Radio, Manx Radio, 
   &#8220;<a style="color: #4183c4;" href="http://www.theguardian.com/education/2006/mar/07/elearning.technology13">A space on the web that we control</a>&#8221; The Guardian, 7/3/06
 </p>
 
+[Culture Vulture](https://www.tes.com/news/tes-archive/tes-publication/culture-vulture-91), TES, 10/2/06
+
 <p style="color: #000000;">
   &#8220;ICT awards&#8221; TES, 6/1/06
 </p>
