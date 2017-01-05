@@ -12,6 +12,8 @@
 @import "grid";
 @import "type";
 @import "styles";
+$fa-font-path:        "../fonts/font-awesome";
+@import "font-awesome/font-awesome";
 
 // Remove the definition below for a pixel-based layout
 $total-width: 100%;
