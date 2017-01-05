@@ -1,6 +1,6 @@
 ---
 id: 535
-title: About
+title: Miles Berry
 date: 2009-09-13T03:02:03+00:00
 author: Miles Berry
 layout: page
