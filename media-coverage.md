@@ -13,6 +13,10 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Coverage of The Roehampton Annual Computing Education Report 2015 from [The BBC](http://www.bbc.co.uk/news/technology-38364076), [Agent 4 Change](http://agent4change.net/news/2457-teachers-urged-to-sound-computing-alarm), [IT Pro](http://www.itpro.co.uk/careers/education/27805/computing-classes-struggling-to-attract-students) and the [Huffington Post](http://www.huffingtonpost.co.uk/entry/huge-gender-imbalance-in-tech-at-schools-means-just-10-of-computer-science-students-are-girls_uk_5858fbb7e4b09b495caec78d). December 2016
+
+Quote on contribution of computing education to UK world economic rankings, [TES 14/10/16](https://www.tes.com/news/tes-magazine/tes-magazine/digital-and-soft-skills-give-uk-a-competitive-leg).
+
 [Introducing the CSTA interim standards](https://www.youtube.com/watch?v=61srsnoOpUI) for computer science, Sept 2016.
 
 Roundtable, [Computing, two years on](http://flickread.com/edition/html/index.php?pdf=57aadd149475e#30). Education Technology Aug/Sept 2016
