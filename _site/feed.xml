@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2017-01-05T21:07:54+00:00</updated>
+<updated>2017-01-06T05:09:10+00:00</updated>
 <id>/</id>
 <author>
   <name>Miles Berry</name>
@@ -25,19 +25,19 @@
     <uri></uri>
     <email>m.berry@roehampton.ac.uk</email>
   </author>
-  <content type="html">&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+  <content type="html">&lt;p&gt;
   &lt;a href=&quot;http://bit.ly/TRACER15&quot;&gt;This report&lt;/a&gt; aims to analyse the uptake of computing / computer science qualifications at GCSE and A-level by looking at the schools that offered the qualifications and the students sitting them in 2015. Below are the key findings.
 &lt;/p&gt;
 
-&lt;h2 id=&quot;key-findings&quot; style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;h2 id=&quot;key-findings&quot;&gt;
   Key Findings
 &lt;/h2&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   Despite computing’s place on the national curriculum as a foundation subject, only a minority of schools (28.5%) entered pupils for GCSE computing in 2015. At A-level, only 24% of providers entered students for the qualification. Provision of GCSE and A-level computing varied significantly across the country:
 &lt;/p&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     There were 9 Local Authorities (LAs) where less than 2% of students took GCSE computing. At the other end of the scale, there were six (Reading, Blackpool, Newham, Sefton, Bournemouth and West Berkshire) where more than 10% of students are entered.
   &lt;/li&gt;
@@ -63,11 +63,11 @@
  	&lt;figcaption&gt;English schools entering students for GCSE computing, 2015&lt;/figcaption&gt;
  &lt;/figure&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   There was considerable variation between school types in entries for GCSE and A-level computing:
 &lt;/p&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     51.1% of academy converters offered GCSE computing, compared to 37.8% of community schools, 37.1% of foundation schools, 35.2% of sponsor led academies and 34.8% of voluntary aided schools. Only 14.1% of independent schools and 2% of special schools offered GCSE computing.
   &lt;/li&gt;
@@ -85,15 +85,15 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   At GCSE, it was very unusual for computing to be taken by the majority of students in a year group &amp;#8211; there were only twenty-one schools where this was the case, seven of which were independent schools. Nevertheless, cohort sizes at GCSE might be considered robust, averaging 22.9. 47.6% of schools offering computing did so with groups smaller than 20 at GCSE. At A-level, cohort sizes were much smaller, with a mean of 7 and a median of just 4. 58.5% of A-level computing providers had fewer than 6 entries. The average cohort size for further education institutions (including sixth form colleges) that offer A-level computing was 18.5, but academy converters offering the subject had an average cohort size of just 5.7 . If the number of students taking computing A-level in many of these providers does not increase then questions are likely to be raised over the economic viability of the qualification due to recent sixth form provision funding changes. Where computing provision did exist in mixed schools, girls were often absent. At GCSE 26.9% of mixed providers had no female students, at A-level the figure was 65.3%.
 &lt;/p&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   The entitlement to computing which the national curriculum provides did not appear to be maintained at GCSE or A-level. Only a small fraction of pupils chose (and/or were allowed) to take qualifications in computing: 5.5% of GCSE students and only 1.7% of A-level candidates. As with schools’ take up of the qualification, so with individual students’: there is considerable variation between gender, socio-economic status and ethnicity.
 &lt;/p&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     Pupil premium students were under-represented in GCSE computing (19%, compared to 26.6% across GCSE entries); entrants had a lower &lt;a href=&quot;https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015&quot;&gt;IDACI&lt;/a&gt; index than the average (0.194 vs 0.218). Pupil premium students, on average, scored worse than their peers.
   &lt;/li&gt;
@@ -108,7 +108,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   At GCSE computing, girls outperformed boys, achieving proportionally more A* to B grades, and proportionally fewer other grades. A-level shows a similar pattern to GCSE, with girls, achieving proportionally more A* to B grades, and proportionally fewer other grades.
 &lt;/p&gt;
 
@@ -118,11 +118,11 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   Computing students might be characterised as relatively academic, although performance on exams is rather lower than might be expected given the entry profile. It is unclear whether this is due to the relative difficulty of the qualification, teaching in the subject or some combination of these and other factors. Computing and ICT seem rather different qualifications:
 &lt;/p&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     At GCSE and A-level, ICT has a much more equitable gender spread than computing.
   &lt;/li&gt;
@@ -155,11 +155,11 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;recommendations&quot; style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;h2 id=&quot;recommendations&quot;&gt;
   Recommendations
 &lt;/h2&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     Increase the proportion of schools and colleges offering GCSE and A-level computing. &lt;ul&gt;
       &lt;li&gt;
@@ -199,11 +199,11 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;p&gt;
   The research topics outlined in this report need further study, in particular there seems a pressing need to explore:
 &lt;/p&gt;
 
-&lt;ul style=&quot;color: #1e1e1e;&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;
     the uptake of GCSE computing amongst pupil premium females.
   &lt;/li&gt;
