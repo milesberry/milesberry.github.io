@@ -10,31 +10,35 @@ guid: http://milesberry.net/?page_id=718
 
 ### 2017
 
-_11 July 2017_ A guide to UK computing resources. CSTA Conference, Baltimore.
+_11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
 
-_23 June 2017_ Opening keynote, ICT Live, Brighton.
+_23 June 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Brighton.
 
-_19 May 2017_ Opening keynote, ICT Live, Norwich.
+_19 May 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Norwich.
 
-_9 May 2017_ Keynote, Challenges 2017, Braga, Portugal.
+_9 May 2017_ Keynote, [Challenges 2017](https://www.nonio.uminho.pt/challenges/), Braga, Portugal.
 
-_24 March 2017_ Opening keynote, ICT Live, Maidstone.
+_24 March 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
 
 _23 March 2017_ Assessing computing. GDST.
 
-_25 February 2017_ Presentations on primary pedagogy and secondary assessment, CAS London Conference, Gladesmore Community College.
+_16 March 2017_ Computing across the curriculum. [The Education Show](http://www.education-show.com/), Birmingham.
 
-_9-11 February 2017_ Presentations on what we're learning about teaching computing and computing across the curriculum. New Technologies in Education, 2017, Belgrade.
+_25 February 2017_ Presentations on primary pedagogy and secondary assessment, [CAS London Conference](https://www.eventbrite.co.uk/e/cas-london-conference-2017-tickets-28860928815), Gladesmore Community College.
+
+_9-11 February 2017_ Presentations on what we're learning about teaching computing and computing across the curriculum. [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
 
 _1 February 2017_ Researching technology enhanced learning. University of Roeahmpton Secondary PGCE conference.
 
-_28 January 2017_ Project Quantum. Google at BETT.
+_28 January 2017_ Project Quantum. [Google](http://www.bettshow.com/Exhibitor/Google-UK-Limited) at BETT.
 
 _26 January 2017_ [Nordic @ BETT](http://www.bettshow.com/Exhibitor/Nordic-BETT2017)
 
 _26 January 2017_ Panel debate: [How far can traditional methods of assessment suit modern pedagogy?](http://www.bettshow.com/Seminar/How-far-can-traditional-methods-of-assessment-suit-modern-pedagogy) HE Leaders Summit, BETT.
 
-_13 January 2017_ Opening keynote, Islington Computing Celebration, Emirates Stadium.
+_25 January 2017_ The Roehampton Annual Computing Education Report 2015, [Raspberry Pi](http://www.bettshow.com/Content/The-Raspberry-Pi-Foundation) at BETT.
+
+_13 January 2017_ Opening keynote, [Islington Computing Celebration](https://securesurvey.islington.gov.uk/selectsurvey/TakeSurvey.aspx?PageNumber=1&SurveyID=l2MHm86&Preview=true), Emirates Stadium.
 
 _10 January 2017_ Curriculum conference and workshops, Hanoi, Vietnam.
 
