@@ -28,21 +28,25 @@ _25 February 2017_ Presentations on primary pedagogy and secondary assessment, [
 
 _9-11 February 2017_ Presentations on what we're learning about teaching computing and computing across the curriculum. [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
 
-_1 February 2017_ Researching technology enhanced learning. University of Roeahmpton Secondary PGCE conference.
+_1 February 2017_ Researching technology enhanced learning. University of Roehampton Secondary PGCE conference.
 
-_28 January 2017_ Project Quantum. [Google](http://www.bettshow.com/Exhibitor/Google-UK-Limited) at BETT.
+_31 January 2017_ Computing in English schools. Presentation to JAPET delegation, BCS London.
+
+## Previous
+
+_28 January 2017_ [Project Quantum](http://bit.ly/quantumatbett). Google at BETT.
 
 _26 January 2017_ [Nordic @ BETT](http://www.bettshow.com/Exhibitor/Nordic-BETT2017)
 
-_26 January 2017_ Panel debate: [How far can traditional methods of assessment suit modern pedagogy?](http://www.bettshow.com/Seminar/How-far-can-traditional-methods-of-assessment-suit-modern-pedagogy) HE Leaders Summit, BETT.
+_26 January 2017_ Panel debate: [How far can traditional methods of assessment suit modern pedagogy?](http://bit.ly/bettvideo) HE Leaders Summit, BETT.
 
-_25 January 2017_ The Roehampton Annual Computing Education Report 2015, [Raspberry Pi](http://www.bettshow.com/Content/The-Raspberry-Pi-Foundation) at BETT.
+_25 January 2017_ Panel debate: Raspberry Pi Foundation, BETT Arena.
+
+_25 January 2017_ [The Roehampton Annual Computing Education Report 2015](http://bit.ly/TRACER15), with Pete Kemp, Raspberry Pi at BETT.
 
 _13 January 2017_ Opening keynote, [Islington Computing Celebration](https://securesurvey.islington.gov.uk/selectsurvey/TakeSurvey.aspx?PageNumber=1&SurveyID=l2MHm86&Preview=true), Emirates Stadium.
 
-_10 January 2017_ Curriculum conference and workshops, Hanoi, Vietnam.
-
-## Previous
+_10 January 2017_ Presentations on curriculum development and integrated teaching in England, International experience in general education curriculum development and application in Vietnamese conditions, Hanoi, Vietnam.
 
 ### 2016
 

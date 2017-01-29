@@ -6,6 +6,11 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
+
+_Jan 2017_ [QuickStart Computing for KS3](http://computingatschool.org.uk/quickstart), Swindon: BCS.
+
+_Jan 2017_ Contributing editor, [Hello World](http://helloworld.cc), CAS / Raspberry Pi Foundation
+
 _Dec 2016_ [The Roehampton Annual Computing Education Report 2015](http://bit.ly/TRACER15). With Pete Kemp and Billy Wong.
 
 _Nov 2016_ Time for Change. Teach Primary.

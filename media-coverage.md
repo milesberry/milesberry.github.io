@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Coverage of [Hello World launch](http://www.itpro.co.uk/public-sector/27970/raspberry-pi-british-computing-teachers-need-more-help), IT Pro. 25/1/17
+
 [TV interview](https://twitter.com/LondonLive/status/819968468061749249) for London Live at Islington Computing Celebration. 13/1/17
 
 Coverage of [The Roehampton Annual Computing Education Report 2015](http://bit.ly/TRACER15) from [The BBC](http://www.bbc.co.uk/news/technology-38364076), [Agent 4 Change](http://agent4change.net/news/2457-teachers-urged-to-sound-computing-alarm), [IT Pro](http://www.itpro.co.uk/careers/education/27805/computing-classes-struggling-to-attract-students) and the [Huffington Post](http://www.huffingtonpost.co.uk/entry/huge-gender-imbalance-in-tech-at-schools-means-just-10-of-computer-science-students-are-girls_uk_5858fbb7e4b09b495caec78d). December 2016
