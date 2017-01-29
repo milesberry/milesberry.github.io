@@ -32,6 +32,8 @@ _1 February 2017_ Researching technology enhanced learning. University of Roeham
 
 _31 January 2017_ Computing in English schools. Presentation to JAPET delegation, BCS London.
 
+_30 January 2017_ Teaching Digital Skills: A Strategic Approach to Teacher Training and Support. Webinar, British Council.
+
 ## Previous
 
 _28 January 2017_ [Project Quantum](http://bit.ly/quantumatbett). Google at BETT.
