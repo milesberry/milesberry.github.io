@@ -14,6 +14,8 @@ _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.
 
 _23 June 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Brighton.
 
+_22 June 2017_ Computing across the curriculum. [The Telegraph Festival of Education](https://www.eventbrite.co.uk/e/the-telegraph-festival-of-education-2017-tickets-29678737904), Wellington College.
+
 _19 May 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Norwich.
 
 _9 May 2017_ Keynote, [Challenges 2017](https://www.nonio.uminho.pt/challenges/), Braga, Portugal.
@@ -32,9 +34,9 @@ _1 February 2017_ Researching technology enhanced learning. University of Roeham
 
 _31 January 2017_ Computing in English schools. Presentation to JAPET delegation, BCS London.
 
-_30 January 2017_ Teaching Digital Skills: A Strategic Approach to Teacher Training and Support. Webinar, British Council.
-
 ## Previous
+
+_30 January 2017_ Teaching Digital Skills: A Strategic Approach to Teacher Training and Support. Webinar, British Council.
 
 _28 January 2017_ [Project Quantum](http://bit.ly/quantumatbett). Google at BETT.
 
