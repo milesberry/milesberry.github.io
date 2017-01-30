@@ -6,7 +6,7 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=718
 ---
-## **Forthcoming**
+## Forthcoming
 
 ### 2017
 
