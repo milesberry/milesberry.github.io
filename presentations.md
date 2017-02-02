@@ -36,7 +36,7 @@ _31 January 2017_ Computing in English schools. Presentation to JAPET delegation
 
 ## Previous
 
-_30 January 2017_ Teaching Digital Skills: A Strategic Approach to Teacher Training and Support. Webinar, British Council.
+_30 January 2017_ [Teaching Digital Skills: A Strategic Approach to Teacher Training and Support](https://docs.google.com/presentation/d/1wxQDwFXMmIeYHkECTo0X83xey5NO_BHNBlhQUhGeqXo/edit?usp=sharing). Webinar, British Council.
 
 _28 January 2017_ [Project Quantum](http://bit.ly/quantumatbett). Google at BETT.
 
