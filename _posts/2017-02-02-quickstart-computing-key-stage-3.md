@@ -9,7 +9,7 @@ categories:
   - CS
   - Curriculum
 image:
-        feature: 170126 - 183447.jpg
+        feature: 170126.jpg
 ---
 At BETT last week we launched the Key Stage 3 edition of QuickStart Computing. The PDF of this is now available online at [bit.ly/qsks3](http://bit.ly/qsks3).
 
