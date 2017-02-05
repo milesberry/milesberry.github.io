@@ -23,7 +23,7 @@ The data, media and processing power available to students today means they need
 
 Finally, students need to look back on what they’ve done, to take a critical perspective on their work, to whether they have achieved what they set out to, and to see how their solution might be improved. They should reflect on how they’ve learnt as well as what they’ve learnt.
 
-![The computational thinker](/images/2017/02/barefoot.jpg)
+![The computational thinker](/images/barefoot.jpg)
 
 This sort of thinking that comes before technology use: logic, algorithms, decomposition, generalisation, abstraction and evaluation, is what is called ‘computational thinking’. It’s the golden thread that runs through England’s computing curriculum, and, as it becomes better embedded in our teaching, it should help to ensure that technology really does improve learning outcomes.
 
