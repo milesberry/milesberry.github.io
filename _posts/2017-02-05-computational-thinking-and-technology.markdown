@@ -21,7 +21,7 @@ Stepping back from the current problem to look at a larger class of similar prob
 
 The data, media and processing power available to students today means they need tools and techniques for managing complexity, of looking at the right level of detail to get the job done, but knowing how to zoom in to a finer grain and to zoom out to the big picture.
 
-Finally, students need to look back on what they’ve done, to take a critical perspective on their work, to whether they have achieved what they set out to, and to see how their solution might be improved. They should reflect on how they’ve learnt as well as what they’ve learnt.
+Finally, students need to look back on what they’ve done, to take a critical perspective on their work, to consider whether they have achieved what they set out to, and to see how their solution might be improved. They should reflect on how they’ve learnt as well as what they’ve learnt.
 
 ![The computational thinker](/images/barefoot.jpg)
 
