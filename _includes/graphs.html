@@ -5,7 +5,7 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.image.feature %}
-<meta property="og:image" content="{{ page.image.feature }}">
+  <meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}/images/avatar.png">
 {% endif %}
-
-
