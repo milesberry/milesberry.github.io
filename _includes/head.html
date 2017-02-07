@@ -16,9 +16,7 @@
 {% if page.url %}
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-{% elsif post.content %}
+{% if post.content %}
     <meta name="twitter:description" content="{{ post.content | strip_html | strip_newlines | truncate: 60 }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
