@@ -7,7 +7,9 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
-_Jan 2017_ [QuickStart Computing for KS3](http://computingatschool.org.uk/quickstart), Swindon: BCS.
+_Jan 2017_ [Computational thinking should ensure technology improves learning outcomes](https://educationblog.oup.com/digital-futures/computational-thinking-should-ensure-technology-improves-learning-outcomes), post for Oxford Education Blog, OUP.
+
+_Jan 2017_ [QuickStart Computing for KS3](http://bit.ly/qsks3), Swindon: BCS.
 
 _Jan 2017_ Contributing editor, [Hello World](http://helloworld.cc), CAS / Raspberry Pi Foundation
 

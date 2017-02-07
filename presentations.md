@@ -20,6 +20,8 @@ _19 May 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), No
 
 _9 May 2017_ Keynote, [Challenges 2017](https://www.nonio.uminho.pt/challenges/), Braga, Portugal.
 
+_19 April 2017_ Keynote, [I&I Pracktijkdag](http://www.ieniconferentie.nl/), University of Utrecht.
+
 _24 March 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
 
 _23 March 2017_ Assessing computing. GDST.
@@ -28,13 +30,13 @@ _16 March 2017_ Computing across the curriculum. [The Education Show](http://www
 
 _25 February 2017_ Presentations on primary pedagogy and secondary assessment, [CAS London Conference](https://www.eventbrite.co.uk/e/cas-london-conference-2017-tickets-28860928815), Gladesmore Community College.
 
-_9-11 February 2017_ Presentations on what we're learning about teaching computing and computing across the curriculum. [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
+_9-11 February 2017_ Presentations on [what we're learning about teaching computing](http://bit.ly/nte17b) and [coding across the curriculum](http://bit.ly/nte17a), plus panel discussion on coding from age 5, [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
+
+## Previous
 
 _1 February 2017_ Researching technology enhanced learning. University of Roehampton Secondary PGCE conference.
 
 _31 January 2017_ Computing in English schools. Presentation to JAPET delegation, BCS London.
-
-## Previous
 
 _30 January 2017_ [Teaching Digital Skills: A Strategic Approach to Teacher Training and Support](https://docs.google.com/presentation/d/1wxQDwFXMmIeYHkECTo0X83xey5NO_BHNBlhQUhGeqXo/edit?usp=sharing). Webinar, British Council.
 
