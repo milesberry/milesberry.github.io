@@ -18,8 +18,8 @@
 {% endif %}
 {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">
-{% elsif post.description %}
-      <meta name="twitter:description" content="{{ post.description }}">
+{% elsif post.content %}
+      <meta name="twitter:description" content="{{ post.content | strip_html | strip_newlines | truncate: 60 }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
