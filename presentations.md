@@ -34,9 +34,9 @@ _9-11 February 2017_ Presentations on [what we're learning about teaching comput
 
 ## Previous
 
-_1 February 2017_ Researching technology enhanced learning. University of Roehampton Secondary PGCE conference.
+_1 February 2017_ [Researching technology enhanced learning](https://docs.google.com/presentation/d/163_DZC5-iU287d7Fjc0YadmOxda7eJ809xOGIfzWEsE/edit). University of Roehampton Secondary PGCE conference.
 
-_31 January 2017_ Computing in English schools. Presentation to JAPET delegation, BCS London.
+_31 January 2017_ [Computing in English schools](https://drive.google.com/open?id=1T45D4b-D-NSbHg-eYBlqCZ7wBNUHGpd_u0qSwmB4I2o). Presentation to JAPET delegation, BCS London.
 
 _30 January 2017_ [Teaching Digital Skills: A Strategic Approach to Teacher Training and Support](https://docs.google.com/presentation/d/1wxQDwFXMmIeYHkECTo0X83xey5NO_BHNBlhQUhGeqXo/edit?usp=sharing). Webinar, British Council.
 
