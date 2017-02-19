@@ -21,6 +21,8 @@ Coverage of [The Roehampton Annual Computing Education Report 2015](http://bit.l
 
 Quote on contribution of computing education to UK world economic rankings, [TES 14/10/16](https://www.tes.com/news/tes-magazine/tes-magazine/digital-and-soft-skills-give-uk-a-competitive-leg).
 
+Comment on computing in Key Stage 1 for Crossing the Curriculum, Right Start, Sept-Oct 2016.
+
 [Introducing the CSTA interim standards](https://www.youtube.com/watch?v=61srsnoOpUI) for computer science, Sept 2016.
 
 Roundtable, [Computing, two years on](http://flickread.com/edition/html/index.php?pdf=57aadd149475e#30). Education Technology Aug/Sept 2016
