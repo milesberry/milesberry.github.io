@@ -2,6 +2,7 @@
 layout: "post"
 title: "Computing values"
 date: "2017-01-25 14:00"
+permalink: /2017/01/computing-values/
 author: Miles Berry
 comments: true
 image:

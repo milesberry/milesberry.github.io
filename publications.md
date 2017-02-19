@@ -11,6 +11,8 @@ _Jan 2017_ [Computational thinking should ensure technology improves learning ou
 
 _Jan 2017_ [QuickStart Computing for KS3](http://bit.ly/qsks3), Swindon: BCS.
 
+_Jan 2017_ [Values?](/2017/01/computing-values/) Comment column for [Hello World](http://helloworld.cc)
+
 _Jan 2017_ Contributing editor, [Hello World](http://helloworld.cc), CAS / Raspberry Pi Foundation
 
 _Dec 2016_ [The Roehampton Annual Computing Education Report 2015](http://bit.ly/TRACER15). With Pete Kemp and Billy Wong.
