@@ -3,6 +3,7 @@ layout: post
 title: "A Computing Glossary"
 date: "2017-02-23 08:20:56 +0000"
 author: Miles Berry
+permalink: /2017/02/glossary/
 comments: true
 image:
         feature: 170220.jpg

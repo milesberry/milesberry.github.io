@@ -2,6 +2,7 @@
 layout: post
 title: "Computational thinking and technology"
 date: "2017-02-05 10:33:50 -0500"
+permalink: /2017/02/computational-thinking-and-technology/
 author: Miles Berry
 comments: true
 image:
