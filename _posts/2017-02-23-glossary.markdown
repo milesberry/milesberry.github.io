@@ -143,7 +143,7 @@ image:
 
 **screencast** – a recording of on-screen action that is often accompanied by an audio narration.
 
-**security** - ensuring that data or systems are not available to those authorised to access it and that it is available to those who are so authorised.
+**security** - ensuring that data or systems are not available to those unauthorised to access it and that it is available to those who are so authorised.
 
 **script** – a computer program typically executed one line at a time through an interpreter, such as the instructions for a Scratch character.
 
