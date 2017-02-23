@@ -1,0 +1,181 @@
+---
+layout: post
+title: "A Computing Glossary"
+date: "2017-02-23 08:20:56 +0000"
+author: Miles Berry
+comments: true
+image:
+        feature: 170220.jpg
+---
+
+**abstraction (process)** – managing complexity through selecting and capturing relevant information about a thing, a system or a problem, or hiding at a lower level operational details.
+
+**abstraction (product)** – a representation of a thing, a system or a problem that contains only selected (relevant) details about its state and/or behaviour; for example, a diagram is an abstraction.
+
+**Acceptable Use Policy (AUP)** - An Acceptable Use Policy comprises a set of rules applied by the owner/manager of a network, website or large computer system that defines the ways in which the network, site or system may be used.
+
+**algorithm** – a set of unambiguous rules or a sequence of instructions to achieve a particular objective.
+
+**array** – a data structure comprising a collection of values of the same type, accessible through an index; arrays include lists but can have more than one dimension.
+
+**assembly code** – a human-readable programming language in which each instruction corresponds to a single executable instruction for a CPU.
+
+**binary** – the base 2 number system, and a method of encoding data using two symbols, 1 and 0.
+
+**binary number** – a number written in the base 2 number system.
+
+**bit** – a basic unit of data that stores one binary value, 1 or 0.
+
+**bitmap** – a collection of pixels forming an image.
+
+**Boolean** – a system of logic, in which statements are represented as allowed combinations of predicates which are either TRUE or FALSE, with formal rules for working with such statements; a data type with only two values, TRUE or FALSE.
+
+**browser cookie** – a small piece of text recording activity about websites you visit, stored on your computer.
+
+**circuit** – a grouping of electronic components that allow for operations to be performed.
+
+**code** – any sequence of instructions or set of rules expressed in a programming language.
+
+**coding** – taking the ideas of an algorithm and expressing them in the formal code of a programming language.
+
+**colour depth** – the number of different colours that may be used in an image, dictated by the number of bits used to represent the colour of each pixel.
+
+**command** – An instruction for the computer to execute, written in a particular programming language.
+
+**compiler** – a program that converts programs written in one language (source code) into equivalent programs written in a different language (often in the form of instructions that a processor can execute, i.e. machine code).
+
+**computational thinking** – looking at problems and systems in such a way that a computer can help us solve or understand them.
+
+**CPU** – central processing unit; the device within a computer that executes instructions.
+
+**Creative Commons** – A licensing scheme where the creator of an original work allows others to use it without seeking further permission, subject to a number of agreed conditions – www. creativecommons.org.
+
+**data** – A structured set of numbers, possibly representing digitised text, images, sound or video, which can be processed or transmitted by a computer, also used for numerical (quantitative) information.
+
+**data structure** – a particular way to store and organise data within a computer program.
+
+**decimal / denary** – the base 10 number system.
+
+**decomposition** – breaking a problem or system down into its components.
+
+**digital** – representing information using discrete numerical values.
+
+**digital artefact** – digital content made by a human with intent and skill.
+
+**digital creator** – a person who makes digital artefacts.
+
+**digital media** – media encoded in a computer readable form.
+
+**Domain Name Service (DNS)** – The distributed automatic system that converts domain names into the IP addresses which are used for routing packets via the internet.
+
+**encrypt** – To securely encode information so that it can only be read by those knowing both the system used and a secret, private key.
+
+**function** - a program module which, like a function in mathematics, transforms an input value into an output value according to a set of rules or a sequence of steps.
+
+**generalisation** – A computational thinking process in which general solutions or models are preferred to or derived from particular cases.
+
+**hardware** – the physical components that make up a computer.
+
+**HTML** – hypertext mark-up language; the language used to create web pages.
+
+**Hypertext Transfer Protocol (HTTP)** – HTTP is the standard protocol for the request and transmission of HTML web pages between browser and web server.
+
+**identity** - who a person is; that which distinguishes them from another but remains (broadly) stable over time.
+
+**input** – data provided to a computer system, such as via a keyboard, mouse, microphone, camera or physical sensors.
+
+**interface** – The boundary between one system and another.
+
+**internet** – a global network of interconnected networks.
+
+**interpreter** – a program that converts instructions written in one language into equivalent instructions in another language, typically executing each instruction as soon as it is translated.
+
+**IP address** – Internet Protocol address; a unique numeric value that is assigned to a computer or other device connected to the internet so that it may be identified and located.
+
+**lists** – a data structure for storing ordered (although not necessarily sorted) values.
+
+**loop** – A block of code repeated automatically under the program’s control.
+
+**logical reasoning** - to make deductions or inference according to a set of accepted rules from given premises.
+
+**model** – a representation of (some part of) a problem or a system.
+
+**modelling** – the act of creating a model.
+
+**modular design** – the practice of designing a system or program as a set of independent but interacting units (modules) that may be implemented and tested separately before bringing them together to solve the overall problem.
+
+**network** – the computers and the connecting hardware (wifi access points, cables, fibres, switches and routers) that make it possible to transfer data using an agreed method (‘protocol’).
+
+**online safety** – used to describe behaviours and policies intended to minimise the risks to a user of using digital technology, particularly the internet.
+
+**open source software** – Software in which the source code is made available for others to study, and typically adapt, usually with few if any restrictions.
+
+**operating system** – The programs on a computer which deal with internal management of memory, input/output, security and so on, such as Windows 10 or iOS.
+
+**output** – The information produced by a computer system for its user, typically on a screen, through speakers or on a printer, but possibly through the control of motors in physical systems.
+
+**packet** – more precisely, a network packet. A formatted unit of data for transmission across a network. Each packet contains part of a message plus some additional data, including where it is from and where it is going.
+
+**Packets of data** – A small set of numbers that get transmitted together via the internet, typically enough for 1000 or 1500 characters.
+
+**pixel** – the smallest controllable element of a picture/display.
+
+**privacy** - ensuring that information is only available to those to whom its owner has chosen.
+
+**procedure** - a program module which may take any number of arguments and may return a result; it may change the state of other parts of the computer system on which it is executed.
+
+**process** – the act of using data to perform a calculation or other operation.
+
+**program** – a sequence of instructions or set of rules, expressed as code that the computer executes in order to achieve a particular objective.
+
+**program** – A stored set of instructions encoded in a language understood by the computer that does some form of computation, processing input and/or stored data to generate output.
+
+**programming** – the craft of analysing problems and designing, writing, testing and maintaining programs to solve them.
+
+**programming language** – formal language used to give a computer instructions, for example Scratch or Python.
+
+**repetition** – the process of repeating a task a set number of times or until a condition is met.
+
+**resolution** – a measurement of the number of pixels needed to display an image.
+
+**router** – more precisely, a network router. A router is a device that connects networks to one another, and directs packets between networks. A home broadband router performs the functions of a switch while allowing computers to connect to the internet.
+
+**screencast** – a recording of on-screen action that is often accompanied by an audio narration.
+
+**security** - ensuring that data or systems are not available to those authorised to access it and that it is available to those who are so authorised.
+
+**script** – a computer program typically executed one line at a time through an interpreter, such as the instructions for a Scratch character.
+
+**selection** – a programming construct in which one section of code or another is executed depending on whether a particular condition is met.
+
+**sequence** – an ordered set of instructions.
+
+**server** – a computer dedicated to a particular set of tasks that provides services to other computers on a network.
+
+**simulation** – Using a computer to model the state and behaviour of real-world (or imaginary) systems, including physical or social systems; an integral part of most computer games.
+
+**software** – the programs that run on the hardware/computer system.
+
+**search** - to identify data which meets particular criteria
+
+**sort** - to take a data structure such as a list and return it with the values in order.
+
+**sprite** – A computer graphics object that can be controlled (programmed) independently of other objects or the background.
+
+**switch** – more precisely, a network switch. This is a device that connects multiple computers to one another on a single local area network (LAN), and directs packets from machine to machine.
+
+**table** – a data structure storing organised sets of data under column headings.
+
+**Unicode** – a standardised system for representing individual characters as sequences of bits.
+
+**Uniform Resource Locator (URL)** – A standard for specifying the location on the internet of certain files.
+
+**variable** – a simple data structure, in which (typically) a single value is referenced by a name.
+
+**web browser** – a computer program to view websites.
+
+**web server** – A service running on a computer (or sometimes for the computer itself) that returns HTML data for a web page when it receives an HTTP request via the local network or the internet.
+
+**World Wide Web** – A service provided by computers connected to the internet (web servers), in which pages of hypertext (web pages) are transmitted to users.
+
+*The above was originally written as an appendix for the [KS3 QuickStart Handbook](http://bit.ly/qsks3), but wasn't included in the final version as published. It draws on the [Primary QuickStart Handbook](http://primary.quickstartcomputing.org/resources/pdf/qs_handbook.pdf) glossary and Pete Kemp's [Computing in the National Curriculum: a Guide for Secondary Teachers](http://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf). A definitive and comprehensive glossary for computing is published by the BCS.*
