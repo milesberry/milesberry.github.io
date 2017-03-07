@@ -129,8 +129,6 @@ image:
 
 **program** – a sequence of instructions or set of rules, expressed as code that the computer executes in order to achieve a particular objective.
 
-**program** – A stored set of instructions encoded in a language understood by the computer that does some form of computation, processing input and/or stored data to generate output.
-
 **programming** – the craft of analysing problems and designing, writing, testing and maintaining programs to solve them.
 
 **programming language** – formal language used to give a computer instructions, for example Scratch or Python.

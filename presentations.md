@@ -24,15 +24,13 @@ _19 April 2017_ Keynote, [I&I Pracktijkdag](http://www.ieniconferentie.nl/), Uni
 
 _24 March 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
 
-_23 March 2017_ Assessing computing. GDST.
-
 _16 March 2017_ Computing across the curriculum. [The Education Show](http://www.education-show.com/), Birmingham.
+
+## Previous
 
 _25 February 2017_ Presentations on primary pedagogy and secondary assessment, [CAS London Conference](https://www.eventbrite.co.uk/e/cas-london-conference-2017-tickets-28860928815), Gladesmore Community College.
 
 _9-11 February 2017_ Presentations on [what we're learning about teaching computing](http://bit.ly/nte17b) and [coding across the curriculum](http://bit.ly/nte17a), plus panel discussion on coding from age 5, [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
-
-## Previous
 
 _1 February 2017_ [Researching technology enhanced learning](https://docs.google.com/presentation/d/163_DZC5-iU287d7Fjc0YadmOxda7eJ809xOGIfzWEsE/edit). University of Roehampton Secondary PGCE conference.
 
