@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Quote on [<kbd>Primotoys's Cubetto in The Times</kbd>](http://www.thetimes.co.uk/article/for-parents-who-want-children-with-an-edge-its-hip-to-be-square-xppbxfj58), 9/3/17
+
 Coverage of [Hello World launch](http://www.itpro.co.uk/public-sector/27970/raspberry-pi-british-computing-teachers-need-more-help), IT Pro. 25/1/17
 
 [TV interview](https://twitter.com/LondonLive/status/819968468061749249) for London Live at Islington Computing Celebration. 13/1/17
