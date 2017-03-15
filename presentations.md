@@ -10,6 +10,8 @@ guid: http://milesberry.net/?page_id=718
 
 ### 2017
 
+_9 September 2017_ What (probably) works when teaching computing. [ResearchEd National Conference](http://www.researched.org.uk/event/researched-2017-national-conference/), London
+
 _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
 
 _23 June 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Brighton.
@@ -24,7 +26,7 @@ _19 April 2017_ Keynote, [I&I Pracktijkdag](http://www.ieniconferentie.nl/), Uni
 
 _24 March 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
 
-_16 March 2017_ Computing across the curriculum. [The Education Show](http://www.education-show.com/), Birmingham.
+_16 March 2017_ Assessing computing. [The Education Show](http://www.education-show.com/), Birmingham.
 
 ## Previous
 
