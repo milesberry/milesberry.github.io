@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_Mar 2017_ [Asking questions to assess attainment in computing]( http://www.independentschoolsportal.org/blog/asking-questions-to-assess-attainment-in-computing), post for Independent Schools Portal blog.
+
 _Jan 2017_ [Computational thinking should ensure technology improves learning outcomes](https://educationblog.oup.com/digital-futures/computational-thinking-should-ensure-technology-improves-learning-outcomes), post for Oxford Education Blog, OUP.
 
 _Jan 2017_ [QuickStart Computing for KS3](http://bit.ly/qsks3), Swindon: BCS.

@@ -10,11 +10,15 @@ guid: http://milesberry.net/?page_id=718
 
 ### 2017
 
+_2 November 2017_ Project Quantum. CAS SW regional conference, Plymouth University.
+
 _9 September 2017_ What (probably) works when teaching computing. [ResearchEd National Conference](http://www.researched.org.uk/event/researched-2017-national-conference/), London
 
 _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
 
-_23 June 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Brighton.
+_30 June 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
+
+_23 June 2017_ Project Quantum, and QuickStart Computing. CAS Northern Ireland Conference, Strathmillis University College, Belfast.
 
 _22 June 2017_ Computing across the curriculum. [The Telegraph Festival of Education](https://www.eventbrite.co.uk/e/the-telegraph-festival-of-education-2017-tickets-29678737904), Wellington College.
 
