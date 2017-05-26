@@ -14,7 +14,14 @@ _2 November 2017_ Project Quantum. CAS SW regional conference, Plymouth Universi
 
 _9 September 2017_ What (probably) works when teaching computing. [ResearchEd National Conference](http://www.researched.org.uk/event/researched-2017-national-conference/), London
 
+_2 September 2017_ Assessing computing. CAS Scotland Conference.
+
+_19 July 2017_ Assessing coding and CT in Scratch. [Scratch 2017 Bordeaux](http://www.scratch2017bdx.org/).
+
 _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
+
+_4 July 2017_ Panel: International Perspectives on CS Teacher
+Formation and Professional Development, [ITICSE 17](http://iticse.acm.org/), University of Bologna
 
 _30 June 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
 
@@ -22,19 +29,27 @@ _23 June 2017_ Project Quantum, and QuickStart Computing. CAS Northern Ireland C
 
 _22 June 2017_ Computing across the curriculum. [The Telegraph Festival of Education](https://www.eventbrite.co.uk/e/the-telegraph-festival-of-education-2017-tickets-29678737904), Wellington College.
 
-_19 May 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Norwich.
+_21 June 2017_ Assessing Computing, [ITTE annual conference, University of Hull](http://itte.org.uk/wp/2016/07/itte-annual-conference-2017/)
 
-_9 May 2017_ Keynote, [Challenges 2017](https://www.nonio.uminho.pt/challenges/), Braga, Portugal.
+_17 June 2017_ Project Quantum: tests worth teaching to? [Computing At School National Conference](https://www.eventbrite.co.uk/e/2017-national-cas-conference-for-teachers-of-computing-registration-32655635886), University of Birmingham.
 
-_19 April 2017_ Keynote, [I&I Pracktijkdag](http://www.ieniconferentie.nl/), University of Utrecht.
-
-_24 March 2017_ Opening keynote, [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
-
-_16 March 2017_ Assessing computing. [The Education Show](http://www.education-show.com/), Birmingham.
+_9 June 2017_ What problems can you solve? Opening keynote, Habberdashers' Askes' Boys' School.
 
 ## Previous
 
-_25 February 2017_ Presentations on primary pedagogy and secondary assessment, [CAS London Conference](https://www.eventbrite.co.uk/e/cas-london-conference-2017-tickets-28860928815), Gladesmore Community College.
+_19 May 2017_ Opening keynote, [coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), [ICT Live](http://www.ictforeducation.co.uk/), Norwich.
+
+_15 May 2017_ [Assessing computing](https://www.youtube.com/edit?o=U&video_id=IPQXEVrZSlE). Independent Schools Portal Northern ICT Conference, Leeds.
+
+_9 May 2017_ Keynote, [What we're learning about teaching computing](https://drive.google.com/open?id=12P52QlAy-UHVM5P6IA0SF3ObuTGEfKTRiQF34523I54), [Challenges 2017](https://www.nonio.uminho.pt/challenges/), Braga, Portugal.
+
+_19 April 2017_ Keynote, [What a teacher should know about computing](https://www.youtube.com/edit?o=U&video_id=AzmgLWdjp4g), [I&I Pracktijkdag](http://www.ieniconferentie.nl/), University of Utrecht.
+
+_24 March 2017_ Opening keynote, [coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), [ICT Live](http://www.ictforeducation.co.uk/), Maidstone.
+
+_16 March 2017_ [Assessing computing](https://drive.google.com/open?id=1gqod50nYb4EYSZ3KUji4vnfsT34KjeHQhwCpip1WNwg). [The Education Show](http://www.education-show.com/), Birmingham.
+
+_25 February 2017_ Presentations on [primary pedagogy](https://drive.google.com/open?id=1Npx07Otri-UFIpmLlL0hKwRtYt8Ra6E4v30GWR4UjMQ) and [secondary assessment](https://drive.google.com/open?id=1LJ0Ptm88gblRblxYMlwLCRvS5BwMWf-m27uNpN5Cwfk), [CAS London Conference](https://www.eventbrite.co.uk/e/cas-london-conference-2017-tickets-28860928815), Gladesmore Community College.
 
 _9-11 February 2017_ Presentations on [what we're learning about teaching computing](http://bit.ly/nte17b) and [coding across the curriculum](http://bit.ly/nte17a), plus panel discussion on coding from age 5, [New Technologies in Education, 2017](http://www.britishcouncil.rs/en/new-technologies), Belgrade.
 
