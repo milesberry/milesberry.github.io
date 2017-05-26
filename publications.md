@@ -6,6 +6,7 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
+_May 2017_ [Project Work: Does it Work?](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/003/original/HelloWorld02.pdf#page=98) Comment column for [Hello World](http://helloworld.cc)
 
 _Mar 2017_ [Asking questions to assess attainment in computing]( http://www.independentschoolsportal.org/blog/asking-questions-to-assess-attainment-in-computing), post for Independent Schools Portal blog.
 
