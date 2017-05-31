@@ -6,7 +6,7 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
-_May 2017_ Switched On Computing (Teachers Guides, [Spanish edition](Spanish edition)). Madrid: Set Veintiuno.
+_May 2017_ Switched On Computing (Teachers Guides, [Spanish edition](https://setveintiuno.com/areas/switched-computing)). Madrid: Set Veintiuno.
 
 _May 2017_ [Project Work: Does it Work?](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/003/original/HelloWorld02.pdf#page=98) Comment column for [Hello World](http://helloworld.cc)
 
