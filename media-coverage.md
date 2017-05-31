@@ -13,9 +13,13 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+[Interview with Aad van der Drift](http://vddrift.com/2017/04/interview-miles-berry/) for Vives magazine, May 2017.
+
 Quote on [<kbd>Primotoys's Cubetto in The Times</kbd>](http://www.thetimes.co.uk/article/for-parents-who-want-children-with-an-edge-its-hip-to-be-square-xppbxfj58), 9/3/17
 
 Coverage of [Hello World launch](http://www.itpro.co.uk/public-sector/27970/raspberry-pi-british-computing-teachers-need-more-help), IT Pro. 25/1/17
+
+Quote in [Islington Gazette](http://www.islingtongazette.co.uk/news/education/trailblazing-islington-students-descend-on-emirates-stadium-for-celebration-of-computing-1-4854156) on Islington Computing Celebration 2017. 18/1/17
 
 [TV interview](https://twitter.com/LondonLive/status/819968468061749249) for London Live at Islington Computing Celebration. 13/1/17
 
