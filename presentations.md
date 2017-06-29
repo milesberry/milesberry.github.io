@@ -10,7 +10,17 @@ guid: http://milesberry.net/?page_id=718
 
 ### 2017
 
-_2 November 2017_ Project Quantum. CAS SW regional conference, Plymouth University.
+_30 November 2017_ ISC Digital Strategy Group, Reading.
+
+_3 November 2017_ Project Quantum. CAS SW regional conference, Plymouth University.
+
+_27 October 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
+
+_7 October 2017_ Progression, Projects and Problem Solving. Computing from 4 to 18. [EduTech Show](https://www.edutechshow.co.uk/seminars2017.aspx).
+
+_6 October 2017_ Codeweek Launch.
+
+_27-29 September 2017_ Keynote and workshops on computational thinking. [Learning to think in a Digital Society](http://www.etwinning.gr/tc2017/tc2017programe), eTwinning Thematic Conference, Athens.  
 
 _9 September 2017_ What (probably) works when teaching computing. [ResearchEd National Conference](http://www.researched.org.uk/event/researched-2017-national-conference/), London
 
@@ -23,19 +33,21 @@ _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.
 _4 July 2017_ Panel: International Perspectives on CS Teacher
 Formation and Professional Development, [ITICSE 17](http://iticse.acm.org/), University of Bologna
 
-_30 June 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
-
-_23 June 2017_ Project Quantum, and QuickStart Computing. CAS Northern Ireland Conference, Strathmillis University College, Belfast.
-
-_22 June 2017_ Computing across the curriculum. [The Telegraph Festival of Education](https://www.eventbrite.co.uk/e/the-telegraph-festival-of-education-2017-tickets-29678737904), Wellington College.
-
-_21 June 2017_ Assessing Computing, [ITTE annual conference, University of Hull](http://itte.org.uk/wp/2016/07/itte-annual-conference-2017/)
-
-_17 June 2017_ Project Quantum: tests worth teaching to? [Computing At School National Conference](https://www.eventbrite.co.uk/e/2017-national-cas-conference-for-teachers-of-computing-registration-32655635886), University of Birmingham.
-
-_9 June 2017_ What problems can you solve? Opening keynote, Habberdashers' Askes' Boys' School.
-
 ## Previous
+
+_23 June 2017_ Workshops: [Project Quantum](https://docs.google.com/presentation/d/1Q-H5BMvitMJ4kzzMPpXsnYLbryCW6PVnrrgkE76iEyQ/edit) and [QuickStart Computing](https://www.youtube.com/edit?o=U&video_id=gkjLYSO0s3Y). CAS Northern Ireland Conference, Stranmillis University College, Belfast.
+
+_22 June 2017_ [Coding across the curriculum](https://www.youtube.com/watch?v=LNGT54NhjHU). The Telegraph Festival of Education, Wellington College.
+
+_21 June 2017_ [Assessing Computing](https://docs.google.com/presentation/d/17frI4NQQl0i6nL1yAVMPFHrdz1uSiPvMk0SdnyF-BV4/edit), ITTE annual conference, University of Hull
+
+_17 June 2017_ Project Quantum: tests worth teaching to? [Plenary](https://docs.google.com/presentation/d/1t8iIzFhoOcVzYoDleqO1O3MIkLOX4qyF0kmEVR5UIyY/edit?usp=sharing) and [workshop](https://docs.google.com/presentation/d/1WoIXEyii1p7kuea0_ngFiSbCvZXBqmA7MhVox62mLDM/edit?usp=sharing), Computing At School National Conference, University of Birmingham.
+
+_12 and 14 June 2017_ [Computing in English schools: this is for everyone](https://docs.google.com/presentation/d/1Ju7ifr1Uu9LBy78eroFfKY3f6LeQkC2gOEaoThYWVsY/edit?usp=sharing). Presentations to MEST / KARIS Korean delegations.
+
+_6 June 2017_ [Assessing Computing](http://bit.ly/quantumelm). Presentation at eLearning Meet, University of Roehampton.
+
+_23 May 2017_ Computing At School. Webinar presentation to officials of the Japanese Government.
 
 _19 May 2017_ Opening keynote, [coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), [ICT Live](http://www.ictforeducation.co.uk/), Norwich.
 
