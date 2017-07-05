@@ -12,13 +12,13 @@ guid: http://milesberry.net/?page_id=718
 
 _30 November 2017_ ISC Digital Strategy Group, Reading.
 
+_28 November 2017_ Edtech in England. Westminster Forum, London.
+
 _3 November 2017_ Project Quantum. CAS SW regional conference, Plymouth University.
 
 _27 October 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
 
 _7 October 2017_ Progression, Projects and Problem Solving. Computing from 4 to 18. [EduTech Show](https://www.edutechshow.co.uk/seminars2017.aspx).
-
-_6 October 2017_ Codeweek Launch.
 
 _27-29 September 2017_ Keynote and workshops on computational thinking. [Learning to think in a Digital Society](http://www.etwinning.gr/tc2017/tc2017programe), eTwinning Thematic Conference, Athens.  
 
