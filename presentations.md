@@ -30,10 +30,10 @@ _19 July 2017_ Assessing coding and CT in Scratch. [Scratch 2017 Bordeaux](http:
 
 _11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
 
-_4 July 2017_ Panel: International Perspectives on CS Teacher
-Formation and Professional Development, [ITICSE 17](http://iticse.acm.org/), University of Bologna
-
 ## Previous
+
+_4 July 2017_ Panel: [International Perspectives on CS Teacher
+Formation and Professional Development](https://www.youtube.com/watch?v=cHa80rcuu7g), ITiCSE 17, University of Bologna
 
 _23 June 2017_ Workshops: [Project Quantum](https://docs.google.com/presentation/d/1Q-H5BMvitMJ4kzzMPpXsnYLbryCW6PVnrrgkE76iEyQ/edit) and [QuickStart Computing](https://www.youtube.com/edit?o=U&video_id=gkjLYSO0s3Y). CAS Northern Ireland Conference, Stranmillis University College, Belfast.
 
