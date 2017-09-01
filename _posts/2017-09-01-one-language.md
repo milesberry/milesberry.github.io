@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "One Language at a Time
-date: "2017-07-21 10:00:56 +0000"
+title: "One Language at a Time"
+date: "2017-09-01 10:00:56 +0000"
 author: Miles Berry
-permalink: /2017/07/one-language/
+permalink: /2017/09/one-language/
 comments: true
 image:
         feature: 170827.jpg
