@@ -5,6 +5,8 @@ date: "2017-07-21 10:00:56 +0000"
 author: Miles Berry
 permalink: /2017/07/scratch-story/
 comments: true
+image:
+        feature: 170718.jpg
 ---
 
 I started playing with Scratch when I was a head teacher, back in 2009. I did my bit in the school's extracurricular programme, running a computer club - we had a Ubuntu thin client network, and I thought we might introduce the club to Squeak E-Toys, but then heard about Scratch. It looked good and we could run it under Ubuntu.
