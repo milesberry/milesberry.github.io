@@ -16,6 +16,7 @@ image:
 Whilst many would argue that elementary, or indeed secondary, education affords no place for a discipline as specialised as computer science, there are a number of convincing rationales for including this subject, alongside music, poetry and physics, as part of the educational entitlement for all children. Such rationales might include one or more of the following.
 
 * **Children's inherent curiosity in the world around them.** It is hard to deny that digital technology is now almost ubiquitous. A typical infant is likely to encounter touch screen devices such as smartphones or tablet computers on her mother's lap, before she even learns to speak. Children are naturally curious about the world in which they grow up, and thus are curious about the technology which is, for them, an inherent part of that world. The child grows up, yes, using digital technology, but also wonder how it is made and how it works. Part of the school's role is to nurture this curiosity and help the child learn for herself the answer to such questions:
+
 > “One of the main educational tasks of the primary school is to build on and strengthen children's intrinsic interest in learning and lead them to learn for themselves” [^Plowden]
 
 [^Plowden]: Plowden, B., 1967. Children and their primary schools: A report of the Central Advisory Council for Education (England). London: HM Stationery Office.
@@ -231,6 +232,6 @@ Perhaps the most significant outcome of England's decision to include computer s
 [^techliteracy]: BT and Ipsos MORI (2016). [A new cornerstone of modern primary school education](https://techliteracy.co.uk/IPSOS-full.pdf).
 [^RS16]: Royal Society (2016) [Computing Education](https://royalsociety.org/topics-policy/projects/computing-education/)
 [^JCQ]: Data from [JCQ](http://www.jcq.org.uk/examination-results)
-[^Shadbolt]: Shadbolt, N. (2016) [Shadbolt Review of Computer Sciences Degree Accreditation and Graduate Employability](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/518575/ind-16-5-shadbolt-review-computer-science-graduate-employability.pdf). 
+[^Shadbolt]: Shadbolt, N. (2016) [Shadbolt Review of Computer Sciences Degree Accreditation and Graduate Employability](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/518575/ind-16-5-shadbolt-review-computer-science-graduate-employability.pdf).
 
 *Published in German, November 2017 as Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum. (c) all rights reserved.
