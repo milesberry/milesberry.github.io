@@ -26,6 +26,7 @@ _25 January 2018_ Nordic at BETT, London.
 
 _24 January 2018_ SMART thought leadership seminar, BETT, London.
 
+_18 January 2018_ Keynote, Islington computing celebration, Emirates Stadium, London.
 
 ### 2017
 
