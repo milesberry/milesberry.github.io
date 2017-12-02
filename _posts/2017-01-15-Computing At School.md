@@ -22,8 +22,7 @@ Whilst many would argue that elementary, or indeed secondary, education affords 
 
 * **Computer science as part of scientific understanding.** There is more to computer science as a discipline than 'merely' understanding how technological artefacts function and are developed. Computer science, like the other, older, sciences seeks to provide insight into the nature of reality itself. Computability is one example of this: it seems in the nature of our universe that problems fall into three categories: those which are easy to solve, those that are hard to solve and those which can never be solved. Theoretical computer science considers ideas such as these, and provides a means to build useful systems using them. [^Bentley]
 
-[^Bentley]: Bentley, P.J., (2012) Digitized: The Science of Computers and How it Shapes our World. Oxford: Oxford University
-Press.
+[^Bentley]: Bentley, P.J., (2012) Digitized: The Science of Computers and How it Shapes our World. Oxford: Oxford University Press.
 
 * **Economic benefits.** For ministers, the need to sustain England's vibrant software industries must undoubtedly have been a priority. In order to maintain successful games, visual effects, fintech and cybersecurity sectors, a steady stream of high calibre computer science graduates is needed, and the decline in the number of students studying such disciplines was thought best addressed through ensuring exposure to computer science for all as part of school education. In addition to this, computing is a largely meritocratic field with much potential for social mobility - home background and educational privilege are less important than the quality of the code a candidate can write.
 
@@ -74,7 +73,7 @@ Despite the reference to technology above, the new curriculum concerns itself fa
 
 >Computer science encompasses foundational principles and widely applicable ideas and concepts. It incorporates techniques and methods for solving problems and advancing knowledge, and a distinct way of thinking and working that sets it apart from other disciplines. It has longevity (most of the ideas and concepts that were current 20 or more years ago are still applicable today), and every core principle can be taught or illustrated without relying on the use of a specific technology.
 
-[^CAS2012]: CAS (2012). Computer science: a curriculum for schools. Available at: https://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf
+[^CAS2012]: CAS (2012). [Computer science: a curriculum for schools](https://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf), Cambridge: CAS.
 
 This concept of computer science as a foundational discipline like physics or history undoubtedly coloured the development of the curriculum.
 
@@ -90,19 +89,18 @@ The first sentence of the new curriculum sets out it's vision, and how computing
 
 >A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world. [^DfE]
 
-[^DfE]: Department for Education (2013) The national curriculum in England
-Framework document. London: DfE.
+[^DfE]: Department for Education (2013) The national curriculum in England Framework document. London: DfE.
 
 Whilst creativity has long been an element of elementary and secondary education, the 'computational thinking' referred to here is relative new. Although Seymour Papert mentioned the term in Mindstorms[^Papert], computer scientist Jeanette Wing is widely credited with popularising the idea and has been instrumental in the emphasis that this concept has received in computing curricula worldwide. For Wing, computational thinking is:
 
 >“… the thought processes involved in formulating problems and their solutions so that the
 solutions are represented in a form that can be effectively carried out by an information processing agent” [^Wing]
 
-[^Wing]:Wing, J. 2011. Research Notebook: Computational Thinking - What and Why? The Link. Pittsburgh, PA: Carneige Mellon. Available at: http://www.cs.cmu.edu/sites/default/files/11-399_The_Link_Newsletter-3.pdf
+[^Wing]:Wing, J. 2011. [Research Notebook: Computational Thinking - What and Why?](http://www.cs.cmu.edu/sites/default/files/11-399_The_Link_Newsletter-3.pdf) The Link. Pittsburgh, PA: Carneige Mellon.
 
 In helping teachers understand what this might mean in practice, the Computing At School Barefoot Computing project[^Barefoot] outlined six concepts of computational thinking and five approaches. The concepts are:
 
-[^Barefoot]: Barefoot Computing (2014) Computational Thinking. Available at http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/
+[^Barefoot]: Barefoot Computing (2014) [Computational Thinking](http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/).
 
 * **Logical reasoning** - computers are deterministic machines and we can reason logically about how they will behave. Pupils learn to predict confidently the output from a program, to detect and correct errors in their own and others' programs, and the basics of Boolean logic.
 * **Algorithms** - computer programming requires that the programmer has a clear idea of how to achieve a particular objective before she begins coding, and that some approaches to solving a problem are inherently more efficient than others.
@@ -143,7 +141,7 @@ It seems more appropriate in early years education to encourage young children t
 
 The curriculum requirements for ages five to seven include that pupils be taught to understand what algorithms are. Pupils will learn about algorithms as sequences of steps or sets of rules. They'll typically do this away from computers, through activities which involve them following a teacher's instructions, giving instructions to their peers or working out their own instructions for practical activities such as sharing a pile of sweets[^sweets].
 
-[^sweets]: Barefoot Computing (2014). Sharing sweets activity. Available at: http://barefootcas.org.uk/programme-of-study/understand-algorithms/ks1-sharing-sweets-activity/ (free registration required)
+[^sweets]: Barefoot Computing (2014). [Sharing sweets activity](http://barefootcas.org.uk/programme-of-study/understand-algorithms/ks1-sharing-sweets-activity/). (free registration required)
 
 Pupils are also taught how algorithms are implemented as programs on 'digital devices'. The phrasing here is deliberate, so as to encourage teachers to use floor turtles and other robots with young learners rather than going directly to on screen coding. It seems easier for pupils to put themselves in the place of a floor turtle to step through programs themselves (cf Papert's 'body syntonic' reasoning[^Papert]), thus making it easier for them to reason about their programs. Reasoning logically about programs and algorithms is a recurring theme in the curriculum - it's considered crucial for pupils to be able to think about their code rather than just code.
 
@@ -155,7 +153,7 @@ Logical reasoning is again emphasised, with pupils expected to explain how simpl
 
 Other elements of computer science are covered too: pupils are taught how computer networks including the internet work, and how they can provide services such as the World Wide Web. Typically, this will draw on 'unplugged' approaches involving classroom based simulations, although adventurous schools might introduce pupils to command line networking tools such as `ping`, `nslookup` and `traceroute`.
 
-[^Scratch]: Available at http://scratch.mit.edu
+[^Scratch]: [MIT Scratch](http://scratch.mit.edu)
 
 ### Ages 11-14
 
@@ -165,7 +163,7 @@ Pupils' knowledge of algorithms is now extended to include 'key algorithms that 
 
 Pupils extend their knowledge of how computers work, learning about the hardware and software components of computer systems and how these interoperate. Teachers have found that simpler systems, such as the BBC micro:bit[^microbit] make it easier to scaffold this understanding.
 
-[^microbit]: See http://microbit.org
+[^microbit]: [Microbit Foundation](http://microbit.org)
 
 ### Ages 14-16
 
@@ -175,7 +173,7 @@ In addition to this, there's a requirement that pupils "must have the opportunit
 
 Detailed specifications have been developed by English exam boards for General Certificate of Secondary Education (GCSE) qualifications in computer science[^GCSE]. These include aspects of computational thinking including algorithm design, knowledge of Boolean logic and binary representation and an extended practical programming project, most typically undertaken in Python.
 
-[^GCSE]: See, for example, OCR (2016) Specification (Accredited) - GCSE Computer Science - J276. Available at http://ocr.org.uk/qualifications/gcse-computer-science-j276-from-2016/
+[^GCSE]: See, for example, OCR (2016) Specification (Accredited) - [GCSE Computer Science - J276](http://ocr.org.uk/qualifications/gcse-computer-science-j276-from-2016/).
 
 ### Ages 16-18
 
@@ -183,7 +181,7 @@ Between the ages of 16 and 18 computer science becomes an elective subject, with
 
 Again, English exam boards have developed detailed specifications for qualifications at this level[^GCE]. These include some deliberately ambitious material, such as an introduction to functional programming, often taught in Haskell, graphs and algorithms for graph traversals and shortest paths and big-O notation. They also include a significant, more extensive project which might include the development of a computer game or simulation with a graphical user interface or an investigation of topics such as machine learning or 3-d graphics.
 
-[^GCE]: See, for example, AQA (2015) AS and A-level Computer Science. Available at http://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517
+[^GCE]: See, for example, [AQA (2015) AS and A-level Computer Science](http://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517).
 
 Whilst such qualifications naturally lead on to undergraduate degrees in computer science, they are increasingly recognised as useful preparation for degrees in many other disciplines which make use of computing, such as engineering, natural and social sciences, teaching and medicine.
 
@@ -193,11 +191,11 @@ This significant change in curriculum content and the associated assessment fram
 
 > Government should only do what only government can do.[^GDS]
 
-[^GDS]: GDS (n.d.) Government Digital Service Design Principles. Available at https://www.gov.uk/design-principles
+[^GDS]: GDS (n.d.) Government Digital Service [Design Principles](https://www.gov.uk/design-principles).
 
 Much of the implementation of computing as a curriculum subject in England had been achieved through the Computing At School (CAS) group[^CAS], the UK subject association for computer science, formally part of BCS, the Chartered Institute for IT.
 
-[^CAS]:http://computingatschool.org.uk
+[^CAS]: [Computing At School](http://computingatschool.org.uk)
 
 CAS has seen rapid growth in its membership since its beginnings as a small working group of computing teachers and academics. Membership currently stands at 25,653 with some 223 local hubs.
 
@@ -209,8 +207,8 @@ The main challenge for implementing the computing curriculum has been the need t
 
 Providing great computer science teachers for every school can be done through two routes: initial teacher training and continuous professional development. The former is now addressed through the development of subject knowledge entry requirements for specialist computer science teachers[^SKE] and through the provision of generous tax-free training bursaries and scholarships for those with good degrees in computer science who choose to train to become teachers[^scholarships].
 
-[^SKE]: Teaching Agency (2012) Subject knowledge requirements for entry into computer science teacher training. Available at http://www.computingatschool.org.uk/data/uploads/CSSubjectKnowledgeRequirements.pdf
-[^scholarships]: See https://getintoteaching.education.gov.uk/funding-and-salary/overview/funding-by-subject/funding-for-training-to-teach-computing
+[^SKE]: Teaching Agency (2012) [Subject knowledge requirements for entry into computer science teacher training](http://www.computingatschool.org.uk/data/uploads/CSSubjectKnowledgeRequirements.pdf).
+[^scholarships]: Teaching Agency (2017) [Funding for training to teach computing](https://getintoteaching.education.gov.uk/funding-and-salary/overview/funding-by-subject/funding-for-training-to-teach-computing)
 
 Great computer science teaching demands three things: great teaching skills, great technology skills and great computer science subject knowledge[^TPACK]. The lattermost is a particularly challenge: in primary schools very few teachers have any background in computer science or software development; even in secondary a minority of those who were teaching the former ICT curriculum had a degree in computer science[^RS].
 
@@ -220,7 +218,7 @@ In developing continuing professional development programmes for computing, Comp
 
 CAS has also developed a range of resources to support teachers, including introductory guides to the curriculum, QuickStart handbooks with associated CPD resources[^QuickStart], the Barefoot Computing programme for primary computing[^Barefoot], and Tenderfoot Computing for lower secondary teachers[^Tenderfoot]. CAS members. CAS members have developed further computing resources themselves, and CAS has an active, gift economy culture of members sharing their resources under liberal licences with the rest of the community: at present, 3,863 resources have been shared in this way.
 
-[^Quickstart] Computing At School (2015) [Quickstart Computing](http://community.computingatschool.org.uk/resources/3042/single). Swindon: BCS.
+[^Quickstart]: Computing At School (2015) [Quickstart Computing](http://community.computingatschool.org.uk/resources/3042/single). Swindon: BCS.
 
 ## Concluding remarks
 
@@ -230,11 +228,9 @@ Exam entries at GCSE for computing have significantly increased in the period si
 
 Perhaps the most significant outcome of England's decision to include computer science in its curriculum is that this subject now becomes an entitlement *for all*, which, it is hoped, will go a long way to address inclusion and equity in this domain.
 
-[^techliteracy]: BT and Ipsos MORI (2016). A new cornerstone of modern primary school education. Available at https://techliteracy.co.uk/IPSOS-full.pdf
-[^RS16]: See https://royalsociety.org/topics-policy/projects/computing-education/
-[^JCQ]: Data from http://www.jcq.org.uk/examination-results
-[^Shadbolt]: Shadbolt, N. (2016) Shadbolt Review of Computer
-Sciences Degree Accreditation
-and Graduate Employability. Available at https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/518575/ind-16-5-shadbolt-review-computer-science-graduate-employability.pdf
+[^techliteracy]: BT and Ipsos MORI (2016). [A new cornerstone of modern primary school education](https://techliteracy.co.uk/IPSOS-full.pdf).
+[^RS16]: Royal Society (2016) [Computing Education](https://royalsociety.org/topics-policy/projects/computing-education/)
+[^JCQ]: Data from [JCQ](http://www.jcq.org.uk/examination-results)
+[^Shadbolt]: Shadbolt, N. (2016) [Shadbolt Review of Computer Sciences Degree Accreditation and Graduate Employability](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/518575/ind-16-5-shadbolt-review-computer-science-graduate-employability.pdf). 
 
 *Published in German, November 2017 as Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum. (c) all rights reserved.
