@@ -816,7 +816,7 @@ _March 2013 _Leading Computing to Outstanding. Osiris.__
 </p>
 
 <p align="left">
-  <em>March 2012 </em>Technology transforming tomorrow. Panel discussion, Language World.
+  <em>March 2012 </em><a href="https://www.slideshare.net/mgberry/presentation-on-automatic-translation-at-language-world-2012">Technology transforming tomorrow</a>. Panel discussion, Language World.
 </p>
 
 <p align="left">
@@ -888,7 +888,7 @@ _March 2013 _Leading Computing to Outstanding. Osiris.__
 </p>
 
 <p align="left">
-  <em>April 2011</em> Open Education. iMoot 11. Online presentation.
+  <em>April 2011</em> <a href="https://www.slideshare.net/mgberry/open-eductation">Open Education</a>. iMoot 11. Online presentation.
 </p>
 
 <p align="left">
@@ -999,6 +999,11 @@ _March 2013 _Leading Computing to Outstanding. Osiris.__
   <em>October 2009 </em>Keynote presentation on Open Source and Slow Food for Open Source Schools Local Authority Seminar
 </p>
 
+
+<p align="left">
+  <em>September 2009 </em><a href="https://www.slideshare.net/mgberry/open-source-projects-as-cop">Open Source Projects as Communities of Practice</a>. MirnadaMod, Institute of Education, London.
+</p>
+
 <p align="left">
   <em>July 2009 </em><a href="http://blip.tv/learn4life/miles-berry-demonstrates-scratch-at-oss-2580865">Scratch programming in primary education</a>, Open Source Schools Unconference
 </p>
@@ -1032,7 +1037,12 @@ _March 2013 _Leading Computing to Outstanding. Osiris.__
 </p>
 
 <p align="left">
-  <em>January 2009 </em>Moodle and Informal Learning, Bradford Moodle Conference
+  <em>February 2009 </em><a href="https://www.slideshare.net/mgberry/teaching-teachers-to-moodle">Teaching teachers to Moodle</a>, Leeds Moodle Conference
+</p>
+
+
+<p align="left">
+  <em>January 2009 </em><a href="https://www.slideshare.net/mgberry/informal-learning-and-moodle">Moodle and Informal Learning</a>, Bradford Moodle Conference
 </p>
 
 <p align="left">
@@ -1060,7 +1070,7 @@ _March 2013 _Leading Computing to Outstanding. Osiris.__
 </p>
 
 <p align="left">
-  <em>February 2008 </em>Keynote presentation for Bradford Moodle Moot on learning journeys and learning landscapes
+  <em>February 2008 </em>Keynote presentation for Bradford Moodle Moot on <a href="https://www.slideshare.net/mgberry/learning-journeys-and-learning-environments">learning journeys and learning environments</a>
 </p>
 
 <p align="left">
