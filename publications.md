@@ -6,6 +6,13 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
+
+_November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
+
+_October 2017_ Switched on Computing (Years 3 and 4, Korean translation). Seoul: KOFAC
+
+_September 2017_ [One language at a time](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/004/original/HelloWorld03.pdf#page=98) Comment column for [Hello World](helloworld.cc) as contributing editor.
+
 _May 2017_ Switched On Computing (Teachers Guides, [Spanish edition](https://setveintiuno.com/areas/switched-computing)). Madrid: Set Veintiuno.
 
 _May 2017_ [Project Work: Does it Work?](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/003/original/HelloWorld02.pdf#page=98) Comment column for [Hello World](http://helloworld.cc)

@@ -8,29 +8,64 @@ guid: http://milesberry.net/?page_id=718
 ---
 ## Forthcoming
 
+_5 October 2018_ Computational thinking workshop, Alpha Plus group SLT conference.
+
+_29 June 2018_ Exabytes conference
+
+_13 March 2018_ Quickstart Computing, Delivering Outstanding Computing, Inside Government, London.
+
+_2 March 2018_ Keynote on progression in computing and plenary on assessing computing, [FOBIT18](https://sites.google.com/harrowschool.ac.th/fobit2018), Bangkok, Thailand.
+
+_21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
+
+_31 January 2018_ PG Secondary Research Conference, Roehampton.
+
+_29 January 2018_ PiXL Computing conference, The Oval, London.
+
+_25 January 2018_ Nordic at BETT, London.
+
+_24 January 2018_ SMART thought leadership seminar, BETT, London.
+
+
 ### 2017
 
-_30 November 2017_ ISC Digital Strategy Group, Reading.
-
-_28 November 2017_ Edtech in England. Westminster Forum, London.
-
-_3 November 2017_ Project Quantum. CAS SW regional conference, Plymouth University.
-
-_27 October 2017_ What will the weather be tomorrow? Workshop at EdFestSouthWest, Paignton.
-
-_7 October 2017_ Progression, Projects and Problem Solving. Computing from 4 to 18. [EduTech Show](https://www.edutechshow.co.uk/seminars2017.aspx).
-
-_27-29 September 2017_ Keynote and workshops on computational thinking. [Learning to think in a Digital Society](http://www.etwinning.gr/tc2017/tc2017programe), eTwinning Thematic Conference, Athens.  
-
-_9 September 2017_ What (probably) works when teaching computing. [ResearchEd National Conference](http://www.researched.org.uk/event/researched-2017-national-conference/), London
-
-_2 September 2017_ Assessing computing. CAS Scotland Conference.
-
-_19 July 2017_ Assessing coding and CT in Scratch. [Scratch 2017 Bordeaux](http://www.scratch2017bdx.org/).
-
-_11 July 2017_ A guide to UK computing resources. [CSTA Conference](https://www.csteachers.org/page/2017Conference), Baltimore, USA.
-
 ## Previous
+
+_1 December 2017_ [What (probably) works when teaching computing](https://www.youtube.com/watch?v=Yc2UmhmvwWc). ICT Live, Brighton.
+
+_30 November 2017_ [Around the world in 20 minutes - an international persepctive on CS education](https://www.youtube.com/watch?v=yxd7V6rEH94). ISC Digital Strategy Group, Reading.
+
+_28 November 2017_ [Project Quantum - tests worth teaching to?](https://drive.google.com/open?id=1aNAXCb7Tub6ZPZlsS7hBk8i0R2zJmfuOOaeBFDsEe4c) Edtech in England. Westminster Education Forum, Whitehall, London.
+
+_24 November 2017_ Panel discussion and [Working with performance data](https://drive.google.com/open?id=1Ad4xPjRDXoP4E72oEJr_c9hyAakyUshoM3bYa5kg5wk), Computing for All, CAS London, King's College London.
+
+_23 November 2017_ [Computational thinking](https://docs.google.com/presentation/d/1T32O2oGMx7wUoqjvcMvkh54TkS3BQ_8oJRMSBlqlrqM/edit?usp=sharing). Alpha Plus Group computing coordinators workshop.
+
+_17 November 2017_ [Coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), ICT Live, Solihull.
+
+_12 November 2017_ [La relación de la pedagogía creativa y la programación: el caso de éxito de Inglaterra](bit.ly/IAmaecanasES) IA Simposio Educación, Maecenas, Córdoba, Spain.
+
+_10 November 2017_ Keynotes: [What we're learning about teaching computing](https://drive.google.com/open?id=1_LhonUcTcIZmxFx5IXQDCDfEpLmYI8Gy0KQc597m1Ug) and [Where next for computing](https://drive.google.com/open?id=1cNOc8HVJFXWL0bbLze1bvjvqBO41anH000WHUn-Qqow), Havering Schools Inspection Service, Rainham, Essex.
+
+_3 November 2017_ Keynote: [just a few things](https://drive.google.com/open?id=1O_LVriPvJfQAhmrT4gEgsczz3Vyh3UI33iLHZoa450Y) and workshop: [Project Quantum](https://drive.google.com/open?id=1Orau_FE0AFYLaAd-SvuAGZsw4_fgoGbyIkSZ6xV8BMk). CAS SW regional conference, Plymouth University.
+
+_18 October 2017_ [Three years on: what has England learnt?](https://www.youtube.com/watch?v=POSB1Z9RUjc) Programación y Pensamiento Computacional en la Educación, INTEF, Ministry of Education, Madrid.
+
+_7 October 2017_ [Progression, Projects and Problem Solving. Computing from 4 to 18](https://drive.google.com/open?id=1unoeQM8w2gOiGzUGeyc-dTB_mw2g0mjyKcZl-sOSPV0). EduTech Show, Kensington Olympia, London.
+
+_28-29 September 2017_ Keynote and workshopon [Training teachers in computational thinking](https://drive.google.com/open?id=11OwTa-gsuHXK7yKiMTO4SiZNtDciBXwdQ8u5thG10BU). Learning to think in a Digital Society, eTwinning Thematic Conference, Athens.  
+
+_27 September 2017_ [What a teacher should know about computing](https://drive.google.com/open?id=1DhtgWjKUBYa1TQ98zpQ7vvKMqnunU4lB6kOesntCh2c), diner pensant, ICT Noord, Groningen
+
+_12 September 2017_ [Project Quantum Workshop](https://drive.google.com/open?id=1D7P1LQ0pW28NSRgi6H_HBqQuZCtzDt1vPkHILak0LBU), GDST computing coordinators group, London
+
+_9 September 2017_ [What (probably) works when teaching computing](https://drive.google.com/open?id=1eOdABA1FBBCYz0sH9krHio1bsK09hTsiq_TkQYsAw5U). ResearchEd National Conference, London
+
+_2 September 2017_ [Project Quantum: tests worth teaching to?](https://drive.google.com/open?id=1RvFAhWw_0BZTozg2owyfjvbx6qK0VE0MUxomODjW1qs). CAS Scotland Conference, University of Glasgow.
+
+_19 July 2017_ [Assessing coding and CT in Scratch](https://www.youtube.com/watch?v=RLPzNcQv8uk). Scratch 2017, Bordeaux, France.
+
+_11 July 2017_ [A guide to UK computing resources](https://www.youtube.com/watch?v=8DUSPJmrVIU). CSTA Conference, Baltimore, USA.
 
 _4 July 2017_ Panel: [International Perspectives on CS Teacher
 Formation and Professional Development](https://www.youtube.com/watch?v=cHa80rcuu7g), ITiCSE 17, University of Bologna

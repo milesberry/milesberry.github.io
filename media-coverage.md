@@ -13,6 +13,9 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+
+Comment on [Ofqual's proposed changes to the NEA for GCSE computer science](https://www.theregister.co.uk/2017/11/28/students_broke_gcse_computer_science_rules/), The Register, 28/11/17
+
 [Interview with Aad van der Drift](http://vddrift.com/2017/04/interview-miles-berry/) for Vives magazine, May 2017.
 
 Quote on [<kbd>Primotoys's Cubetto in The Times</kbd>](http://www.thetimes.co.uk/article/for-parents-who-want-children-with-an-edge-its-hip-to-be-square-xppbxfj58), 9/3/17
