@@ -234,4 +234,4 @@ Perhaps the most significant outcome of England's decision to include computer s
 [^JCQ]: Data from [JCQ](http://www.jcq.org.uk/examination-results)
 [^Shadbolt]: Shadbolt, N. (2016) [Shadbolt Review of Computer Sciences Degree Accreditation and Graduate Employability](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/518575/ind-16-5-shadbolt-review-computer-science-graduate-employability.pdf).
 
-*Published in German, November 2017 as Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum. (c) all rights reserved.
+*Published in German, November 2017 as Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum. (c) all rights reserved.*
