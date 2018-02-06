@@ -23,4 +23,4 @@ There are some great tools out there to make this accessible to students, from G
 
 Great as these opportunities are, I am concerned that we're not doing enough in schools to get students thinking through the ethical implications for individuals, society and civilisation of AI. Worryingly, England's education ministers removed the wider ethical references to the computing curriculum we'd developed. Machine learning algorithms already make life-changing decisions for many of us, and the impact of these technologies on our lives seems likely to only increase over our students' lives. Education is, at least in part, about preparing our students for the opportunities, experiences and responsibilities of their later lives, and I'm not sure we can do justice to this if we're not teaching them how AI works, and to think through some of the big questions about how AI should be used.
 
-*Originally published ion CSTA's Advocate blog.*
+*Originally published on CSTA's Advocate blog.*
