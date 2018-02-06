@@ -12,25 +12,45 @@ _5 October 2018_ Computational thinking workshop, Alpha Plus group SLT conferenc
 
 _29 June 2018_ Exabytes conference
 
-_13 March 2018_ Quickstart Computing, Delivering Outstanding Computing, Inside Government, London.
+_21-22 June 2018_ Computational thinking and mathematical reasoning: what's the difference?, [Festival of Education](http://educationfest.co.uk/), Wellington College.
+
+_15 June 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Brighton
+
+_13 June 2018_ Somerset Technology Conference
+
+_18 May 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Norwich
+
+_27 April 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Leeds
+
+_19 March 2018_ ['A Quantum Leap': Crowd sourcing assessment](http://www.cambridgeassessment.org.uk/events/a-quantum-leap-crowd-sourcing-assessment/). Cambridge Assessment, Downing College, Cambridge.
+
+_13 March 2018_ Quickstart Computing, [Delivering Outstanding Computing](http://www.insidegovernment.co.uk/delivering-outstanding-computing-teaching-in-schools/), Inside Government, London.
+
+_8 March 2018_ Project Quantum. [CAS East regional conference](https://community.computingatschool.org.uk/events/5751), Microsoft Research, Cambridge.
 
 _2 March 2018_ Keynote on progression in computing and plenary on assessing computing, [FOBIT18](https://sites.google.com/harrowschool.ac.th/fobit2018), Bangkok, Thailand.
 
-_21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
+_21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, and poster on 'the new computing curriculum in English schools: a statistical analysis of student participation' [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
 
-_31 January 2018_ PG Secondary Research Conference, Roehampton.
+_14 February_ Teaching academic writing. [Erasmus / Integrity](http://integrity.iliauni.edu.ge/), University of Vienna
 
-_29 January 2018_ PiXL Computing conference, The Oval, London.
+## Previous
+
+_31 January 2018_ [Researching Ed Tech](https://drive.google.com/open?id=163_DZC5-iU287d7Fjc0YadmOxda7eJ809xOGIfzWEsE), PG Secondary Research Conference, Roehampton.
+
+_29 January 2018_ Keynote: [what probably works when teaching computing](https://docs.google.com/presentation/d/1v7l4bFPDjZEHYxztGYSnrRRQBWe7kjo6B7Gx3mOag8Q/edit), PiXL Computing conference, The Oval, London.
 
 _25 January 2018_ Nordic at BETT, London.
 
-_24 January 2018_ SMART thought leadership seminar, BETT, London.
+_24 January 2018_ [Programming in English Schools from 3-18](https://docs.google.com/presentation/d/133eiBa_XxQ1QoAoLnZWrR5va4WESKHe_kqu0nOKgdv8/edit#slide=id.p62), SMART at BETT, London.
 
 _18 January 2018_ Keynote, Islington computing celebration, Emirates Stadium, London.
 
+_January 2018_		Workshops on Switched On Computing, The Study, Wimbledon, London.
+
 ### 2017
 
-## Previous
+_12 December 2017_	[Oral evidence](http://www.parliamentlive.tv/Event/Index/a7535703-96ae-4c7f-a6f6-c10f15dce07e), House of Lords AI Select Committee.
 
 _1 December 2017_ [What (probably) works when teaching computing](https://www.youtube.com/watch?v=Yc2UmhmvwWc). ICT Live, Brighton.
 

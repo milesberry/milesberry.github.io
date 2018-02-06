@@ -29,7 +29,7 @@ All of this, of course, takes time. Great as Barefoot, Picademy, the BCS Certifi
 
 [^mishra]: Mishra, P. and Koehler, M.J., 2006. [Technological pedagogical content knowledge: A framework for teacher knowledge](http://one2oneheights.pbworks.com/f/MISHRA_PUNYA.pdf). Teachers college record, 108(6), p.1017.
 
-[^shulman]: Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. Educational Researcher, 15(2), 4–14
+[^shulman]: Shulman, L. S. (1986). [Those who understand: Knowledge growth in teaching](http://www.fisica.uniud.it/URDF/masterDidSciUD/materiali/pdf/Shulman_1986.pdf). Educational Researcher, 15(2), 4–14
 
 
 *Originally published in [Hello World 4](https://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/009/original/HelloWorld04.pdf#page=97).*

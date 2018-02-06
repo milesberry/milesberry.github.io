@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_January 2018_ What probably works when teaching computing. PiXL Computing.
+
+_January 2018_	Teachers’ Knowledge. Comment column for Hello World #4 (as contributing editor)
+
+_December 2018_	CS Education and AI. Blog post for CSTA Advocate blog.
+
 _November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
 
 _October 2017_ Switched on Computing (Years 3 and 4, Korean translation). Seoul: KOFAC

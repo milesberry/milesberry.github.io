@@ -13,6 +13,7 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Comment in ["Cynical about Apple’s move into UK schools? Well, it turns out they need all the help they can get"](http://www.wired.co.uk/article/apple-everyone-can-code-teaching-schools-uk-ipad), Wired, 24/1/18
 
 Comment on [Ofqual's proposed changes to the NEA for GCSE computer science](https://www.theregister.co.uk/2017/11/28/students_broke_gcse_computer_science_rules/), The Register, 28/11/17
 
