@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teachers Knowledge"
+title: "Teachers' Knowledge"
 date: "2018-01-16 10:00:56 +0000"
 author: Miles Berry
 permalink: /2018/01/teachers-knowledge/
