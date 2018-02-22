@@ -18,9 +18,13 @@ _15 June 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/),
 
 _13 June 2018_ Somerset Technology Conference
 
+_19 May 2018_ Teaching AI, [AI Conf](https://aiconf.org/), Wells Cathedral School.
+
 _18 May 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Norwich
 
 _27 April 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Leeds
+
+_20 March 2018_ Artificial intelligence, machine learning and computing education, World ORT symposium, London.
 
 _19 March 2018_ ['A Quantum Leap': Crowd sourcing assessment](http://www.cambridgeassessment.org.uk/events/a-quantum-leap-crowd-sourcing-assessment/). Cambridge Assessment, Downing College, Cambridge.
 
@@ -32,9 +36,9 @@ _2 March 2018_ Keynote on progression in computing and plenary on assessing comp
 
 _21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, and poster on 'the new computing curriculum in English schools: a statistical analysis of student participation' [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
 
-_14 February_ Teaching academic writing. [Erasmus / Integrity](http://integrity.iliauni.edu.ge/), University of Vienna
-
 ## Previous
+
+_14 February_ [Teaching academic writing](https://drive.google.com/open?id=1zMgpbbwy_HRhPT9qJ6eXc5qDSDxAzYT2pj_NE66j1cQ). [Erasmus / Integrity](http://integrity.iliauni.edu.ge/), University of Vienna
 
 _31 January 2018_ [Researching Ed Tech](https://drive.google.com/open?id=163_DZC5-iU287d7Fjc0YadmOxda7eJ809xOGIfzWEsE), PG Secondary Research Conference, Roehampton.
 

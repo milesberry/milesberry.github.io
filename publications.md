@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_February 2018_ [Written evidence on AI and SEND and SEND and computing education](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/77001.pdf). House of Lords AI Select Committee.
+
 _January 2018_ What probably works when teaching computing. PiXL Computing.
 
 _January 2018_	Teachers’ Knowledge. Comment column for Hello World #4 (as contributing editor)
