@@ -1,40 +1,34 @@
 ---
 layout: post
-title: "ICT to Computing - a timeline"
-date: "2018-02-24 10:00:56 +0000"
+title: "Hello World - readership survey"
+date: "2018-02-14 10:00:56 +0000"
 author: Miles Berry
-permalink: /2018/01/computing-timeline/
+permalink: /2018/02/hello-world/
 comments: true
 image:
-        feature: 180224.jpg
+        feature: 180214.jpg
 ---
 
-The framework for English education at school level is largely determined by three inter-related but largely independent components: the national curriculum, which describes what should be taught in local authority maintained schools between ages 5 and 16 and is determined by the government's Department for Education, the specifications of GCSE (16+) and A-level (18+) qualifications, regulated by Ofqual (the Office for Qualifications), and the school inspection regime conducted by Ofsted (the Office for Standards in Education). Ofqual and Ofsted are non-ministerial government departments. UK devolved administrations for Scotland, Wales and Northern Ireland have their own curricula, qualifications and inspection arrangements.
+[Hello World](http://helloworld.cc) was launched just over a year ago, as a joint project of the Raspberry Pi Foundation and BCS / CAS, with some generous sponsorship from BT. Back in December, just over 1400 of our readers (about 10% of the total subscribers) completed a short, online survey to tell us a little about themselves and what they thought of the magazine's first three issues.
 
-The focus in the data [presented here](http://bit.ly/tracersigcse) is on the uptake of and achievement in the GCSE and A-level qualifications in the 2016 summer exams, two years after computing was introduced as a national curriculum subject, but before the withdrawal of ICT as GCSE and A Level qualifications.
+Here's a few of the interesting things we've learnt from this:
 
-## Key Dates
+Firstly, Hello World's readership seems to extend beyond the core of CAS's membership and the digital maker community (43% are the former). Most of our readers (62%) are based in the classroom - our principal audience.
 
-**2010** A new coalition government is elected. Their first acts in education include the abolition of the Qualifications and Curriculum Development Authority and the British Educational Communication and Technology Agency. They reject the previous government's proposals for a revised primary National Curriculum and announce a review of the whole National Curriculum, to be chaired by Tim Oates of Cambridge Assessment.
+**Only 28% of our readers are female**
 
-Also in 2010, the OCR exam board announce the pilot of a new GCSE qualification in computing, to sit alongside the existing qualifications in ICT (information and communication technology), which had become rather devalued by students and employers due to a focus on relatively mundane, user-level skills.
+I'm not sure what the statistics are for those teaching computing or volunteering with digital making education, but there's no cause for complacency - I'd like to have more women writing for Hello World, and it'd be great to see a score closer to 50-50 on future readership surveys.
 
-**2012** After persuasive advocacy from The Royal Society, the video games and visual effects industries, Google and the grassroots subject association Computing At School, and concerns expressed over the quality of the ICT national curriculum and qualifications, Education Secretary Michael Gove announced that the ICT curriculum would be 'disapplied', giving schools the freedom to interpret this curriculum subject in whatever way they chose. He subsequently announced that a panel, chaired by the British Computer Society and the Royal Academy of Engineering would be convened to provide expert advice on the content of a new ICT curriculum, which would include programming and other aspects of computer science.
+The magazine certainly seems to be well received - 72% of our respondents read at least half of it, and nearly two thirds are finding ways to use content in their classroom more than once. In fact, we estimate that Hello World content has reached some 86,000 children so far! The majority of our subscribers seem happy with a 'more of the same approach' to content as we move forward, although quite a number would like to see more project ideas for the classroom.
 
-**2013** ICT is replaced by Computing in the National Curriculum. The subject emphasises computational thinking and creativity, with elements of computer science, information technology and digital literacy (foundations, applications and implications) for all students from 5 to 16 in local authority supported schools.
+In terms of technologies to feature in the future, AI and robotics are both high up the list - the former is something I've been thinking (and writing) about recently, and it'd be great to see more of both here, particularly if we can link that in with the practical, classroom project theme from above.
 
-The Department for Education accepts a BCS recommendation that GCSE Computing be counted as a science for the English Baccalaureate (EBacc) school performance measure.
+We're thinking seriously about shortening the period between issues, and 78% of respondents would be happy for us to do so. Watch this space!
 
-**2014** The new national curriculum takes effect. The programmes of study for computing, as with other subjects, apply to all years simultaneously, allowing no gradual phasing in of the new requirements.
+We're determined to keep Hello World free: taking a pragmatic approach to appropriate commercial advertising might well ensure the magazine continues to be available to those who can best make use of it. 91% of respondents seem happy with this idea.
 
-Alongside reform of other A-level qualifications, new subject content requirements are produced for A-level computer science. Three of the four exam boards subsequently develop qualification specifications in line with these requirements. Of note are an open-ended coursework project, and a requirement to know about a variety of programming paradigms.
+**It's been a great first year!**
 
-**2015** New requirements for GCSE computer science are announced by the Department for Education, and all four awarding organisations subsequently develop specifications approved by Ofqual. These increase the academic rigour of the subject and place more emphasis on theoretical computer science. The specifications include 20% credit for a non-exam assessment (NEA) of practical programming, requiring 20 hours of independent work under closely monitored conditions.
+I think we've had four fab issues so far, and there's some great content lined up for issue 5 already. The future success of the magazine depends on continuing to get some great content, and this is where you can help! We're really keen to get a more diverse group of authors writing for the magazine: if you've a story, an opinion, or a classroom project to share, please do write in (contact@helloworld.cc): we'd be glad to help get your ideas into print. We'd be particularly glad to hear from you if you're female (we're really keen to address the current gender gap in content and readers), if you've something to share about AI or robotics, or if you've got something with a practical classroom focus.
 
-Subsequently, the department for Education announces that GCSE and A-level ICT will not be renewed and will thus cease to be available, citing too much overlap with the new computer science qualifications.
-
-**2017** After reports of widespread malpractice in GCSE computer science NEAs, Ofqual announce their intention to remove this component from the assessed work for GCSE computer science: thus pupils will still be required to undertake the NEA but this work will no longer count toward their exam grade.
-
-**2018** Students will sit GCSE and A-level exams in ICT for the last time. The evidence [we present here](http://bit.ly/tracersigcse) indicates that as a result there will be fewer female, BAME, socio-economically disadvantaged and lower ability students taking qualifications in the computing space, thus the subject area becomes less inclusive and less diverse overall.
-
-*This is my introductory text to [the poster](http://bit.ly/tracersigcse) Pete Kemp, Billy Wong and I presented at SIGCSE 2018 in Baltimore*
+*Originally published as [a news item for CAS](https://www.computingatschool.org.uk/news_items/624)*
