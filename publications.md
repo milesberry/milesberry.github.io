@@ -7,6 +7,14 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_May 2018_ [Teaching as engineering](https://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/014/original/HelloWorld05.pdf#page=97). Comment column as contributing editor, Hello World 5.
+
+_April 2018_		[Assessing Computing](http://advocate.csteachers.org/2018/04/19/assessing-computing/). Blog post for CSTA Advocate blog.
+
+_February 2018_		[Switched on Computing Year 5 (Korean translation)](http://www.software.kr/main/UPLOAD/TCHMTR/attFile/1517377276135.pdf). Seoul: KOFAC
+
+_February 2018_		[Switched on Computing Year 6 (Korean translation)](http://www.software.kr/main/UPLOAD/TCHMTR/attFile/1517377542845.pdf). Seoul: KOFAC
+
 _February 2018_ [Written evidence on AI and SEND and SEND and computing education](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/artificial-intelligence-committee/artificial-intelligence/written/77001.pdf). House of Lords AI Select Committee.
 
 _January 2018_ What probably works when teaching computing. PiXL Computing.
@@ -17,7 +25,9 @@ _December 2018_	CS Education and AI. Blog post for CSTA Advocate blog.
 
 _November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
 
-_October 2017_ Switched on Computing (Years 3 and 4, Korean translation). Seoul: KOFAC
+_October 2017_ Switched on Computing Year 3 (Korean translation). Seoul: KOFAC
+
+_October 2017_ Switched on Computing Year 4 (Korean translation). Seoul: KOFAC
 
 _September 2017_ [One language at a time](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/004/original/HelloWorld03.pdf#page=98) Comment column for [Hello World](helloworld.cc) as contributing editor.
 

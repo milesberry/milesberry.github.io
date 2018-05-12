@@ -8,35 +8,43 @@ guid: http://milesberry.net/?page_id=718
 ---
 ## Forthcoming
 
-_5 October 2018_ Computational thinking workshop, Alpha Plus group SLT conference.
+_29 June 2018_ Keynote: Blocks beyond Scratch, [Exabytes conference, Bradford](https://www.eventbrite.co.uk/e/exabytes18-3rd-annual-teaching-learning-with-technology-conference-tickets-43930518363?aff=erelexpmlt)
 
-_29 June 2018_ Exabytes conference
+_27 June 2018_ Keynote: primary computing update, [Equip4Computing Conference 2018](https://schoolscomputing.co.uk/events/equip4computing-conference-2018/), Redhill
 
 _21-22 June 2018_ Computational thinking and mathematical reasoning: what's the difference?, [Festival of Education](http://educationfest.co.uk/), Wellington College.
 
+_16 June 2018_ Uptake and achievement - how GCSE and A level computing are going, [CAS Conference, Birmingham University](https://www.eventbrite.co.uk/e/2018-national-cas-conference-for-teachers-of-computing-tickets-44643319370)
+
 _15 June 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Brighton
 
-_13 June 2018_ Somerset Technology Conference
+_13 June 2018_ Keynote, Somerset Technology Conference
 
-_19 May 2018_ Teaching AI, [AI Conf](https://aiconf.org/), Wells Cathedral School.
+_7-8 June 2018_ Presentations on What has England Learnt about Computing Education and Teaching AI, [New Technologies in Education](https://www.britishcouncil.rs/en/new-technologies), Belgrade.
 
-_18 May 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Norwich
-
-_27 April 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Leeds
-
-_20 March 2018_ Artificial intelligence, machine learning and computing education, World ORT symposium, London.
-
-_19 March 2018_ ['A Quantum Leap': Crowd sourcing assessment](http://www.cambridgeassessment.org.uk/events/a-quantum-leap-crowd-sourcing-assessment/). Cambridge Assessment, Downing College, Cambridge.
-
-_13 March 2018_ Quickstart Computing, [Delivering Outstanding Computing](http://www.insidegovernment.co.uk/delivering-outstanding-computing-teaching-in-schools/), Inside Government, London.
-
-_8 March 2018_ Project Quantum. [CAS East regional conference](https://community.computingatschool.org.uk/events/5751), Microsoft Research, Cambridge.
-
-_2 March 2018_ Keynote on progression in computing and plenary on assessing computing, [FOBIT18](https://sites.google.com/harrowschool.ac.th/fobit2018), Bangkok, Thailand.
-
-_21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, and poster on 'the new computing curriculum in English schools: a statistical analysis of student participation' [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
+_15-16 May 2018_ Workshops on academic writing curricula, assessing academic writing, Moodle's social constructionist toolset and evaluating and improving lectures, modules and programmes, Akaki Tsereteli State University, Kutaisi, Georgia.
 
 ## Previous
+
+_27 April 2018_ Keynote, [Coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), ICT for Education, Leeds
+
+_17 April 2018_ [Academic writing: the why and the how](https://drive.google.com/open?id=1IDPK3AI5eyI8sf1VHrB8coKa65MUxflWqrTI8yvxBuc), Roehampton festival of teaching and learning.
+
+_12 April 2018_ [Computing in schools – what has England learnt?](https://drive.google.com/open?id=1mOPTBNcytVsIWUQK6yuETd64bN4gqWlUtgAal1FLTYA) Presentation to Basque delegation, Swansea.
+
+4 April 2018		[Video essays as student assignments](https://drive.google.com/open?id=16hVlXnJvQLiiTL0-O89SPrPsjyqHgOSWw9qr5teSA70), HVL technology in teacher education seminar, HVL, Bergen
+
+_20 March 2018_ [Artificial intelligence, machine learning and computing education](https://drive.google.com/open?id=14O9GRWja2bV4a9GJAxqC-njB4ebS56uegr07sgpuZkE), World ORT symposium, London.
+
+_19 March 2018_ ['A Quantum Leap': Crowd sourcing assessment](http://www.cambridgeassessment.org.uk/news/project-quantum-takes-off/). Cambridge Assessment, Downing College, Cambridge.
+
+_13 March 2018_ [Quickstart Computing](https://drive.google.com/open?id=1bvmU2q_5TuM4uXTWJiyd6nuApfH6IpRWU1SIRzRi5GE), Delivering Outstanding Computing, Inside Government, London.
+
+_8 March 2018_ [Project Quantum](https://drive.google.com/open?id=14UZqMqUtiDCvDHOM_PYThVtcoqih8x-yfgjcvn1XLg0). CAS East regional conference), Microsoft Research, Cambridge.
+
+_2 March 2018_ Keynote on [coding across the curriculum](https://drive.google.com/open?id=1xUfsZIWrydZ-hKHHDLHlTPWHpjUdEVUPGJ41v3epBh0) and plenary on [assessing computing](https://drive.google.com/open?id=1Meiu75-WFOCvM2ZT6X8A25ajsiBL4Z4guVfqobxwR9Y), FOBIT18, Bangkok, Thailand.
+
+_21-24 February 2018_ Panel on repositories and poster on uptake of computing qualifications in England, and [poster (with Peter Kemp and Billy Wong) on 'the new computing curriculum in English schools: a statistical analysis of student participation'](http://bit.ly/tracersigcse) [SIGCSE 18](https://sigcse2018.sigcse.org/), Baltimore, USA.
 
 _14 February_ [Teaching academic writing](https://drive.google.com/open?id=1zMgpbbwy_HRhPT9qJ6eXc5qDSDxAzYT2pj_NE66j1cQ). [Erasmus / Integrity](http://integrity.iliauni.edu.ge/), University of Vienna
 
