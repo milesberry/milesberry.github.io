@@ -13,6 +13,14 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Comment on [sub-vocal interface to Google search](https://www.tes.com/news/teachers-nightmare-meet-tech-allows-you-google-your-mind) for TES, 24/4/2018
+
+Comment on [1:1 access](https://www.classoos.com/achieving-1-1-success-is-not-as-hard-as-you-think-digital-devices-for-schools/), Merlin John for Classoos, 18/4/2018
+
+Various mentions, House of Lords AI select committee report, [AI in the UK: ready, willing and able?](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/100.pdf#page=81) 16/4/2018
+
+Cambridge Assessment [coverage](http://www.cambridgeassessment.org.uk/news/project-quantum-takes-off/) of talk on Project Quantum (with Simon Peyton Jones) 23/3/18. [Coverage](https://www.tes.com/news/questions-answered-over-gap-resources-inexperienced-computing-teachers) by TES, 27/3/18
+
 Interview on [AI in education](http://blog.optimus-education.com/alexa-teach-me-future-artificial-intelligence-education) for Optimus Education blog. 15/2/18
 
 Comment in ["Cynical about Apple’s move into UK schools? Well, it turns out they need all the help they can get"](http://www.wired.co.uk/article/apple-everyone-can-code-teaching-schools-uk-ipad), Wired, 24/1/18
