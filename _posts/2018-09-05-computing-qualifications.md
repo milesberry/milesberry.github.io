@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathematics and computer science"
+title: "Where are all the students?"
 date: "2018-09-05 10:00:56 +0000"
 author: Miles Berry
 permalink: /2018/09/computing-qualifications/
