@@ -6,25 +6,44 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=718
 ---
-## Forthcoming
 
-_29 June 2018_ Keynote: Blocks beyond Scratch, [Exabytes conference, Bradford](https://www.eventbrite.co.uk/e/exabytes18-3rd-annual-teaching-learning-with-technology-conference-tickets-43930518363?aff=erelexpmlt)
+_29 November 2018_ [21st century skills: computational thinking and artificial intelligence](https://drive.google.com/open?id=16Tc29jZ4MUof2E0fuHz32KcYqbK9y55xuEQIy_yoI0A). ISC Digital Strategy Conference, Radley College.
 
-_27 June 2018_ Keynote: primary computing update, [Equip4Computing Conference 2018](https://schoolscomputing.co.uk/events/equip4computing-conference-2018/), Redhill
+_23 November 2018_ Keynote: [Teaching AI in schools](https://drive.google.com/open?id=1xDz9CiGZyn-EtieaPsdQa6nKmIZmLc9jtucssDD1g7Q). ICT Live, Nottingham.
 
-_21-22 June 2018_ Computational thinking and mathematical reasoning: what's the difference?, [Festival of Education](http://educationfest.co.uk/), Wellington College.
+_15 November 2018_ [Project Quantum: tests worth teaching to?](https://drive.google.com/open?id=1pA7oE32zDeGqLiyXocK2LRZPosMaFWS0jdvIYzl31U4) CCEA, Belfast.
 
-_16 June 2018_ Uptake and achievement - how GCSE and A level computing are going, [CAS Conference, Birmingham University](https://www.eventbrite.co.uk/e/2018-national-cas-conference-for-teachers-of-computing-tickets-44643319370)
+_2 November 2018_ Keynote: [AI, machine learning and schools](https://docs.google.com/presentation/d/1YuMZBDKtIFR1OAv1V8991Kceb-94qiFGgn9pLgg7wUk/edit#slide=id.p), ETZ 2018, Turkish Ministry of Education, Ankara.
 
-_15 June 2018_ Keynote, [ICT for Education](https://www.ictforeducation.co.uk/), Brighton
+_18 October 2018_ Micro:bit workshops, Digital Leaders Conference, Stroud School, Romsey.
 
-_13 June 2018_ Keynote, Somerset Technology Conference
+_12-13 October 2018_ Keynote: [computing in schools, an English perspective](https://drive.google.com/open?id=1TY8VGJsmtSmWfyNZUKCjG9-tkTIXcQJNsAXSKWElJEw) and workshop, [A coherent computing curriculum](https://drive.google.com/open?id=1BiaOTlXERVyol6B_PUcwHqzhbJoV8MnlU-1z79gDBjM). Global forum for software education, KOFAC, Busan, South Korea.
 
-_7-8 June 2018_ Presentations on What has England Learnt about Computing Education and Teaching AI, [New Technologies in Education](https://www.britishcouncil.rs/en/new-technologies), Belgrade.
+_8 September 2018_ [Mining the performance tables](https://drive.google.com/open?id=1UkWLQnDZBLi2oYmULHQJmNwn3lw4IpU3vbZH74HiFt8). ResearchEd, London.
 
-_15-16 May 2018_ Workshops on academic writing curricula, assessing academic writing, Moodle's social constructionist toolset and evaluating and improving lectures, modules and programmes, Akaki Tsereteli State University, Kutaisi, Georgia.
+_31 August 2018_ [Developing an academic writing curriculum](https://drive.google.com/open?id=15v7n-eiZ59d1MdrxdUPvP7FjPDrqTLpuplSe1GxRZ84). Uppsala University, Sweden.
 
-## Previous
+_10 July 2018_ [A coherent computing curriculum?](https://drive.google.com/open?id=1iErb9QkHoRkIcFoSz1iic8qt_qa5BilfHnJQsMtvLpE) CSTA Conference, Omaha, NE.
+
+_4 July 2018_ England's computing curriculum. Western Balkans Summit, British Ambassador's Residence, Vienna.
+
+_29 June 2018_ Keynote: [there's more to blocks than Scratch](https://drive.google.com/open?id=1MNJx-4l5kdJo3DbEqEQYD3zPv_I5HObhQSPP_FyODJ0), Exabytes conference, Bradford.
+
+_27 June 2018_ Keynote: [primary computing update](https://drive.google.com/open?id=1fJYCR5z7WsGHZgfKD-xPFn6X-m2DbQ0EvpwealVQolU), Equip4Computing Conference 2018, Redhill
+
+_21-22 June 2018_ [Computational thinking and mathematical reasoning: what's the difference?](https://drive.google.com/open?id=1Cso8EjfHUUJQAygsCwMyZIqXvlQxm-9Ig_sYl-gqslE), Festival of Education, Wellington College.
+
+_16 June 2018_ [Uptake and achievement - how GCSE and A level computing are going](https://drive.google.com/open?id=1p_E9DiSWDGlJvnRd64CarhTVkKSnmQhCIrlQS_o6cKk), CAS Conference, Birmingham University. With Pete Kemp.
+
+_15 June 2018_ Keynote, [Teaching pupils about AI](https://drive.google.com/open?id=1gUnaCb1NqMTJbYO7DRzEmRu46IRSF1PANTykDF_c0dE), ICT for Education, Brighton
+
+_12 June 2018_ Keynote, Somerset Technology Conference
+
+_7-8 June 2018_ Presentations on [What has England Learnt about Computing Education](https://drive.google.com/open?id=1lNa_YVsF_bR5dLfadiOAQSWDZmsz8V8pVw9IxStqNkI) and [Teaching AI](https://drive.google.com/open?id=1YuMZBDKtIFR1OAv1V8991Kceb-94qiFGgn9pLgg7wUk), [New Technologies in Education, Belgrade.
+
+_24 May 2018_ Assessing primary computing. CAS Haslemere Hub meeting, The Royal School, Haslemere.
+
+_15-16 May 2018_ Workshops on [academic writing curricula](https://drive.google.com/open?id=1t_a76cn4AvkDfqwaShJGx6hAAZYp5pe4eLuXqIkkrgA), a[ssessing academic writing](https://drive.google.com/open?id=1TX8THvt-2N9Hw90sv2OEv_W8sngjUq6jVBnd-3pbse4), [Moodle's social constructionist toolset](https://drive.google.com/open?id=1yStgGAa_pzZjHYdAT9DsMmalENvyDSEnhTrqHNSyCuM) and [evaluating and improving lectures, modules and programmes](https://drive.google.com/open?id=1_QTGDgqVtTVSK5uzQvMfFeHQx1tuYE5Sg313-spNFIs), Akaki Tsereteli State University, Kutaisi, Georgia.
 
 _27 April 2018_ Keynote, [Coding across the curriculum](https://drive.google.com/open?id=1Iv-rTzZmHGotIBXDEmoeDg-gRR49t_gJf690ouiq4hQ), ICT for Education, Leeds
 
