@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_11 January 2019_ [Informatique en milieu scolaire: Une perspective anglaise](https://docs.google.com/presentation/d/1n9VADK2kd7umKwG3Ql3RbKlLsqRJdh9XueX730gL3Ag/edit#slide=id.g424a05bbe0_0_87). Class'Code AG Annual Gathering, Institut Henri Poincaré, Paris.
+
 _29 November 2018_ [21st century skills: computational thinking and artificial intelligence](https://drive.google.com/open?id=16Tc29jZ4MUof2E0fuHz32KcYqbK9y55xuEQIy_yoI0A). ISC Digital Strategy Conference, Radley College.
 
 _23 November 2018_ Keynote: [Teaching AI in schools](https://drive.google.com/open?id=1xDz9CiGZyn-EtieaPsdQa6nKmIZmLc9jtucssDD1g7Q). ICT Live, Nottingham.
