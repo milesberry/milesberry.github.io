@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computational thinking and mathematical reasoning"
-date: "2018-09-18 10:00:56 +0000"
+date: "2019-09-18 10:00:56 +0000"
 author: Miles Berry
 permalink: /2019/09/ct-and-maths/
 comments: true
@@ -9,7 +9,7 @@ image:
         feature: 190918.jpg
 ---
 
-For me personally, mathematics and computer science have always been closely linked. I was first taught BASIC during secondary school maths lessons. My O Level programming project involved calculating lines of best fit and correlation coefficients. Studying mathematics at university, I learnt ML and discrete mathematics through sitting in on CompSci lectures and classes, undertook the optional programming projects and got summer jobs developing computer models and overhauling Fortran code. Starting out as a secondary maths teacher, I was keen to integrate technology into my mathematics lessons: I got some of my lessons timetabled for the computer lab, and thus had a good excuse for teaching a little programming for problem solving in maths. I first learned about Linux and Python in a hands-on maths professional development workshop ran by the NRICH maths enrichment programme in Cambridge. 
+For me personally, mathematics and computer science have always been closely linked. I was first taught BASIC during secondary school maths lessons. My O Level programming project involved calculating lines of best fit and correlation coefficients. Studying mathematics at university, I learnt ML and discrete mathematics through sitting in on CompSci lectures and classes, undertook the optional programming projects and got summer jobs developing computer models and overhauling Fortran code. Starting out as a secondary maths teacher, I was keen to integrate technology into my mathematics lessons: I got some of my lessons timetabled for the computer lab, and thus had a good excuse for teaching a little programming for problem solving in maths. I first learned about Linux and Python in a hands-on maths professional development workshop ran by the NRICH maths enrichment programme in Cambridge.
 
 Whilst I know there are lots of subjects to which we can connect computing, I remain convinced that there are some particularly powerful synergies that we can exploit when we link CS with maths. There are ample ways to draw on coding in maths lessons, especially if you’ve a language that supports functions (such as Snap!, Python, Pyret, as used by Bootstrap World, or even Haskell), and a certain amount of mathematical content that we need to cover in CS teaching (e.g. binary and other number bases, Boolean logic, integer arithmetic), but what I’d like to explore here are the strong parallels between computational thinking and mathematical reasoning.
 
