@@ -7,6 +7,49 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+
+_29 January 2020_		[Coding, creativity and community](https://docs.google.com/presentation/d/17eJNFo_M9YwXj8nYth6I6UuE7mY3jwes7Ow29muC0Uc/edit), Roehampton PG research conference
+
+_22 January 2020_		Facilitation: Nordic at BETT, Nordic CRAFT
+
+_28 November 2019_	[Developing AI solutions with schools](https://docs.google.com/presentation/d/1mkDWf6ewGCsEW6PWRlo7FphsY2X13-cAttjIW70HwW4/edit?usp=sharing), ISC Digital Strategy Group, Brighton
+
+_22 November 2019_	[Progression in problem solving](https://drive.google.com/open?id=14B27b3Son8glNgELrSme912Y3BeO1GDioQSDXERLZuU), ICT for Education, Nottingham
+
+_9 November 2019_	[Computing in English schools: Lessons to learn for AI education](https://drive.google.com/open?id=1UJxPGRmJa7h4_HGsxgvlz3IoC5Tq0eGdjCM9It_VE-4), AAAI Fall Symposiums, Arlington
+
+_25 October 2019_		Keynote: [Digital Skills for Growth](https://drive.google.com/open?id=1Ysp9-RUMZ-q8lhF-A3os8W26gN6bb4qsRaMzm65gZcA), Durham
+
+_8 October 2019_		Plenary: [Making change](https://drive.google.com/open?id=1-VLHzooYnUYwP8EhUJnL_F2dbIbqmzf9KaFkFGmDSe8), Hampshire Computing Conference, Winchester
+
+_13 September 2019_	[Data skills for All](https://drive.google.com/open?id=1siFtiXaLJ1NvPYnKunTZPH97DTvR36zNhBmMc9IYW3M), Royal Society / STEM Learning symposium, York
+
+_27 August 2019_		Workshop: “Curricular integration of digital education, programming and robotics, Learning for the Future in the Era of Artificial Intelligence, Buenos Aires
+
+_26 August 2019_		Panel: [Curricular integration of programming and robotics: international cases, Learning for the Future in the Era of Artificial Intelligence](https://drive.google.com/open?id=1NM83FqPU09PnJ0oXXR3cgzZeIhxxadcd), Buenos Aires
+
+_24 August 2019_		Project Quantum (with Richard Millwood), Scratch Conference Europe, Cambridge
+
+_17 July 2019_		Panel: [Interdisciplinary Computer Science Pre-service Teacher Preparation](https://docs.google.com/presentation/d/1egFTPcZNx3E0qBX_Re-TtNc2Fx07FEmuSJRW3zurqY4/edit), ITiCSE, Aberdeen
+
+_16 July 2019_		Panel: Resources for Researching and Teaching Computing Education in Primary and Secondary Schools: What Exists and What is Still Needed, ITiCSE, Aberdeen
+
+_10 July 2019_		[Crowdsourcing multi choice questions](https://docs.google.com/presentation/d/1jNs4jPjRiDRqu-0BqY3RjdbMoI6uEtFZqCTLTAl7Rcs/edit?usp=sharing), CSTA Conference, Phoenix
+
+_11 June 2019_		[What learning sciences can teach us about presenting](https://drive.google.com/open?id=1Zdfi4y3cFrPwP-MmNfCVi1_gWKmlazdjnPSfTzm1IAQ). Roehampton Learning and Teaching Festival.
+
+_2 May 2019_		[Assessing computing](https://drive.google.com/open?id=17SNEzgRLHSyA0WcCGk_tav-0w82a-Q06qdkUqiGwjkA), IAPS ICT Conference, London.
+
+_4 April 2019_		Panel, School Reforms for Digital Future, Western Balkans Digital Summit, Belgrade
+
+_22 March 2019_		[Progression in problem solving](https://drive.google.com/open?id=14B27b3Son8glNgELrSme912Y3BeO1GDioQSDXERLZuU), ICT for Education, Brighton
+
+_22 February 2019_		[School level data for 2018 GCSE entries](http://milesberry.net/performancetables1718.html), CAS Research seminar, Cambridge
+
+_24 January 2019_		Facilitator, Nordic at BETT: Nordic CRAFT.
+
+_17 January 2019_		Opening keynote, Islington computing celebration, Emirates Stadium
+
 _11 January 2019_ [Informatique en milieu scolaire: Une perspective anglaise](https://docs.google.com/presentation/d/1n9VADK2kd7umKwG3Ql3RbKlLsqRJdh9XueX730gL3Ag/edit#slide=id.g424a05bbe0_0_87). Class'Code AG Annual Gathering, Institut Henri Poincaré, Paris.
 
 _29 November 2018_ [21st century skills: computational thinking and artificial intelligence](https://drive.google.com/open?id=16Tc29jZ4MUof2E0fuHz32KcYqbK9y55xuEQIy_yoI0A). ISC Digital Strategy Conference, Radley College.

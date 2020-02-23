@@ -12,7 +12,7 @@ _September 2019_	Computational thinking and mathematical reasoning. [Hello World
 
 _September 2019_	Counting coins. [Hello World #10](https://helloworld.raspberrypi.org/issues/10/pdf).
 
-_September 2019_	Data Science in Schools, CSTA Advocate.
+_September 2019_	[Data Science in Schools](http://advocate.csteachers.org/2019/09/06/data-science-in-schools/), CSTA Advocate.
 
 _June 2019_		We need a GCSE in Computing. [Hello World #9](https://helloworld.raspberrypi.org/issues/9/pdf).
 
@@ -28,7 +28,7 @@ _January 2019_		Introducing Scratch 3, [Hello World #7](https://helloworld.raspb
 
 _January 2019_		In praise of blocks. Comment column, [Hello World #7](https://helloworld.raspberrypi.org/issues/7/pdf) (as contributing editor).
 
-_December 2018_	Switched On Computing: Programming at School – Japanese edition.
+_December 2018_	Switched On Computing: Programming at School – [Japanese edition](https://www.dnp.co.jp/biz/solution/products/detail/1192363_1567.html).
 
 _November 2018_	Teaching pupils about artificial intelligence. Digital Strategy #1 (Independent Schools Council Digital Strategy Group).
 
@@ -60,9 +60,9 @@ _February 2018_ [Written evidence on AI and SEND and SEND and computing educatio
 
 _January 2018_ What probably works when teaching computing. PiXL Computing.
 
-_January 2018_	Teachers’ Knowledge. Comment column for Hello World #4 (as contributing editor)
+_January 2018_	Teachers’ Knowledge. Comment column for [Hello World #4](https://helloworld.raspberrypi.org/issues/4/pdf) (as contributing editor)
 
-_December 2018_	CS Education and AI. Blog post for CSTA Advocate blog.
+_December 2018_	[CS Education and AI](http://advocate.csteachers.org/2017/12/20/ai-and-cs-teaching/). Blog post for CSTA Advocate blog.
 
 _November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
 
