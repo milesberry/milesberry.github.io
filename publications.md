@@ -6,6 +6,47 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
+_November 2019_	[Female Performance and Participation in Computer Science: A National Picture](http://milesberry.net/KempWongBerry2019.pdf), ACM TOCE, with Pete Kemp and Billy Wong.
+
+_September 2019_	Computational thinking and mathematical reasoning. [Hello World #10](https://helloworld.raspberrypi.org/issues/10/pdf).
+
+_September 2019_	Counting coins. [Hello World #10](https://helloworld.raspberrypi.org/issues/10/pdf).
+
+_September 2019_	Data Science in Schools, CSTA Advocate.
+
+_June 2019_		We need a GCSE in Computing. [Hello World #9](https://helloworld.raspberrypi.org/issues/9/pdf).
+
+_May 2019_		[The Roehampton Annual Computing Education Report Pre-release snapshot from 2018](http://milesberry.net/docs/TRACER%202018a.pdf) (with Pete Kemp).
+
+_April 2019_		What I’m thinking about computational thinking. [Hello World #8](https://helloworld.raspberrypi.org/issues/8/pdf).
+
+_February 2019_		Revisiting Computational Thinking. Naace Journal.
+
+_January 2019_		Learning languages in Scratch, [Hello World #7](https://helloworld.raspberrypi.org/issues/7/pdf).
+
+_January 2019_		Introducing Scratch 3, [Hello World #7](https://helloworld.raspberrypi.org/issues/7/pdf).
+
+_January 2019_		In praise of blocks. Comment column, [Hello World #7](https://helloworld.raspberrypi.org/issues/7/pdf) (as contributing editor).
+
+_December 2018_	Switched On Computing: Programming at School – Japanese edition.
+
+_November 2018_	Teaching pupils about artificial intelligence. Digital Strategy #1 (Independent Schools Council Digital Strategy Group).
+
+_October 2018_		Computing as a new subject ([German translation](http://milesberry.net/docs/login.pdf)).   LOG IN: Vol. 38, No. 1. 189/90 Berlin: LOG IN Verlag. (S. 20-26).
+
+_October 2018_		[Implementing the computing national curriculum in England](http://milesberry.net/docs/kofac2018en.pdf) ([Korean translation](http://milesberry.net/docs/kofac2018kr.pdf)) KOFAC Global SW Education Forum, Korea..
+
+_September 2018_	[Computational thinking and problem solving](https://codeweek.eu/training/computational-thinking-and-problem-solving). Codeweek EU, EU Schoolnet, Brussels. .
+
+_September 2018_	GCSE and A Level CS. Comment column for [Hello World #6](https://helloworld.raspberrypi.org/issues/6/pdf) (as contributing editor).
+
+_September 2018_	Ethics in the computing curriculum. [Hello World #6](https://helloworld.raspberrypi.org/issues/6/pdf).
+
+_September 2018_	Where are all the students. CSTA Voice.
+
+_June 2018_		[Mathematics and computer science](http://advocate.csteachers.org/2018/06/21/mathematics-and-computer-science/). CSTA Advocate blog.
+
+_June 2018_ 		[The Roehampton Annual Computing Education Report 2017](http://milesberry.net/docs/TRACER_2017.pdf). With Peter Kemp and Billy Wong..
 
 _May 2018_ [Teaching as engineering](https://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/014/original/HelloWorld05.pdf#page=97). Comment column as contributing editor, Hello World 5.
 
