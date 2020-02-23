@@ -6,7 +6,7 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
-_November 2019_	[Female Performance and Participation in Computer Science: A National Picture](http://milesberry.net/KempWongBerry2019.pdf), ACM TOCE, with Pete Kemp and Billy Wong.
+_November 2019_	[Female Performance and Participation in Computer Science: A National Picture](http://milesberry.net/KempWongBerry2019.pdf), ACM TOCE, with Pete Kemp and Billy Wong. 
 
 _September 2019_	Computational thinking and mathematical reasoning. [Hello World #10](https://helloworld.raspberrypi.org/issues/10/pdf).
 
