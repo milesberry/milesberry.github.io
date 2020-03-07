@@ -9,6 +9,8 @@ guid: http://milesberry.net/?p=978
 permalink: /2013/11/computing-in-the-national-curriculum-a-guide-for-primary-teachers/
 categories:
   - Uncategorized
+image:
+    feature: 131123.jpg
 ---
 Bearing in mind that much of [the new computing programme of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) expects non-specialists (and I suspect a few specialists&#8230;) to teach at least some things many are unlikely to have been taught, either at school or when training to teach, Computing at School commissioned me to write a short guide to the new curriculum, addressing subject knowledge as well as planning, teaching and assessment for computing. With much helpful feedback and editing from friends in [Havering School Improvement Service](http://www.havering-sis.org/en_GB/index), [Rising Stars](http://www.risingstars-uk.com) and elsewhere this is now done &#8211; a copy has been posted out to each English primary school and it&#8217;s [free to download from CAS&#8217;s site](http://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf). Very pleased that it also received Naace&#8217;s endorsment.
 
