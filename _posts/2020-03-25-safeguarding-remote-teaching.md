@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Safeguarding when teaching remotely"
-science - a national picture"
 date: "2020-03-25 10:00:56 +0000"
 author: Miles Berry
 permalink: /2020/03/safeguarding-remote-teaching/
@@ -59,5 +58,5 @@ GDPR: school provided systems should already be compliant with the requirements 
 
 There’s [further good advice](https://coronavirus.lgfl.net/safeguarding) from London’s regional broadband consortium, London Grid for Learning. 
 
-*Originally written for Roehampton secondary PGCE students continuing to support students remotely. I am not a lawyer; you should follow your school's policy.*
+*Originally written for Roeha mpton secondary PGCE students continuing to support students remotely. I am not a lawyer; you should follow your school's policy.*
 
