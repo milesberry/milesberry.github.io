@@ -37,7 +37,7 @@ Much of our current thinking about effective teaching and learning is based on p
 
 During the lockdown, ResearchEd organised [a programme of daily online CPD](https://researched.org.uk/researched-home-2020/) for teachers - there’s a huge amount of content here, and again I think you’d need to be quite critical in making use of this. 
 
-To keep up to date with what’s happening, read [the TES]([News | Tes](https://www.tes.com/news), [Schools Week](https://schoolsweek.co.uk/) and [the education coverage in the Guardian](https://www.theguardian.com/education/schools). 
+To keep up to date with what’s happening, read [the TES](https://www.tes.com/news), [Schools Week](https://schoolsweek.co.uk/) and [the education coverage in the Guardian](https://www.theguardian.com/education/schools). 
 
 
 ## Computing
