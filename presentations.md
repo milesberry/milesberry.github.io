@@ -7,6 +7,13 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_22 July 2020_ [Educational policies based on coding](https://docs.google.com/presentation/d/1db3B_o5wX4YIEit7Sd0GH1UbUqs8lBYuiigx5XcwCaI/edit?usp=sharing) Virtual Educa Connect virtual conference
+
+_13 July 2020_ [Teaching data science in schools](http://bit.ly/csta20), CSTA 2020 virtual conference
+
+_7 July 2020_ [How can a former Soviet republic end the institutional culture of plagiarism and impeorve the quality of teaching and learning in HE?](https://www.youtube.com/watch?v=Fy7Au45jBjE) Advance HE virtual conference. With Peter Flew. 
+
+_13 March 2020_ [Data science for all](https://docs.google.com/presentation/d/1nagpNpMxQczDq-w73p6HwQXYkP4blwQpOXTB_b8xJjM/edit?usp=sharing) ICT Live, Brighton
 
 _29 January 2020_		[Coding, creativity and community](https://docs.google.com/presentation/d/17eJNFo_M9YwXj8nYth6I6UuE7mY3jwes7Ow29muC0Uc/edit), Roehampton PG research conference
 
