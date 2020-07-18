@@ -69,5 +69,5 @@ The non-statutory guidance in [Development Matters](http://www.foundationyears.o
 As with all learning, we need to recognise the importance of children’s early experiences. If we can get the environment right in these early days, we can set children off on the right foot to develop computational thinking and creativity.
 
 <p style="padding-left: 30px;">
-  <em>Written by <a href="http://www.winchester.ac.uk/academicdepartments/teacherdevelopment/Peopleprofilesteacherdevelopment/Academicprofiles/Pages/mrs-emma-goto.aspx">Emma Goto</a> and me for the <a href="http://community.computingatschool.org.uk/files/6917/original.pdf">Spring 2016 edition of Switched On</a>, the <a href="http://www.computingatschool.org.uk/">CAS</a> Newsletter. </em>
+  <em>Written by <a href="https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/goto.php">Emma Goto</a> and me for the <a href="http://community.computingatschool.org.uk/files/6917/original.pdf">Spring 2016 edition of Switched On</a>, the <a href="http://www.computingatschool.org.uk/">CAS</a> Newsletter. </em>
 </p>
