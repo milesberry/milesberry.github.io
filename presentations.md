@@ -7,6 +7,14 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_16 January 2021_ [Teaching data science](http://bit.ly/csta2021) CSTA Future of CS Sumnmit.
+
+_12 January 2021_ [Only connect](https://docs.google.com/presentation/d/1PhPpa5PsWwOeJeEvV2n9K7x6fRldaIHHqNxKCI3X4Ls/edit?usp=sharing) January Welcome Festival, University of Roehampton.
+
+_6 October 2020_ [Virtual education is personalised education](https://docs.google.com/presentation/d/120LmvRzlBI-aMgSyENxLIZVKulpI1cbarq7gw9wyby0/edit?usp=sharing) EduTech Digital Summit, Riyadh, KSA.
+
+_5 October 2020_ [Academic integrity and distance learning](https://docs.google.com/presentation/d/1M1bc4fA13UNabQsTAX0N4V26lOA2O4muYTs00P8NoFs/edit?usp=sharing) Integrity Conference, Ilia State University, Tbilisi, Georgia. 
+
 _22 July 2020_ [Educational policies based on coding](https://docs.google.com/presentation/d/1db3B_o5wX4YIEit7Sd0GH1UbUqs8lBYuiigx5XcwCaI/edit?usp=sharing) Virtual Educa Connect virtual conference
 
 _13 July 2020_ [Teaching data science in schools](http://bit.ly/csta20), CSTA 2020 virtual conference
