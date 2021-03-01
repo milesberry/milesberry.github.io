@@ -6,6 +6,17 @@ author: Miles Berry
 layout: page
 guid: http://milesberry.net/?page_id=716
 ---
+
+_November 2020_ [What's new in Switched On Computing](https://www.risingstars-uk.com/blog/november-2020/what-s-new-in-switched-on-computing-3rd-edition), blog post for Rising Stars.
+
+_October 2020_ [Intent, Implementation and Impact in Switched on Computing](https://www.risingstars-uk.com/blog/october-2020/intent,-implementation-and-impact-in-switched-on-c), blog post for Rising Stars. 
+
+_September 2020_ [Switched on Computing and a Catch Up Curriculum](https://www.risingstars-uk.com/blog/september-2020/switched-on-computing-and-a-catch-up-curriculum), blog post for Rising Stars. 
+
+_July 2020_ Teaching Primary Programming – some research insights in Primary Schools Partnership July Newsletter, University of Roehampton School of Education.
+
+_June 2020_ Creative Coding, in Grover, S. (ed) Computer science in K-12: an A-Z handbook on teaching programming. Palo Alto, CA: Edfinity.
+
 _November 2019_	[Female Performance and Participation in Computer Science: A National Picture](http://milesberry.net/docs/KempWongBerry2019.pdf), ACM TOCE, with Pete Kemp and Billy Wong.
 
 _September 2019_	Computational thinking and mathematical reasoning. [Hello World #10](https://helloworld.raspberrypi.org/issues/10/pdf).
