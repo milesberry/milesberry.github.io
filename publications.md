@@ -13,7 +13,7 @@ _October 2020_ [Intent, Implementation and Impact in Switched on Computing](http
 
 _September 2020_ [Switched on Computing and a Catch Up Curriculum](https://www.risingstars-uk.com/blog/september-2020/switched-on-computing-and-a-catch-up-curriculum), blog post for Rising Stars. 
 
-_July 2020_ Teaching Primary Programming – some research insights in Primary Schools Partnership July Newsletter, University of Roehampton School of Education.
+_July 2020_ [Teaching Primary Programming – some research insights in Primary Schools Partnership July Newsletter](/2020/07/some-scratch-research/), University of Roehampton School of Education.
 
 _June 2020_ Creative Coding, in Grover, S. (ed) Computer science in K-12: an A-Z handbook on teaching programming. Palo Alto, CA: Edfinity.
 
