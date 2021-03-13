@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Teaching primary programming - some research insights"
+date: "2020-07-22 10:00:56 +0000"
+author: Miles Berry
+permalink: /2020/07/some-scratch-research/
+comments: true
+image:
+        feature: 200722.jpg
+---
+
+The national curriculum computing programmes of study expect that pupils "have repeated practical experience of writing computer programs", and have specific expectations for what this means at both Key Stage 1 and Key Stage 2. At Key Stage 2, pupils should be taught to, amongst other things, 
+
+>"use sequence, selection, and repetition in programs; work with variables and various forms of input and output". 
+
+These requirements are often fulfilled through the use of MIT's popular Scratch visual, block-based programming environment (see [scratch.mit.edu](http://scratch.mit.edu)). There are unparalleled collections of resources available for teachers to introduce pupils to programming in Scratch; more interestingly, many children learn to program in Scratch outside school, through extra-curricular programs such as Code Club, or independently. It's in these non-formal settings that Scratch started, and baked-in to Scratch is the ability for children to share their projects with a global community of other young programmers, or to use others' projects as a starting place for their own.
+
+Over the years, a large body of academic research into Scratch programming has been built; here, I'd like to share just five recent studies, all of which have something to say to teachers making use of this, or similar tools, to teach programming in primary schools.
+
+## What do young people actually make with Scratch?
+
+Aivaloglou and Hermans (2016) were interested in the question of what it is that young people actually *do* when programming in Scratch. To answer this, they 'scraped' some 250,000 projects from the public repository of Scratch projects. They looked at the size of the projects and the blocks used, the programming concepts used and the 'smells' of the projects - a term loosely covering things that weren't quite right in the project (such as duplicate blocks of code, or redundant blocks that would never be run), usually indicative of bad programming habits.
+
+About 6% of their sample were empty projects, with no code in at all. Aivaloglou and Hermans say that most Scratch projects are 'small': 75% of their sample have 5 or fewer sprites and 12 or fewer scripts, although a minority are very large: 5% have more than 500 blocks!  Control and data blocks are used extensively, as are 'looks' blocks.
+
+77% of projects contain loops, although these are typically 'forever' or count controlled loops - conditional loops (repeat until) are rarely used. Interestingly, it's only 22% of projects that contain any decision (if then) blocks. Custom blocks (the equivalent of procedures in traditional programming languages), are used in less than 8% of projects, but they're used extensively in these, with a few projects (0.5%) using custom blocks that call themselves (i.e. recursion, a programming construct rarely taught before A Level).
+
+Code 'smells' occurred in a minority of the projects they looked at: 26% had duplicated code, 28% had code that would never be run, e.g. procedures that were never called, scripts that would run on messages that would never be broadcast and empty event blocks.
+
+Should teachers care about these code 'smells'? Isn't it enough that young programmers are having fun making things in Scratch? There's some evidence that 'smelly' code makes it hard for others to learn from projects, and this seems to hinder one of the great advantages of Scratch's shared, social approach to programming; there's also some evidence (Hermans & Aivaloglou, 2016) that bad habits, including not caring about 'smelly' code, can get in the way of subsequent learning in programming, perhaps particularly when pupils later make the move to programming in a text-based language such as Python.
+
+## Do girls and boys use Scratch differently?
+
+By the time pupils come to taking their GCSEs, there's a huge gender disparity in the take-up of computer science, with about 80% of exam entries coming from boys. At A Level, the difference is even greater, with little more than 10% of entries from girls. At primary school, we can be assured that computing girls and boys are equally represented in classes, and involvement in after-school coding clubs is generally pretty equitable, but is there a difference between how boys and girls use Scratch when programming independently?
+
+At a somewhat smaller scale than Aivaloglou and Hermans's (2016) work, Funke and Geldreich (2017) sought to investigate whether independent projects from primary school pupils showed any gender differences. They looked at 127 projects from 58, 9-10 year olds, who had all followed the same introductory programming course. After a couple of days of instruction in 'computational thinking' and on Scratch, pupils were set the task of creating their own, circus-inspired Scratch projects, subject to a few conditions: there had to be more than one sprite, sprites had to move, there had to be some repetition and some selection. The SOLO (structure of observed learning outcomes) taxonomy was used, with understanding assessed as from pre-structural to extended abstract levels.
+
+The boys had used 70 *different* blocks in their projects, whereas the girls has used just 48. The most used blocks from the boys were `move _ steps`, `when key pressed` and `when green flag clicked`; for the girls, these were `wait _ secs`, `when green flag clicked` and `say _ for _ secs`. On average, the girls' projects used 23 blocks, but boys used 32 blocks in theirs. Only four of the projects included variables (to be fair, this wasn't a requirement), one of which was by a girl. Girls' projects were less 'smelly' than those of the boys: 5% of the girls' projects had 'dead' code, but this rose to 21% for the boys. The most significant difference is in the type of project: 79% of 'story' projects were made by girls; in contrast 90% of the 'game' projects were made by boys. This may well have implications for subsequent learning in computing, as games typically include input, selection and often variables, whereas stories need not make use of these constructs. Using the SOLO taxonomy, 44% of the projects were assessed as at the pre-structural level: 80% of these were made by girls; only six projects reached the extended abstract level, all of them made by boys.
+
+## What issues later face pupils who start programming in Scratch?
+
+Scratch (and other block-based languages) have undoubtedly made programming far more accessible to teachers and pupils than text-based languages ever could, even those which had been designed with educational aims in view such as Logo, BASIC and Python. Reasons for this might include the focus on semantics rather than syntax, the presentation of all possible blocks as a collection for the code to choose from, and the ease with which the results of code can be observed. Whilst all the big ideas of computational thinking and programming can be introduced through block-based languages, there are some who raise concerns that programming with blocks is poor preparation for the 'serious' coding in text based languages which is likely to follow for any who will program in subsequent study or employment.
+
+Weintrop et al. (2018) seek to identify some of the challenges for those making the move from languages like Scratch to more traditional ones such as Python. They note that the ease with which pupils can program successfully in Scratch itself poses a challenge later, when the heavy demands of syntax and the dullness of introductory programming exercises in, e.g, Python, are likely to be demotivating for many.
+
+Weintrop et al. (2018) identify a number of issues they observed in novices' block based programs: for example young Scratchers make extensive use is made of the `wait _ secs` block to synchronize action between multiple sprites or scripts, whereas traditional programming courses focus on making programs *faster*, typically by finding more efficient algorithms. They also give the example of event-based programming: the way in which Scratch scripts can run in response to a variety of inputs such as mouse clicks or key presses, or internal message passing, and indeed multiple scripts can run on the same sprite in response to the same event; event-driven programming *can* be done in text-based languages, but introductory courses usually start with a single program, running when executed, sometimes accepting input and then producing output. The third example that gives them cause for concern is the way particular programming constructs are linked to particular use cases - pupils learn, for example, how to use a variable to keep track of the score in a game, but don't develop any more general understanding of variables, and thus struggle to make use of these ideas beyond the context in which they are introduced.
+
+Concerns such as these apart, other work (Armoni,  Meerbaum-Salant and Ben-Ari, 2015) has demonstrated that pupils who had started to program in Scratch learnt new topics more quickly, experienced fewer difficulties on the way and achieved a higher level of understanding when they made the transition to traditional programming courses.
+
+## Are there differences between Scratch novices and experts?
+
+Kesselbacher and Bollin (2019) extended the analytical approach of Aivaloglou and Hermans (2016) to look at the *development* of Scratch projects rather than just their final state, with the aim of identifying which pupils might benefit from more support, and whether there were particular patterns in the way more successful programmers developed Scratch projects. The study was a small scale one (42 secondary pupils), as Kesselbacher and Bollin's (2019) tracking software sat on top of Scratch 3 itself, thus making it possible to record, store and analyse the sequence of pupils' programming as they work on tasks. Pupils were set a tightly specified programming challenge, which they had 20 minutes to solve.
+
+ Successful attempts used linear sequences of code or used a loop to iterate over a list of positions. Unsuccessful attempts were due to  incorrect understanding of programming concepts, misunderstanding the problem, "unsuccessful attempts to solve the problem in a linear fashion", and apparently random sequences of blocks. Analysis of the sequence data suggested four distinct clusters of approaches to the problems, two of which were successful (simple, linear solutions and loop based solutions); the unsuccessful attempts are characterised by lots of attempts at executing the code, sometimes after deleting blocks of code, sometimes after just detaching them. Successful pupils seemed able to predict what code would do, either in a simple sequence or in a repeating loop, although at the level of fine detail successful approaches were quite diverse. On the other hand, pupils who repeatedly try things out in Scratch, changing their program and running it, rather than planning it and then coding, are least likely to be successful in actually solving problems, and that this sort of approach might be an indication that more teacher support could be helpful.
+
+## How good is my code? Is it getting any better?
+
+The [Dr. Scratch tool](http://www.drscratch.org/) allows pupils themselves, and their teachers, to apply the sort of automatic analysis of Scratch programs that some of the other authors here have made use of. Providing the URL of a Scratch project, or uploading its .sb3 file to the Dr Scratch website produces an analysis of the program against a computational thinking rubric covering abstraction, data representation, flow control, logic, parallelism, synchronisation and interactivity. Each dimension is scored on a 0-3 scale, giving an overall score of 0 to 21. This provides an indication of areas where the programmer is doing well and suggests some targets for future learning. The tool can be used by pupils independently, or by teachers looking for a quick way of assessing, and offering feedback on, projects developed by their pupils.
+
+Troiano et al. (2019) made use of Dr. Scratch to track the *development* of lower secondary pupils' computational thinking as they developed 'serious games' to illustrate or model a climate change related topic of their choice. Pupils shared the URL of their Scratch projects with the researchers' website, allowing automatic analysis of 217 projects over time against the Dr. Scratch rubric. Looking at the final state of all the submitted projects, the mean score was just over 14, but 43% scored 16 or more, showing some degree of proficiency across the dimensions of computational thinking evaluated by Dr. Scratch. The lowest scoring dimensions were abstraction (e.g. user defined, custom blocks) and interactivity. Logic and parallelism had good overall scores, but also had a large number of projects scoring 0 on this dimension. All the computational thinking dimensions showed some development over the history of the projects: some, such as abstraction, showed relatively limited improvement; others (e.g. interactivity) developed quickly at first but then levelled off; logic and parallelism developed steadily over the project's lifetime.
+
+Troiano et al. (2019) identified nine distinct clusters amongst the projects: many showed rapid initial development and then levelled off, or remained at a steady level throughout. There were very few projects which showed a consistent development in computational thinking across all seven dimensions for the lifetime of the project, perhaps suggesting a law of diminishing returns in extended project work in Scratch.
+
+## Conclusion
+
+Let me draw some of these themes together as some research-informed recommendations for things to consider when using Scratch to teach programming to primary pupils:
+
+* Teach things that pupils may not figure out for themselves: condition controlled loops, custom blocks
+* Encourage pupils to take pride in their code - give them a list of bad smells, and ask them to eliminate any that they find: the research here suggests boys particularly might not bother to do this unless they're made to.
+* Watch out for gender differences in independent project work, perhaps addressing these through planning for progression for all pupils from stories and animations to interactive games.
+* Keep an eye to the future when planning, helping pupils to use Scratch in a way that will ease rather than hinder the eventual transition to text-based programming in Key Stage 3 and beyond; in particular, help pupils to plan more extended scripts for sprites, using custom blocks where appropriate, rather than running many scripts in parallel on the same sprite or in response to the same event, and emphasise the overall programming idea, rather than just Scratch's implementation in one specific context.
+* Encourage pupils to plan their code before they build it, and watch out for pupils who do lots of tweaking and running code, rather than thinking things through logically.
+* Do make use of Dr. Scratch, and encourage your pupils to do so; whilst it's far from perfect in assessing the computational thinking that goes into Scratch programming, it's a very easy way to track the development of this over time, and can give you and your pupils some useful targets for how to improve.
+
+## References
+
+Aivaloglou, E. & Hermans, F. 2016, [How kids code and how we know: An exploratory study on the Scratch repository](https://www.researchgate.net/publication/307089174_How_Kids_Code_and_How_We_Know_An_Exploratory_Study_on_the_Scratch_Repository). In *Proceedings of the 2016 ACM Conference on International Computing Education Research* (pp. 53-61).
+
+Armoni, M., Meerbaum-Salant, O. and Ben-Ari, M., 2015. [From scratch to “real” programming](https://dl.acm.org/doi/pdf/10.1145/2677087?casa_token=kkTO_1eVZ2gAAAAA:EWjDVrOpc0SlkJorvv2aegpYUZfaW3D2fI8LzYi1zIaGcGiDNqFxKNcNeHV5YkBWvRuyq97BIjk61P9h). *ACM Transactions on Computing Education (TOCE)*, 14(4), pp.1-15.
+
+Funke, A. & Geldreich, K. 2017, [Gender differences in scratch programs of primary school children](https://www.edu.tum.de/fileadmin/tuedz01/ddi/Publikationen/2017/FunkeGeldreich_2017_ScratchProjectsGender.pdf). In *Proceedings of the 12th Workshop on Primary and Secondary Computing Education* (pp. 57-64).
+
+Hermans, F. & Aivaloglou, E. 2016, [Do code smells hamper novice programming? A controlled experiment on Scratch programs](https://repository.tudelft.nl/islandora/object/uuid%3A9ed35b89-c173-4435-b713-432336299b70). In *2016 IEEE 24th International Conference on Program Comprehension (ICPC)* (pp. 1-10). IEEE.
+
+Kesselbacher, M. & Bollin, A. 2019, [Discriminating Programming Strategies in Scratch: Making the Difference between Novice and Experienced Programmers](https://www.aau.at/wp-content/uploads/2019/09/KesselbacherBollin_WiPSCE19.pdf). In *Proceedings of the 14th Workshop in Primary and Secondary Computing Education* (pp. 1-10).
+
+Troiano, G. M., Snodgrass, S., Argımak, E., Robles, G., Smith, G., Cassidy, M., Tucker-Raymond, E., Puttick, G., & Harteveld, C. 2019, [Is my game OK Dr. Scratch? Exploring programming and computational thinking development via metrics in student-designed serious games for STEM](https://static1.squarespace.com/static/578a770429687f705d86f3a0/t/5da779aa42dc910d89db7b1d/1571256747331/p208-troiano.pdf). In *Proceedings of the 18th ACM international conference on interaction design and children* (pp. 208-219).
+
+Weintrop, D., Hansen, A. K., Harlow, D. B., & Franklin, D. 2018, [Starting from Scratch: Outcomes of early computer science learning experiences and implications for what comes next](https://www.researchgate.net/publication/326918222_Starting_from_Scratch_Outcomes_of_Early_Computer_Science_Learning_Experiences_and_Implications_for_What_Comes_Next). In *Proceedings of the 2018 ACM conference on international computing education research* (pp. 142-150).
+
+*Originally written for the Roehampton Primary Schools Partnership Newsletter*
