@@ -70,6 +70,8 @@ Have you used Scratch? Have you seen it being used in school? Have a look at the
 
 ## References
 
+Kafai, Y. B. & Burke, Q. 2013, '[The social turn in K-12 programming: moving from computational thinking to computational participation](https://www.researchgate.net/publication/266653559_The_social_turn_in_K-12_programming_Moving_from_computational_thinking_to_computational_participation)', *Proceeding of the 44th ACM technical symposium on computer science education*, 603--608
+
 Lister, R., Adams, E. S., Fitzgerald, S., Fone, W., Hamer, J., Lindholm, M., McCartney, R., Moström, J. E., Sanders, K., Seppälä, O., & others 2004, '[A multi-national study of reading and tracing skills in novice programmers](https://www.researchgate.net/publication/234800767_A_Multi-National_Study_of_Reading_and_Tracing_Skills_in_Novice_Programmers)', *ACM SIGCSE Bulletin*, 36, 4, 119--150.
 
 Maloney, J. H., Peppler, K., Kafai, Y., Resnick, M., & Rusk, N. 2008, '[Programming by choice: urban youth learning programming with Scratch](https://web.media.mit.edu/~mres/papers/sigcse-08.pdf)', *Proceedings of the 39th SIGCSE technical symposium on Computer science education*, 367--371.
