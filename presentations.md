@@ -61,6 +61,8 @@ _22 March 2019_		[Progression in problem solving](https://drive.google.com/open?
 
 _22 February 2019_		[School level data for 2018 GCSE entries](http://milesberry.net/performancetables1718.html), CAS Research seminar, Cambridge
 
+_30 January 2019_ [Plagiarism policies and procedures](https://docs.google.com/presentation/d/13i7gdhUVFvWglhzTRpCmX5S7bbMomJUQmK_NZyWkaHk/edit?usp=sharing). INTEGRITY, Telavi, Georgia
+
 _24 January 2019_		Facilitator, Nordic at BETT: Nordic CRAFT.
 
 _17 January 2019_		Opening keynote, Islington computing celebration, Emirates Stadium
