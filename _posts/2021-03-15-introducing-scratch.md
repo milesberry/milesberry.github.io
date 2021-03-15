@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Introduciton to Scratch"
+title: "An Introduction to Scratch"
 date: "2021-03-15 10:00:56 +0000"
 author: Miles Berry
 permalink: /2021/03/introducing-scratch/
