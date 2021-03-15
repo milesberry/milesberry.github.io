@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computational thinking"
-date: "2021-03-13 15:53:00 +0000"
+date: "2021-03-13 15:00:56 +0000"
 author: Miles Berry
 permalink: /2021/03/computational-thinking/
 comments: true
