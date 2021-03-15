@@ -43,7 +43,7 @@ _January 2019_		In praise of blocks. Comment column, [Hello World #7](https://he
 
 _December 2018_	Switched On Computing: Programming at School – [Japanese edition](https://www.dnp.co.jp/biz/solution/products/detail/1192363_1567.html).
 
-_November 2018_	Teaching pupils about artificial intelligence. Digital Strategy #1 (Independent Schools Council Digital Strategy Group).
+_November 2018_	[Teaching pupils about artificial intelligence](http://milesberry.net/2018/11/teaching-ai/). Digital Strategy #1 (Independent Schools Council Digital Strategy Group).
 
 _October 2018_		Computing as a new subject ([German translation](http://milesberry.net/docs/login.pdf)).   LOG IN: Vol. 38, No. 1. 189/90 Berlin: LOG IN Verlag. (S. 20-26).
 
