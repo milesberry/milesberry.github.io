@@ -9,7 +9,7 @@ image:
         feature: 190320.jpg
 ---
 
-![INTEGRITY](../images/integrity.png)
+![INTEGRITY](/images/integrity.png)
 
 After a previous EU Erasmus + collaboration, Roehampton’s LTEU was approached by Ilia State University (ISU), Tblisi, Georgia to participate in the Erasmus + Capacity Building in Higher Education Integrity project. At the time, LTEU lacked the capacity to take this on and so the director of Roehampton’s School of Education and I were approached, and gladly agreed that we would contribute to the project as one of the four European partner institutions, alongside Dublin City University, the University of Uppsala and the University of Vienna.
 
@@ -104,7 +104,7 @@ The project has impacted on my and my colleagues teaching here too. Whilst we do
 
 Christodoulou, Daisy. 2014. *Seven myths about education*. Abingdon: Routledge.
 
-Chuah, Swee-Hoon. 2010. “Teaching East-Asian Students: Some Observations | the Economics Network.”
+Chuah, Swee-Hoon. 2010. “Teaching East-Asian Students: Some Observations, the Economics Network.”
 
 Fadel, Charles. 2008. “[21st Century Skills: How can you prepare students for the new Global Economy?](https://www.oecd.org/site/educeri21st/40756908.pdf)” Paris: OECD/CERI
 
