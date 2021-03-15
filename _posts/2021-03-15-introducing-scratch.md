@@ -76,4 +76,4 @@ Lister, R., Adams, E. S., Fitzgerald, S., Fone, W., Hamer, J., Lindholm, M., McC
 
 Maloney, J. H., Peppler, K., Kafai, Y., Resnick, M., & Rusk, N. 2008, '[Programming by choice: urban youth learning programming with Scratch](https://web.media.mit.edu/~mres/papers/sigcse-08.pdf)', *Proceedings of the 39th SIGCSE technical symposium on Computer science education*, 367--371.
 
-Resnick, M., 2017. *Lifelong kindergarten: Cultivating creativity through projects, passion, peers, and play*. Boston, MA: MIT press.
+Resnick, M., 2017. *Lifelong kindergarten: Cultivating creativity through projects, passion, peers, and play*. Cambridge, MA: MIT press.
