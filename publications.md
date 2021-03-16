@@ -79,10 +79,6 @@ _December 2018_	[CS Education and AI](http://advocate.csteachers.org/2017/12/20/
 
 _November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
 
-_October 2017_ Switched on Computing Year 3 (Korean translation). Seoul: KOFAC
-
-_October 2017_ Switched on Computing Year 4 (Korean translation). Seoul: KOFAC
-
 _September 2017_ [One language at a time](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/004/original/HelloWorld03.pdf#page=98) Comment column for [Hello World](helloworld.cc) as contributing editor.
 
 _May 2017_ Switched On Computing (Teachers Guides, [Spanish edition](https://setveintiuno.com/areas/switched-computing)). Madrid: Set Veintiuno.
@@ -92,6 +88,10 @@ _May 2017_ [Project Work: Does it Work?](http://s3-eu-west-1.amazonaws.com/rpi-m
 _April 2017_ [Computing at School: Northern Ireland Curriculum Guide for Post Primary Schools](http://ccea.org.uk/sites/default/files/docs/subsites/digitalskills/post-primary/computing-at-school/Computing_at_Schools_P_PP_Combined.pdf). Belfast: CCEA
 
 _Mar 2017_ [Asking questions to assess attainment in computing]( http://www.independentschoolsportal.org/blog/asking-questions-to-assess-attainment-in-computing), post for Independent Schools Portal blog.
+
+_February 2017_ [Switched on Computing Year 3](https://www.software.kr/main/UPLOAD/TCHMTR/attFile/1488515613814.pdf) (Korean translation). Seoul: KOFAC
+
+_February 2017_ [Switched on Computing Year 4](https://www.software.kr/main/UPLOAD/TCHMTR/attFile/1488515581479.pdf) (Korean translation). Seoul: KOFAC
 
 _Jan 2017_ [Computational thinking should ensure technology improves learning outcomes](https://educationblog.oup.com/digital-futures/computational-thinking-should-ensure-technology-improves-learning-outcomes), post for Oxford Education Blog, OUP.
 
