@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-_16 January 2021_ [Teaching data science](http://bit.ly/csta2021) CSTA Future of CS Sumnmit.
+_16 January 2021_ [Teaching data science](http://bit.ly/csta2021) CSTA Future of CS Summit.
 
 _12 January 2021_ [Only connect](https://docs.google.com/presentation/d/1PhPpa5PsWwOeJeEvV2n9K7x6fRldaIHHqNxKCI3X4Ls/edit?usp=sharing) January Welcome Festival, University of Roehampton.
 
