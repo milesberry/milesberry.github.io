@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Interview for [Learning Dust podcast](https://learningdust.libsyn.com/learningdust-9-miles-berry). 29/6/2020
+
 Comment on [sub-vocal interface to Google search](https://www.tes.com/news/teachers-nightmare-meet-tech-allows-you-google-your-mind) for TES, 24/4/2018
 
 Comment on [1:1 access](https://www.classoos.com/achieving-1-1-success-is-not-as-hard-as-you-think-digital-devices-for-schools/), Merlin John for Classoos, 18/4/2018
