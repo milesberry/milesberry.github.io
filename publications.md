@@ -65,6 +65,10 @@ _May 2018_ [Teaching as engineering](https://s3-eu-west-1.amazonaws.com/rpi-maga
 
 _April 2018_		[Assessing Computing](http://advocate.csteachers.org/2018/04/19/assessing-computing/). Blog post for CSTA Advocate blog.
 
+_February 2018_	[QuickStart Computing Scotland – Subject knowledge for primary teachers](https://blogs.glowscotland.org.uk/glowblogs/computingscience/2021/02/18/quickstart-computing-scotland-subject-knowledge-for-primary-teachers/). Swindon: BCS. With Bill Sargent
+
+_February 2018_		[QuickStart Computing – Subject Knowledge Enhancement for Scottish Secondary Teachers](https://blogs.glowscotland.org.uk/glowblogs/computingscience/2021/02/18/quickstart-computing-scotland-subject-knowledge-covering-the-transition-from-primary-to-secondary/). Swindon: BCS. With Bill Sargent
+
 _February 2018_		[Switched on Computing Year 5 (Korean translation)](http://www.software.kr/main/UPLOAD/TCHMTR/attFile/1517377276135.pdf). Seoul: KOFAC
 
 _February 2018_		[Switched on Computing Year 6 (Korean translation)](http://www.software.kr/main/UPLOAD/TCHMTR/attFile/1517377542845.pdf). Seoul: KOFAC
