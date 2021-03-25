@@ -35,3 +35,8 @@ Because of the click and drag, palette based interface there's also a limit to h
 
 Disadvantages such as these apart, visual languages are, with rare exceptions, Turing complete: any computational problem that can be solved in a text-based language can be solved in a visual language. They're also a far, far easier and more engaging way to learn to program than text-based languages can offer.
 
+$$\begin{bmatrix}
+-1 & -1 & -1\\
+-1 & 8 & -1\\
+-1 & -1 & -1\\
+\end{bmatrix}$$
