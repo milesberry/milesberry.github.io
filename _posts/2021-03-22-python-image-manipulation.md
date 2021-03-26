@@ -234,7 +234,8 @@ def convolve(kernel,image):
   return(image2)
   ```
 
-  With the above kernel, we just get another blurry cat, as we're still just taking an average of the nine pixels in the surrounding box, but this approach comes into its own when we change the kernel. For example, increasing the weighting of the middle pixel, whilst decreasing that of the ones around it, i.e. a kernel of
+With the above kernel, we just get another blurry cat, as we're still just taking an average of the nine pixels in the surrounding box, but this approach comes into its own when we change the kernel. For example, increasing the weighting of the middle pixel, whilst decreasing that of the ones around it, i.e. a kernel of
+
 $$\begin{bmatrix}
 -1 & -1 & -1\\
 -1 & 9 & -1\\
