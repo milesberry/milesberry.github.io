@@ -17,8 +17,6 @@ I've subsequently used image manipulation in whole cohort lectures to our BA Pri
 
 ![GP code to make a grey scale image](/images/scriptImage.png)
 
-*Figure 1 - GP program to create a grey scale image*
-
 You can do a similar thing in Excel, using Andrew Taylor's rather brilliant [JPEG -> Excel converter](https://www.think-maths.co.uk/spreadsheet), as demosntrated by [Matt Parker](https://www.youtube.com/watch?v=UBX2QQHlQ_I). 
 
 More recently, I've included similar exercices in Processing for our BA Digital Media students as part of their Software Studies module. There's more of a learning curve here, but this is quite an accessible project once you're used to Processing's way of doing things.
@@ -35,7 +33,7 @@ Pillow comes with some image manipulation methods built in - it's easy enough to
 rotated_image = image.rotate(-12)
 ```
 
-![rotated image](../images/rotated.png)
+![rotated image](/images/rotated.png)
 
 Or to resize and/or reshape the image, which would be useful for building a thumbnail gallery in a webapp.
 
@@ -43,7 +41,7 @@ Or to resize and/or reshape the image, which would be useful for building a thum
 resized_image = image.resize((200, 200))
 ```
 
-![resized image](../images/resized.png)
+![resized image](/images/resized.png)
 
 And to crop in on a particular part of the image:
 
@@ -51,7 +49,7 @@ And to crop in on a particular part of the image:
 cropped_image = image.crop(box = (200, 150, 800, 550))
 ```
 
-![cropped image](../images/cropped.png)
+![cropped image](/images/cropped.png)
 
 ## Coding is the new Instagram
 
@@ -73,7 +71,7 @@ for x in range(width):
     image2.putpixel((x, y), newpixel)
 ```
 
-![brighter image](../images/brighter.png)
+![brighter image](/images/brighter.png)
 
 The colour balance can be changed - making a 'warmer' image involves increasing the red values whilst decreasing the blue:
 
@@ -87,7 +85,7 @@ for x in range(width):
     image2.putpixel((x, y), newpixel)
 ```
 
-![warmer image](../images/warmer.png)
+![warmer image](/images/warmer.png)
 
 You'll notice that in both of these examples, I'm doing a little extra maths to keep colour values constrained as whole numbers in the range 0 to 255. It might be more elegant to write a function to do that, but I'm inclined for an exercise like this to expose a bit more of the how the magic works. Abstraction has its place, but there are occasions when you want to show pupils what happens inside at least the first black box.
 
@@ -103,7 +101,7 @@ for x in range(width):
     image2.putpixel((x, y), newpixel)
 ```
 
-![negative image](../images/negative.png)
+![negative image](/images/negative.png)
 
 A similarly freaky effect can be achieved by swapping the data around between colour chanels. Here red becomes green, green becomes blue and blue becomes red. Again, I'm not sure that this will get you *lots* of likes on 'stagram. 
 
@@ -115,7 +113,7 @@ for x in range(width):
     image2.putpixel((x, y), newpixel)
 ```
 
-![channel swapping](../images/freaky.png)
+![channel swapping](/images/freaky.png)
 
 A mirror image involves taking the pixels from the right hand side of the rows and putting them at the left hand side of the new rows, and vice versa. Whatch out for the potential for an off-by-one error here. A left-right inversion still looks like a cat. A top-bottom one just looks like an upside down cat. You'll have noticed that gravity works downwards. By definition. 
 
@@ -126,7 +124,7 @@ for x in range(width):
     image2.putpixel((x, y), newpixel)
 ```
 
-![mirror image](../images/mirror.png)
+![mirror image](/images/mirror.png)
 
 If the red, green and blue channels are all set to the same value, we get a grey-scale image. Here, I'm setting all three values to the mean of the red, green and blue values, but there are other ways to do this. I have a soft spot for moody black and white pictures...
 
@@ -137,7 +135,7 @@ for x in range(width):
     image2.putpixel((x, y), (average, average, average))
 ```
 
-![grey scale](../images/grey.png)
+![grey scale](/images/grey.png)
 
 We've reduced the colour depth from c 16 million colours here (24 bits) to just 256 shades of grey (8 bits). We can reduce it further still, to just one bit per pixel:
 
@@ -153,7 +151,7 @@ for x in range(width):
     image2.putpixel((x, y), (value, value, value))
 ```
 
-![black and white](../images/bandw.png)
+![black and white](/images/bandw.png)
 
 Increasing or decreasing the saturation is a bit more complicated, but essentially this is about increasing or decreasing the difference between each of the channels and the average grey scale values. Again, the code is made a bit more complicated by the need to constrain values to integers in the 0 to 255 range. The eagle eyed will spot that I'm iterating across a mutable list of colour values at each pixel, but then casting the list as a required tuple for setting the pixels of the new image. 
 
@@ -173,7 +171,7 @@ for x in range(width):
     image2.putpixel((x, y), tuple(newpixel))
 ```
 
-![increased saturation](../images/saturation.png)
+![increased saturation](/images/saturation.png)
 
 One way of blurring the image is to replace the values of each pixel with the average of those in the box around them - in this case the 3x3 grid, but a bigger box gives a more blurry image.
 
@@ -190,7 +188,7 @@ for x in range(1, width - 1):
     image2.putpixel((x, y),newpixel)
 ```
 
-![blurred image](../images/boxblur.png)
+![blurred image](/images/boxblur.png)
 
 ## It's convoluted
 
@@ -245,7 +243,7 @@ $$\begin{bmatrix}
 
 produces an impressive sharpening effect:
 
-![sharp](../images/sharp.png)
+![sharp](/images/sharp.png)
 
 But then reducing the weighting of the middle pixel by just one, so that it balances the edge pixels exactly, gives us an edge detection convolution.
 
@@ -255,7 +253,7 @@ $$\begin{bmatrix}
 -1 & -1 & -1\\
 \end{bmatrix}$$
 
-![edges](../images/edges.png)
+![edges](/images/edges.png)
 
 In the classroom, edge detection could be a nice example of the 'hiding complexity' approach to teaching abstraction, showing just the parts of the image where things change, so essentially the outline. It's also important in computer vision machine learning based on [convolution neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network). 
 
