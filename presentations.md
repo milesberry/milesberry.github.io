@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-_24 March 2021_ [Teaching data science](http://bit.ly/osirisds) Osiris World Education Summit.
+_24 March 2021_ [Teaching data science](http://bit.ly/osirisds[]) Osiris World Education Summit.
 
 _16 January 2021_ [Teaching data science](http://bit.ly/csta2021) CSTA Future of CS Summit.
 
