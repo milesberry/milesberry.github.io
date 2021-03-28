@@ -78,7 +78,7 @@ Much of the taught component of your PGCE will focus on approaches to planning, 
 * Shuchi Grover’s (2016) [teaching tips](https://community.computingatschool.org.uk/files/7081/original.pdf) (p7)
 * Paul Curzon on [learning to learn to program](https://teachinglondoncomputing.org/learning-to-learn-to-program/)
 * Neil Brown and Greg Wilson (2018) [Ten quick tips for teaching programming](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5886386/).
-* Colleen Lewis [CSTeachingTips]((https://www.csteachingtips.org/) website.
+* Colleen Lewis [CSTeachingTips](https://www.csteachingtips.org/) website.
 * [Example principles and approaches](https://blog.teachcomputing.org/teach-computing-our-focus-on-pedagogy/) from Teach Computing
 
 What common ground do you notice? Are there significant differences between these lists? What would explain that?
