@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_March 2021_ [Computational Thinking](/2021/03/computational-thinking/), article for Primary Schools Partnership March Newsletter, University of Roehampton School of Education.
+
 _November 2020_ [What's new in Switched On Computing](https://www.risingstars-uk.com/blog/november-2020/what-s-new-in-switched-on-computing-3rd-edition), blog post for Rising Stars.
 
 _October 2020_ [Intent, Implementation and Impact in Switched on Computing](https://www.risingstars-uk.com/blog/october-2020/intent,-implementation-and-impact-in-switched-on-c), blog post for Rising Stars. 
