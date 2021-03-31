@@ -79,7 +79,7 @@ _January 2018_ What probably works when teaching computing. PiXL Computing.
 
 _January 2018_	Teachers’ Knowledge. Comment column for [Hello World #4](https://helloworld.raspberrypi.org/issues/4/pdf) (as contributing editor)
 
-_December 2018_	[CS Education and AI](http://advocate.csteachers.org/2017/12/20/ai-and-cs-teaching/). Blog post for CSTA Advocate blog.
+_December 2017_	[CS Education and AI](http://advocate.csteachers.org/2017/12/20/ai-and-cs-teaching/). Blog post for CSTA Advocate blog.
 
 _November 2017_ Das Unterrichtsfach "Computing" in Paderborner Podium 10 Bildung im digitalen Zeitalter - Bilanz und Perspektiven, Paderborn: Heinz Nixdorf MuseumsForum.
 
@@ -89,7 +89,7 @@ _May 2017_ Switched On Computing (Teachers Guides, [Spanish edition](https://set
 
 _May 2017_ [Project Work: Does it Work?](http://s3-eu-west-1.amazonaws.com/rpi-magazines/issues/full_pdfs/000/000/003/original/HelloWorld02.pdf#page=98) Comment column for [Hello World](http://helloworld.cc)
 
-_April 2017_ [Computing at School: Northern Ireland Curriculum Guide for Post Primary Schools](http://ccea.org.uk/sites/default/files/docs/subsites/digitalskills/post-primary/computing-at-school/Computing_at_Schools_P_PP_Combined.pdf). Belfast: CCEA
+_April 2017_ [Computing at School: Northern Ireland Curriculum Guide for Post Primary Schools](https://ccea.org.uk/downloads/docs/ccea-asset/Resource/Computing%20at%20School%3A%20Northern%20Ireland%20Curriculum%20Guide%20for%20Post%20Primary%20Schools.pdf). Belfast: CCEA
 
 _Mar 2017_ [Asking questions to assess attainment in computing]( http://www.independentschoolsportal.org/blog/asking-questions-to-assess-attainment-in-computing), post for Independent Schools Portal blog.
 
@@ -109,7 +109,7 @@ _Dec 2016_ [The Roehampton Annual Computing Education Report 2015](http://bit.ly
 
 _Nov 2016_ Time for Change. Teach Primary.
 
-_Oct 2016_ Computing in English Schools. [Schule Aktiv, Austria](https://issuu.com/cdaverlag/docs/sa_03).
+_Oct 2016_ Computing in English Schools. [Schule Aktiv, Austria](https://pubshop.bmbwf.gv.at/index.php?rex_media_type=pubshop_download&rex_media_file=632_cda_sonderheftbmb.pdf).
 
 <p>
  <em>Sept 2016</em> Computing: potential to unlock social mobility. <a href="https://t.co/pWzuZMuj7B">Switched On Autumn 2016</a>.
