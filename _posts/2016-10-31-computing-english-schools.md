@@ -69,5 +69,5 @@ There are many other organisations that have played a key role in helping to est
 
 It would be wrong to leave the impression that England has all this sorted already. There’s plenty more on the agenda, including delivering a genuinely inclusive entitlement to computing for all; ensuring that computing is taught, and taught well, in all schools; a need to research what makes for effective pedagogy in computing at school; attention to the transition from primary to secondary; and developments around how computing can best be assessed, both formatively and summatively. The journey from ICT to computing has been an exciting one, but the road ahead looks even more interesting.
 
-*Originally published in [a specil edition of Schule Aktiv](https://pubshop.bmbwf.gv.at/index.php?rex_media_type=pubshop_download&rex_media_file=632_cda_sonderheftbmb.pdf) © all rights reserved.*
+*Originally published in [a special edition of Schule Aktiv](https://pubshop.bmbwf.gv.at/index.php?rex_media_type=pubshop_download&rex_media_file=632_cda_sonderheftbmb.pdf)  © all rights reserved.*
 
