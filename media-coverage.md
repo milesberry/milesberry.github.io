@@ -15,6 +15,24 @@ guid: http://milesberry.net/?page_id=1169
 
 Interview for [Learning Dust podcast](https://learningdust.libsyn.com/learningdust-9-miles-berry). 29/6/2020
 
+Coverage of Learning in the era of AI conference, Buenos Aires, [Aprender en la era de la inteligencia artificial: los casos de tres países exitosos](https://www.infobae.com/educacion/2019/08/26/aprender-en-la-era-de-la-inteligencia-artificial-los-casos-de-tres-paises-exitosos/), Infobae, 26/8/2019, [Educación digital en las escuelas, el próximo desafío](https://www.lanacion.com.ar/sociedad/educacion-digital-en-las-escuelas-el-proximo-desafio-nid2281705/), La Nacion 27/8/2019
+
+Comment in coverage of [TRACER 18](/docs/TRACER%202018a.pdf) report, [Computing in schools in 'steep decline'](https://www.bbc.co.uk/news/technology-48188877), BBC, 8/5/2019 
+
+Comment in [Is teaching coding in schools pointless?](https://www.tes.com/magazine/article/teaching-coding-schools-pointless), TES, 3/5/2019
+
+Comment in [Exams ‘useless’ for computer science, say experts](https://schoolsweek.co.uk/exams-useless-for-computer-science-say-experts/), Schoolsweek, 13/11/2018
+
+Comment in [The new computer science GCSE is already being reviewed](https://schoolsweek.co.uk/low-uptake-for-computer-science-gcse-spurs-review/), Schoolsweek, 17/9/18
+
+Comment in [A-level results day 2018: Computing soars in popularity as Stem subjects continue to rise](https://inews.co.uk/news/education/a-level-results-day-2018-computing-popularity-students-187140), The i, 18/8/2018
+
+Comment in coverage of TRACER 17, [Computing exam changes are a turn-off](https://www.tes.com/news/computing-exam-changes-are-turn), TES, 18/6/2018
+
+Coverage of conbtribution to Digital Technologies conference in Belgrade, [Džepni računar Micro:bit u školama u Srbiji](https://pcpress.rs/dzepni-racunar-microbit-u-skolama-u-srbiji/), PC Press, 14/6/2018
+
+Comment in [Teaching AI in schools could equip students for the future](https://www.raconteur.net/technology/artificial-intelligence/ai-in-schools-students-future/), Raconteur, 23/5/2018
+
 Comment on [sub-vocal interface to Google search](https://www.tes.com/news/teachers-nightmare-meet-tech-allows-you-google-your-mind) for TES, 24/4/2018
 
 Comment on [1:1 access](https://www.classoos.com/achieving-1-1-success-is-not-as-hard-as-you-think-digital-devices-for-schools/), Merlin John for Classoos, 18/4/2018
@@ -111,6 +129,8 @@ Radio interviews for launch of QuickStart Computing for Sky Radio, Manx Radio, 
   &#8220;<a  href="http://www.tes.co.uk/article.aspx?storycode=6439349">Once it was wow, now it&#8217;s whatever</a>&#8221; TES magazine, 8/8/14
 </p>
 
+Comment in [Are We Ready For The Coding Revolution?](https://www.forbes.com/sites/nickmorrison/2014/07/16/are-we-ready-for-the-coding-revolution/), Forbes, 16/7/2014
+
 <p>
   &#8220;<a  href="http://www.tes.co.uk/article.aspx?storycode=6437084">Teachers unready for computing ambitions</a>&#8221; TES magazine, 11/7/14
 </p>
@@ -119,9 +139,7 @@ Radio interviews for launch of QuickStart Computing for Sky Radio, Manx Radio, 
   &#8220;<a  href="http://www.telegraph.co.uk/education/educationopinion/10943409/The-primary-getting-kids-into-binary.html">The primary gettinmg kids into binary</a>&#8221; Daily Telegraph, 6/7/14
 </p>
 
-<p>
-  &#8220;How to teach children computer programming&#8221; Today (Singapore) 4/7/14
-</p>
+[How to teach children computer programming](https://www.todayonline.com/singapore/how-teach-children-computer-programming); Today (Singapore) 4/7/14
 
 <p>
   &#8220;<a  href="http://www.forbes.com/sites/nickmorrison/2014/07/16/are-we-ready-for-the-coding-revolution/">Are we ready for the coding revolution</a>&#8221; Forbes, 7/6/14
