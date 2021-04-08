@@ -7,7 +7,11 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-_24 March 2021_ [Teaching data science](http://bit.ly/osirisds[]) Osiris World Education Summit.
+_8 April 2021_ [England's computing curriculum since 2014](https://docs.google.com/presentation/d/1BH7tSvDaPxe4SV0keoWAKcFd3LEXVS2ULHv38gzPs3Y/edit?usp=sharing), Digital Education 2021, Belgrade. 
+
+_8 April 2021_ [Teaching data science](http://bit.ly/atmconf21) ATM Annual Conference.
+
+_24 March 2021_ [Teaching data science](http://bit.ly/osirisds) Osiris World Education Summit.
 
 _16 January 2021_ [Teaching data science](http://bit.ly/csta2021) CSTA Future of CS Summit.
 
@@ -17,33 +21,33 @@ _6 October 2020_ [Virtual education is personalised education](https://docs.goog
 
 _5 October 2020_ [Academic integrity and distance learning](https://docs.google.com/presentation/d/1M1bc4fA13UNabQsTAX0N4V26lOA2O4muYTs00P8NoFs/edit?usp=sharing) Integrity Conference, Ilia State University, Tbilisi, Georgia. 
 
-_22 July 2020_ [Educational policies based on coding](https://docs.google.com/presentation/d/1db3B_o5wX4YIEit7Sd0GH1UbUqs8lBYuiigx5XcwCaI/edit?usp=sharing) Virtual Educa Connect virtual conference
+_22 July 2020_ [Educational policies based on coding](https://docs.google.com/presentation/d/1db3B_o5wX4YIEit7Sd0GH1UbUqs8lBYuiigx5XcwCaI/edit?usp=sharing) Virtual Educa Connect virtual conference.
 
-_13 July 2020_ [Teaching data science in schools](http://bit.ly/csta20), CSTA 2020 virtual conference
+_13 July 2020_ [Teaching data science in schools](http://bit.ly/csta20), CSTA 2020 virtual conference.
 
 _7 July 2020_ [How can a former Soviet republic end the institutional culture of plagiarism and improve the quality of teaching and learning in HE?](https://www.youtube.com/watch?v=Fy7Au45jBjE) Advance HE virtual conference. With Peter Flew. 
 
-_13 March 2020_ [Data science for all](https://docs.google.com/presentation/d/1nagpNpMxQczDq-w73p6HwQXYkP4blwQpOXTB_b8xJjM/edit?usp=sharing) ICT Live, Brighton
+_13 March 2020_ [Data science for all](https://docs.google.com/presentation/d/1nagpNpMxQczDq-w73p6HwQXYkP4blwQpOXTB_b8xJjM/edit?usp=sharing) ICT Live, Brighton.
 
-_29 January 2020_		[Coding, creativity and community](https://docs.google.com/presentation/d/17eJNFo_M9YwXj8nYth6I6UuE7mY3jwes7Ow29muC0Uc/edit), Roehampton PG research conference
+_29 January 2020_		[Coding, creativity and community](https://docs.google.com/presentation/d/17eJNFo_M9YwXj8nYth6I6UuE7mY3jwes7Ow29muC0Uc/edit), Roehampton PG research conference.
 
-_22 January 2020_		Facilitation: Nordic at BETT, Nordic CRAFT
+_22 January 2020_		Facilitation: Nordic at BETT, Nordic CRAFT.
 
-_28 November 2019_	[Developing AI solutions with schools](https://docs.google.com/presentation/d/1mkDWf6ewGCsEW6PWRlo7FphsY2X13-cAttjIW70HwW4/edit?usp=sharing), ISC Digital Strategy Group, Brighton
+_28 November 2019_	[Developing AI solutions with schools](https://docs.google.com/presentation/d/1mkDWf6ewGCsEW6PWRlo7FphsY2X13-cAttjIW70HwW4/edit?usp=sharing), ISC Digital Strategy Group, Brighton.
 
-_22 November 2019_	[Progression in problem solving](https://drive.google.com/open?id=14B27b3Son8glNgELrSme912Y3BeO1GDioQSDXERLZuU), ICT for Education, Nottingham
+_22 November 2019_	[Progression in problem solving](https://drive.google.com/open?id=14B27b3Son8glNgELrSme912Y3BeO1GDioQSDXERLZuU), ICT for Education, Nottingham.
 
-_9 November 2019_	[Computing in English schools: Lessons to learn for AI education](https://drive.google.com/open?id=1UJxPGRmJa7h4_HGsxgvlz3IoC5Tq0eGdjCM9It_VE-4), AAAI Fall Symposiums, Arlington
+_9 November 2019_	[Computing in English schools: Lessons to learn for AI education](https://drive.google.com/open?id=1UJxPGRmJa7h4_HGsxgvlz3IoC5Tq0eGdjCM9It_VE-4), AAAI Fall Symposiums, Arlington.
 
-_25 October 2019_		Keynote: [Digital Skills for Growth](https://drive.google.com/open?id=1Ysp9-RUMZ-q8lhF-A3os8W26gN6bb4qsRaMzm65gZcA), Durham
+_25 October 2019_		Keynote: [Digital Skills for Growth](https://drive.google.com/open?id=1Ysp9-RUMZ-q8lhF-A3os8W26gN6bb4qsRaMzm65gZcA), Durham.
 
-_8 October 2019_		Plenary: [Making change](https://drive.google.com/open?id=1-VLHzooYnUYwP8EhUJnL_F2dbIbqmzf9KaFkFGmDSe8), Hampshire Computing Conference, Winchester
+_8 October 2019_		Plenary: [Making change](https://drive.google.com/open?id=1-VLHzooYnUYwP8EhUJnL_F2dbIbqmzf9KaFkFGmDSe8), Hampshire Computing Conference, Winchester.
 
-_13 September 2019_	[Data skills for All](https://drive.google.com/open?id=1siFtiXaLJ1NvPYnKunTZPH97DTvR36zNhBmMc9IYW3M), Royal Society / STEM Learning symposium, York
+_13 September 2019_	[Data skills for All](https://drive.google.com/open?id=1siFtiXaLJ1NvPYnKunTZPH97DTvR36zNhBmMc9IYW3M), Royal Society / STEM Learning symposium, York.
 
-_27 August 2019_		Workshop: “Curricular integration of digital education, programming and robotics, Learning for the Future in the Era of Artificial Intelligence, Buenos Aires
+_27 August 2019_		Workshop: “Curricular integration of digital education, programming and robotics, Learning for the Future in the Era of Artificial Intelligence, Buenos Aires.
 
-_26 August 2019_		Panel: [Curricular integration of programming and robotics: international cases, Learning for the Future in the Era of Artificial Intelligence](https://drive.google.com/open?id=1NM83FqPU09PnJ0oXXR3cgzZeIhxxadcd), Buenos Aires
+_26 August 2019_		Panel: [Curricular integration of programming and robotics: international cases, Learning for the Future in the Era of Artificial Intelligence](https://drive.google.com/open?id=1NM83FqPU09PnJ0oXXR3cgzZeIhxxadcd), Buenos Aires.
 
 _24 August 2019_		Project Quantum (with Richard Millwood), Scratch Conference Europe, Cambridge
 
