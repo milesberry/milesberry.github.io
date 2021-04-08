@@ -178,7 +178,7 @@ _Oct 2016_ Computing in English Schools. [Schule Aktiv, Austria](https://pubshop
 </p>
 
 <p>
- <em>Jan 2015</em> <a href="http://primary.quickstartcomputing.org/resources/pdf/qs_handbook.pdf">QuickStart primary handbook</a>. Swindon: BCS
+ <em>Jan 2015</em> <a href="http://bit.ly/primaryqs">QuickStart primary handbook</a>. Swindon: BCS
 </p>
 
 <p>

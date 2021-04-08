@@ -44,6 +44,6 @@ image:
   Teachers and their pupils have so much to look forward to in this world-leading new curriculum!
 </p>
 
-<p padding-left: 30px;">
+<p padding-left: 30px;>
   <em>This was published in the <a href="http://www.timeandleisure.co.uk/">Time and Leisure</a> magazine group titles in August, under the title &#8216;<a href="http://www.timeandleisure.co.uk/articles/education/3294-brave-new-curriculum.html">Brave new curriculum</a>&#8216;. It&#8217;s reproduced here with permission. © All rights reserved.</em>
 </p>
