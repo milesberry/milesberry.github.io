@@ -213,6 +213,9 @@ _Oct 2016_ Computing in English Schools. [Schule Aktiv, Austria](https://pubshop
  <em>Aug 2014</em> <a href="http://edtechnology.co.uk/Blogs/computational_thinking">Computational Thinking</a>. Educational Technology.
 </p>
 
+
+*July 2014* [Quad Blogging - reflections from children and teachers](http://milesberry.net/2014/07/blogging/). With Fiona Collins and Mary Richardson.
+
 <p>
  <em>July 2014</em> <a href="http://milesberry.net/2014/07/assessing-computing/">Assessing Computing</a>. Teach Primary
 </p>
