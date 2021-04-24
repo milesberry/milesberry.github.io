@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=839
 permalink: /2013/01/some-thoughts-on-cs-cpd/
+image:
+  feature: 121014-2.jpg
 categories:
   - CS
   - Teacher training

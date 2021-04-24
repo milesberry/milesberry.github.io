@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=780
 permalink: /2012/05/creating-a-new-ict-curriculum/
+image:
+  feature: 120519.jpg
 categories:
   - Uncategorized
 ---

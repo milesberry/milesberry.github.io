@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=879
 permalink: /2013/02/my-first-reactions-to-the-new-national-curriculum/
+image:
+  feature: 121014.jpg
 categories:
   - Curriculum
   - Uncategorized

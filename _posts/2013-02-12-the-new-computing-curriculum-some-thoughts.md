@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=890
 permalink: /2013/02/the-new-computing-curriculum-some-thoughts/
+image:
+  feature: 121014.jpg
 categories:
   - Curriculum
   - Uncategorized

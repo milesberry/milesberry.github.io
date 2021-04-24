@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=908
 permalink: /2013/02/webmaking-with-trainee-teachers/
+image:
+  feature: 121014-2.jpg
 categories:
   - Teacher training
   - Uncategorized

@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=888
 permalink: /2013/02/switched-on-computing/
+image:
+  feature: 121014-2.jpg
 categories:
   - Curriculum
   - Uncategorized

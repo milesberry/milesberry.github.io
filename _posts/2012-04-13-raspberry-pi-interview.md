@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=746
 permalink: /2012/04/raspberry-pi-interview/
+image:
+  feature: 120420.jpg
 categories:
   - Uncategorized
 ---

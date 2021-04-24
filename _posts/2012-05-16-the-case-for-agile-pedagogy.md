@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=736
 permalink: /2012/05/the-case-for-agile-pedagogy/
+image:
+  feature: 120514.jpg
 categories:
   - Uncategorized
 ---

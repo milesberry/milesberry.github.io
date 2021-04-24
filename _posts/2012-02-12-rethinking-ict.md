@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=711
 permalink: /2012/02/rethinking-ict/
+image:
+  feature: 120210.jpg
 categories:
   - Uncategorized
 ---

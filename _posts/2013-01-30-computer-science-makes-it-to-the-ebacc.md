@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=851
 permalink: /2013/01/computer-science-makes-it-to-the-ebacc/
+image:
+  feature: 121014-2.jpg
 categories:
   - CS
   - Uncategorized

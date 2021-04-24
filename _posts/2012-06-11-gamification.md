@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=760
 permalink: /2012/06/gamification/
+image:
+  feature: 120519.jpg
 categories:
   - Uncategorized
 ---

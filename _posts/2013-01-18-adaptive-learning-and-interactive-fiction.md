@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=844
 permalink: /2013/01/adaptive-learning-and-interactive-fiction/
+image:
+  feature: 121014.jpg
 categories:
   - CS
   - Ed Tech

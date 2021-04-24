@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=859
 permalink: /2013/02/making-things-in-ict-at-roehampton/
+image:
+  feature: 121014-2.jpg
 categories:
   - Teacher training
   - Uncategorized

@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=918
 permalink: /2013/03/naace-conference-introduction/
+image:
+  feature: 130329.jpg
 categories:
   - Ed Tech
   - Uncategorized

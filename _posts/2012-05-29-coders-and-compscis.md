@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=752
 permalink: /2012/05/coders-and-compscis/
+image:
+  feature: 120519.jpg
 categories:
   - Uncategorized
 ---

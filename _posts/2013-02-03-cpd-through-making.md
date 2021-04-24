@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=863
 permalink: /2013/02/cpd-through-making/
+image:
+  feature: 121014.jpg
 categories:
   - CS
   - Teacher training

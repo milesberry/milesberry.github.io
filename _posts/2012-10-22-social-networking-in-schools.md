@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=829
 permalink: /2012/10/social-networking-in-schools/
+image:
+  feature: 121014.jpg
 categories:
   - Ed Tech
   - Uncategorized

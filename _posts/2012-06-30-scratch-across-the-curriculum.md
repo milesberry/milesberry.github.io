@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=777
 permalink: /2012/06/scratch-across-the-curriculum/
+image:
+  feature: 120519.jpg
 categories:
   - CS
   - Uncategorized

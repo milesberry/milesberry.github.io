@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=817
 permalink: /2012/10/the-pln-and-informal-cpd/
+image:
+  feature: 121007.jpg
 categories:
   - Teacher training
   - Uncategorized

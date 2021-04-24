@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=740
 permalink: /2012/05/on-the-purpose-of-education/
+image:
+  feature: 120519.jpg
 categories:
   - Uncategorized
 ---

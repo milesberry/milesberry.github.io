@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=733
 permalink: /2012/03/inaugural-address/
+image:
+  feature: 120210.jpg
 categories:
   - Uncategorized
 ---
