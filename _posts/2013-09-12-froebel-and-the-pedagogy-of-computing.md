@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=940
 permalink: /2013/09/froebel-and-the-pedagogy-of-computing/
+image:
+  feature: 130825.jpg
 categories:
   - CS
   - Uncategorized

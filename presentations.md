@@ -105,9 +105,9 @@ _16 June 2018_ [Uptake and achievement - how GCSE and A level computing are goin
 
 _15 June 2018_ Keynote, [Teaching pupils about AI](https://drive.google.com/open?id=1gUnaCb1NqMTJbYO7DRzEmRu46IRSF1PANTykDF_c0dE), ICT for Education, Brighton
 
-_12 June 2018_ Keynote, Somerset Technology Conference
+_12 June 2018_ Keynote, [Coding Across the Curriculum](https://docs.google.com/presentation/d/1lIepB_ZJUpIFvCC7L62rLnVM7qSAOy1hs-6KST0ASSE/edit#slide=id.p62), Somerset Technology Conference
 
-_7-8 June 2018_ Presentations on [What has England Learnt about Computing Education](https://drive.google.com/open?id=1lNa_YVsF_bR5dLfadiOAQSWDZmsz8V8pVw9IxStqNkI) and [Teaching AI](https://drive.google.com/open?id=1YuMZBDKtIFR1OAv1V8991Kceb-94qiFGgn9pLgg7wUk), [New Technologies in Education, Belgrade.
+_7-8 June 2018_ Presentations on [What has England Learnt about Computing Education](https://drive.google.com/open?id=1lNa_YVsF_bR5dLfadiOAQSWDZmsz8V8pVw9IxStqNkI) and [Teaching AI](https://docs.google.com/presentation/d/1bsEDXclB94FEIEigmyMamvta43IqttbXjomeTunFAMc/edit#slide=id.p), [New Technologies in Education, Belgrade.
 
 _24 May 2018_ Assessing primary computing. CAS Haslemere Hub meeting, The Royal School, Haslemere.
 

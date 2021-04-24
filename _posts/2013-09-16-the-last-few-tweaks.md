@@ -9,6 +9,8 @@ guid: http://milesberry.net/?p=967
 permalink: /2013/09/the-last-few-tweaks/
 categories:
   - Curriculum
+image:
+  feature: 130827.jpg
 ---
 So here we are at last. Almost a year ago, a small group of us met in London to brainstorm ideas and consider rough ‘straw man’ drafts for a new programme of study for ICT in the National Curriculum &#8211; on Wednesday of last week (11/9/14), the necessary [statutory instrument](http://www.legislation.gov.uk/uksi/2013/2232/pdfs/uksi_20132232_en.pdf) was laid before parliament and the gov.uk website updated with [the final version of the National Curriculum for 2014](https://www.gov.uk/government/organisations/department-for-education/series/national-curriculum). Peter Twining has [documented](http://edfutures.net/PeterT%27s_bliki) much of the process, as have [Bill Mitchell](http://academy.bcs.org/blogs/computing-schools-update?utm_medium=email&utm_source=BCS+The+Chartered+Institute+for+IT&utm_campaign=2879556_community190713&dm_i=9U7,1PPVO,5MQNKN,63DXC,1) for the BCS and Mirandanet’s [Christina Preston](http://inroads.acm.org/article.cfm?aid=2465099).
 

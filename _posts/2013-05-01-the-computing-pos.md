@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=937
 permalink: /2013/05/the-computing-pos/
+image:
+  feature: 130428.jpg
 categories:
   - Curriculum
   - Uncategorized
