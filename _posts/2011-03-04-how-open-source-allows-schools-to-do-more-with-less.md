@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=641
 permalink: /2011/03/how-open-source-allows-schools-to-do-more-with-less/
+image:
+  feature: 101202.jpg
 categories:
   - Uncategorized
 ---

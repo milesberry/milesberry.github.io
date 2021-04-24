@@ -8,7 +8,7 @@ comments: true
 guid: http://milesberry.net/?p=709
 permalink: /2012/01/voice-recognition-software-and-interview-transcription/
 image:
-  feature: 1200107.jpg
+  feature: 120107.jpg
 categories:
   - Uncategorized
 ---

@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=699
 permalink: /2011/11/a-is-for-apps/
+image:
+  feature: 111009.jpg
 categories:
   - Uncategorized
 ---

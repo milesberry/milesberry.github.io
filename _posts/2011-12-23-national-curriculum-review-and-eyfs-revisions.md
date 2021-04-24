@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=689
 permalink: /2011/12/national-curriculum-review-and-eyfs-revisions/
+image:
+  feature: 111009.jpg
 categories:
   - Uncategorized
 ---

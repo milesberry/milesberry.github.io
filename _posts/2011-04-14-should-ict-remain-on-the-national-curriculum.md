@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=636
 permalink: /2011/04/should-ict-remain-on-the-national-curriculum/
+image:
+  feature: 110412.jpg
 categories:
   - Uncategorized
 ---

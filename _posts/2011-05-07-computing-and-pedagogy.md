@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=645
 permalink: /2011/05/computing-and-pedagogy/
+image:
+  feature: 110421.jpg
 categories:
   - Uncategorized
 ---

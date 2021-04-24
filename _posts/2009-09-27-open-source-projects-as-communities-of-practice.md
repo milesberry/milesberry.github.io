@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=570
 permalink: /2009/09/open-source-projects-as-communities-of-practice/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 ---

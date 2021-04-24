@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=705
 permalink: /2011/07/michael-gove-at-the-royal-society/
+image:
+  feature: 110531.jpg
 categories:
   - Uncategorized
 ---

@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=568
 permalink: /2009/09/tes-on-10000-new-undergraduate-places-in-stem-subjects/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 ---

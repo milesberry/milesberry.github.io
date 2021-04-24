@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=614
 permalink: /2010/07/on-saving-money/
+image:
+  feature: 100624.jpg
 categories:
   - Uncategorized
 ---

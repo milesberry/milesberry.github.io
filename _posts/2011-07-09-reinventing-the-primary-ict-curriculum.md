@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=687
 permalink: /2011/07/reinventing-the-primary-ict-curriculum/
+image:
+  feature: 110531.jpg
 categories:
   - Uncategorized
 ---

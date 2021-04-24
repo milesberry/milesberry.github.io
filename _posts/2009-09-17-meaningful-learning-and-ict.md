@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=541
 permalink: /2009/09/meaningful-learning-and-ict/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 tags:

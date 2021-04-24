@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=552
 permalink: /2009/09/firefox-is-my-ple/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 ---

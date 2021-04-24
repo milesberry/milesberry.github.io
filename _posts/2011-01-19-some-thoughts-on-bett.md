@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=630
 permalink: /2011/01/some-thoughts-on-bett/
+image:
+  feature: 101202.jpg
 categories:
   - Uncategorized
 ---

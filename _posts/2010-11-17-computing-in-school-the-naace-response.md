@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=628
 permalink: /2010/11/computing-in-school-the-naace-response/
+image:
+  feature: 101028.jpg
 categories:
   - Uncategorized
 ---

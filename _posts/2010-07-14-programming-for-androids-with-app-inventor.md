@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=616
 permalink: /2010/07/programming-for-androids-with-app-inventor/
+image:
+  feature: 100624.jpg
 categories:
   - Uncategorized
 ---

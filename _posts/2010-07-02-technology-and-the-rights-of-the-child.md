@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=609
 permalink: /2010/07/technology-and-the-rights-of-the-child/
+image:
+  feature: 100624.jpg
 categories:
   - Uncategorized
 ---

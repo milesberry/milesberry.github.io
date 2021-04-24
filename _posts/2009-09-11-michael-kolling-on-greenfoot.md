@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=534
 permalink: /2009/09/michael-kolling-on-greenfoot/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 ---

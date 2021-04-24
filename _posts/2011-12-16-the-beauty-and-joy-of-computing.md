@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=692
 permalink: /2011/12/the-beauty-and-joy-of-computing/
+image:
+  feature: 111009.jpg
 categories:
   - Uncategorized
 ---

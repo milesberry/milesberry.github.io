@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=592
 permalink: /2010/03/social-constructivism-and-open-source/
+image:
+  feature: 091028.jpg
 categories:
   - Uncategorized
 ---

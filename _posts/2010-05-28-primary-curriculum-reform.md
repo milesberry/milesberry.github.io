@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=603
 permalink: /2010/05/primary-curriculum-reform/
+image:
+  feature: 100524.jpg
 categories:
   - Uncategorized
 ---

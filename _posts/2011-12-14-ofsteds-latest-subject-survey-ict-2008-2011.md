@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=694
 permalink: /2011/12/ofsteds-latest-subject-survey-ict-2008-2011/
+image:
+  feature: 111009.jpg
 categories:
   - Uncategorized
 ---

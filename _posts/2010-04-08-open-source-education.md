@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=589
 permalink: /2010/04/open-source-education/
+image:
+  feature: 100315.jpg
 categories:
   - Curriculum
   - Open Source

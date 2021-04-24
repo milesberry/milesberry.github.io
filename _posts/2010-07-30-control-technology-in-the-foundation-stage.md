@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=794
 permalink: /2010/07/control-technology-in-the-foundation-stage/
+image:
+  feature: 100730.jpg
 categories:
   - Uncategorized
 ---

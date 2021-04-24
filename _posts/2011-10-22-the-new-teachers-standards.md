@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=702
 permalink: /2011/10/the-new-teachers-standards/
+image:
+  feature: 111009.jpg
 categories:
   - Uncategorized
 ---

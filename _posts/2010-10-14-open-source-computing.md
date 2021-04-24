@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=620
 permalink: /2010/10/open-source-computing/
+image:
+  feature: 101011.jpg
 categories:
   - Uncategorized
 ---
