@@ -7,6 +7,8 @@ layout: post
 comments: true
 guid: http://milesberry.net/?p=582
 permalink: /2009/10/a-learning-journey/
+image:
+  feature: 090831.jpg
 categories:
   - Uncategorized
 ---

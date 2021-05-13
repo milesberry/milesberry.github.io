@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_13 May 2021_ [Digital technologies in mathematics education in the future](http://bit.ly/futuremathstech), Mathematics education and digital technologies workshop, The Royal Society, London.
+
 _8 April 2021_ [England's computing curriculum since 2014](https://docs.google.com/presentation/d/1BH7tSvDaPxe4SV0keoWAKcFd3LEXVS2ULHv38gzPs3Y/edit?usp=sharing), Digital Education 2021, Belgrade. 
 
 _8 April 2021_ [Teaching data science](http://bit.ly/atmconf21) ATM Annual Conference.
