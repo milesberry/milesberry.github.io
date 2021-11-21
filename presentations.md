@@ -13,7 +13,7 @@ _10 November 2021_ [Simple STEM links with Python](https://www.gotostage.com/cha
 
 _15 October 2021_ ICT for Education, Salford. Conference Chair.
 
-_11 October 2021_ C[omputação nas escolas inglesas: lições aprendidas](https://pure.roehampton.ac.uk/portal/files/6217568/ANPRI_PT.pdf). Evening seminar for ANPRI, Associação Nacional de Professores de Informática, Portugal.
+_11 October 2021_ [Computação nas escolas inglesas: lições aprendidas](https://pure.roehampton.ac.uk/portal/files/6217568/ANPRI_PT.pdf). Evening seminar for ANPRI, Associação Nacional de Professores de Informática, Portugal.
 
 _7 October 2021_ [5 (out of 20) things to do with a computer](https://youtu.be/vg8o0rOHOYo?t=1393). Opening keynote for EU Codeweek 2021
 
