@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_November 2021_ Make a turtle! in Stager, G. (ed) Twenty Things to Do with a Computer Forward 50. Torrance, CA: Constructing Modern Knowledge Press.
+
+_October 2021_ [Five (out of twenty) things to do with a computer](https://pure.roehampton.ac.uk/portal/files/6340659/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Oct_2021.pdf). Roehampton Primary Partnership Newsletter.
+
+_May 2021_ [An Introduction to Scratch](https://pure.roehampton.ac.uk/portal/files/5476037/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_May_2021.pdf), article for article for Primary Schools Partnership May Newsletter, University of Roehampton School of Education.
+
+_May 2021_ Digital Media and Primary Computing Berry, M., 25 May 2021, [Teaching the arts in the primary curriculum](https://www.amazon.co.uk/Teaching-Arts-Primary-Curriculum-Exploring/dp/1529742471). Ogier, S. & Tutchell, S. (eds.). London: Learning Matters, p. 109-119 11 p.
+
+_April 2021_ [Programming](https://pure.roehampton.ac.uk/portal/files/5277333/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Apr_2021_2.pdf), article for article for Primary Schools Partnership April Newsletter, University of Roehampton School of Education.
+
 _March 2021_ [Computational Thinking](/2021/03/computational-thinking/), article for Primary Schools Partnership March Newsletter, University of Roehampton School of Education.
 
 _November 2020_ [What's new in Switched On Computing](https://www.risingstars-uk.com/blog/november-2020/what-s-new-in-switched-on-computing-3rd-edition), blog post for Rising Stars.

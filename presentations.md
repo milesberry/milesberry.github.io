@@ -7,6 +7,34 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_12 November 2021_ [Twenty things to do with a computer](http://bit.ly/fiveoftwenty). Keynote presentation. ICT for Education, Brighton
+
+_10 November 2021_ [Simple STEM links with Python](https://www.gotostage.com/channel/809440c104484aff968f0e35990598b8/recording/645f11930cc843a4be966f343c020dd8/watch?source=CHANNEL). CAS Inspire. With Peter Dring.
+
+_15 October 2021_ ICT for Education, Salford. Conference Chair.
+
+_11 October 2021_ C[omputação nas escolas inglesas: lições aprendidas](https://pure.roehampton.ac.uk/portal/files/6217568/ANPRI_PT.pdf). Evening seminar for ANPRI, Associação Nacional de Professores de Informática, Portugal.
+
+_7 October 2021_ [5 (out of 20) things to do with a computer](https://youtu.be/vg8o0rOHOYo?t=1393). Opening keynote for EU Codeweek 2021
+
+_8 September 2021_ [Computação nas escolas inglesas: lições aprendidas](https://pure.roehampton.ac.uk/portal/files/6031805/ERTE5_PT.pptx). Keynote presentation, 5º Encontro Regional de Tecnologias na Educação, Azores.
+
+_22 August 2021_ [Creative Coding](http://bit.ly/virtualccfest). Keynote presentation, Virtual Creative Coding Festival 2021
+
+_14 July 2021_ [Op Art in Processing](https://www.youtube.com/watch?v=w3Hd13nzLsU). Workshop for CSTA Virtual Conference.
+
+_8 July 2021_ [Progression in problem solving](http://bit.ly/ictlivenorwich). Keynote presentation, ICT for Education, Norwich.
+
+_2 July 2021_ [Pensamento computacional nos Açores e em Inglaterra](https://pure.roehampton.ac.uk/portal/files/5681521/Azores_computing_launch_PT_1_.pdf). The Azores. 
+
+_25 June 2021_ [Teaching Data Science](https://vimeo.com/showcase/8587419/video/568833349). Festival of Education.
+
+_16 June 2021_ [Visualising the NSS data: Tools, Projects and Assessment](https://docs.google.com/presentation/d/1kIc8rsXloKURMfIIlyog3533BXMH0B1moNsXPvsstPQ/edit?usp=sharing). Roehampton Annual Festival of Teaching and Learning: Curriculum design in a time of change.
+
+_9 June 2021_ [Computational thinking (and coins)](https://www.youtube.com/watch?v=RBT94AU2kFA). Keynote presentation, ICT for Education Roadshow, University of Roehampton.
+
+_2 June 2021_ [The two types of computational thinking](https://www.youtube.com/watch?v=lStWUJpDe_w). Keynote presentation for 5th APSCE International Conference on Computational Thinking and STEM Education 2021, Singapore
+
 _13 May 2021_ [Digital technologies in mathematics education in the future](http://bit.ly/futuremathstech), Mathematics education and digital technologies workshop, The Royal Society, London.
 
 _8 April 2021_ [England's computing curriculum since 2014](https://docs.google.com/presentation/d/1BH7tSvDaPxe4SV0keoWAKcFd3LEXVS2ULHv38gzPs3Y/edit?usp=sharing), Digital Education 2021, Belgrade. 
