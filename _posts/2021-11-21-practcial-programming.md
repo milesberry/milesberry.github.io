@@ -9,7 +9,7 @@ image:
         feature: 211121.jpg
 ---
 
-The suggestions here are offered as pragmatic advice on what good practical programming work for a secondary class might look like. Not all of these principles or characteristics will apply all of in every programming class. I write here about using programs to solve problems, but this should be interpreted to also include developing open ended, creative projects or creating a program which fulfils the requirements of a given design brief.
+The suggestions here are offered as pragmatic advice on what good practical programming work for a secondary class might look like. Not all of these principles or characteristics will apply all of the time in every programming class. I write here about using programs to solve problems, but this should be interpreted to also include developing open ended, creative projects or creating a program which fulfils the requirements of a given design brief.
 
 ## Keep the big picture in mind, and focus on the details.
 
