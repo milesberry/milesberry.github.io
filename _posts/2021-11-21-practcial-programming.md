@@ -53,7 +53,7 @@ Pair programming is an effective and efficient software development strategy in 
 
 ## Find meaningful contexts
 
-Some argue that many pupils lose interest in computer science because the contexts of their programming in secondary school seem far removed from their interests and experience. The deregulation of practical programming at GCSE provides an excellent opportunity to adopt a more learner-centred approach to practical work, basing tasks on areas of genuine interest or concern to pupils. The appendix makes a number of suggestions here, but code can be used as the medium for creative work in interactive fiction, photography and other visual arts, musical composition and animation, as well as a means to visualise and find patterns in data from live and historical sources. Without the demands of a formal non-exam assessment, pupils can pursue their own individual programming projects.
+Some argue that many pupils lose interest in computer science because the contexts of their programming in secondary school seem far removed from their interests and experience. The deregulation of practical programming at GCSE provides an excellent opportunity to adopt a more learner-centred approach to practical work, basing tasks on areas of genuine interest or concern to pupils. Code can be used as the medium for creative work in interactive fiction, photography and other visual arts, musical composition and animation, as well as a means to visualise and find patterns in data from live and historical sources. Without the demands of a formal non-exam assessment, pupils can pursue their own individual programming projects.
 
 ## Encourage independent learning
 
