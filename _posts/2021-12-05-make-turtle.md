@@ -155,7 +155,7 @@ new object in the class, right at the centre of the canvas:
     }
 ```
 We might then go ahead and start adding some methods, starting with
-moving forward. As we're having to conver from the turlte-centric polar
+moving forward. As we're having to convert from the turtle-centric polar
 frame to the canvas's Cartesian frame, the math here is high school, but
 then so is object oriented, text-based programming.
 ```js
