@@ -10,7 +10,7 @@ image:
 ---
 # Make a turtle!
 
-The first thing on Papert and Solomon's ([1971]) list of twenty things
+The first thing on Papert and Solomon's (1971) list of twenty things
 is make a turtle. Over the intervening fifty years the programmable
 turtle has featured as many young people's first introduction to
 programming, both on the floor and on the screen. It still has much to
@@ -20,7 +20,7 @@ left or to the right; it can draw, or not draw, as it moves. The
 hardware itself is simple enough too: motors for each of the main
 wheels, able to turn independently, and a pen that can be raised or
 lowered that fits right in the middle of these wheels: as a 'notional
-machine' ([Boulay et al., 1981]), it seems much easier for a child to
+machine' (Boulay et al., 1981), it seems much easier for a child to
 grasp conceptually than a smartphone, a tablet or a distant website. It
 is also a friendly sort of thing: it is neither too big, nor too small;
 it often develops some sort of character, at least in the child's eyes;
@@ -75,11 +75,11 @@ might we replicate this today?
 As well as the on-screen programming, many have argued for some sort of
 physical computing to go with this: providing some introduction to input
 and output beyond mouse, keyboard, and screen, touch or otherwise. LEGO®
-Mindstorms® named after Papert's (1980) book, ([Bumgardner, 2007]),
+Mindstorms® named after Papert's (1980) book, (Bumgardner, 2007),
 offers one possibility here. Whilst the step-by-step build instructions
 for a floor turtle are not included in the standard materials, a 'master
 builder' would be able to figure these out for herself. For others,
-[Astolfo et al.] ([2007][Astolfo et al.]), provides an outline of what's
+Astolfo et al. (2007), provide an outline of what's
 needed.
 
 Another approach might be to make use of a micro:bit as the brains for a
@@ -211,7 +211,7 @@ from Logo and that from native Javascript:
     }
 ```
 More interesting examples might be experiments with Papert's notion of
-the 'squiral' ([Papert, 1980, p.73]):
+the 'squiral' (Papert, 1980):
 ```js
     function setup() {
       createCanvas(windowWidth, windowHeight);
@@ -227,10 +227,10 @@ the 'squiral' ([Papert, 1980, p.73]):
 ```
 Which produces the following:
 
-![petagonal squiral](../images/squiral.png)
+![petagonal squiral](/images/squiral.png)
 
 Or, we can go further still, and implement recursion to create a
-fractal, such as the Koch Flake ([Koch, 1904]).
+fractal, such as the Koch Flake (Koch, 1904).
 ```js
     function setup() {
       createCanvas(windowWidth, windowHeight);
@@ -257,11 +257,13 @@ fractal, such as the Koch Flake ([Koch, 1904]).
       }
     }
 ```
-![Koch flake](../images/koch.png)
+![Koch flake](/images/koch.png)
 
 There is, of course, plenty more that can be done in turtle graphics,
 and Processing itself. I have shared [my turtle class and an example
-sketch] online for the reader to extend further.
+sketch](https://editor.p5js.org/mberry/sketches/XE-TOpv2) online for the reader to extend further.
+
+<iframe src="https://editor.p5js.org/mberry/full/XE-TOpv2"></iframe>
 
 What we have though is using Papert and Solomon's old idea of *making* a
 turtle as a way in to understand some far deeper ideas than just
@@ -272,24 +274,24 @@ staying within reach of the familiar home ground of the turtle itself.
 
 # References
 
-[Astolfo et al.]: Astolfo, D., Ferrari, M. and Ferrari, G. (2007) *Building robots with LEGO mindstorms NXT*. Burlington MA: Syngress Publishing, Inc.
+Astolfo, D., Ferrari, M. and Ferrari, G. (2007) *Building robots with LEGO mindstorms NXT*. Burlington MA: Syngress Publishing, Inc.
 
-[Boulay et al., 1981]: Boulay, B. du, O'Shea, T. and Monk, J. (1981) The black box inside the
+Boulay, B. du, O'Shea, T. and Monk, J. (1981) The black box inside the
 glass box: Presenting computing concepts to novices. *International
 Journal of man-machine studies*, 14 (3): 237-249.
 
-[Bumgardner, 2007]: Bumgardner, J. (2007) The origins of Mindstorms. *Wired*. Available at:
+Bumgardner, J. (2007) The origins of Mindstorms. *Wired*. Available at:
 <https://www.wired.com/2007/03/the-origins-of-/>.
 
-[Flesch, 1951]: Flesch, R. (1951) *The art of clear thinking.* Harper.
+Flesch, R. (1951) *The art of clear thinking.* Harper.
 
-[Koch, 1904]: Koch, H. (1904) Sur une courbe continue sans tangente, obtenue par une
+Koch, H. (1904) Sur une courbe continue sans tangente, obtenue par une
 construction géométrique <span class="nocase">é</span>lémentaire. *Arkiv
 for Matematik, Astronomi och Fysik*, 1: 681-704.
 
-[Papert, 1980, p.73]: Papert, S. (1980) *Mindstorms: Computers, children, and powerful ideas*.
+Papert, S. (1980) *Mindstorms: Computers, children, and powerful ideas*.
 New York, NY: Basic Books.
 
-[1971]: Papert, S., and Solomon, C. (1971) Twenty things to do
+Papert, S., and Solomon, C. (1971) Twenty things to do
 with a computer. *Cambridge, MA*.
 
