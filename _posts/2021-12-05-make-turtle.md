@@ -272,6 +272,8 @@ screen. *Making* a turtle crosses an abstraction boundary into hardware,
 or at the very least, objects, properties and methods, all the while
 staying within reach of the familiar home ground of the turtle itself.
 
+>Originally published as Berry, M. (2021), Make a Turtle! in G Stager (ed.), *[Twenty Things to Do with a Computer Forward 50: Future Visions of Education Inspired by Seymour Papert and Cynthia Solomon's Seminal Work.](https://www.amazon.co.uk/Twenty-Things-Computer-Forward-Education/dp/1955604002)* Constructing Modern Knowledge Press, Torrance, CA, pp. 231-235.
+
 # References
 
 Astolfo, D., Ferrari, M. and Ferrari, G. (2007) *Building robots with LEGO mindstorms NXT*. Burlington MA: Syngress Publishing, Inc.
