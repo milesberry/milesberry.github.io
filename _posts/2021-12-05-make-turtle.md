@@ -8,7 +8,6 @@ comments: true
 image:
         feature: 041221.jpg
 ---
-# Make a turtle!
 
 The first thing on Papert and Solomon's (1971) list of twenty things
 is make a turtle. Over the intervening fifty years the programmable
