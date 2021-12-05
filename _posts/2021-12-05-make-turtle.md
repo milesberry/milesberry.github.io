@@ -62,7 +62,7 @@ the familiar territory of turtle graphics importing the necessary
 methods from Python's Turtle module. This is a sophisticated toolkit,
 and there are some lovely examples available, such as a playable, but
 unbeatable, version of Nim, arguably the first ever computer game
-([Flesch, 1951]).
+(Flesch, 1951).
 
 However, in all these instances, from toy robots through to programming
 in Python, the child never *builds* a turtle: they just use one, either
@@ -263,7 +263,7 @@ There is, of course, plenty more that can be done in turtle graphics,
 and Processing itself. I have shared [my turtle class and an example
 sketch](https://editor.p5js.org/mberry/sketches/XE-TOpv2) online for the reader to extend further.
 
-<iframe src="https://editor.p5js.org/mberry/full/XE-TOpv2"></iframe>
+<iframe src="https://editor.p5js.org/mberry/full/XE-TOpv2" width=600px height=600px></iframe>
 
 What we have though is using Papert and Solomon's old idea of *making* a
 turtle as a way in to understand some far deeper ideas than just
