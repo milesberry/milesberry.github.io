@@ -6,7 +6,7 @@ author: Miles Berry
 permalink: /2021/12/five-of-twenty/
 comments: true
 image:
-        feature: 101221.jpg
+        feature: 101221.png
 ---
 
 2021 is the 50th anniversary of Seymour Papert and Cynthia Solomon's inspiration paper, "[Twenty things to do with a computer][1]", in which they set out some suggestions for exciting activities that children in school could do with computers - technology that up to that point had been the preserve of academia, the military and industry, but which they saw huge potential for in schools. Whilst others had concentrated on using, or sometimes writing, programs that would work with numbers or text, Papert and Solomon's vision was far broader, and seems at least as relevant now as it did back in 1971. Let me show you how five (of their twenty) ideas can still form the focus for inspirational computing lessons today.
@@ -49,4 +49,3 @@ The other fifteen ideas in Papert and Solomon's paper are well worth revisiting 
 [6]:	https://scratch.mit.edu/projects/263003911/
 
 *Originally published as [a blog post](https://blog.codeweek.eu/five-out-of-twenty-things-to-do-with-a-computer/) for EU Codeweek, following [my short keynote](https://www.youtube.com/watch?v=vg8o0rOHOYo&t=1393s) at the launch of this year's Codeweek.*
-
