@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+_December 2021_ [Education Technology and Mathematics](https://pure.roehampton.ac.uk/ws/portalfiles/portal/6664576/edtechmaths.pdf). Scoping document for the Royal Society's Mathematical Futures project.
+
+_December 2021_ [Five (out of twenty) things to do with a computer](https://blog.codeweek.eu/five-out-of-twenty-things-to-do-with-a-computer/). Blog post for EU Codeweek.
+
 _November 2021_ Make a turtle! in Stager, G. (ed) Twenty Things to Do with a Computer Forward 50. Torrance, CA: Constructing Modern Knowledge Press.
 
 _October 2021_ [Five (out of twenty) things to do with a computer](https://pure.roehampton.ac.uk/portal/files/6340659/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Oct_2021.pdf). Roehampton Primary Partnership Newsletter.

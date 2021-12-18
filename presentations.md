@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_14 December 2021_ [Coding across the curriculum](https://docs.google.com/presentation/d/154-VFq2Moa_lKiqMrZsIWnJ2TMrfIX2qrm8x06yJs70/edit?usp=sharing). Workshop for UCL IOE primary computing education students.
+
+_4 December 2021_ [Working with bits on the micro:bit](https://www.youtube.com/watch?v=V_9CBI3X3NM). Online workshop, micro:bit Live.
+
+_24 November 2021_ [Twenty things to do with a computer](http://bit.ly/fiveoftwenty). Keynote presentation, ICT for Education Roadshow, University of Roehampton.
+
 _12 November 2021_ [Twenty things to do with a computer](http://bit.ly/fiveoftwenty). Keynote presentation. ICT for Education, Brighton
 
 _10 November 2021_ [Simple STEM links with Python](https://www.gotostage.com/channel/809440c104484aff968f0e35990598b8/recording/645f11930cc843a4be966f343c020dd8/watch?source=CHANNEL). CAS Inspire. With Peter Dring.
