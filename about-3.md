@@ -8,7 +8,7 @@ guid: http://milesberry.net/?page_id=535
 ---
 <figure>
 <a href="/images/mgb1500.jpeg"><img src="/images/mgb240.jpeg"></a>
-<figcaption>Miles Berry</figcaption>
+<figcaption>Prof Miles Berry</figcaption>
 </figure>
 
 I&#8217;m Professor of Computing Education at the [University of Roehampton](http://roehampton.ac.uk). 
