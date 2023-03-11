@@ -2,14 +2,13 @@
 layout: post
 title: "Practical programming in computing education"
 date: "2022-04-27 18:00:00 +0000"
-author: Miles Berry, Paul Curzon, Quintin Cutts, Celia Hoyles, Simon Peyton
-Jones, and Shahneila Saeed
+author: Miles Berry, Paul Curzon, Quintin Cutts, Celia Hoyles, Simon Peyton Jones, and Shahneila Saeed
 permalink: /2022/4/practical-programming/
 comments: true
 image:
         feature: 220427.JPG
 ---
-## Executive summary 
+## Executive summary  
 
 This white paper argues for the fundamental importance of practical programming as a central element of our young people's computing education. Our intended audience is senior leaders, heads of computing, and teachers, especially in secondary schools.
 
