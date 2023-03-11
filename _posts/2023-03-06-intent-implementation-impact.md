@@ -6,7 +6,7 @@ author: Miles Berry
 permalink: /2023/3/intent-implementation-impact/
 comments: true
 image:
-        feature: 230306.jpg
+        feature: 230306.JPG
 ---
 
 ## Intent
