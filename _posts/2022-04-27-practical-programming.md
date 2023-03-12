@@ -93,7 +93,7 @@ studies in order to build".
 
 He goes on: 
 
->"[ submit that by any
+>"I submit that by any
 reasonable criterion the discipline we call "computer science" is in
 fact not a science but a synthetic, an engineering, discipline. We are
 concerned with making things, be they computers, algorithms, or software
