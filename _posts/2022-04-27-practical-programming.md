@@ -65,7 +65,6 @@ exercises, up to capstone projects (see Sections 4 and 5).
 department to make rich, creative practical programming a priority in
 your computing timetable, and in your resourcing, at every Key Stage.
 
-<a name="#section1"></a>
 ## 1. Programming is intrinsic to computer science
 
 The importance of programming is explicit in one of the four Aims of
@@ -76,7 +75,7 @@ computing](https://www.gov.uk/government/publications/national-curriculum-in-eng
 repeated practical experience of writing computer programs in order to
 solve such problems.
 
-But why?  Because programmingis not just a means to an
+But why? Because programming is not just a means to an
 end: it is a fundamental part of the subject itself, just
 as music performance is fundamental to music, and writing is as
 fundamental to English as reading. A computing education without
@@ -89,9 +88,9 @@ it](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf):
 
 >"the
 natural scientist builds in order to study; but the engineer
-studies in order to build". 
+studies in order to build".  
 
-He goes on: 
+He goes on:  
 
 >"I submit that by any
 reasonable criterion the discipline we call "computer science" is in
@@ -113,11 +112,11 @@ the case for practical science in a similar way. For example, it says
 >"Experimentation gives science its identity. Science uses experiments
 to discover the realities underlying the world, and this practical
 approach seems to be as intrinsic to young learners as it is to
-professional researchers." 
+professional researchers."  
 
 The [Ofsted Research Review on
 Science](https://www.gov.uk/government/publications/research-review-series-science/research-review-series-science%23practical-work) makes
-a similar case: 
+a similar case:  
 
 >"At its heart, science involves the study of the
 material world. Practical work therefore forms a fundamental part of
@@ -128,7 +127,7 @@ Computer science can be considered as 'the silent C' in CSTEM, and it is
 through programming that the linkages with science, technology,
 engineering and mathematics are most strongly manifested.
 
--   **Science**. Programming, and particularly debugging, embodies
+- **Science**. Programming, and particularly debugging, embodies
     repeated experience of the scientific method: gathering information
     through observation, formulating a hypothesis, devising experiments
     to test it, refining the hypothesis, all in service of developing a
@@ -138,7 +137,7 @@ engineering and mathematics are most strongly manifested.
     experimentation, that has revolutionised scientific method, for
     example, through simulation and virtual experiments, and through
     discovery via machine learning.
--   **Technology.** Programming is also about acquiring mastery over
+- **Technology.** Programming is also about acquiring mastery over
     technology through making the computer carry out your own
     instructions. In today's world much technology is digital
     technology, and thus owes its existence to programming. Only by
@@ -147,14 +146,14 @@ engineering and mathematics are most strongly manifested.
     be better or modified to do new things, for example. Also often
     programming skills are needed to have mastery over technology:
     expert use of spreadsheets is one clear example, among many.
--   **Engineering**. Programming, like engineering more generally,
+- **Engineering**. Programming, like engineering more generally,
     is concerned with making or building things, and whilst programs are
     less physically tangible than bridges or circuit boards, their
     impact on our lives is no less significant. Programmed artefacts are
     also often now a key part of engineered ones and are often used as a
     tool to do engineering. Engineering now relies heavily on
     programming. 
--   **Mathematics**. There are strong parallels between mathematical
+- **Mathematics**. There are strong parallels between mathematical
     reasoning and computational thinking (the key skills underpinning
     programming). Polya's How to Solve It, whilst originally about
     mathematical problem solving, applies just as readily to computer
@@ -173,21 +172,21 @@ It's not just STEM subjects though!  Programming links to, and is a
 useful skill, in the arts and humanities too (in fact all other
 subjects). For example:
 
--   **English**. A key and often sadly neglected part of programming
+- **English**. A key and often sadly neglected part of programming
     is that of documentation. Clear written explanations of what code
     does, and how, is vital to help limit the mistakes in large software
     systems and the maintainability of the code.
--   **Design and Creativity**. Programming and other forms of
+- **Design and Creativity**. Programming and other forms of
     practical work are inherently creative. Good design is an important
     part of good programming. It is good design of the user interface,
     for example, that makes a program usable (or not).
--   **Social sciences**. A key step in developing software is to
+- **Social sciences**. A key step in developing software is to
     understand the problem you are solving first. As problems are often
     problems being solved for people, it is often the contexts of people
     and society that need to be understood. Social sciences methods such
     as interviewing people to understand their needs is key to real
-    software development, for example. 
--   **Art.** The virtual world provides whole new mediums for
+    software development, for example.  
+- **Art.** The virtual world provides whole new mediums for
     creating art and whole new techniques for doing so. An artist who
     can program has a vast new toolset to work with, whether explicitly
     programming the artwork, developing programs that support doing so,
@@ -204,7 +203,7 @@ practical programming that we argue is so essential in school lays the
 foundation for this practical use of the subject in all these other
 areas. For example:
 
--   **Digital literacy.** Every child needs to be digitally literate,
+- **Digital literacy.** Every child needs to be digitally literate,
     a confident and competent user of computer systems: the fourth aim
     of the [computing national
     curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study).
@@ -213,17 +212,17 @@ areas. For example:
     guessing and trying things randomly. It also gives an understanding
     of what is possible and when computer systems themselves are
     inadequate.
--   **Further study.** Programming lays the foundation for higher
+- **Further study.** Programming lays the foundation for higher
     study, at A level and beyond. Computation over large data sets is
     becoming pervasive in many subjects, and programming and modelling
     skills are increasingly necessary, rather than merely
     desirable, and applied in a range of school subjects.
--   **The workplace.** Practical computing skills, especially
+- **The workplace.** Practical computing skills, especially
     programming, are enormously valuable when students later enter the
     world of work. Programming skills equip students for work in the
     tech sector, but are also highly prized across a huge range of other
     professions. This will only increase in the future.
--   **Life.** As learners progress with their lives, they will ever
+- **Life.** As learners progress with their lives, they will ever
     more need to be able to both do and
     understand computing in order to be successful citizens.
     Great computational thinking, of value almost everywhere, will come
@@ -235,7 +234,7 @@ that are so highly prized by employers and others. Practical work in
 computing offers repeated opportunities to develop, exemplify and
 practise these skills.
 
-### Programming informs critical judgement.
+### Programming informs critical judgement
 
 The experience of how
 hard it is to get a program right, and how subtle bugs can be, may help
@@ -253,7 +252,7 @@ likely if more people understood how easily programs can be fallible,
 and so were more critical in them rather than investing blind
 faith.
 
-### Looking to the future. 
+### Looking to the future
 
 In the professional world, computing is
 already changing not only how we do science, but what science we
@@ -270,7 +269,7 @@ itself, and other aspects besides. Indeed, it is indispensable in
 learning the theory of computing, both in terms of better understanding
 and getting better grades. Why?
 
--   **Programming brings theory to life**. While some will love the
+- **Programming brings theory to life**. While some will love the
     subject for its intellectual beauty alone, academic computer science
     divorced from learning-by-doing can become for many a dry,
     unmotivated subject. The experience of deploying knowledge to solve
@@ -279,26 +278,26 @@ and getting better grades. Why?
     building work is thus one very strong (if not the only) way to avoid
     the trap of turning an exciting subject into a boring, difficult
     one.
--   **Programming is enormously motivating for some**. Learning is
+- **Programming is enormously motivating for some**. Learning is
     hard work, and learning to program can be very hard work, so it is
     incredibly helpful that programming is so
     rewarding. Getting their program to
     work powerfully motivates many students to learn, and gives them a
     sense of ownership and agency through solving a programming
     task they set themselves.
--   **Programming can build confidence**. If they manage to
+- **Programming can build confidence**. If they manage to
     develop strategies to solve new and unfamiliar problems, students
     can gain confidence, especially when the initial solutions may not
     work. To gain such benefits universally requires careful
     scaffolding.  
--   **Programming environments offer immediate, non-judgemental feedback.**
+- **Programming environments offer immediate, non-judgemental feedback.**
     If your program is wrong, it won't work, and the computer
     will tell you so, remorselessly, but non-judgmentally (and for
     certain kinds of mistakes immediately). It will give you the
     opportunity to form a hypothesis about what is wrong, devise
     experiments to verify that hypothesis, leading to understanding the
     cause of the bug and a path to fixing it.
--   **Programming consolidates learning**. When doing practical
+- **Programming consolidates learning**. When doing practical
     programming work students repeatedly draw on, and give concrete form
     to, knowledge and ideas learned in class. It involves them actively
     processing the material (in semantic wave terms doing unpacking and
@@ -308,7 +307,7 @@ and getting better grades. Why?
     learning, both through working with concrete examples linking theory
     and practice, repetition and through giving the ideas a practical
     context. It leads to deep rather than shallow understanding.
--   **Programming develops a learner's initiative and creativity**.
+- **Programming develops a learner's initiative and creativity**.
     Much of school work is closed-form: learn this knowledge.
     Well-scaffolded practical work can put the student in the driving
     seat, inviting them to create systems or programs that have never
@@ -322,8 +321,8 @@ get much better grades in written exams than students who do not:
 - Firstly, practical programming promotes good learning, as discussed
     earlier, and good learning leads directly to good grades in written
     exams.
--   Secondly, it is an explicit goal of the awarding organisations to design  written exams that are hard to do well in, without extensive experience of programming. This is much more possible in computing than it is to do the equivalent in (say) natural science. For example, if a question asks a student to predict what a particular code fragment will do, they are much more likely to succeed if they have had plenty of experience of reading and writing code themselves. 
-   
+- Secondly, it is an explicit goal of the awarding organisations to design  written exams that are hard to do well in, without extensive experience of programming. This is much more possible in computing than it is to do the equivalent in (say) natural science. For example, if a question asks a student to predict what a particular code fragment will do, they are much more likely to succeed if they have had plenty of experience of reading and writing code themselves.  
+
 We are not arguing that computing should be taught only, or even
 primarily, through practical programming work. Theory is important as
 well as practice. Deep conceptual understanding underpins practical
@@ -344,24 +343,24 @@ Practical programming should be an engaging, motivating and authentic
 experience. For example, in addition to core tasks concerned with
 learning the basics:
 
--   Pupils can engage in tasks that they find personally
+- Pupils can engage in tasks that they find personally
     relevant, perhaps basing these on their interests outside of
     school or on topics from other subjects they are studying.
--   They can collaborate with one another or with others,
-    including adult mentors both within and outside the school. 
--   They can do independent research using the web, incorporate
+- They can collaborate with one another or with others,
+    including adult mentors both within and outside the school.  
+- They can do independent research using the web, incorporate
     others' code or ideas into their own programs and get advice or
-    feedback from external mentors. 
--   They can develop programs or systems to solve real-world
+    feedback from external mentors.  
+- They can develop programs or systems to solve real-world
     problems relevant to others in their communities. They may
     even in doing so form the foundations of a start-up company or
     career.
--   They can share their work with a wide audience, both to
+- They can share their work with a wide audience, both to
     others in the school, but also to a global audience, so gaining
     prestige and confidence.
--   They can develop their knowledge of a particular programming
+- They can develop their knowledge of a particular programming
     language beyond the narrow scope of an exam specification.
--   For those who have already achieved competence in a first
+- For those who have already achieved competence in a first
     programming language, they can go on to develop knowledge of
     multiple programming languages and paradigms, so deepening and
     generalising their understanding of constructs.
@@ -376,35 +375,35 @@ skills and knowledge to the ultimate assessments.
 
 ### 4.1 What is "practical programming"?
 
-[Programming, or coding, is often thought of as \"starting from a blank
-sheet of paper, write a program to do this task\".  But actually there
+Programming, or coding, is often thought of as \"starting from a blank
+sheet of paper, write a program to do this task\". But actually there
 is a much richer space of practical work in programming, including
 
--   **Simply experimenting with the medium.** Programming
+- **Simply experimenting with the medium.** Programming
     environments like Scratch make it easy to try things out in a
     playful, exploratory way: "I wonder what happens if I press that
     button/drag that shape?". At this stage the goal is to experiment,
     gain confidence that nothing bad will happen, and to gain intuition
     about what happens. 
--   **Run a program, and work out what causes it to do what it
+- **Run a program, and work out what causes it to do what it
     does.** A good way to start learning is to teach yourself. Have
     pupils take small programs you provide and run them, see what they
     do and then try to work out what line causes certain effects to
     happen. For example, when you run the program, it prints
-    `Hello World`. Which specific line actually causes that to happen?
+    `Hello World`. Which specific line actually causes that to happen?
     Why print that rather than something else? Another program asks for
     the pupil's name, then greets them by name. Which line made it stop
     and wait for them to type something in. How did what they typed then
     end up being printed in the greeting? What causes a monster to
     appear? What makes it a red monster? This is a good precursor to
     making changes ...
--   **Copy an existing program, run it, and then start making
+- **Copy an existing program, run it, and then start making
     small changes to it.** The program solves the
     "blank sheet of paper" problem.  Some changes are limited but fun
     (e.g. change the colour of the monster). As confidence builds,
     pupils will become more ambitious (e.g. can we have more than one
     monster?).
--   **Predict what a program does**.  One important aspect
+- **Predict what a program does**. One important aspect
     of computational thinking is to be able to predict what a program
     will do.  For simple, straight-line programs (i.e a simple sequence
     of instructions) this is pretty easy; the more complicated the
@@ -416,7 +415,7 @@ is a much richer space of practical work in programming, including
     understand, such as identifying misconceptions about the way
     concepts work. As with science it is when predictions are wrong that
     most is learnt!
--   **Predict what a change will do**.  A variation of the
+- **Predict what a change will do**. A variation of the
     above is to predict what effect a change to the program will
     have. This needs to be founded on a good understanding of what it
     does originally. Uncaught bugs often arise from changes where the
@@ -427,21 +426,21 @@ is a much richer space of practical work in programming, including
     what they will do is a powerful way for pupils to
     actively experiment with their understanding of new
     concepts.
--   **Test a program thoroughly to check it is working
+- **Test a program thoroughly to check it is working
     properly**. Take a program and ensure it always works. Programs
     often appear to work when run but bugs are hidden waiting to be
     triggered when certain things are input. Creating and following a
     test plan (e.g. ensuring all branches are tested, checking what
     happens with extreme values or unexpected values is a skill in
     itself).
--   **Debug a program that is not working properly.** For
+- **Debug a program that is not working properly.** For
     example, if you want to draw a square with a floor turtle, you might
     forget to put the pen down, so the turtle crawls around but doesn't
     draw anything. Debugging always involves coming up with a guess (or
     hypothesis) about what is going wrong, performing experiments to
     confirm the guess, and making a change that you predict will fix
     it.
--   **Explain to someone else how/why your program
+- **Explain to someone else how/why your program
     works**. The simple act of explaining your program often
     reveals latent bugs in it, potential simplifications to your code,
     and reveals misconceptions or misunderstandings. It also deepens
@@ -454,7 +453,7 @@ is a much richer space of practical work in programming, including
     out issues and ask for better explanations where things are unclear.
     Requiring the navigator to do this helps both gain a deeper
     understanding and improve their skills.
--   **Read a program and figure out its purpose**. For
+- **Read a program and figure out its purpose**. For
     example  
 `[T := 0; for I = 1..N { T := T+I }]`  
 You could talk about loops and variables, but an experienced programmer
@@ -463,11 +462,11 @@ the total in `T`".  That is, she has worked out the *purpose* of
 the code, rather than just following the individual steps it
 takes.
 
--   **Starting from an idea of what you want your program to do,
+- **Starting from an idea of what you want your program to do,
     write a program from scratch to do it.**
     This involves specification, design, abstraction, implementation,
     testing, and debugging.
--   **Iteratively develop a large program: modify a large program to do
+- **Iteratively develop a large program: modify a large program to do
     more.** This involves repeatedly understanding the existing
     program and making changes. It may involve adding new functionality
     so you extend what it does while ensuring the old behaviour still
@@ -491,68 +490,68 @@ for different schools; there are no silver bullets!
 How are you adapting programming work to the needs and interests of
 individual pupils?
 
--   Do pupils have a choice over the context for practical work?
--   Does practical work allow some opportunities for creative
+- Do pupils have a choice over the context for practical work?
+- Does practical work allow some opportunities for creative
     expression?  
--   How are you, or teachers in your department, helping pupils who
+- How are you, or teachers in your department, helping pupils who
     would otherwise struggle?
--   What support is in place to allow students to work at their own
+- What support is in place to allow students to work at their own
     pace, repeatedly building solid foundations before moving on to
     concepts that build on them?
--   How are you/ your teachers challenging pupils who would otherwise
+- How are you/ your teachers challenging pupils who would otherwise
     find typical projects trivial?
--   What support is offered for those with special educational needs
+- What support is offered for those with special educational needs
     and disability (SEN/D)?
 
 #### Working with others
 
--   Does your practical work involve teamwork?  
--   Do stronger students have the opportunity (and the incentive) to
+- Does your practical work involve teamwork?  
+- Do stronger students have the opportunity (and the incentive) to
     help weaker ones? Is their support constructive to learning (eg
     teaching to debug) rather than destructive (eg giving code answers
     or taking over the keyboard)?
--   Can pupils explain (to you and to others) what they've done, and
+- Can pupils explain (to you and to others) what they've done, and
     how they did it? Are they documenting their code so that others
     could read and understand it?
--   Are you making use of mentors from local employers /
+- Are you making use of mentors from local employers /
     universities?
--   Is there an audience for pupils' work?
+- Is there an audience for pupils' work?
 
 #### Process
 
--   Is the practical work well scaffolded? Are you offering guidance
+- Is the practical work well scaffolded? Are you offering guidance
     about what to do, in what order, to help your pupils past the "blank
     sheet of paper" problem?  Are they using standard algorithms, design
     patterns and development approaches?
--   Are students working in a way so they do not overreach themselves,
+- Are students working in a way so they do not overreach themselves,
     so that they master individual concepts in practice before moving on
     to incorporating more complex concepts in their work. Are they
     creating complex artefacts that they have little hope of getting to
     work, before doing any work to see if they do? If they are, how are
     you ensuring they step back and take smaller steps?
--   Do you have a timely way to identify and fix basic misconceptions
+- Do you have a timely way to identify and fix basic misconceptions
     that act as a barrier to progress?
--   What happens when pupils' programs don't work? Have they been
+- What happens when pupils' programs don't work? Have they been
     provided with a good understanding of different kinds of errors, and
     strategies for testing and debugging their code from the outset? Do
     they show perseverance when faced with challenges? How do you deal
     with learned helplessness?
--   Do you offer in-flight formative feedback to your students about
+- Do you offer in-flight formative feedback to your students about
     their practical work, to help them over obstacles?
--   Are pupils thinking about the design of their program, how to solve
+- Are pupils thinking about the design of their program, how to solve
     problems or develop their projects before they start programming?
--   How can pupils tell if they have succeeded with their practical
+- How can pupils tell if they have succeeded with their practical
     work? What feedback will they receive? Who will provide this? Is
     such feedback available only at the end or in stages
     throughout?
--   Are there opportunities for pupils to learn new programming ideas
+- Are there opportunities for pupils to learn new programming ideas
     independently? How do you avoid their developing misconceptions if
     they do? How do you ensure they do not use code or techniques found
     on the Internet that they do not understand?
--   How do you support pupils to manage their time in an extended
+- How do you support pupils to manage their time in an extended
     project? Are you using any approaches from software engineering,
     such as iterative development or sprints?
--   Is practical programming helping pupils to acquire fluency in a
+- Is practical programming helping pupils to acquire fluency in a
     particular programming language and a particular paradigm?
 
 ## 5. Going deeper
@@ -571,7 +570,7 @@ more detailed tips and principles with respect to answering these
 questions both specifically and in general. Here are some places to
 start, whatever your level of experience.
 
--   [How we teach
+- [How we teach
     computing](https://blog.teachcomputing.org/how-we-teach-computing)
     a set of twelve principles for teaching computing from the UK
     National Centre for Computing Education (NCCE). Points range from
@@ -579,7 +578,7 @@ start, whatever your level of experience.
     do unpacking and repacking activity. Most are backed up with quick
     read sheets that go into the points made in much more detail, but in
     a very practical way.
--   [Predict, Run, Investigate, Modify and Make
+- [Predict, Run, Investigate, Modify and Make
     (PRIMM)](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick%2BReads/Pedagogy%2BQuick%2BRead%2B11%2B-%2BPRIMM.pdf).
     This NCCE quick read is a short overview of a popular approach to
     structuring lessons in programming, backed by research. The separate
@@ -587,7 +586,7 @@ start, whatever your level of experience.
     discussion about how programs work, and encourages reading of code
     before writing, so combines several of the suggestions outlined
     above.
--   [Teaching London Computing's "Learning to Learn to
+- [Teaching London Computing's "Learning to Learn to
     Program\"](https://teachinglondoncomputing.org/learning-to-learn-to-program).
     These web pages provide practical tips for both teachers and
     students over what matters most when learning (so teaching)
@@ -595,18 +594,18 @@ start, whatever your level of experience.
     students can get better to the importance of setting up a learning
     environment with quick and frequent feedback, all with specific
     practical tips.
--   [CS Teaching
+- [CS Teaching
     Tips](https://www.csteachingtips.org).
-     The goal of this project, led by Colleen Lewis was  to document and
-    disseminate effective computer science teaching practices.  They
+    The goal of this project, led by Colleen Lewis was to document and
+    disseminate effective computer science teaching practices. They
     offer 1300+ \"tips\", many backed with videos, and categorised by
     topic, such as Scratch, or classroom management.
--   [Miles Berry\'s 14 principles of practical
+- [Miles Berry\'s 14 principles of practical
     programming](http://milesberry.net/2021/11/practical-programming).
     Focussed on upper secondary projects. This includes suggestions
     ranging from how to approach debugging positively to the importance
     of explanations.
--   [Ten quick tips for teaching practical
+- [Ten quick tips for teaching practical
     programming,](https://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1006023) Brown
     & Wilson 2018. Research from educational psychology suggests that
     teaching and learning are subject-specific activities: learning
@@ -615,10 +614,10 @@ start, whatever your level of experience.
     younger discipline than mathematics, physics, or biology, and while
     there have been correspondingly fewer studies of how best to teach
     it, there is a growing body of evidence about what works and what
-    doesn\'t. This paper presents 10 quick tips that should be the
+    doesn't. This paper presents 10 quick tips that should be the
     foundation of any teaching of programming, whether formal or
     informal.
--   [Why we should teach our children to
+- [Why we should teach our children to
     code](https://helloworld.raspberrypi.org/issues/10),
     Peyton Jones, Hello World Oct 2019 (page 62ff). This article was a
     direct response to Andreas Schleicher (Director of Education at
@@ -631,66 +630,64 @@ teach computing including programming that give much more detailed
 advice, when you are ready, and have the time, to explore how to teach
 programming, and computing more generally, in more depth.
 
--   [Computer Science in K12: An A to Z handbook on teaching
+- [Computer Science in K12: An A to Z handbook on teaching
     programming](https://www.shuchigrover.com/atozk12cs/about),
     edited by Suchi Grover, Edfinity, 2020. This is a practical guide
     focussing on teaching introductory programming effectively based on
     research (and written by leading researchers). It covers a wide
     variety of approaches to teaching through practical work.
--   [Computer science education: a perspective on teaching and learning
+- [Computer science education: a perspective on teaching and learning
     in
     school](https://www.bloomsbury.com/uk/computer-science-education-9781350057111),
     edited by Sue Sentance, Bloomsbury Academic, 2021.  This has a
     broader focus than Grover\'s book, but very much based on research,
     with chapters written by experts and also with a practical
     focus.
--   [100 ideas for secondary teachers: outstanding computing
+- [100 ideas for secondary teachers: outstanding computing
     lessons](https://www.bloomsbury.com/uk/100-ideas-for-secondary-teachers-outstanding-computing-lessons-9781472984401),
     Simon Johnson, Bloomsbury Education, 2021. This is again wider than
     just programming though focusses on very practical classroom
     approaches - lots of ideas of what an outstanding lesson looks
     like.
--   [Creating the Coding Generation in Primary Schools: A Practical
+- [Creating the Coding Generation in Primary Schools: A Practical
     Guide for Cross-Curricular
-    Teachin](https://www.routledge.com/Creating-the-Coding-Generation-in-Primary-Schools-A-Practical-Guide-for/Humble/p/book/9781138681194),
+    Teaching](https://www.routledge.com/Creating-the-Coding-Generation-in-Primary-Schools-A-Practical-Guide-for/Humble/p/book/9781138681194),
     Steve Humble, Routledge, 2017
--   [Hacking the Curriculum: Creative Computing and the Power of
+- [Hacking the Curriculum: Creative Computing and the Power of
     Play](https://www.johncattbookshop.com/hacking-the-curriculum-creative-computing-and-the-power-of-play), Ian
     Livingstone and Shahneila Saeed. John Catt Educational, 2017.
-     Whilst not specifically about programming this argues for the
+    Whilst not specifically about programming this argues for the
     importance of play-based learning with a strong emphasis on
     creativity. It focuses on more general computing practical activity,
-    but the  overarching ideas certainly apply to teaching programming
-    too.]{.c8 .c22}
--   [Code-It: How To Teach Primary Programming Using
+    but the overarching ideas certainly apply to teaching programming
+    too.
+- [Code-It: How To Teach Primary Programming Using
     Scratch](http://code-it.co.uk/scratchbook),
     Phil Bagge, University of Buckingham Press, 2015. This focuses
     specifically on teaching programming in Key Stage 2, with
     classroom-tested approaches. It gradually introduces important
     concepts and techniques through a wide variety of different
     programming projects.
--   [Mindstorms: Children, Computers and Powerful
+- [Mindstorms: Children, Computers and Powerful
     Ideas](http://worrydream.com/refs/Papert%2520-%2520Mindstorms%25201st%2520ed.pdf),
     Seymour Papert, New York: Basic Books, 1980. The classic text on
     teaching programming in elementary and middle school, using Logo.
     Papert makes a strong argument for learning through making, with
     programming being a tool to think with, rather than the end goal.
-    
--   [Learner-centred design of computing education: research on
+- [Learner-centred design of computing education: research on
     computing for
     everyone](https://www.morganclaypool.com/doi/abs/10.2200/S00684ED1V01Y201511HCI033),
     Mark Guzdial, Morgan and Claypool, 2015. Students have different
     reasons for wanting to learn to program; Guzdial's book takes this
     as a starting point to explore what different approaches might be
     appropriate for the different goals that students have in mind.
-    
--   [Lifelong Kindergarten: cultivating creativity through projects,
+- [Lifelong Kindergarten: cultivating creativity through projects,
     passion, peers and
     play](https://mitpress.mit.edu/books/lifelong-kindergarten),
     Mitch Resnick, MIT Press, 2018. Scratch's creator argues for a more
     creative approach to computing education, in which learners' own
     projects form the focus.
--   [How to Raise a Tech
+- [How to Raise a Tech
     Genius](https://www.hachette.co.uk/titles/shahneila-saeed-2/how-to-raise-a-tech-genius/9781472143624),
     Shahneila Saeed, 2020. This has a broad focus and is primarily aimed
     at parents learning Computer Science alongside their children.
