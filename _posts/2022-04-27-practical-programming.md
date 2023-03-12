@@ -27,7 +27,7 @@ three main reasons:
     performance, in English without creative writing (only reading)? The
     whole purpose of computing is to build things that change
     the way we live, work and play, so actually writing programs is key.
-     See Section 1.
+    See [Section 1](section1).
 
 -   Programming skills in computing are exceptionally useful.
     Programming is extraordinarily useful in other domains, not just the
@@ -65,6 +65,7 @@ exercises, up to capstone projects (see Sections 4 and 5).
 department to make rich, creative practical programming a priority in
 your computing timetable, and in your resourcing, at every Key Stage.
 
+<a name="section1"></a>
 ## 1. Programming is intrinsic to computer science
 
 The importance of programming is explicit in one of the four Aims of
