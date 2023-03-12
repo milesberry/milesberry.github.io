@@ -27,23 +27,23 @@ three main reasons:
     performance, in English without creative writing (only reading)? The
     whole purpose of computing is to build things that change
     the way we live, work and play, so actually writing programs is key.
-    See [Section 1](#section1).
+    See [Section 1](#1-programming-is-intrinsic-to-computer-science).
 
 -   Programming skills in computing are exceptionally useful.
     Programming is extraordinarily useful in other domains, not just the
     software industry. Moreover, programming projects develop many of
     the "soft skills" that are so highly prized by employers: teamwork,
     planning, logical thinking, communication skills, and resilience.
-    See Section 2.
+    See [Section 2](#2-programming-teaches-exceptionally-useful-skills)..
 
 -   Programming work is essential pedagogy. Designing, writing,
     predicting, and debugging programs brings together the theoretical
     knowledge that students encounter in class, consolidates and
     integrates theoretical understanding, and is incredibly motivating.
-    See Section 3.
+    See [Section 3](#3-programming-work-is-essential-pedagogy)..
 
 This is a particularly opportune moment to emphasise programming as part
-of the taught curriculum. In 2019 Ofqual removed Non-Examined Assessment
+of the taught curriculum. In 2019 [Ofqual removed Non-Examined Assessment](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/779004/Decision_GCSE_computer_science_6464_1_ADD.pdf)
 from the grade of GCSE Computer Science. Many schools read this as a
 signal that practical work is not important. But that is completely
 backwards! The real message is that programming work is too important
@@ -52,7 +52,7 @@ freed from the onerous demands of formally-assessed work, schools are
 now able to design imaginative, creative, and ambitious programming
 projects in computing, incorporating collaboration and teamwork,
 connections to "live" data, industrial mentors, and iterative review
-that strongly supports learning. Section 4 suggests some ideas.
+that strongly supports learning. [Section 4](#4-what-good-practical-work-looks-like). suggests some ideas.
 
 Our call to action is:
 
