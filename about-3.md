@@ -25,8 +25,8 @@ Until 2009, I was head of Alton Convent Prep. In my former post as deputy head o
 
 # Academic profile
 
-[University of Roehampton Pure](https://pure.roehampton.ac.uk/portal/en/persons/miles-berry)  
-[ORCHID 0000-0003-4331-1610](https://orcid.org/0000-0003-4331-1610)  
+[University of Roehampton Pure](https://pure.roehampton.ac.uk/portal/en/persons/miles-berry) |
+[ORCHID](https://orcid.org/0000-0003-4331-1610) |
 [Google Scholar](https://scholar.google.co.uk/citations?user=I53o2TUAAAAJ&hl=en)
 
 # Social Media

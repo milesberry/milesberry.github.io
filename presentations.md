@@ -109,7 +109,7 @@ _26 September 2022_ [Deconstructing and reconstructing ed tech for an AI age](ht
 
 _2 September 2022_ [The two types of computational thinking](https://docs.google.com/presentation/d/1jwZ729xybeyQoBcSOe6bv5sFRDLzEJUNc1F7sH62fGU/edit?usp=drive_link). Keynote presentation, ERTE-6. Ponta Delgada, Azores.  
 
-_22 August 2022_	[Informatics in Primary Education: Approaches, Current Issues and _Lessons Learnt](https://docs.google.com/presentation/d/1s6-iv8u28p2iTX5Zc2Y49vntFY3jG7fO9QTa01okk6k/edit?usp=drive_link). WCCE 2022_: IFIP TC3 World Conference on Computers in Education. Hiroshima, Japan. With Kalas, I, Brinda, T, Micheuz, P, Malyn-Smith, J, Dagiene, V, Černochová, M, Tupareva, D, Leahy, M, Berry, M, Sysło, M, Mrochen, I, Brodnik, A & Reffay, C  
+_22 August 2022_ [Informatics in Primary Education: Approaches, Current Issues and Lessons Learnt](https://docs.google.com/presentation/d/1s6-iv8u28p2iTX5Zc2Y49vntFY3jG7fO9QTa01okk6k/edit?usp=drive_link). WCCE 2022: IFIP TC3 World Conference on Computers in Education. Hiroshima, Japan. With Kalas, I, Brinda, T, Micheuz, P, Malyn-Smith, J, Dagiene, V, Černochová, M, Tupareva, D, Leahy, M, Berry, M, Sysło, M, Mrochen, I, Brodnik, A & Reffay, C  
 
 _5 August 2022_	[20 things to do with a computer – lessons from Papert and Solomon](https://docs.google.com/presentation/d/1UdMIQWLNH7R_KgFuVdqpcT3N7aC1Rg3IXaejHwz9xtE/edit?usp=drive_link). Snap!con 22 (online)  
 

@@ -7,6 +7,28 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*November 2023* [Engagement in Computing](2023/11/engagement-in-computing/). Sapientia 3.
+
+*September 2023*	[A new approach to mathematics and data education: A discussion paper from the Mathematical Futures Board of The Royal Society’s Advisory Committee on Mathematics Education (ACME)](https://royalsociety.org/-/media/policy/projects/maths-futures/new-approach-to-mathematics-and-data-education.pdf). With Taylor, M., Tomei, A., Berry, M., Blake, A., Keniston-Cooper, G., McClure, L., Noyes, A., Pittard, V. & Spiegelhalter, D. The Royal Society.
+
+*April 2023* ChatGPT for Pupils. [Sapientia 2](https://www.ictforeducation.co.uk/wp-content/uploads/2023/04/Sapientia-Summer-Term-Issue.pdf).
+
+*March 2023* [Op art in p5.js](https://www.computingatschool.org.uk/news-and-blogs/2023/march/op-art-with-p5js). Blog post for Computing At School. 
+
+*March 2023* Using data in the classroom. With Peter Kemp. Chapter in S Gibbons, R Brock, M Glackin, E Rushton & E Towers (eds), [Becoming a Teacher: Issues in Secondary Education](https://www.mheducation.co.uk/becoming-a-teacher-issues-in-secondary-education-6e-9780335251667-emea-group). 6 edn, McGraw Hill/Open University, Maidenhead, pp. 169-182. 
+
+*January 2023* Ofsted’s research review – computing. [Sapientia 1](https://www.ictforeducation.co.uk/wp-content/uploads/2023/03/Read-More-Sapientia-1.pdf).
+
+*April 2022* [Practical programming in computing education](https://static.teachcomputing.org/Practical+Work+in+Computing+Apr+22.pdf), white paper for NCCE, with Paul Curzon, Quintin Cutts, Celia Hoyes, Simon Peyton Jones and Shahneila Saeed
+
+*February 2022*	Teaching through and after the COVID-19 Pandemic. With Melissa Jogie. [Professional Studies in Primary Education](https://us.sagepub.com/en-us/nam/professional-studies-in-primary-education/book273439). Elton-Chalcraft, S. & Cooper, H. (eds.). 4th ed. SAGE Publications  
+
+*May 2021* Digital Media and Primary Computing. [Teaching the arts in the primary curriculum](https://us.sagepub.com/en-us/nam/teaching-the-arts-in-the-primary-curriculum/book275008). Ogier, S. & Tutchell, S. (eds.). London: Learning Matters, p. 109-119 11 p.  
+
+*March 2022* Foreword, A helping hand: the journey to confidence, competence and a fun-filled curriculum. 2Simple.  
+
+*January 2022* [Narrowing the Gap Between Real-World Mathematics and the Didactic Approaches Used in Schools](https://www.teachingtimes.com/narrowing-the-gap-between-real-world-mathematics-and-the-didactic-approaches-used-in-schools/). Blog post for Teaching Times
+
 _December 2021_ [Education Technology and Mathematics](https://pure.roehampton.ac.uk/ws/portalfiles/portal/6664576/edtechmaths.pdf). Scoping document for the Royal Society's Mathematical Futures project.
 
 _December 2021_ [Five (out of twenty) things to do with a computer](https://blog.codeweek.eu/five-out-of-twenty-things-to-do-with-a-computer/). Blog post for EU Codeweek.
