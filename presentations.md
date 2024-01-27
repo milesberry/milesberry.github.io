@@ -7,6 +7,138 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+_25 January 2024_ 20 [Things to Do with a Computing - Lessons from Papert and Solomnon](https://docs.google.com/presentation/d/1P6ZOn82_3Mbuh955QJXfWlveVgOc8UBweMDvE7Jfono/edit?usp=drive_link). Presentation to Daejeon, Korea computing teachers, Bright Little Labs, London.
+
+_23 January 2024_ [Generative AI and computing education](https://docs.google.com/presentation/d/1vABgDuIwpT-sEV7lw5GtrZYZnaANGMQiDtxSDrGX68I/edit?usp=drive_link). Keynote presentation, UKIE Digital Schoolhouse Ingenuity Day, Barclays, Canary Wharf.
+
+_16 January 2024_ [What does AI mean for me - What's in it for teachers?](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit?usp=sharing) Keynote presentation, ICT for Education Seminar, University of Roehampton.
+
+_15 January 2024_ [Traning new teachers for AI in education](https://docs.google.com/presentation/d/1aPgKVse-J3B4E3ksyVaIIVVXHirXUD4oR0L7xuA8lMU/edit?usp=drive_link). Presentation for University of Roehampton Teaching and Learning Summit.
+
+_9 January 2024_ AI and the Prep' School. Staff INSET, Beaudesert Park School, Gloucestershire.
+
+_5 Jaunuary 2024_ AI in Secondary Education. Keynote for staff INSET, Reed's School, Cobham.
+
+_14 December 2023_ [Generative AI in Computing](https://docs.google.com/presentation/d/1tQzvIsAiEquvF6G_pvz9y_F5LLqkvdU4_5e40UydmKE/edit?usp=drive_link). The Big Computing Leadership Conference, Oxford Brookes University.
+
+_8 December 2023_	Keynote on [teaching computing effectively](https://docs.google.com/presentation/d/16ryHWbpynISShtmHYr6Bx3HcpwIIVtBadglKwfkCo6Y/edit?usp=drive_link) and workshops on [computing and mathematics](https://docs.google.com/presentation/d/178PEjwxFKmjhl7oSI-N8UX791IG13HbjcClFI6l-o8Q/edit?usp=drive_link) and [computing across the curriculum](https://docs.google.com/presentation/d/12rAE8C-Kx17QQicjx2zEthXgqFVJaqYXSMqE6QW78yI/edit?usp=drive_link) for MEET 2023, Derby.  
+
+_5 December 2023_	[The computing curriculum in England: rationale, history, implementation, achievement, challenges](https://docs.google.com/presentation/d/14qx1f78djdRLkRen2CIJrZ3Zd0Rzqu_Zi2nPa9ru3Wk/edit?usp=drive_link). Colombian government delegation, British Council / British Computer Society, London.  
+
+_28 November 2023_	[Engagement in computing](https://docs.google.com/presentation/d/1nNk30OA8HuJk36fb7xlp3R8D6UQA0iWqyHg2NNTC1aA/edit?usp=drive_link). ICT for Education seminar, University of Roehampton  
+
+_20 November 2023_	[The CCF/ECF and computing](https://docs.google.com/presentation/d/189d9suxE7p5x34LJ30Eb_KCD2QDuRnYbwoQ7PGGQXtE/edit?usp=drive_link). CAS ITT/ECT community webinar.  
+
+_15 November 2023_	[The implications of AI for teacher education programmes](https://docs.google.com/presentation/d/1RQNcIgMKx53Ynyp8CRC0MNo6c80hp7a7TjdP7Br_Yb8/edit?usp=drive_link). With Kevin Mattinson. UCET Annual Conference, Leeds.  
+
+_November 2023_	Engagement in computing. ICT for Education seminar, Reading University  
+
+_November 2023_	AI in ITT. Webinar for Computing Teacher Education Network  
+
+_6 November 2023_	[AI for accessibility and inclusion](https://docs.google.com/presentation/d/1ynPpKLWf7gygguazO39QjX4noXboUeAkAVHJwVqTIUo/edit?usp=drive_link). Keynote, ISA annual study conference, Kenilworth.  
+
+_6 November 2023_	[Developing a curriculum for AI](https://docs.google.com/presentation/d/1KGNi3BfU6JzzhVP_6FSyiY-DA9yizHs6v7Y2c92gLcc/edit?usp=drive_link). Workshop, ISA annual study conference, Kenilworth.  
+
+_6 November 2023_	[AI and Secondary Education](https://docs.google.com/presentation/d/1-Gc4P4wmXvLTgoUnK6lVADIgMzP6ZvaO0a0i1QrOiDo/edit?usp=drive_link). Keynote for Keynote Educational, Hammersmith, London.  
+
+_30 October 2023_ [The truth about AI](https://docs.google.com/presentation/d/1Y0Y2tOREq3pdPboijUHeSLBmNs-mJRm5_eyOmFXQEko/edit?usp=drive_link). Keynote presentation, Festival of Learning, Ipswich.  
+
+_24 October 2023_ [AI and academic integrity](https://docs.google.com/presentation/d/12PytUYHV_qvo2_5I_FKwz-6fSYV_rKZsKmvbyc1dfHM/edit?usp=drive_link), keynote presentation, 3rd Conference on Academic Integrity, Telavi, Georgia  
+
+_19 October 2023_ [Education technology and the core content framework](https://docs.google.com/presentation/d/1_ZIEA237Z9_v-PKxeq7SLrdRJFqh5j4SPuL7gjQhdJY/edit?usp=drive_link). Keynote for National Education Network Annual Conference. Milton Keynes.  
+
+_October 2023_ AI's role in teaching and learning (higher education). Panel discussion with Gerdinand Bosch, Michael Heister, Noha Abdelmonem, Marcus Sprecht. Edutech Europe, Amsterdam.  
+
+_7 October 2023_ [Cryptography and functional programming in Python.](https://colab.research.google.com/drive/1GUzdZixmoxxUbB4nIgSuXRRaWPtNdTnu) Association of Teachers of Mathematics virtual conference.  
+
+_22 September 2023_ [What should we teach children about AI](https://docs.google.com/presentation/d/1Ku248dR-qw4phK7B8LEfnqN158Qb9-ObwGJEpDFICJs/edit?usp=drive_link)? Keynote presentation for ICT for Education, Newcastle.  
+
+_19 September 2023_ [AI in ITT](https://docs.google.com/presentation/d/1okVkJiOlpr1O-C724PVpuu3_6htJMHOc8cnAFBmVYNA/edit?usp=drive_link). Presentation for UCET AI Working Group.  
+
+_12 September 2023_ [AI in Computing Education](https://docs.google.com/presentation/d/1PcZwIDJWJxx6JrRBULnY8kYhh925cegV7NzGzX2rHoY/edit?usp=drive_link). Presentation for ICT for Education seminar, University of Coventry.  
+
+_August 2023_	Ed Tech and the Core Content Framework. Keynote presentation for BCS teaching scholarship holders, BCS, London.  
+
+_6 July 2023_	[AI and inclusion](https://docs.google.com/presentation/d/1X298aULa8W3_5Y4EqV6uT6wIijA4dSLtqXoHLLJ4ruo/edit?usp=drive_link). Festival of Education, Wellington College.  
+
+_20 June 2023_	[AI for accessibility and inclusion](https://docs.google.com/presentation/d/1m2c6KZnB6dSH3GjjKj0ohkEanbILOSufq_dPZI-6cvs/edit?usp=drive_link). ISC/ISA Digital conference, Wembley  
+
+_20 June 2023_	[Machine learning for kids](https://docs.google.com/presentation/d/1atw70i1eDBP37gAVUvDq5k4C8UXuyqwZ1ExkPT02c_I/edit?usp=drive_link). ISC/ISA Digital conference, Wembley  
+
+_13 June 2023_	[AI in computing education](https://docs.google.com/presentation/d/1qaSPHT9JJssi3nyPS4q0soosW_kf77csR-MNWQsAGDY/edit?usp=drive_link). Keynote for CAS Transforming Tech Education Together event, BCS, London.  
+
+_8 June 2023_	[AI in HE](https://docs.google.com/presentation/d/11NeBLtGOpU5h9J3gs2sfwa6Ylk5X-IozDla1Bpy3ucs/edit?usp=drive_link). Keynote presentation for University of Roehampton Generative AI Day.  
+
+_2 June 2023_	[What will you do? Programming education in Japan: considering Issues and possibilities from the British subject Computing](https://docs.google.com/presentation/d/1nEv30UB97WFkvaapJ14_yDCqxSLA2oep5_xAy_-ooQA/edit?usp=drive_link). Invited presentation for NEE 2023, Tokyo, with Junichi Yamanishi  
+
+_May 2023_ What should we teach children about AI? Keynote presentation for ICT for Education, Norwich  
+
+_28 April 2023_ [AI for accessibility and inclusion](https://docs.google.com/presentation/d/19kAcO63FCBxtYF5PqNwh_nol8z--jufQieQ--kCKjLg/edit?usp=drive_link). Keynote presentation for CARNET Users Conference, Rovinj, Croatia.  
+
+_25 April 2023_ [Ofsted’s research review on computing](https://docs.google.com/presentation/d/1wk8jiJW3_qiD_NXu8Uz3GBMsQDbyLAtC2e_x2nHP9Eo/edit?usp=drive_link). Keynote presentation, ICT for Education, University of Reading  
+
+_18 April 2023_ [Ofsted’s research review on computing](https://docs.google.com/presentation/d/1JAWh9UHqlHSFkFsRLIXkfPWK84SYcejrqCtB237vtjs/edit?usp=drive_link). Webinar, Computing Teacher Education Network  
+
+_March 2023_ Ed tech, computer science and the ITT core content framework. Webinar, TPEA  
+
+_March 2023_ Learning about AI. Talk for GCSE and A Level students, Leighton Park, Reading  
+
+_March 2023_ Computational thinking in today’s basic education curriculum. Webinar for doctoral students from University of Lisbon, University of Aveiro and University of Minho, Portugal.  
+
+_8 March 2023_ [Op art in Processing](https://docs.google.com/presentation/d/1A0Kg6CjRrReFVTaVOOWlzYx_ACsZLfMVKjN7ANDG02g/edit?usp=drive_link). Webinar for International School of Lausanne, Switzerland.  
+
+_28 February 2023_	[AI for accessibility and inclusion](https://docs.google.com/presentation/d/1XCfouopF0rxlRXL5I7R8NzLaC7hM6u29faPf7vhRS9w/edit?usp=drive_link). Keynote presentation, ICT for Education, University of Sussex, Brighton.  
+
+_25 February 2023_ [Op Art in Processing](https://docs.google.com/presentation/d/1uvvd2TEiPINSFNSEAgWC-pdEg7WhhG9jPlaG9bJqNfs/edit?usp=drive_link). I love Computing Conference, London.  
+
+_February 2023_	Careers in data science. Talk at Year 9 STEM Careers event, St Edmund’s School, Hindhead.  
+
+_7 February 2023_	[Pirates and Cheats](https://docs.google.com/presentation/d/1q0sX7EHTAqy1vnCI2bWqxJhyKDscz7hZLUtDSo6XYOg/edit?usp=drive_link). Safer Internet Day assembly, Islington  
+
+_January 2023_ Ofsted’s research review on computing. Keynote presentation, ICT for Education, University of Roehampton  
+
+_November 2022_	What should we teach children about AI? Keynote presentation, ICT for Education, University of Reading  
+
+_13 October 2022_ [Computational thinking and coins](https://docs.google.com/presentation/d/12rNmF80EqBfecCD4QniJxuFZSLUVplx3M_wvY_fm-bE/edit?usp=drive_link). Keynote presentation, ICT for Education, Manchester  
+
+_October 2022_ Imbedding digital approaches for curriculum innovation. Panel discussion, EduTech Europe, Amsterdam. With Alexander Rosado-Serrano, Martin Ebner, Marc Oswald, Marta Turcsanyi-Szabo  
+
+_1 October 2022_ [Python for mathematical problem solving: exploring Project Euler](https://colab.research.google.com/drive/1jCyq2YNORj9TT2Vy-gI4uL2YnjBi49zj?usp=sharing). ATM Online Conference.  
+
+_26 September 2022_ [Deconstructing and reconstructing ed tech for an AI age](https://docs.google.com/presentation/d/1SVViDbZu9ul7zUybLpBPyRzKBmE96-efpPy1eZKu79g/edit?usp=drive_link). Deputy heads conference, the Haberdashers’ Company  
+
+_2 September 2022_ [The two types of computational thinking](https://docs.google.com/presentation/d/1jwZ729xybeyQoBcSOe6bv5sFRDLzEJUNc1F7sH62fGU/edit?usp=drive_link). Keynote presentation, ERTE-6. Ponta Delgada, Azores.  
+
+_22 August 2022_	[Informatics in Primary Education: Approaches, Current Issues and _Lessons Learnt](https://docs.google.com/presentation/d/1s6-iv8u28p2iTX5Zc2Y49vntFY3jG7fO9QTa01okk6k/edit?usp=drive_link). WCCE 2022_: IFIP TC3 World Conference on Computers in Education. Hiroshima, Japan. With Kalas, I, Brinda, T, Micheuz, P, Malyn-Smith, J, Dagiene, V, Černochová, M, Tupareva, D, Leahy, M, Berry, M, Sysło, M, Mrochen, I, Brodnik, A & Reffay, C  
+
+_5 August 2022_	[20 things to do with a computer – lessons from Papert and Solomon](https://docs.google.com/presentation/d/1UdMIQWLNH7R_KgFuVdqpcT3N7aC1Rg3IXaejHwz9xtE/edit?usp=drive_link). Snap!con 22 (online)  
+
+_20 July 2022_	[Creating the next generation of coders](2022/7/creating-coders/). Talk for the All Party Parliamentary Group on Education Technology, Portcullis House, London.  
+
+_19 July 2022_	[Practical cryptography](https://colab.research.google.com/drive/1rl4MretvZDVJi1ZbfhAOl944oHotX9pw?usp=sharing). Presentation at Cyber Education 2022_, University of Roehampton.  
+
+_17 July 2022_	[Twenty Things to do with a Computer - Lessons from Papert](https://docs.google.com/presentation/d/1zZDGsoUsfXARPu2bxuc5Vh8OOxXbZweehjiRM2aKmXI/edit?usp=drive_link). CSTA Conference, Chicago.  
+
+_July 2022_	What should we teach children about AI. Keynote presentation, ICT for Education, University of Roehampton  
+
+_23 June 2022_	[Emergency remote learning and academic integrity](https://docs.google.com/presentation/d/1REI9n6o2cA7BslhEusxzvKTKTwj9Y4hsdUdH77uJGKQ/edit?usp=drive_link). Keynote presentation, INTEGRITY conference, Batumi, Georgia  
+
+_June 2022_	What should we teach children about AI. Keynote presentation, ICT for Education, Brighton  
+
+_13 May 2022_ [Twenty Things to do with a Computer](https://docs.google.com/presentation/d/1E443VNqWqrCIIhE9KzNIMVWAvjTMOwu2drDAMpNpE1w/edit?usp=drive_link). Keynote presentation, ICT for Education, Norwich.  
+
+_April 2022_ 20 Things to do with a Computer: Lessons from Papert. Workshop at ATM Annual Conference, Northampton  
+
+_9 April 2022_ [20 Things to do with a Computer: Lessons from Papert](https://docs.google.com/presentation/d/1ZQNkLvjwsit7L4IafpUC5Rkr7uzA37D1S_4-h-ZNdPo/edit?usp=drive_link). Presentation  for Digital Education 2022, Belgrade, Serbia (online)  
+
+_2 April 2022_ [¿Un currículo de computación coherente? La experiencia inglesa](https://docs.google.com/presentation/d/1dmSqqHr6cnXSZY6bh0IT_fFxw7PffgXD1wEyyXUFnm8/edit?usp=drive_link). Keynote presentation, University of Zaragoza, Spain.  
+
+_22 March 2022_ [Twenty Things to do with a Computer](https://docs.google.com/presentation/d/1j_Vq_rfbB_xJL8egcthrD6m8mOpQnZR6Wgbl3FIGuw4/edit?usp=drive_link). Presentation, World Education Summit, London (online)  
+
+_March 2022_ K-12 Computing Education and Education Research Resources. With Monica McGill, Jake Baskin, Quinn Burke, Leigh Ann Delyser, Shuchi Grover, Colleen Lewis, Briana Morrison, Davina Pruitt-Mentle. Special Session, SIGCSE _2022_, Providence, RI, USA.  
+
+_February 2022_ Safer Internet Day assemblies, Islington primary schools  
+
 _14 December 2021_ [Coding across the curriculum](https://docs.google.com/presentation/d/154-VFq2Moa_lKiqMrZsIWnJ2TMrfIX2qrm8x06yJs70/edit?usp=sharing). Workshop for UCL IOE primary computing education students.
 
 _4 December 2021_ [Working with bits on the micro:bit](https://www.youtube.com/watch?v=V_9CBI3X3NM). Online workshop, micro:bit Live.
