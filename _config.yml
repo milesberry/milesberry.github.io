@@ -7,7 +7,7 @@ canonical:        https://milesberry.net
 owner:
   name:           Miles Berry
   avatar:         avatar.png
-  bio:            "Principal lecturer in computing education, University of Roehampton"
+  bio:            "Professor of Computing Education, University of Roehampton"
   email:          m.berry@roehampton.ac.uk
   twitter:        mberry
   github:         milesberry
@@ -22,7 +22,11 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_GB
+  title_image:      "https://milesberry.net/images/milesberrynet.png"
+  url:              https://milesberry.net 
+  description:      "Professor of Computing Education, University of Roehampton"
+
 
 # Links to include in top navigation
 # For external links add external: true

@@ -22,9 +22,7 @@ guid: http://milesberry.net/?page_id=716
 *April 2022* [Practical programming in computing education](https://static.teachcomputing.org/Practical+Work+in+Computing+Apr+22.pdf), white paper for NCCE, with Paul Curzon, Quintin Cutts, Celia Hoyes, Simon Peyton Jones and Shahneila Saeed
 
 *February 2022*	Teaching through and after the COVID-19 Pandemic. With Melissa Jogie. [Professional Studies in Primary Education](https://us.sagepub.com/en-us/nam/professional-studies-in-primary-education/book273439). Elton-Chalcraft, S. & Cooper, H. (eds.). 4th ed. SAGE Publications  
-
-*May 2021* Digital Media and Primary Computing. [Teaching the arts in the primary curriculum](https://us.sagepub.com/en-us/nam/teaching-the-arts-in-the-primary-curriculum/book275008). Ogier, S. & Tutchell, S. (eds.). London: Learning Matters, p. 109-119 11 p.  
-
+ 
 *March 2022* Foreword, A helping hand: the journey to confidence, competence and a fun-filled curriculum. 2Simple.  
 
 *January 2022* [Narrowing the Gap Between Real-World Mathematics and the Didactic Approaches Used in Schools](https://www.teachingtimes.com/narrowing-the-gap-between-real-world-mathematics-and-the-didactic-approaches-used-in-schools/). Blog post for Teaching Times
@@ -37,11 +35,11 @@ _November 2021_ Make a turtle! in Stager, G. (ed) Twenty Things to Do with a Com
 
 _October 2021_ [Five (out of twenty) things to do with a computer](https://pure.roehampton.ac.uk/portal/files/6340659/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Oct_2021.pdf). Roehampton Primary Partnership Newsletter.
 
-_May 2021_ [An Introduction to Scratch](https://pure.roehampton.ac.uk/portal/files/5476037/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_May_2021.pdf), article for article for Primary Schools Partnership May Newsletter, University of Roehampton School of Education.
+_May 2021_ [An Introduction to Scratch](https://pure.roehampton.ac.uk/portal/files/5476037/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_May_2021.pdf), article for Primary Schools Partnership May Newsletter, University of Roehampton School of Education.
 
-_May 2021_ Digital Media and Primary Computing Berry, M., 25 May 2021, [Teaching the arts in the primary curriculum](https://www.amazon.co.uk/Teaching-Arts-Primary-Curriculum-Exploring/dp/1529742471). Ogier, S. & Tutchell, S. (eds.). London: Learning Matters, p. 109-119 11 p.
+*May 2021* Digital Media and Primary Computing. [Teaching the arts in the primary curriculum](https://us.sagepub.com/en-us/nam/teaching-the-arts-in-the-primary-curriculum/book275008). Ogier, S. & Tutchell, S. (eds.). London: Learning Matters, p. 109-119 11 p. 
 
-_April 2021_ [Programming](https://pure.roehampton.ac.uk/portal/files/5277333/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Apr_2021_2.pdf), article for article for Primary Schools Partnership April Newsletter, University of Roehampton School of Education.
+_April 2021_ [Programming](https://pure.roehampton.ac.uk/portal/files/5277333/Pages_from_UOR_Primary_Schools_Partnership_Newsletter_Apr_2021_2.pdf), article  for Primary Schools Partnership April Newsletter, University of Roehampton School of Education.
 
 _March 2021_ [Computational Thinking](/2021/03/computational-thinking/), article for Primary Schools Partnership March Newsletter, University of Roehampton School of Education.
 
