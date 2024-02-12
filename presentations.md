@@ -7,7 +7,9 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-_25 January 2024_ 20 [Things to Do with a Computing - Lessons from Papert and Solomnon](https://docs.google.com/presentation/d/1P6ZOn82_3Mbuh955QJXfWlveVgOc8UBweMDvE7Jfono/edit?usp=drive_link). Presentation to Daejeon, Korea computing teachers, Bright Little Labs, London.
+*12 February 2024* [How generative AI can assist teachers](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit?usp=sharing). Webinar for CAS AI group.
+
+_25 January 2024_ [20 Things to Do with a Computing - Lessons from Papert and Solomnon](https://docs.google.com/presentation/d/1P6ZOn82_3Mbuh955QJXfWlveVgOc8UBweMDvE7Jfono/edit?usp=drive_link). Presentation to Daejeon, Korea computing teachers, Bright Little Labs, London.
 
 _23 January 2024_ [Generative AI and computing education](https://docs.google.com/presentation/d/1vABgDuIwpT-sEV7lw5GtrZYZnaANGMQiDtxSDrGX68I/edit?usp=drive_link). Keynote presentation, UKIE Digital Schoolhouse Ingenuity Day, Barclays, Canary Wharf.
 
