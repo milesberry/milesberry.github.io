@@ -7,7 +7,11 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*12 February 2024* [How generative AI can assist teachers](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit?usp=sharing). Webinar for CAS AI group.
+*24 February 2024* [Generative AI and the Transformation of Learning](https://docs.google.com/presentation/d/1gtDYFy78KCsVGY9C_ooHtPJ-WP9fqEPG39892Cd8E34/edit#slide=id.g75a2557942_0_492). Keynote presentation, 8th Education Today Conference, Turgut Ozal Colleges, Tirana, Albania.
+
+*20 February 2024* [Teach yourself...](https://docs.google.com/presentation/d/1uqZkeznPrf3LaDPTTTYfKeTPqmsuSuglYte68kFyR_w/edit?usp=sharing). Safer Internet Day assembly for King's Cross Academy.  
+
+*12 February 2024* [How generative AI can assist teachers](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit?usp=sharing). Webinar for CAS AI group.  
 
 _25 January 2024_ [20 Things to Do with a Computing - Lessons from Papert and Solomnon](https://docs.google.com/presentation/d/1P6ZOn82_3Mbuh955QJXfWlveVgOc8UBweMDvE7Jfono/edit?usp=drive_link). Presentation to Daejeon, Korea computing teachers, Bright Little Labs, London.
 
