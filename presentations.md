@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*29 February 2024* [AI for accessibility and inclusion](https://docs.google.com/presentation/d/1vrd2y5oa2cNyk9JdMs1odnxP-zFLXDC7szFGZKxhgDo/edit#slide=id.g75a2557942_0_492). Presentations for British Dyslexia Association Virtual Conference: Creating a Positive Learning Environment.
+
+*29 February 2024* [AI and Assessment](https://docs.google.com/presentation/d/1pcEDwxnYd1yogxeWEukl_eoZZNCZzkgA1gdENITJqAM/edit#slide=id.g75a2557942_0_492). Talk and panel contribution for Westminster Education Forum policy conference: Next steps for AI in education.
+
 *24 February 2024* [Generative AI and the Transformation of Learning](https://docs.google.com/presentation/d/1gtDYFy78KCsVGY9C_ooHtPJ-WP9fqEPG39892Cd8E34/edit#slide=id.g75a2557942_0_492). Keynote presentation, 8th Education Today Conference, Turgut Ozal Colleges, Tirana, Albania.
 
 *20 February 2024* [Teach yourself...](https://docs.google.com/presentation/d/1uqZkeznPrf3LaDPTTTYfKeTPqmsuSuglYte68kFyR_w/edit?usp=sharing). Safer Internet Day assembly for King's Cross Academy.  
