@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*March 2024* [Adaptive Teaching](2024/03/adaptive-teaching/). Sapientia 4.
+
 *November 2023* [Engagement in Computing](2023/11/engagement-in-computing/). Sapientia 3.
 
 *September 2023*	[A new approach to mathematics and data education: A discussion paper from the Mathematical Futures Board of The Royal Society's Advisory Committee on Mathematics Education (ACME)](https://royalsociety.org/-/media/policy/projects/maths-futures/new-approach-to-mathematics-and-data-education.pdf). With Taylor, M., Tomei, A., Berry, M., Blake, A., Keniston-Cooper, G., McClure, L., Noyes, A., Pittard, V. & Spiegelhalter, D. The Royal Society.
