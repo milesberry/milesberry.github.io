@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*11 March 2024* [AI and secondary education](http://bit.ly.senecaai). Webinar for Seneca Learning customers and partners.
+
 *4 March 2024* [Generative AI](http://bit.ly/stgeorgesgenai). Talk for Y10 to Y13 and twilight INSET, St George's Weybridge.  
 
 *29 February 2024* [AI for accessibility and inclusion](https://docs.google.com/presentation/d/1vrd2y5oa2cNyk9JdMs1odnxP-zFLXDC7szFGZKxhgDo/edit#slide=id.g75a2557942_0_492). Presentations for British Dyslexia Association Virtual Conference: Creating a Positive Learning Environment.
