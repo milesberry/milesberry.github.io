@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*11 March 2024* [AI and secondary education](http://bit.ly.senecaai). Webinar for Seneca Learning customers and partners.
+*11 March 2024* [AI and secondary education](https://www.youtube.com/watch?v=cUGiLT0NwzM). Webinar for Seneca Learning customers and partners.
 
 *4 March 2024* [Generative AI](http://bit.ly/stgeorgesgenai). Talk for Y10 to Y13 and twilight INSET, St George's Weybridge.  
 
