@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*19 March 2023* [Engagement in Computing](https://docs.google.com/presentation/d/1nNk30OA8HuJk36fb7xlp3R8D6UQA0iWqyHg2NNTC1aA/edit?usp=sharing). Presentation for ICT for Education seminar, Univeristy of Manchester.
+
+*19 March 2024* [AI and Initial Teacher Education](https://docs.google.com/presentation/d/1pTAaIYe6SYrMU33cdQXxOQEclyutd8ShO8HJNArfzCg/edit#slide=id.g21343bb8bba_0_0). Presentation for MAT leaders' Learning Lunch. Online.
+
+*19 March 2024* [What's in AI for me?](https://docs.google.com/presentation/d/1sdo_A3oat7vzqdUdtgclktjnzJfUeoVwGhtoqenU1Qs/edit#slide=id.p) Keynote presentation for ISC Digital Strategy Conference, Bletchley Park.
+
 *11 March 2024* [AI and secondary education](https://www.youtube.com/watch?v=cUGiLT0NwzM). Webinar for Seneca Learning customers and partners.
 
 *4 March 2024* [Generative AI](http://bit.ly/stgeorgesgenai). Talk for Y10 to Y13 and twilight INSET, St George's Weybridge.  
