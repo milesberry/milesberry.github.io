@@ -7,7 +7,11 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*19 March 2023* [Engagement in Computing](https://docs.google.com/presentation/d/1nNk30OA8HuJk36fb7xlp3R8D6UQA0iWqyHg2NNTC1aA/edit?usp=sharing). Presentation for ICT for Education seminar, Univeristy of Manchester.
+*21 March 2024* [Generative AI and computing education](https://docs.google.com/presentation/d/1nNeBfQhFdKpfRoAesGbD_Rmi0SDFsxk0eDvIy23ehMs/edit#slide=id.p). Keynote presentation for STEM Learning Prodfessional Development Leaders' annual conference.
+
+*21 March 2024* [AI for accessibility and inclusion](https://www.youtube.com/watch?v=X9UceS4VKtI). Presentation for World Education Summit.
+
+*19 March 2024* [Engagement in Computing](https://docs.google.com/presentation/d/1nNk30OA8HuJk36fb7xlp3R8D6UQA0iWqyHg2NNTC1aA/edit?usp=sharing). Presentation for ICT for Education seminar, Univeristy of Manchester.
 
 *19 March 2024* [AI and Initial Teacher Education](https://docs.google.com/presentation/d/1pTAaIYe6SYrMU33cdQXxOQEclyutd8ShO8HJNArfzCg/edit#slide=id.g21343bb8bba_0_0). Presentation for MAT leaders' Learning Lunch. Online.
 
