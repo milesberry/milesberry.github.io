@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*23 March 2024* [Generative AI and educational research](https://docs.google.com/presentation/d/17T45l1Jss_Wsu3glLoMI6O3CJEyGjo0O1hLkTHlqubE/edit?usp=sharing) Keynote presentation at Roehampton doctoral students' conference.
+
 *21 March 2024* [Generative AI and computing education](https://docs.google.com/presentation/d/1nNeBfQhFdKpfRoAesGbD_Rmi0SDFsxk0eDvIy23ehMs/edit#slide=id.p). Keynote presentation for STEM Learning Prodfessional Development Leaders' annual conference.
 
 *21 March 2024* [AI for accessibility and inclusion](https://www.youtube.com/watch?v=X9UceS4VKtI). Presentation for World Education Summit.
