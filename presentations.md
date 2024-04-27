@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*23 April 2024* [What does AI mean for me?](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit#slide=id.g75a2557942_0_492) Keynote presentation, ICT for Education seminar, Queen Mary University of London.
+
 *4 April 2024* [Generative AI and the mathematics teacher, and the mathematics learner](https://youtu.be/kWVSmByeZwY). Workshop for Shape Up, joint conference of the mathematics subject associations, Stratford upon Avon.
 
 *23 March 2024* [Generative AI and educational research](https://docs.google.com/presentation/d/17T45l1Jss_Wsu3glLoMI6O3CJEyGjo0O1hLkTHlqubE/edit?usp=sharing) Keynote presentation at Roehampton doctoral students' conference.
