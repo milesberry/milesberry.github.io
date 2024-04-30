@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*30 April 2024* [Computing in the primary national curriculum](https://docs.google.com/presentation/d/12CxNKl87TJXEWEo4uFW4BM7-HVgI7Tul21L0aroebjM/edit?usp=sharing) INSET for Wimbledon High School junior department 
+
 *23 April 2024* [What does AI mean for me?](https://docs.google.com/presentation/d/1DT7WDLLxLWuvZJrzfw5P-L_986dkHqwRTC2761Z4qhQ/edit#slide=id.g75a2557942_0_492) Keynote presentation, ICT for Education seminar, Queen Mary University of London.
 
 *4 April 2024* [Generative AI and the mathematics teacher, and the mathematics learner](https://youtu.be/kWVSmByeZwY). Workshop for Shape Up, joint conference of the mathematics subject associations, Stratford upon Avon.
