@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*2 May 2024* [How important is the human touch in the age of AI learning?](https://milesberry.net/2024/05/ai-he/) Remarks at a roundtable dinner on AI in higher education, British Academy, London.
+
 *1 May 2024* Out With the Old (Assessment) in With the New (Assessment): Rethinking How We Assess Students. Panel discussion for Schools and Academies Show, ExCeL.
 
 *30 April 2024* [Computing in the primary national curriculum](https://docs.google.com/presentation/d/12CxNKl87TJXEWEo4uFW4BM7-HVgI7Tul21L0aroebjM/edit?usp=sharing) INSET for Wimbledon High School junior department 
