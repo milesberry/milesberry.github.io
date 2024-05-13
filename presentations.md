@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*13 May 2024* [Generative AI and Computing](https://docs.google.com/presentation/d/1hkmybD8GIT0eStIlb3XDYEdIqmJpFy3y2CpDw7MN6Rw/edit?usp=sharing) Webinar for NCCE ITT/ECT group
+
+*10 May 2024* [Engagement in computing](http://bit.ly/compengage) Keynote presentation, ICT for Education, Norwich
+
 *2 May 2024* [How important is the human touch in the age of AI learning?](https://milesberry.net/2024/05/ai-he/) Remarks at a roundtable dinner on AI in higher education, British Academy, London.
 
 *1 May 2024* Out With the Old (Assessment) in With the New (Assessment): Rethinking How We Assess Students. Panel discussion for Schools and Academies Show, ExCeL.
