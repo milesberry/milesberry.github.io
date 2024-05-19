@@ -7,9 +7,9 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*15 May 2024* [Training new teachers for AI in education](https://docs.google.com/presentation/d/1QQls6dqwJT7lkfQEWv7heay0SNwZ0sBHcNA3JfCC1J0/edit#slide=id.g75a2557942_0_492) Seminar for King's College London CRESTEM group
+*15 May 2024* [Training new teachers for AI in education](https://www.youtube.com/watch?v=pLgSBvgqbqA) Seminar for King's College London CRESTEM group
 
-*13 May 2024* [Generative AI and Computing](https://docs.google.com/presentation/d/1hkmybD8GIT0eStIlb3XDYEdIqmJpFy3y2CpDw7MN6Rw/edit?usp=sharing) Webinar for NCCE ITT/ECT group
+*13 May 2024* [Generative AI and Computing](https://youtu.be/s5JP13GH0Rc) Webinar for NCCE ITT/ECT group
 
 *10 May 2024* [Engagement in computing](http://bit.ly/compengage) Keynote presentation, ICT for Education, Norwich
 
