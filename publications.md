@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*June 2024* [Diversity in Computing](2024/06/diversity-computing/). Sapientia 5.
+
 *March 2024* [AI: considerations for teacher training](2024/03/ai-itt/). ISC Bulletin 46.
 
 *March 2024* [Adaptive Teaching](2024/03/adaptive-teaching/). Sapientia 4.

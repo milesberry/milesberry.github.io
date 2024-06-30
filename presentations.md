@@ -7,6 +7,18 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*28 June 2024* [Teaching primary computing](https://docs.google.com/presentation/d/1ZVjOkRgW0oFWbmZmpHzXtbrf6oTZ6NtM_kjOdzb7TpI/edit#slide=id.g142555fe91f_0_28). Presentation at MEET 2024, Derby.
+
+*27 June 2024* SCARI Computing Impact Panel, with Dr Jessica Hamer (chair, KCL), Sarah Foxall (BCS) and Tina Götschi (Ada), King's College London.
+
+*25 June 2024* [Generative AI and computing](https://docs.google.com/presentation/d/14P0C6-2BvjQehrDwqVsaHFTAnT8WsNn5-4r0b-iPWrQ/edit?usp=sharing). Presentation at Digital Schoolhouse Playful Computing conference, University of Westminster.
+
+*21 June 2023* [Generative AI - working with data](https://docs.google.com/presentation/d/1CFqi_l08_qKgM3ToBBWKWT10MEAF3i8_yQtio5oz83s/edit?usp=sharing). Presentation at EdTech World Forum, London.
+
+*14 June 2024* [Engagement in Computing](https://docs.google.com/presentation/d/1nNk30OA8HuJk36fb7xlp3R8D6UQA0iWqyHg2NNTC1aA/edit?usp=sharing). Keynote presentation and chair, ICT for Education, Brighton.
+
+*12 June 2024* [What's in AI for me?](https://docs.google.com/presentation/d/1Jl5dCtjDxZIS_NqpDZJki_VZ5Z1SARFS7n9pxcr0BY4/edit#slide=id.g2e5007a17fb_0_0) Keynote presentation for Roehampton PGCE Research into Practice conference. 
+
 *15 May 2024* [Training new teachers for AI in education](https://www.youtube.com/watch?v=pLgSBvgqbqA) Seminar for King's College London CRESTEM group
 
 *13 May 2024* [Generative AI and Computing](https://youtu.be/s5JP13GH0Rc) Webinar for NCCE ITT/ECT group
