@@ -7,6 +7,14 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*5 July 2024* [Mining the performance tables](https://docs.google.com/presentation/d/16hin0sgUzM-9jyvQhiIxTok6AdoK-zRD79VGPxWP7Mg/edit#slide=id.g3e3f966fa_00), Festival of Education, Wellington College.
+
+*4 July 2024* [Generative AI and Secondary Education](https://docs.google.com/presentation/d/1SJiL3fiFWPVZQwhJG0YUna-P9oTyJ2Cy8eIgfzPw8RM/edit#slide=id.g75a2557942_0_492), Keynote presentation for East Anglian Senior Leaders' Conference, Dunston Hall, Norwich. 
+
+*3 July 2024* [Generative AI and Compouting](https://docs.google.com/presentation/d/1CK_X237v6Xo6SC0oTuwN3cuftGeq7vmAk2PYGCVTTS8/edit?usp=sharing), Keynote presentation for Craig 'n' Dave and Friends, Bromsgrove School.
+
+*2 July 2024* [Generative AI - Next Steps for Young People](https://docs.google.com/presentation/d/1PagoLLVpihSPzQLtkeZrDBesLUkzJERrS5HW0bt9gBo/edit#slide=id.g2e5007a17fb_0_0), workshop, Suffolk Careers Advisers Conference, University of Suffolk.  
+
 *28 June 2024* [Teaching primary computing](https://docs.google.com/presentation/d/1ZVjOkRgW0oFWbmZmpHzXtbrf6oTZ6NtM_kjOdzb7TpI/edit#slide=id.g142555fe91f_0_28). Presentation at MEET 2024, Derby.
 
 *27 June 2024* SCARI Computing Impact Panel, with Dr Jessica Hamer (chair, KCL), Sarah Foxall (BCS) and Tina Götschi (Ada), King's College London.
