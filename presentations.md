@@ -21,7 +21,7 @@ guid: http://milesberry.net/?page_id=718
 
 *4 July 2024* [Generative AI and Secondary Education](https://docs.google.com/presentation/d/1SJiL3fiFWPVZQwhJG0YUna-P9oTyJ2Cy8eIgfzPw8RM/edit#slide=id.g75a2557942_0_492), Keynote presentation for East Anglian Senior Leaders' Conference, Dunston Hall, Norwich. 
 
-*3 July 2024* [Generative AI and Compouting](https://docs.google.com/presentation/d/1CK_X237v6Xo6SC0oTuwN3cuftGeq7vmAk2PYGCVTTS8/edit?usp=sharing), Keynote presentation for Craig 'n' Dave and Friends, Bromsgrove School.
+*3 July 2024* [Generative AI and Computing](https://docs.google.com/presentation/d/1CK_X237v6Xo6SC0oTuwN3cuftGeq7vmAk2PYGCVTTS8/edit?usp=sharing), Keynote presentation for Craig 'n' Dave and Friends, Bromsgrove School.
 
 *2 July 2024* [Generative AI - Next Steps for Young People](https://docs.google.com/presentation/d/1PagoLLVpihSPzQLtkeZrDBesLUkzJERrS5HW0bt9gBo/edit#slide=id.g2e5007a17fb_0_0), workshop, Suffolk Careers Advisers Conference, University of Suffolk.  
 
