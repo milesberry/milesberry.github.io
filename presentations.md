@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*13 July 2024* [Creativity and Curiosity](https://docs.google.com/presentation/d/1zOdHCu5OyVqRbPRr1R3cNP0cH-mWQ8AR5sm5Anq1E2M/edit?usp=sharing), keynote for Computing At School conference, ADA College.
+
+*13 July 2024* [AI and Computing Education](https://www.youtube.com/watch?v=Jdvi3xC3ZP0), workshop for Computing At School conference, ADA College.
+
+*10 July 2024* [AI and Secondary Education](https://docs.google.com/presentation/d/1vSvLtGlGiWnX7iE-JDPNSZ3Le82ZzRFikp1mDQM9Jsc/edit?usp=sharing), keynote presentation, University of Derby MA Symposium.
+
+*9 July 2024* [Questioning](https://www.youtube.com/watch?v=NynZIU9t3cM), keynote presentation for Roehampton School of Education mentor training day.
+
+*8 July 2024* [Generative AI and the mathematics teacher, and the mathematics learner](https://www.youtube.com/watch?v=r9FmVWgwaS8), Webinar for the Mathematical Association.
+
 *5 July 2024* [Mining the performance tables](https://docs.google.com/presentation/d/16hin0sgUzM-9jyvQhiIxTok6AdoK-zRD79VGPxWP7Mg/edit#slide=id.g3e3f966fa_00), Festival of Education, Wellington College.
 
 *4 July 2024* [Generative AI and Secondary Education](https://docs.google.com/presentation/d/1SJiL3fiFWPVZQwhJG0YUna-P9oTyJ2Cy8eIgfzPw8RM/edit#slide=id.g75a2557942_0_492), Keynote presentation for East Anglian Senior Leaders' Conference, Dunston Hall, Norwich. 
