@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*27 August 2024* [The foundations and implications of generative AI](http://bit.ly/eduz24k). Keynote for EduZ 24, Bucharest.
+
+*26 August 2024* [Generative AI and the teacher, and the learner](http://bit.ly/eduz24m). Masterclass at EduZ 24, Bucharest.
+
 *13 July 2024* [Creativity and Curiosity](https://docs.google.com/presentation/d/1zOdHCu5OyVqRbPRr1R3cNP0cH-mWQ8AR5sm5Anq1E2M/edit?usp=sharing), keynote for Computing At School conference, ADA College.
 
 *13 July 2024* [AI and Computing Education](https://www.youtube.com/watch?v=Jdvi3xC3ZP0), workshop for Computing At School conference, ADA College.
