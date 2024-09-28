@@ -7,6 +7,14 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*26 September 2024* Is AI being used responsibly in your educational setting? Webinar for Teachermatic, with James Browning and Vikki Liogier.
+
+*26 September 2024* [Questioning - ITAP3](https://www.youtube.com/watch?v=9vbMdEzOALs), keynote presentation for Roehampton School of Education autumn mentor training day.
+
+*26 September 2024* [AI in English Schools](https://docs.google.com/presentation/d/1IxCR5fCa-__s67gB6ybnFk9BXdeRIIBpMgZDrVzKWCQ/edit?usp=sharing). Presentation for CCEA's Digital Programme Board; online.
+
+*20 September 2024* [Creativity and curiosity in computing](http://bit.ly/ict4ecnc). Keynote for ICT for Education, St James' Park, Newcastle. 
+
 *10 September 2024* [Generative AI and (computing) education](https://docs.google.com/presentation/d/1hfsX24VUgMy_eBm7LApJu6wuCJhgEXRb1mbJAWGeVs0/edit?usp=sharing). Keynote presentation for Worshipful Company of Information Technologists Education and Training Committee.
 
 *27 August 2024* [The foundations and implications of generative AI](http://bit.ly/eduz24k). Keynote for EduZ 24, Bucharest.
