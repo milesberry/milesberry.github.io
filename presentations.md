@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*11 October 2024* [AI and Secondary Admin](https://docs.google.com/presentation/d/14pAf6ALX5dWZAbj6wrOYwsgjPLf_RQOB1sLOvc4PKh0/edit#slide=id.g2d427b9d466_0_492). Workshop for Harris Federation Annual Conference, ExCeL.
+
+*10 October 2024* [Curiosity and Creativity in Computing](https://docs.google.com/presentation/d/1sCT4MpY-Olg1z9KJ4AoWwGcUesW2XvWG1TPIdQILims/edit). Keynote presentation for ICT for Education, Salford. 
+
+*8 October 2024* [Rethinking assessment in an AI age](https://docs.google.com/presentation/d/1qyfQAgMRluebWV0h9lL6e84UkEJdHmNMGdu2uUO-Ks8/edit#slide=id.g75a2557942_0_492). Keynote presentation for Fourth international conference - Sustaining Ethical Practices in Education, Caucasus University, Tbilisi, Georgia.
+
 *26 September 2024* Is AI being used responsibly in your educational setting? Webinar for Teachermatic, with James Browning and Vikki Liogier.
 
 *26 September 2024* [Questioning - ITAP3](https://www.youtube.com/watch?v=9vbMdEzOALs), keynote presentation for Roehampton School of Education autumn mentor training day.
