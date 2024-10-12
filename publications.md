@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*October 2024* [Curiosity in Computing](2024/10/curiosity-computing/). Sapientia 6.
+
 *September 2024* [A new approach to mathematical and data education](https://royalsociety.org/-/media/policy/projects/maths-futures/mathematical-and-data-education-policy-report.pdf). Report published by The Royal Society, with Martin Taylor, Anthony Tomei, Andrew Blake, Graham Keniston-Cooper, Lynne McClure, Andrew Noyes, Vanessa Pittard, and David Spiegelhalter.
 
 *June 2024* [Diversity in Computing](2024/06/diversity-computing/). Sapientia 5.
