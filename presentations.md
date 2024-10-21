@@ -135,7 +135,7 @@ _6 November 2023_	[Developing a curriculum for AI](https://docs.google.com/prese
 
 _6 November 2023_	[AI and Secondary Education](https://docs.google.com/presentation/d/1-Gc4P4wmXvLTgoUnK6lVADIgMzP6ZvaO0a0i1QrOiDo/edit?usp=drive_link). Keynote for Keynote Educational, Hammersmith, London.  
 
-_30 October 2023_ [The truth about AI](https://docs.google.com/presentation/d/1Y0Y2tOREq3pdPboijUHeSLBmNs-mJRm5_eyOmFXQEko/edit?usp=drive_link). Keynote presentation, Festival of Learning, Ipswich.  
+_30 October 2023_ [The truth about AI](https://youtu.be/Tyilo9nxjDk). Keynote presentation, Festival of Learning, Ipswich.  
 
 _24 October 2023_ [AI and academic integrity](https://docs.google.com/presentation/d/12PytUYHV_qvo2_5I_FKwz-6fSYV_rKZsKmvbyc1dfHM/edit?usp=drive_link), keynote presentation, 3rd Conference on Academic Integrity, Telavi, Georgia  
 
