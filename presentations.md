@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*25 October 2024* [How to use AI to help with workload](https://docs.google.com/presentation/d/18RIos28qflvZYq7nELX0PtredIyVjdtsUcvUjEO0PBM/edit#slide=id.g75a2557942_0_492). Workshop for Leathersellers Federation of Schools, London.
+
 *18 October 2024* [From blocks to text](http://bit.ly/blocks2text). Workshop for computing teachers at Ark Schools network day.
 
 *11 October 2024* [AI and Secondary Admin](https://docs.google.com/presentation/d/14pAf6ALX5dWZAbj6wrOYwsgjPLf_RQOB1sLOvc4PKh0/edit#slide=id.g2d427b9d466_0_492). Workshop for Harris Federation Annual Conference, ExCeL.
