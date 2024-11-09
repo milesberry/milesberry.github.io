@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*8 November 2024* [Curiosity and Creativity](http://bit.ly/ict4ecnc). Chair's Kkeynote for ICT for Education, Villa Park, Birmingham.
+
+*7 November 2024* [AI and its applications in education and professional development](http://bit.ly/ngg24). Seminar for British Omani Society's New Generation Group, London.
+
+*6 November 2024* [Generative AI in schools](http://bit.ly/coombe24). Keynote for Coombe Academy Trust staff development day, Coombe Boys' School, New Malden.
+
+*4 November 2024* [AI in schools: efficiency, effectiveness and engagement](http://bit.ly/wandle24). Keynote for Wandle Learning Trust staff development day, Chestnut Grove Academy, Balham.
+
+*1-2 November 2024* [Generative AI and computing](http://bit.ly/pp24comp), [Generative AI and the maths teacher](http://bit.ly/pp24maths), [AI for accessibility and inclusion](http://bit.ly/pp24ai). Workshops at Practical Pedagogies 2024, St George's International School, Cologne. 
+
 *25 October 2024* [How to use AI to help with workload](https://docs.google.com/presentation/d/18RIos28qflvZYq7nELX0PtredIyVjdtsUcvUjEO0PBM/edit#slide=id.g75a2557942_0_492). Workshop for Leathersellers Federation of Schools, London.
 
 *18 October 2024* [From blocks to text](http://bit.ly/blocks2text). Workshop for computing teachers at Ark Schools network day.
