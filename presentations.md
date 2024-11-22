@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*20 November 2024* [Creativity and curiosity in an AI era](http://bit.ly/SoFIA24). Online presentation for expert panel, Bridge the Gap 2024, SoFIA.
+
+*19 November 2024* [Generative AI in schools](http://bit.ly/wandsworth24). Workshop for senior leaders, Wandsworth Catholic Schools
+
 *14 November 2024* [Teacher development and generative AI](http://bit.ly/uea24). Webinar for UEA Enhancing teacher agency with technology.
 
 *12 November 2024* [Using Generative AI to reduce Teacher Workload](http://bit.ly/hatter24). Keynote for 2024 Hatter Seminar, ORT, London.

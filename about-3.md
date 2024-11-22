@@ -21,7 +21,7 @@ Over the years I have contributed to a number of computing related projects incl
 
 I give keynotes and run workshops at CPD events in England and abroad and am or have been a consultant on a number of international curriculum development projects. If you'd like to explore ways in which I could contribute to your work, please do <a href="mailto:m.berry@roehampton.ac.uk">get in touch</a>.
 
-I&#8217;m a chartered fellow of the [British Computer Society](http://bcs.org.uk), and serve on the community board and innocation panel of [Computing at School](http://computingatschool.org.uk). I chair the academic board of England's [National Centre for Computing Education](https://teachcomputing.org). I am the HE representative on the [Independent Schools Council Digital Advisory Group](https://www.isc.co.uk/sector-info/isc-digital-advisory-group/). I was the international rep on the [CSTA](http://www.csteachers.org/)&#8216;s board of directors, and served on the [BCS Academy of Computing](http://academy.bcs.org/) board. I&#8217;m also a fellow of the [Chartered College of Teaching](https://chartered.college/), a senior fellow of the [HEA](http://www.heacademy.ac.uk), and I am accredited as a researcher for the ONS.
+I&#8217;m a chartered fellow of the [British Computer Society](http://bcs.org.uk), chair the England computing education committee and serve on the schools and colleges committee, the community board and innovation panel of [Computing at School](http://computingatschool.org.uk). I chair the academic board of England's [National Centre for Computing Education](https://teachcomputing.org). I am the HE representative on the [Independent Schools Council Digital Advisory Group](https://www.isc.co.uk/sector-info/isc-digital-advisory-group/). I was the international rep on the [CSTA](http://www.csteachers.org/)&#8216;s board of directors, and served on the [BCS Academy of Computing](http://academy.bcs.org/) board. I&#8217;m also a fellow of the [Chartered College of Teaching](https://chartered.college/), a senior fellow of the [HEA](http://www.heacademy.ac.uk), and I am accredited as a researcher for the ONS.
 
 Until 2009, I was head of Alton Convent Prep. In my former post as deputy head of St Ives School, Haslemere, I pioneered the use of Moodle and Elgg in primary education. My work on implementing Moodle was documented as the [dissertation for Leicester University&#8217;s MBA in Educational Management](docs/MBA.pdf), and won the 2006 Becta ICT in Practice Award for primary teaching. I run every day, although neither particularly far or fast; my other interests include classical music, creative cookery and photography. My wife, Clare, is a school teacher and we have one daughter, born December 2010.
 
@@ -33,10 +33,8 @@ Until 2009, I was head of Alton Convent Prep. In my former post as deputy head o
 
 # Social media profiles
 
-[Twitter](http://twitter.com/mberry) |
-[Threads](https://threads.net/@mgberry) |
+[Bluesky](https://bsky.app/profile/milesberry.net) |
 [Facebook](https://www.facebook.com/mberry001) |
 [LinkedIn](http://www.linkedin.com/in/mgberry) |
 [YouTube](http://www.youtube.com/user/milesberry?feature=mhee) |
-[Instagram](https://www.instagram.com/mgberry/) |
-[Strava](https://www.strava.com/athletes/33566001) 
+[Instagram](https://www.instagram.com/mgberry/) 
