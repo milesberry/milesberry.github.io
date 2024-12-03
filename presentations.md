@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*20 November 2024* [Creativity and curiosity in an AI era](http://bit.ly/SoFIA24). Online presentation for expert panel, Bridge the Gap 2024, SoFIA.
+*20 November 2024* [Creativity and curiosity in an AI era](https://www.youtube.com/watch?v=cpu0FOOz1_w). Online presentation for expert panel, Bridge the Gap 2024, SoFIA.
 
 *19 November 2024* [Generative AI in schools](http://bit.ly/wandsworth24). Workshop for senior leaders, Wandsworth Catholic Schools
 
