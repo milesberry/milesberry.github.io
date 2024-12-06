@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*6 December 2024* [AI and secondary education](http://bit.ly/bromley24). Bromley Secondary Heads group. 
+
 *20 November 2024* [Creativity and curiosity in an AI era](https://www.youtube.com/watch?v=cpu0FOOz1_w). Online presentation for expert panel, Bridge the Gap 2024, SoFIA.
 
 *19 November 2024* [Generative AI in schools](http://bit.ly/wandsworth24). Workshop for senior leaders, Wandsworth Catholic Schools
