@@ -17,7 +17,7 @@ guid: http://milesberry.net/?page_id=718
 
 *14 November 2024* [Teacher development and generative AI](http://bit.ly/uea24). Webinar for UEA Enhancing teacher agency with technology.
 
-*12 November 2024* [Using Generative AI to reduce Teacher Workload](http://bit.ly/hatter24). Keynote for 2024 Hatter Seminar, ORT, London.
+*12 November 2024* [Using Generative AI to reduce Teacher Workload](https://youtu.be/aQsF3qUkYJs?si=VL-YNwvOJvNH-Kn3). Keynote for 2024 Hatter Seminar, ORT, London.
 
 *11 November 2024* [Digital Literacy: essential for learning and life](http://bit.ly/nhp2024). Staff training for Notting Hill Prep, with Tooled Up Educaiton.
 
