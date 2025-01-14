@@ -7,6 +7,14 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*14 January 2025* [AI unlocked](https://docs.google.com/presentation/d/1yPbJSPf_-7Y4-3OakKmvRtXrv2j9VR0KyEOY5ZNAXOo/edit?usp=sharing). Keynote presentation for PaJeS, The Grove, Watford.
+
+*11 January 2025* [AI and the science teacher](https://www.youtube.com/watch?v=Y4d0uFfRX68) Keynote presentation for the Association for Science Education annual conference, University of Nottingham.
+
+*10 January 2025* [AI for accessibility and inclusion](https://www.youtube.com/watch?v=XFkjmAni0IM). Workshop at University of Roehampton academic summit. 
+
+*7 January 2025* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit#slide=id.g75a2557942_0_492). Assembly for Year 7 at The King Alfred School, Hampstead.
+
 *12 December 2024* [Curiosity and creativity in secondary computing](https://www.youtube.com/watch?v=GQbZNxka-tA&ab_channel=MilesBerry). Talk for the NCCE Big Computing Leadership Conference, Oxford Brookes University.
 
 *6 December 2024* [AI and secondary education](http://bit.ly/bromley24). Bromley Secondary Heads group. 
