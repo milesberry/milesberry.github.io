@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*17 January 2025* [Generative AI and the research student](https://docs.google.com/presentation/d/1qem627G8yIFU3zpJGC0ErDxAYYAW6ivsUFKRzs2wjpU/edit#slide=id.p). Keynote presentation for TECHNE doctoral training programme, University of Roehampton.
+
+*16 January 2025* [Update for the UCET AI Working Group](https://www.youtube.com/watch?v=fwP4P-G7rhA). Recorded presentation. 
+
 *14 January 2025* [AI unlocked](https://docs.google.com/presentation/d/1yPbJSPf_-7Y4-3OakKmvRtXrv2j9VR0KyEOY5ZNAXOo/edit?usp=sharing). Keynote presentation for PaJeS, The Grove, Watford.
 
 *11 January 2025* [AI and the science teacher](https://www.youtube.com/watch?v=Y4d0uFfRX68) Keynote presentation for the Association for Science Education annual conference, University of Nottingham.
