@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*1 February 2025* [Terminator or Baymax? The good and bad of generative AI for academic writing](https://docs.google.com/presentation/d/1i9qEDcSMazNQ-pLC4rC-D0AH3yXJGmsOqTmmlhkNdIE/edit#slide=id.p). Workshop for MA and doctoral students at Roehampton School of Education writing workshop.
+
+*29 January 2025* [AI in education](https://docs.google.com/presentation/d/1T4i0a7PdowgUvYfMgXJ7YPcruLcsGcUCVI95vXH4Y2U/edit?usp=sharing). Workshoop for CCEA education staff, Belfast. 
+
 *17 January 2025* [Generative AI and the research student](https://docs.google.com/presentation/d/1qem627G8yIFU3zpJGC0ErDxAYYAW6ivsUFKRzs2wjpU/edit#slide=id.p). Keynote presentation for TECHNE doctoral training programme, University of Roehampton.
 
 *16 January 2025* [Update for the UCET AI Working Group](https://www.youtube.com/watch?v=fwP4P-G7rhA). Recorded presentation. 
