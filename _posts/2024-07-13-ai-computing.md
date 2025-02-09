@@ -25,6 +25,8 @@ Assessment practices will need to adapt. Traditional non-exam assessment may bec
 
 Bias in AI-generated content is another critical issue. Language models learn from existing data, meaning they can perpetuate stereotypes and reinforce societal biases. Educators must teach students how to critically assess AI outputs, question biases, and consider the ethical dimensions of machine-generated information. Without this awareness, students risk accepting AI responses as authoritative rather than interrogating their validity.
 
+![Sterotypical AI images of programmers](/images/programmer.jpg)
+
 Generative AI is also reshaping what it means to be digitally literate. Beyond traditional skills like coding and troubleshooting, students must now understand how AI systems work, their limitations, and their broader impact. Concepts such as prompt engineering, bias mitigation, and model interpretability should become integral parts of the computing curriculum.
 
 Ultimately, the rise of generative AI presents both opportunities and challenges for computing education. It demands a re-evaluation of teaching methods, assessment strategies, and ethical considerations. Computing educators must lead the way in ensuring students are not just passive consumers of AI but critical thinkers who understand its inner workings, strengths, and risks. By doing so, we can prepare students for a future where AI is an integral part of their digital world, ensuring they have the skills to shape and interrogate the technology rather than being shaped by it.
