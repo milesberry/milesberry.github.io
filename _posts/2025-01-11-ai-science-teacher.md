@@ -12,7 +12,7 @@ image:
         feature: 250111.jpg
 ---
 
-AThough my expertise lies in computing education, generative AI’s impact, and potential impact, on teaching, learning and even the way we do science is undeniable.  
+Generative AI’s impact, and potential impact, on teaching, learning and even the way we do science is undeniable.  
 
 ## AI’s Role in Education  
 
