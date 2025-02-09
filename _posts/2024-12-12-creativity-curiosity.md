@@ -44,7 +44,7 @@ Rather than seeing AI as a threat, we can use it to enhance learning. Students c
 To create a more engaging and inclusive computing curriculum, we need to rethink both what we teach and how we teach it. Some suggestions include:
 
 - **Broadening the curriculum**: Computing should not just be about programming and networks; it should encompass digital creativity, ethics, and problem-solving.
-- **Reframing the GCSE structure**: Offering a broader ‘Computing’ GCSE https\://milesberry.net/2024/10/gcse-computing/, rather than just Computer Science, would attract a wider range of students and provide more pathways.
+- **Reframing the GCSE structure**: Offering a broader [‘Computing’ GCSE](/2024/10/gcse-computing/), rather than just Computer Science, would attract a wider range of students and provide more pathways.
 - **Connecting with primary education**: Building continuity between primary and secondary computing education ensures that students do not experience a sudden, jarring transition.
 - **Improving representation**: Encouraging girls and underrepresented groups by making computing feel relevant to their ambitions and interests.
 - **Encouraging collaborative projects**: Real-world teamwork is essential in computing careers; schools should integrate more group-based, creative assignments.
