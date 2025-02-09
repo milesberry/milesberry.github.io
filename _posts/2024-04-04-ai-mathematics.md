@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Generative AI and the mathematics teachers, and the mathematics learner"
-date: "2024-04-05 18:00:00 +0000"
+title: "Generative AI and the mathematics teacher, and the mathematics learner"
+date: "2024-04-04 18:00:00 +0000"
 author: Miles Berry
 permalink: /2024/04/ai-mathematics/
 comments: true
