@@ -9,7 +9,7 @@ guid: http://milesberry.net/?page_id=718
 
 *14 February 2025* [Questioning AI](https://www.youtube.com/watch?v=HCydMaQsyl8). Chair's keynote for Embracing AI conference, for Wandle Learning Trust, Merton, Wandsworth and Achieving for Children, Kensington.  
 
-*13 February 2025* [be yourself!](https://docs.google.com/presentation/d/16GAzFgxa8sB6feSh7vE7mMFwOAtLJ4TXc-nFjgxf57E/edit#slide=id.g5d70928529_0_0). Key Stage 2 assembly for Safer Intenet Day 2025, Ambler Primary School, Islington.
+*13 February 2025* [Be yourself!](https://docs.google.com/presentation/d/16GAzFgxa8sB6feSh7vE7mMFwOAtLJ4TXc-nFjgxf57E/edit#slide=id.g5d70928529_0_0). Key Stage 2 assembly for Safer Intenet Day 2025, Ambler Primary School, Islington.
 
 *1 February 2025* [Terminator or Baymax? The good and bad of generative AI for academic writing](https://docs.google.com/presentation/d/1i9qEDcSMazNQ-pLC4rC-D0AH3yXJGmsOqTmmlhkNdIE/edit#slide=id.p). Workshop for MA and doctoral students at Roehampton School of Education writing workshop.
 
