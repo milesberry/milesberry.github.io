@@ -85,6 +85,6 @@ England’s approach provides a valuable model for other countries looking to en
 
 Computing education is no longer optional—it is essential. England's transition from ICT to a rigorous computing curriculum has demonstrated the importance of teaching young people not just how to use technology, but how to understand and create it. As other nations consider similar reforms, they can look to England's experience as a blueprint for success. Through collaboration, investment in teacher training, and an emphasis on computational thinking, we can prepare students worldwide for the digital challenges of the future.
 
-
+*Based on [my talk](https://www.youtube.com/watch?v=8DUSPJmrVIU&ab_channel=MilesBerry) at the CSTA annual conference in Baltimore, Maryland*
 
 
