@@ -35,4 +35,4 @@ Ultimately, an approach to computational thinking should place problem-solving a
 
 As computational thinking continues to evolve, educators must consider how best to integrate it into curricula. A deeper understanding of how to express problems in ways that computers can solve ensures that students develop skills that extend far beyond the classroom, preparing them for a world increasingly shaped by computation.
 
-*Based on my virtual keynote for CTE-STEM 2021, the 5th APSCE International Conference on Computational Thinking and STEM Education.*
+*Based on [my virtual keynote](https://www.youtube.com/watch?v=lStWUJpDe_w) for CTE-STEM 2021, the 5th APSCE International Conference on Computational Thinking and STEM Education.*
