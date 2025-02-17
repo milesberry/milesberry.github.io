@@ -16,7 +16,7 @@ Artificial Intelligence is reshaping the world, and education is no exception. D
 
 ### The State of AI Policy in Education
 
-Governments worldwide are grappling with how to regulate AI while harnessing its potential. HMG has outlined five core regulatory principles for AI in public sector organisations throughout the UK: safety, security, transparency, fairness, and accountability. These principles provide a solid foundation for schools looking to integrate AI while ensuring ethical governance.
+Governments worldwide are grappling with how to regulate AI while harnessing its potential. HMG has outlined five core regulatory principles for AI in public sector organisations throughout the UK: safety, security, transparency, fairness and accountability. These principles provide a solid foundation for schools looking to integrate AI while ensuring ethical governance.
 
 [Ofsted](https://www.gov.uk/government/publications/ofsteds-approach-to-ai/ofsteds-approach-to-artificial-intelligence-ai), ever watchful, will expect that schools will have clear policies in place, ensuring responsible and transparent AI integration. This is not about rushing to use AI in every classroom but about understanding its implications and establishing guidelines that align with public sector regulations.
 
