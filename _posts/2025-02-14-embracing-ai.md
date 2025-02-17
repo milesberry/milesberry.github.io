@@ -34,7 +34,7 @@ The European Union has taken a more structured regulatory approach. [The EU AI A
 
 ### The Future of Teaching: Evolution or Revolution?
 
-For centuries, the core model of school education has remained relatively unchanged. A teacher stands before a group of students, imparting knowledge. While technology has altered aspects of this model—interactive whiteboards replacing chalk, group seating replacing rows—the fundamental structure endures. Some, including [the Secretary of Stage for Education](https://www.gov.uk/government/speeches/education-secretary-gives-bett-show-2025-keynote-address), think that with AI, we may be on the cusp of a more radical transformation.
+For centuries, the core model of school education has remained relatively unchanged. A teacher stands before a group of students, imparting knowledge. While technology has altered aspects of this model—interactive whiteboards replacing chalk, group seating replacing rows—the fundamental structure endures. Some, including [the Secretary of State for Education](https://www.gov.uk/government/speeches/education-secretary-gives-bett-show-2025-keynote-address), think that with AI, we may be on the cusp of a more radical transformation.
 
 Will AI-powered personalised learning platforms replace traditional classrooms? Probably not, at least not anytime soon. But the potential for AI to support individualised learning pathways, automate administrative tasks, and provide intelligent feedback is undeniable. The challenge lies in balancing innovation with thoughtful implementation, ensuring that AI enhances, rather than disrupts, the educational experience.
 
