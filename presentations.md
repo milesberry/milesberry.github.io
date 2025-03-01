@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*26 February 2025* [GCSE Computing - indicative content](https://docs.google.com/presentation/d/1ul_tjL5L2EbsXBXMD4tvTT4sDJG3NgqOEvkMGJuVCc0/edit#slide=id.g333b645129c_0_5). Presentation with Pete Kemp at Pearson 'Future of Computing: blank sheet thinking' event, London.
+
+*25 February 2025* [Design principles for data visualisation](https://docs.google.com/presentation/d/1ZPbx8VO3Qd3wFrLMh4AhkK9NYwCD_mGuxazBeNe2uh4/edit?pli=1). Guest lecture for Ada Collge degree apprenticeship students.
+
 *14 February 2025* [Questioning AI](https://www.youtube.com/watch?v=HCydMaQsyl8). Chair's keynote for Embracing AI conference, for Wandle Learning Trust, Merton, Wandsworth and Achieving for Children, Kensington.  
 
 *13 February 2025* [Be yourself!](https://docs.google.com/presentation/d/16GAzFgxa8sB6feSh7vE7mMFwOAtLJ4TXc-nFjgxf57E/edit#slide=id.g5d70928529_0_0). Key Stage 2 assembly for Safer Intenet Day 2025, Ambler Primary School, Islington.
@@ -498,7 +502,7 @@ _11 July 2017_ [A guide to UK computing resources](https://www.youtube.com/watch
 _4 July 2017_ Panel: [International Perspectives on CS Teacher
 Formation and Professional Development](https://www.youtube.com/watch?v=cHa80rcuu7g), ITiCSE 17, University of Bologna
 
-_23 June 2017_ Workshops: [Project Quantum](https://docs.google.com/presentation/d/1Q-H5BMvitMJ4kzzMPpXsnYLbryCW6PVnrrgkE76iEyQ/edit) and [QuickStart Computing](https://www.youtube.com/edit?o=U&video_id=gkjLYSO0s3Y). CAS Northern Ireland Conference, Stranmillis University College, Belfast.
+_23 June 2017_ Workshops: [Project Quantum](https://docs.google.com/presentation/d/1Q-H5BMvitMJ4kzzMPpXsnYLbryCW6PVnrrgkE76iEyQ/edit) and [QuickStart Computing](https://www.youtube.com/watch?v=gkjLYSO0s3Y&ab_channel=MilesBerry). CAS Northern Ireland Conference, Stranmillis University College, Belfast.
 
 _22 June 2017_ [Coding across the curriculum](https://www.youtube.com/watch?v=LNGT54NhjHU). The Telegraph Festival of Education, Wellington College.
 
