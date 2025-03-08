@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*6 Match 2025* [School performance, computer science and Ofsted](https://colab.research.google.com/drive/1t8Ae1PFhtsTHFj0c5SILUfEvOB--n2DB?usp=sharing) Guest lecture for degree apprenticeship students at Ada College. 
+
 *26 February 2025* [GCSE Computing - indicative content](https://docs.google.com/presentation/d/1ul_tjL5L2EbsXBXMD4tvTT4sDJG3NgqOEvkMGJuVCc0/edit#slide=id.g333b645129c_0_5). Presentation with Pete Kemp at Pearson 'Future of Computing: blank sheet thinking' event, London.
 
 *25 February 2025* [Design principles for data visualisation](https://docs.google.com/presentation/d/1ZPbx8VO3Qd3wFrLMh4AhkK9NYwCD_mGuxazBeNe2uh4/edit?pli=1). Guest lecture for Ada Collge degree apprenticeship students.
