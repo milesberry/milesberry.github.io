@@ -13,6 +13,16 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+[Will AI revive the art of tinkering?](https://pod.httcs.online/e/s2e05/) Podcast for Alan Harrison with Becci Peters for How to Teach Computer Science, 7 March 2025
+
+Comment on [OCR to review difficulty of GCSE computer science paper](https://schoolsweek.co.uk/ocr-to-review-difficulty-of-gcse-computer-science-paper/) for Schoolsweek, 31/5/2023
+
+Coverage on BBC World Service Tech Tent of the [TeenTech Awards Final](https://www.bbc.co.uk/sounds/play/w3ct3757), 20 June 2022
+
+Podcast interview for EU Codeweek on [Teaching Computational Thinking](https://codeweek.eu/podcast/18). 18/1/2022  
+
+Interview with [Paul Powers, Cybernaut Club](https://www.youtube.com/watch?v=MiivfdX5on0&ab_channel=CybernautClub). 6/12/2021  
+
 Interview for [Learning Dust podcast](https://learningdust.libsyn.com/learningdust-9-miles-berry). 29/6/2020
 
 Coverage of Learning in the era of AI conference, Buenos Aires, [Aprender en la era de la inteligencia artificial: los casos de tres países exitosos](https://www.infobae.com/educacion/2019/08/26/aprender-en-la-era-de-la-inteligencia-artificial-los-casos-de-tres-paises-exitosos/), Infobae, 26/8/2019, [Educación digital en las escuelas, el próximo desafío](https://www.lanacion.com.ar/sociedad/educacion-digital-en-las-escuelas-el-proximo-desafio-nid2281705/), La Nacion 27/8/2019

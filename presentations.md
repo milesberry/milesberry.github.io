@@ -7,7 +7,9 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*6 Match 2025* [School performance, computer science and Ofsted](https://colab.research.google.com/drive/1t8Ae1PFhtsTHFj0c5SILUfEvOB--n2DB?usp=sharing) Guest lecture for degree apprenticeship students at Ada College. 
+*14 March 2025* [Generative AI and beginning teachers: Terminator or Baymax?](https://docs.google.com/presentation/d/11f8dnyLwE7p0Em7KO3rCbs48dTG8W4p3OdXjhfKlmBQ/edit#slide=id.g75a2557942_0_492). Presentation to education subcommittee of the Cathderals Group of universities.
+
+*6 Match 2025* [School performance, computer science and Ofsted](https://colab.research.google.com/drive/1t8Ae1PFhtsTHFj0c5SILUfEvOB--n2DB?usp=sharing) Guest lecture for degree apprenticeship students at Ada College.  
 
 *26 February 2025* [GCSE Computing - indicative content](https://docs.google.com/presentation/d/1ul_tjL5L2EbsXBXMD4tvTT4sDJG3NgqOEvkMGJuVCc0/edit#slide=id.g333b645129c_0_5). Presentation with Pete Kemp at Pearson 'Future of Computing: blank sheet thinking' event, London.
 
