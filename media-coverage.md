@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Podcast, [the future of tech in education](https://www.youtube.com/watch?v=ZzmSv7967Us), with Al Kingsley and Matt Jessop for Connecting the Dots, 15 March 2025.
+
 [Will AI revive the art of tinkering?](https://pod.httcs.online/e/s2e05/) Podcast for Alan Harrison with Becci Peters for How to Teach Computer Science, 7 March 2025
 
 Comment on [OCR to review difficulty of GCSE computer science paper](https://schoolsweek.co.uk/ocr-to-review-difficulty-of-gcse-computer-science-paper/) for Schoolsweek, 31/5/2023
