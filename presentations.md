@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*21 March 2025* [AI Update](https://docs.google.com/presentation/d/1ZgkvkKx78YJhUCXlto6uX13skT03DKdOydhBLS0-a6c/edit?usp=sharing). Keynote presentation for ICT for Education, Exeter. 
+
 *14 March 2025* [Generative AI and beginning teachers: Terminator or Baymax?](https://docs.google.com/presentation/d/11f8dnyLwE7p0Em7KO3rCbs48dTG8W4p3OdXjhfKlmBQ/edit#slide=id.g75a2557942_0_492). Presentation to education subcommittee of the Cathderals Group of universities.
 
 *6 March 2025* [School performance, computer science and Ofsted](https://colab.research.google.com/drive/1t8Ae1PFhtsTHFj0c5SILUfEvOB--n2DB?usp=sharing) Guest lecture for degree apprenticeship students at Ada College.  
