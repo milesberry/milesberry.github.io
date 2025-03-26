@@ -17,6 +17,8 @@ Podcast, [the future of tech in education](https://www.youtube.com/watch?v=ZzmSv
 
 [Will AI revive the art of tinkering?](https://pod.httcs.online/e/s2e05/) Podcast for Alan Harrison with Becci Peters for How to Teach Computer Science, 7 March 2025
 
+Podcast, [Teacher training/Computing education](https://www.youtube.com/watch?v=HwkEAJUVx-w), with Mark Anderson for Net Support, 5 March 2025.
+
 Comment on [OCR to review difficulty of GCSE computer science paper](https://schoolsweek.co.uk/ocr-to-review-difficulty-of-gcse-computer-science-paper/) for Schoolsweek, 31/5/2023
 
 Coverage on BBC World Service Tech Tent of the [TeenTech Awards Final](https://www.bbc.co.uk/sounds/play/w3ct3757), 20 June 2022
