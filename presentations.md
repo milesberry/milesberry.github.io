@@ -7,6 +7,24 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*21 May 2025* [AI for research: a workshop for the perplexed](https://docs.google.com/presentation/d/1Tkpo2SOl9_az32DHyGp2x6k2vLYbOkD5bD88xsVxSKA/edit?slide=id.p#slide=id.p). Seminar with Will Berard for Roehampton School of Education doctoral students.
+
+*19 May 2025 [Working with performance data](https://www.youtube.com/watch?v=UBYji28dllA&list=PL52323E3514B2EC5B&ab_channel=CASTV). Webinar for CAS ITT/ECT community.
+
+*15 May 2025 Building a Digitally Powered and AI Integrated Curriculum to Equip Pupils for the Future. Panel discussion at the Schools and Academies Show, ExCeL London with Emma McCrea (chair), Antoinette Hamilton, Cheryl Shirley, Chris Temple-Murray.
+
+*12 May 2025* [Data visualisation and statistical analysis](https://colab.research.google.com/drive/1u2FfltKfOUB5n9uJABrJIyYVnXzYlv3f?usp=sharing) Guest lecture for degree apprenticeship students at Ada College.
+
+*9 May 2025* [AI update](https://docs.google.com/presentation/d/1FgElyafEWe-hmbyV2fnJalNyCnHy0d0dx5BEVN5SF0g/edit?slide=id.g75a2557942_0_492#slide=id.g75a2557942_0_492). Chair's keynote for ICT for Education, Norwich.
+
+*7 May 2025* [GCSE Computing - what are out options?](https://www.youtube.com/watch?v=NWD3uvEtL0Y&ab_channel=CASTV). Online panel for Computing At School with Pete Kemp, Tracy Gardner, Rebecca Franks, Shahneila Saeed.
+
+*30 April 2025* [A single GCSE in computing](https://docs.google.com/presentation/d/1c4eJ0Y7Aew2t6HIS9e89bwuOO7KkVGbWQLd2AsB1198/edit?slide=id.g3e3f966fa_00#slide=id.g3e3f966fa_00). Webinar for Harris Fedration computing leads. 
+
+*22 April 2025* [An overview of the computing curriculum](https://docs.google.com/presentation/d/1FqPuumIaW891oz8lnnpJ8Aods5s8hTjNAUHpd9-o688/edit?usp=sharing). Webinar for BCS Teaching Scholarship holders.
+
+*15 April 2025* [How a Haskell functional programming club can encourage mathematical discourse](https://pure.roehampton.ac.uk/portal/files/30328795/introduction_workbook.pdf), workbook for participants at a workshop by Martyn Colliver and Ian Benson at joint mathematical subject associations conference, Loughborough University
+
 *21 March 2025* [AI Update](https://docs.google.com/presentation/d/1ZgkvkKx78YJhUCXlto6uX13skT03DKdOydhBLS0-a6c/edit?usp=sharing). Keynote presentation for ICT for Education, Exeter. 
 
 *14 March 2025* [Generative AI and beginning teachers: Terminator or Baymax?](https://docs.google.com/presentation/d/11f8dnyLwE7p0Em7KO3rCbs48dTG8W4p3OdXjhfKlmBQ/edit#slide=id.g75a2557942_0_492). Presentation to education subcommittee of the Cathderals Group of universities.
