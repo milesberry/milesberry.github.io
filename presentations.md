@@ -7,11 +7,27 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*10 July 2025* [Strype: Frame-Based Editing for Python](https://docs.google.com/presentation/d/1O1xNdIFSOfGC0zboovbAHau_RC4xpmmA6TzU9W72ZHw/edit?slide=id.p4#slide=id.p4). Workshop with Neil Brown and Colleen Lewis at CSTA 2025, Huntington Convention Center, Cleveland, Ohio.
+
+*9 July 2025* [From blocks to text](https://docs.google.com/presentation/d/1aO9PD8dKPEhgkk1gkznCFfnLlz5eNZS7g502iWKioH0/edit?usp=sharing). Workshop at CSTA 2025, Huntington Convention Center, Cleveland, Ohio.
+
+*4 July 2025* [Teaching programming: approaches and contexts](https://docs.google.com/presentation/d/1YbakqsZORIatNDQ4E7H3ym0VdSZzmJvyZWZKx7uIT7w/edit?slide=id.g3e3f966fa_00#slide=id.g3e3f966fa_00). Whole day of CPD for Ark Schools computing leads.  
+
+*3 July 2025* [Data visualisation and analysis](https://colab.research.google.com/drive/1zONELXsMR1G2oa7Ev6log0n5Bn-bhzSr?usp=sharing). Guest lecture for sixth form students at Ada College.  
+
+*24 June 2025* [AI and computing education: Terminator or Baymax?](https://docs.google.com/presentation/d/1FqoHspLNJ3BxfQIloXAqpVBqGX6bCBodw7cA5PnNHBE/edit?slide=id.p#slide=id.p). Keynote presentation on AI in computing education for CAS Northern Ireland mini conference, Queen's University Belfast.  
+
+*19 June 2025* [AI for professional development](https://docs.google.com/presentation/d/1w2L8GjHxDNSnQz46vXLil28U5pVXhi6hx7Foj_btzsY/edit?usp=sharing). Workshop at ISC Digital Advisory Group conference, University of Roehampton.  
+
+*13 June 2025* [AI update](https://docs.google.com/presentation/d/1FgElyafEWe-hmbyV2fnJalNyCnHy0d0dx5BEVN5SF0g/edit?usp=sharing). Chair's keynote for ICT for Education, Brighton.  
+
+*12 June 2025* [AI and the secondary teacher](https://docs.google.com/presentation/d/1w0gxTWE7_WSTWbxkzMm4C6TQmv4UVhxWcCXnoPMnYwM/edit?usp=sharing). Staff training for Langley Park School for Boys.  
+
 *21 May 2025* [AI for research: a workshop for the perplexed](https://docs.google.com/presentation/d/1Tkpo2SOl9_az32DHyGp2x6k2vLYbOkD5bD88xsVxSKA/edit?slide=id.p#slide=id.p). Seminar with Will Berard for Roehampton School of Education doctoral students.
 
-*19 May 2025 [Working with performance data](https://www.youtube.com/watch?v=UBYji28dllA&list=PL52323E3514B2EC5B&ab_channel=CASTV). Webinar for CAS ITT/ECT community.
+*19 May 2025* [Working with performance data](https://www.youtube.com/watch?v=UBYji28dllA&list=PL52323E3514B2EC5B&ab_channel=CASTV). Webinar for CAS ITT/ECT community.
 
-*15 May 2025 Building a Digitally Powered and AI Integrated Curriculum to Equip Pupils for the Future. Panel discussion at the Schools and Academies Show, ExCeL London with Emma McCrea (chair), Antoinette Hamilton, Cheryl Shirley, Chris Temple-Murray.
+*15 May 2025* Building a Digitally Powered and AI Integrated Curriculum to Equip Pupils for the Future. Panel discussion at the Schools and Academies Show, ExCeL London with Emma McCrea (chair), Antoinette Hamilton, Cheryl Shirley, Chris Temple-Murray.
 
 *12 May 2025* [Data visualisation and statistical analysis](https://colab.research.google.com/drive/1u2FfltKfOUB5n9uJABrJIyYVnXzYlv3f?usp=sharing) Guest lecture for degree apprenticeship students at Ada College.
 
