@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*September 2025* [Tackling disadvantage in computing](2025/09/tackling-disadvantage/). Sapientia 9.  
+
+*July 2025* [Creativity in computing](2025/07/creativity-computing/). Sapientia 8.  
+
 *February 2025* [Generative AI and schools - an update](2025/02/ai-update/). Sapientia 7.  
 
 *October 2024* [Curiosity in Computing](2024/08/curiosity-computing/). Sapientia 6.
