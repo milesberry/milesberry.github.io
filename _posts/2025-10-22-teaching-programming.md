@@ -7,7 +7,7 @@ author: Miles Berry
 permalink: /2025/10/teaching-programming/
 comments: true
 image:
-        feature: 221024.jpg
+        feature: 251024.jpg
 ---
 
 This session explored how we can make programming engaging and meaningful for pupils, especially as they move from block-based languages such as Scratch to text-based ones like Python. It examined effective strategies for teaching programming that focus on understanding rather than routine typing.
