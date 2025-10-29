@@ -7,11 +7,15 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*29 October 2025* [AI's role in education](https://docs.google.com/presentation/d/15DCbCGCiFtvhKUacJFDjYGjiOndDYAg2oFNztCC9cvI/edit?usp=sharing). Presentation for KERIS Korean local government delegation, Local Government Association, London.
+
 *24 October 2025* [From blocks to text](https://www.youtube.com/watch?v=VDdUhxtO2vo). CAS National Conference, Bromsgrove.  
 
 *23 October 2025* Understanding the Government’s Vision and Policy Direction: SEND, Early Years & Edtech. Panel participation with Caroline Wright (chair), Felicity Gillespie, Caroline Keep. BESA Winter Insights Conference, London.  
 
 *8 October 2025* Computing Education: system upgrade required. Panel participation for report launch, with Julia Adamson (chair), Efua Akumanyi and Louise Archer. The Royal Society, London.
+
+*22 September 2025* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Talk for Year 7, The King Alfred School, London. 
 
 *10 July 2025* [Strype: Frame-Based Editing for Python](https://docs.google.com/presentation/d/1O1xNdIFSOfGC0zboovbAHau_RC4xpmmA6TzU9W72ZHw/edit?slide=id.p4#slide=id.p4). Workshop with Neil Brown and Colleen Lewis at CSTA 2025, Huntington Convention Center, Cleveland, Ohio.
 
