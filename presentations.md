@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*11 November 2025* [Teacher education and AI](https://www.youtube.com/watch?v=jDJDW0wnuXs). Workshop at Universities' Council for the Education of Teachers annual conference, Leeds.  
+
+*10 November 2025* [AI - a technical and pedagogical briefing](https://docs.google.com/presentation/d/1Ie6VNnzP_-qKg9fEFCUuDCSPrtZVuVWJi0TJTGA2hRU/edit?slide=id.g75a2557942_0_492#slide=id.g75a2557942_0_492). Webinar and workshop for eduthing, Wakefield.
+
+*7 November 2025* [Curriculum and assessment review: first impressions](https://www.youtube.com/watch?v=C5UogDQAP-Q). Chair's keynote at ICT for Education, Solihull.
+
+*5 November 2025* Bridge the Gap: Bridging the Disconnect. Chair for international webinar on disengagement in schools.
+
+*4 November 2025* [AI, education and the ethics of access](https://vimeo.com/manage/videos/1134172960). Webinar for the Open University in Wales, Collaborative research network for equity and inclusion
+
 *29 October 2025* [AI's role in education](https://docs.google.com/presentation/d/15DCbCGCiFtvhKUacJFDjYGjiOndDYAg2oFNztCC9cvI/edit?usp=sharing). Presentation for KERIS Korean local government delegation, Local Government Association, London.
 
 *24 October 2025* [From blocks to text](https://www.youtube.com/watch?v=VDdUhxtO2vo). CAS National Conference, Bromsgrove.  
@@ -15,7 +25,7 @@ guid: http://milesberry.net/?page_id=718
 
 *8 October 2025* Computing Education: system upgrade required. Panel participation for report launch, with Julia Adamson (chair), Efua Akumanyi and Louise Archer. The Royal Society, London.
 
-*22 September 2025* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Talk for Year 7, The King Alfred School, London. 
+*22 September 2025* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Talk for Year 7, The King Alfred School, London.  
 
 *10 July 2025* [Strype: Frame-Based Editing for Python](https://docs.google.com/presentation/d/1O1xNdIFSOfGC0zboovbAHau_RC4xpmmA6TzU9W72ZHw/edit?slide=id.p4#slide=id.p4). Workshop with Neil Brown and Colleen Lewis at CSTA 2025, Huntington Convention Center, Cleveland, Ohio.
 
