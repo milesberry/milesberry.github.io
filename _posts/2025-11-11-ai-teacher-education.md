@@ -1,0 +1,37 @@
+---  
+
+layout: post  
+title: "AI and teacher education"  
+date: "2025-11-11 18:00:00 +0000"
+author: Miles Berry
+permalink: /2025/11/ai-teacher-education/
+comments: true
+image:
+     feature: 251111.jpg
+---
+
+Generative AI has a multifaceted relationship to the professional formation of teachers. First, they need to understand the role this technology can play in their pupils' education and in their own professional role. As with other students, many will make use of these technologies for the academic aspects of the course. Beyond this, we might also consider how AI can support trainees directly in their training: the ITAP framework discusses 'approximations of practice', and perhaps generative AI can contribute something to these.
+
+Government enthusiasm has cooled. In the early days there was a sense that AI would fix almost everything: recruitment, workload, attainment, you name it. We would be “world leading” by virtue of having big tech firms and agile startups. That tune has softened. The official line now stresses support for teachers: resource creation, lesson and curriculum planning, drafting letters, tailoring revision activities, shaving minutes from administrative tasks. All useful enough.
+
+As soon as you move from “teachers using AI” to “pupils using AI”, caution increases. The Department worries about safeguarding, and rightly so. A teenager chatting with a bot that says something which, from a human adult, would be a clear breach of professional boundaries is not a hypothetical risk. Then there is data protection, and the small matter of intellectual property. Pupils own the copyright in their work. Schools cannot simply upload it to a third-party model without consent and hope no one notices. On top of that, JCQ has been explicit: non-exam assessment must be the student’s own work; any AI-generated portions must be acknowledged and cannot attract credit. Whether every sixth former has read that guidance is another question.
+
+If we were still aligned with the EU’s regulatory framework we would now be subject to the EU AI Act, which takes a clear line on training and high-risk use. Instead, England has opted for advice rather than statute. Hence the DfE-funded training materials produced with the Chartered College and the Chiltern Learning Trust. These are sensible, practical and focused on safety, data, and professional responsibility. What they say is important. What they leave out is also important. There is strikingly little about accessibility, inclusion or equity. These systems are not free. Broadband, devices and subscriptions cost money. If AI becomes another tool that advantaged pupils can exploit while others look on, we will have built a new digital divide.
+
+Universities are wrestling with similar questions. Most of us now operate with a kind of “permitted uses” list: summarising complex texts, brainstorming ideas, getting help with grammar, perhaps rephrasing paragraphs. A chatbot that takes an assignment brief and a draft essay, then offers detailed formative feedback, can extend what a tutor has time to do. On the other side of the line sit falsifying data, writing assignments, fabricating citations. In the end, the test is simple enough: did the student do the thinking? A checkbox in Turnitin that says “this is my own work” only means something if we are prepared to call students in, ask them about what they have submitted, and see whether they can talk their own talk. 
+
+Underneath the impressive interface, large language models are very sophisticated predictive text. They choose the next word based on the words they have already produced. With a simple model trained on short word sequences, the result is obviously gibberish. With a huge model trained on vast amounts of text and tuned through human feedback, the result sounds coherent. But it is still sampling from a probability distribution. Pick an unlucky sequence and the model drifts into nonsense with enormous confidence. That is what we have chosen to call hallucination, as if the fault lay with the machine’s state of mind rather than our decision to trust it.
+
+The newer tools reduce that risk by feeding the model a large body of relevant text first: journal articles, policy documents, lesson plans. They then ask the system to answer questions based on that material. Retrieval-augmented generation is not magic, but it does change the game. When I ask such a system, “Must trainee teachers plan their lessons?”, and it answers with an explanation grounded in the Teachers' Standards and the ITTECF, it is doing more than guessing. It is reading, selecting and rephrasing. A system that reads a dense research paper and explains its implications for classroom practice can make engagement with scholarship less forbidding.
+
+I am wary of “write me a lesson plan on X” as a default move. Planning is a craft that new teachers need to learn. On the other hand, using AI to critique a plan – spotting missing modelling, suggesting more active learning, flagging likely misconceptions – feels closer to how a good mentor would work. It still assumes that the trainee starts with their own outline, their own intentions, their own knowledge of the class. The machine becomes an extra pair of eyes rather than a ghost writer.
+
+Something similar applies to subject knowledge. It is tempting, when faced with an A-level topic we have not taught in a while, to ask the model to “explain breadth-first and depth-first search with an analogy”. The explanation will probably be acceptable. It may even be good. But if we never wrestle with the underlying ideas, if we never expose ourselves to the original sources, we risk hollowing out our own understanding. Daniel Willingham’s line that “memory is the residue of thought” still holds. If the system does all the thinking, not much residue will remain.
+
+That brings us to what we call “digital approximations of practice”. We cannot replace real teaching placements. There is no substitute for standing in front of a room full of pupils and seeing what happens when your beautifully crafted starter activity meets Friday period five. But we can give trainees places to rehearse some of the moves. A behaviour-scenario tool that lets trainees choose what to do next and see the likely consequences gives them a safe space to experiment.
+
+Digital approximations of teaching, feedback and professional judgement have clear promise. Platforms like Proxima, which present classroom scenarios and ask early career teachers to respond, then invite peer critique, hint at a future where simulation supports rather than replaces human interaction. The key is to treat these tools as rehearsal spaces, not as stand-ins for real pupils, real mentors or real colleagues.
+
+In the end, that is the ethical heart of AI in teacher education. If a tutor or mentor could be replaced wholesale by a chatbot, we might ask what value they were adding. But the most important parts of our work – noticing, caring, challenging, encouraging, standing alongside a trainee on a tough day – are not easily replicated. The machines will get better. They already surprise us. They can and should help our trainees think more deeply about teaching. What they must not do is relieve them of the work of thinking altogether.
+
+*Based on a transcript of my talk at the Universities' Council for the Education of Teachers annual conference, 11 November 2025*  
