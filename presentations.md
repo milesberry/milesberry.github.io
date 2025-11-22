@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*20 November 2025* The Future of Digital Learning in Light of the Curriculum and Assessment Review. Chair of panel discussion for EdTech Summit, Schools and Academies Show, Birmingham. With Dr Nic Ponsford, Becci Peters, Julie Carson and Adam Hill.  
+
+*18 November 2025* [AI and digital approximations of practice](https://www.youtube.com/watch?v=ikoDBt_rv4g). Online keynote for AI in Teacher Education Network summit.  
+
 *11 November 2025* [Teacher education and AI](https://www.youtube.com/watch?v=jDJDW0wnuXs). Workshop at Universities' Council for the Education of Teachers annual conference, Leeds.  
 
 *10 November 2025* [AI - a technical and pedagogical briefing](https://docs.google.com/presentation/d/1Ie6VNnzP_-qKg9fEFCUuDCSPrtZVuVWJi0TJTGA2hRU/edit?slide=id.g75a2557942_0_492#slide=id.g75a2557942_0_492). Webinar and workshop for eduthing, Wakefield.
