@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*December 2025* [Is bias baked in?](/2025/12/bias-baked-in/). Afterword for Hedlund, V. (ed) [AI Bias in Education: Providing Critical Oversight](https://www.amazon.co.uk/Bias-Education-Performing-Perspectives-Approaches/dp/B0G3X2NGXW/).  
+
 *September 2025* [Tackling disadvantage in computing](2025/09/tackling-disadvantage/). Sapientia 9.  
 
 *July 2025* [Creativity in computing](2025/07/creativity-computing/). Sapientia 8.  

@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Brief comment on Alpha Schools for [BBC World Service Tech Life, 25/11/25](https://www.bbc.co.uk/sounds/play/w3ct6zpr), from c 13m5s.
+
 Podcast, [the future of tech in education](https://www.youtube.com/watch?v=ZzmSv7967Us), with Al Kingsley and Matt Jessop for Connecting the Dots, 15 March 2025.
 
 [Will AI revive the art of tinkering?](https://pod.httcs.online/e/s2e05/) Podcast for Alan Harrison with Becci Peters for How to Teach Computer Science, 7 March 2025
