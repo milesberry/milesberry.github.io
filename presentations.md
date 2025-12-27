@@ -7,7 +7,11 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
-*28 November 2025* [The foundations, applications and implications of generative AI in education](https://docs.google.com/presentation/d/10OD2sOQSwKLOJo1JROmwS0xndBG-YC8qtEl90n-7Zxw/edit?usp=sharing). Keynote for Sussex Learning Trust INSET, Warden School, Cuckfield. 
+*5 December 2025* [Curriculum and assessment review: first impressions](https://www.youtube.com/watch?v=C5UogDQAP-Q). Keynote at ICT for Education, Newcastle upon Tyne.
+
+*2 December 2025* [The integration of technology into teaching](https://docs.google.com/presentation/d/1dRGAXIom0DOHkvkcoK27MX5nyW93jAZI9klbQi_E39c/edit?slide=id.g3e3f966fa_00#slide=id.g3e3f966fa_00). Lecture to Hubei Provincial Department of Education delegation, hosted by University of West London
+
+*28 November 2025* [The foundations, applications and implications of generative AI in education](https://docs.google.com/presentation/d/10OD2sOQSwKLOJo1JROmwS0xndBG-YC8qtEl90n-7Zxw/edit?usp=sharing). Keynote for Sussex Learning Trust INSET, Warden School, Cuckfield.  
 
 *20 November 2025* The Future of Digital Learning in Light of the Curriculum and Assessment Review. Chair of panel discussion for EdTech Summit, Schools and Academies Show, Birmingham. With Dr Nic Ponsford, Becci Peters, Julie Carson and Adam Hill.  
 
