@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*4 February 2026* [GCSE Computing](https://docs.google.com/presentation/d/1go7-t4xTUH3enVIepaJwZyV8z9kNhXpL1J2WUgJ_Nss/edit?usp=sharing). Webinar for Computing At School.  
+
+*26 January 2026* [GCSE Computing](https://docs.google.com/presentation/d/1Xx0oSPqUdZ1f-QwNuBXkZATX6fM7eTpZ69SBDlewNnc/edit?usp=drive_link). Provocation talk for System Upgrade Required roundtable, The Royal Society.
+
+*10 January 2026* [AI for accessibility and inclusion](https://www.youtube.com/watch?v=hQYuex1t2Rc). Workshop for Innovate - Share - Empower at International School of Monaco, Monte Carlo.  
+
 *5 December 2025* [Curriculum and assessment review: first impressions](https://www.youtube.com/watch?v=C5UogDQAP-Q). Keynote at ICT for Education, Newcastle upon Tyne.
 
 *2 December 2025* [The integration of technology into teaching](https://docs.google.com/presentation/d/1dRGAXIom0DOHkvkcoK27MX5nyW93jAZI9klbQi_E39c/edit?slide=id.g3e3f966fa_00#slide=id.g3e3f966fa_00). Lecture to Hubei Provincial Department of Education delegation, hosted by University of West London
