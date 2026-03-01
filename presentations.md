@@ -7,11 +7,17 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*26 February 2026* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Talk for Year 7, The King Alfred School, London.  
+
+*10 February 2026* [Do it yourself](https://docs.google.com/presentation/d/1gh0rRj4n63xlwiiRtl0xcsoyCSfxPOJhhupaoI1ZfsQ/edit?usp=sharing). Safer Internet Day assembly for Moreland Primary School, Islington.  
+
 *4 February 2026* [GCSE Computing](https://docs.google.com/presentation/d/1go7-t4xTUH3enVIepaJwZyV8z9kNhXpL1J2WUgJ_Nss/edit?usp=sharing). Webinar for Computing At School.  
 
 *26 January 2026* [GCSE Computing](https://docs.google.com/presentation/d/1Xx0oSPqUdZ1f-QwNuBXkZATX6fM7eTpZ69SBDlewNnc/edit?usp=drive_link). Provocation talk for System Upgrade Required roundtable, The Royal Society.
 
 *10 January 2026* [AI for accessibility and inclusion](https://www.youtube.com/watch?v=hQYuex1t2Rc). Workshop for Innovate - Share - Empower at International School of Monaco, Monte Carlo.  
+
+*5 January 2026* [The foundations, applicaitons and implications of AI](https://docs.google.com/presentation/d/1xIanTn0mgBdyknGrtqjDsYkzkMDuvGDlVkiJJduBW74/edit?usp=sharing). Staff INSET for St Olave's School, Orpington.
 
 *5 December 2025* [Curriculum and assessment review: first impressions](https://www.youtube.com/watch?v=C5UogDQAP-Q). Keynote at ICT for Education, Newcastle upon Tyne.
 

@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*March 2026* [Liberator](https://github.com/milesberry/liberator). Web based graphical programming environment for Haskell, online at [milesberry.net/liberator](https://milesberry.net/liberator)
+
+*February 2026* [OCR Exam Reference Language - Blockly](https://github.com/milesberry/ocrerl). Web based graphical programming environment for OCR Exam Reference Language, online at [milesberry.net/ocrerl](https://milesberry.net/ocrerl)
+
+*January 2026* System upgrade required: Implications for curriculum, assessment and digital literacy. Insights from a workshop on computing education. London: The Royal Society.
+
 *December 2025* [Is bias baked in?](/2025/12/bias-baked-in/). Afterword for Hedlund, V. (ed) [AI Bias in Education: Providing Critical Oversight](https://www.amazon.co.uk/Bias-Education-Performing-Perspectives-Approaches/dp/B0G3X2NGXW/).  
 
 *September 2025* [Tackling disadvantage in computing](2025/09/tackling-disadvantage/). Sapientia 9.  
