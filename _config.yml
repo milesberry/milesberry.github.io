@@ -40,10 +40,13 @@ links:
     url: /publications
   - title: media
     url: /media-coverage
-  - title: Liberator
-    url: /liberator
   - title: OCRERL
     url: /ocrerl
+  - title: Liberator
+    url: /liberator
+  - title: NetworX
+    url: /networx
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
