@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*March 2026* [Networx](https://github.com/milesberry/networx). Web based network emulator, online at [milesberry.net/networx](https://milesberry.net/networx)
+
 *March 2026* [Liberator](https://github.com/milesberry/liberator). Web based graphical programming environment for Haskell, online at [milesberry.net/liberator](https://milesberry.net/liberator)
 
 *February 2026* [OCR Exam Reference Language - Blockly](https://github.com/milesberry/ocrerl). Web based graphical programming environment for OCR Exam Reference Language, online at [milesberry.net/ocrerl](https://milesberry.net/ocrerl)

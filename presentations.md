@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*20 March 2026* [Another AI Update](https://docs.google.com/presentation/d/1XeGDVi9ksmiq2tcOxzak6bgL5H1OTdagGXiK-CQQHYY/edit?usp=sharing). Keynote for ICT for Education, Exeter.
+
+*19 March 2026* [Teaching data science and working with data](https://docs.google.com/presentation/d/1XrUBhDIB_eqpaWcIi-6-KPBqjpK8NXWXgRFnRgf_-eU/edit?usp=sharing). Guest lecture for Gloucester SCITT PGCE Computing.  
+
+*11 March 2026* [AI in schools: policy](https://docs.google.com/presentation/d/1uOXu3yJttYc6-q_7lGi128Bd2nsP6ZNSVz8OBHNG3Wo/edit?usp=sharing). Bitesize talk for School of Arts, Humanities and Social Science lunchtime seminar.
+
 *26 February 2026* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Talk for Year 7, The King Alfred School, London.  
 
 *10 February 2026* [Do it yourself](https://docs.google.com/presentation/d/1gh0rRj4n63xlwiiRtl0xcsoyCSfxPOJhhupaoI1ZfsQ/edit?usp=sharing). Safer Internet Day assembly for Moreland Primary School, Islington.  
