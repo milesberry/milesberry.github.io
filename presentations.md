@@ -7,6 +7,19 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*13 May 2026* Latest market trends in global edtech sector 2026-2927. Panel discussion, EdTech World Forum, London, with
+Frydenberg, M. (Chair), Danielsen, M., Grafham, L. & Jacobs, B.
+
+*13 May 2026* [Academic integrity in the generative AI era](https://docs.google.com/presentation/d/1JgTJFzdOg-FCZSnXIBcwXLMx0yA6PfLlQV6oGbaL-gc/edit?usp=sharing). Keynote, EdTech World Forum, London.  
+
+*20 April 2026* [The curriculum and assessment review](https://docs.google.com/presentation/d/1XDVGAaDUnRHfvV8LTi2ASuISCoImilltafpZpELUGKA/edit?usp=sharing). INSET for computing department, Blessed Thomas Holford Catholic College.
+
+*16 April 2026* Assessment after GenAI: what should universities change now, and what should not? Panel discussion, Future Facing Learning, with Sillars, L. (Chair), Kandasamy, G., Opara, C. & Watson, M.
+
+*16 April 2026* [Generative AI: Baymax or Terminator?](https://www.youtube.com/watch?v=1C916MGjrvY) Keynote, Future Facing Learning, Teeside University.
+
+*14 April 2026* [Working with school performance data](https://www.youtube.com/watch?v=Uzm8IzRGf9k). Guest lecture, Ada College, degree apprenticeship students.
+
 *20 March 2026* [Another AI Update](https://docs.google.com/presentation/d/1XeGDVi9ksmiq2tcOxzak6bgL5H1OTdagGXiK-CQQHYY/edit?usp=sharing). Keynote for ICT for Education, Exeter.
 
 *19 March 2026* [Teaching data science and working with data](https://docs.google.com/presentation/d/1XrUBhDIB_eqpaWcIi-6-KPBqjpK8NXWXgRFnRgf_-eU/edit?usp=sharing). Guest lecture for Gloucester SCITT PGCE Computing.  
