@@ -7,6 +7,10 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*May 2026* [A pair of ears in every lesson? Using AI to give trainee teachers richer feedback](https://my.chartered.college/impact_article/a-pair-of-ears-in-every-lesson-using-ai-to-give-trainee-teachers-richer-feedback/). Perspective article for Impact, the journal of the Chartered College of Teaching.
+
+*March 2026* [Proposals for GCSE Computing](https://docs.google.com/document/d/1LZkIizp2xM9jM3bCn9bLiRPVZkXb2OY1lcEZFb91a1k/edit?tab=t.0#heading=h.dj2vwd20x6sb), as chair of the Computing at School GCSE Working Group.
+
 *March 2026* [Networx](https://github.com/milesberry/networx). Web based network emulator, online at [milesberry.net/networx](https://milesberry.net/networx)
 
 *March 2026* [Liberator](https://github.com/milesberry/liberator). Web based graphical programming environment for Haskell, online at [milesberry.net/liberator](https://milesberry.net/liberator)
