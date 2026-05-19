@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*18 May 2026* [Supporting teachers in adopting AI - professional development, guidance and leadership](https://docs.google.com/presentation/d/1LdloaFv5uKp4PNjWjdc9Ei-YCQLUwKCpAr7QHItAzBc/edit?usp=sharing), chair's keynote, Westminster Education Forum policy conference: Next steps for AI in education - classroom use, curriculum pathways, and the future of assessment
+
 *13 May 2026* Latest market trends in global edtech sector 2026-2927. Panel discussion, EdTech World Forum, London, with
 Frydenberg, M. (Chair), Danielsen, M., Grafham, L. & Jacobs, B.
 
