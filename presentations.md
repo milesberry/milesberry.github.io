@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*25 June 2026* [Automating lesson feedback](https://docs.google.com/presentation/d/1YDoAC4hY4sp5TCSk4CewKtqsFWhGtDk9KySf-kb-HJ0/edit?usp=sharing). Presentation at TPEA annual conference, University of Northampton.
+
+*23 June 2026* [AI and the Science Teacher](https://www.youtube.com/watch?v=AH8FndP9wBU). Keynote presentation at 8th ICASE World Conference on Science and Technology Education, University College Cork.
+
+*19 June 2026* [Academic misconduct and academic integrity](https://docs.google.com/presentation/d/1NT5PMUqjt9sG0kuBb2wHliqu3FgJRZC2x3pgpgRRKgc/edit?usp=sharing). Keynote presentation for ISC Digital annual conference, University of Roehampton
+
+*12 June 2026* [(Another) AI update](https://docs.google.com/presentation/d/1XeGDVi9ksmiq2tcOxzak6bgL5H1OTdagGXiK-CQQHYY/edit?usp=sharing). Chair's keynote, ICT for Education, Brighton.
+
+*21 May 2026* [AI in ITE](https://www.youtube.com/watch?v=u0sltLVZ9Fs) Keynote presentation to Roehampton training partners, School of Education Partnerships Day
+
 *18 May 2026* [Supporting teachers in adopting AI - professional development, guidance and leadership](https://docs.google.com/presentation/d/1LdloaFv5uKp4PNjWjdc9Ei-YCQLUwKCpAr7QHItAzBc/edit?usp=sharing), chair's keynote, Westminster Education Forum policy conference: Next steps for AI in education - classroom use, curriculum pathways, and the future of assessment
 
 *13 May 2026* Latest market trends in global edtech sector 2026-2927. Panel discussion, EdTech World Forum, London, with
