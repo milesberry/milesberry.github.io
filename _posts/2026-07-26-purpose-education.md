@@ -2,7 +2,7 @@
 
 layout: post       
 title: "The purpose of education"       
-date: "2026-07-08 12:00:00 +0000"
+date: "2026-07-09 12:00:00 +0000"
 author: Miles Berry
 permalink: /2026/07/purpose-education/
 comments: true
