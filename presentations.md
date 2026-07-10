@@ -7,6 +7,16 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*9 July 2026* [The purpose of education](https://milesberry.net/2026/07/purpose-education/). Remarks at senior school prize giving, Crossfields School, Reading.
+
+*8 July 2026* [AI for accessibility and inclusion](https://docs.google.com/presentation/d/1U8Pv37IXTIkUAE6GBXAjMSKmV8s6MQmYRhFcjvZ62nI/edit?usp=sharing). Plenary presentation for TurnITon professional development event.
+
+*3 July 2026* [AI and the professional formation of teachers](https://www.youtube.com/watch?v=jQ2TpFYA-5g). Keynote presentation for annual mentors' conference, Lincoln Bishop University.
+
+*2 July 2026* AI Bias, Equity and Inspection. Why Being Bias Aware Matters. Panel discussion with Victoria Hedlund (chair), Enora Hauduc, Clare Jarmy, Hannah Widdison, Festival of Education, Wellington College.
+
+*29 June 2026* [A pair of ears in every classroom: AI generated, standard-referenced feedback on lesson transcripts for trainee teachers](https://docs.google.com/presentation/d/1Ik6QZm6YIPnvBcv4_POiaFMYwkawNEOrIKKUNQ2olSU/edit?usp=sharing). Paper at Edulearn26, Palma.  
+
 *25 June 2026* [Automating lesson feedback](https://docs.google.com/presentation/d/1YDoAC4hY4sp5TCSk4CewKtqsFWhGtDk9KySf-kb-HJ0/edit?usp=sharing). Presentation at TPEA annual conference, University of Northampton.
 
 *23 June 2026* [AI and the Science Teacher](https://www.youtube.com/watch?v=AH8FndP9wBU). Keynote presentation at 8th ICASE World Conference on Science and Technology Education, University College Cork.
