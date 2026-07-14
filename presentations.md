@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*14 July 2026* [Curriculum and assessment review](https://docs.google.com/presentation/d/1-6KB8Sru7wZxJrtiHOdH5XdSTU_l04wUPYwbX0pRhhE/edit?usp=sharing). Webinar for BCS ITT scholarship holders.
+
 *9 July 2026* [The purpose of education](https://milesberry.net/2026/07/purpose-education/). Remarks at senior school prize giving, Crossfields School, Reading.
 
 *8 July 2026* [AI for accessibility and inclusion](https://docs.google.com/presentation/d/1U8Pv37IXTIkUAE6GBXAjMSKmV8s6MQmYRhFcjvZ62nI/edit?usp=sharing). Plenary presentation for TurnITon professional development event.
@@ -120,7 +122,7 @@ Frydenberg, M. (Chair), Danielsen, M., Grafham, L. & Jacobs, B.
 
 *30 April 2025* [A single GCSE in computing](https://docs.google.com/presentation/d/1c4eJ0Y7Aew2t6HIS9e89bwuOO7KkVGbWQLd2AsB1198/edit?slide=id.g3e3f966fa_00#slide=id.g3e3f966fa_00). Webinar for Harris Fedration computing leads. 
 
-*22 April 2025* [An overview of the computing curriculum](https://docs.google.com/presentation/d/1FqPuumIaW891oz8lnnpJ8Aods5s8hTjNAUHpd9-o688/edit?usp=sharing). Webinar for BCS Teaching Scholarship holders.
+*22 April 2025* [An overview of the computing curriculum](https://www.youtube.com/watch?v=QMr8r0UmNWo). Webinar for BCS Teaching Scholarship holders.
 
 *15 April 2025* [How a Haskell functional programming club can encourage mathematical discourse](https://pure.roehampton.ac.uk/portal/files/30328795/introduction_workbook.pdf), workbook for participants at a workshop by Martyn Colliver and Ian Benson at joint mathematical subject associations conference, Loughborough University
 
