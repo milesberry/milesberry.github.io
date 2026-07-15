@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pendulum Simulator</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@300;400;500&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #0b0f1a;
+    --panel:     #111827;
+    --border:    #1e2d45;
+    --accent:    #38bdf8;
+    --accent2:   #f472b6;
+    --text:      #e2e8f0;
+    --muted:     #64748b;
+    --rod:       #94a3b8;
+    --bob1:      #38bdf8;
+    --bob2:      #f472b6;
+    --trace1:    #38bdf8;
+    --trace2:    #f472b6;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+  }
+
+  header h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+  }
+
+  header .mode-tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin-left: auto;
+  }
+
+  .tab-btn {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    padding: 0.3rem 0.75rem;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    border-radius: 3px;
+    letter-spacing: 0.05em;
+    transition: all 0.15s;
+  }
+
+  .tab-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
+  }
+
+  .tab-btn:hover:not(.active) {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .main {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  /* CANVAS */
+  .canvas-wrap {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    min-height: 0;
+  }
+
+  canvas {
+    display: block;
+    cursor: crosshair;
+    touch-action: none;
+  }
+
+  .status-bar {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+    background: rgba(11,15,26,0.7);
+    padding: 0.3rem 0.75rem;
+    border-radius: 2px;
+    letter-spacing: 0.05em;
+    pointer-events: none;
+  }
+
+  /* PANEL */
+  .panel {
+    width: 240px;
+    min-width: 200px;
+    border-left: 1px solid var(--border);
+    background: var(--panel);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    padding: 1rem;
+    gap: 1.25rem;
+  }
+
+  .panel-section-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .slider-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 0.65rem;
+  }
+
+  .slider-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .slider-label span:first-child {
+    font-size: 0.75rem;
+    color: var(--text);
+  }
+
+  .slider-value {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--accent);
+  }
+
+  input[type=range] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 3px;
+    background: var(--border);
+    border-radius: 2px;
+    outline: none;
+  }
+
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  input[type=range]::-webkit-slider-thumb:hover {
+    background: #7dd3fc;
+  }
+
+  .bob2-accent input[type=range]::-webkit-slider-thumb {
+    background: var(--accent2);
+  }
+
+  .btn {
+    width: 100%;
+    padding: 0.55rem;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text);
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.15s;
+    text-transform: uppercase;
+  }
+
+  .btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .btn.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
+    font-weight: 700;
+  }
+
+  .btn.primary:hover {
+    background: #7dd3fc;
+    border-color: #7dd3fc;
+    color: var(--bg);
+  }
+
+  .btn.danger {
+    border-color: #ef4444;
+    color: #ef4444;
+  }
+
+  .btn.danger:hover {
+    background: #ef4444;
+    color: white;
+  }
+
+  .energy-bar-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .energy-bar-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .energy-bar-label {
+    font-size: 0.65rem;
+    color: var(--muted);
+    width: 18px;
+    flex-shrink: 0;
+  }
+
+  .energy-bar-track {
+    flex: 1;
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .energy-bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.05s;
+  }
+
+  .energy-bar-fill.ke { background: #facc15; }
+  .energy-bar-fill.pe { background: #a78bfa; }
+  .energy-bar-fill.te { background: var(--accent); }
+
+  .energy-val {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.6rem;
+    color: var(--muted);
+    width: 42px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .hint {
+    font-size: 0.7rem;
+    color: var(--muted);
+    line-height: 1.5;
+    margin-top: -0.5rem;
+  }
+
+  @media (max-width: 600px) {
+    .panel { width: 180px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>PENDULUM SIMULATOR</h1>
+  <div class="mode-tabs">
+    <button class="tab-btn active" id="tab-single">Single</button>
+    <button class="tab-btn" id="tab-double">Double</button>
+  </div>
+</header>
+
+<div class="main">
+  <div class="canvas-wrap">
+    <canvas id="cvs"></canvas>
+    <div class="status-bar" id="status">Drag the bob to set initial position, then Release</div>
+  </div>
+
+  <div class="panel">
+
+    <div>
+      <div class="panel-section-title">Bob 1</div>
+      <div class="slider-row">
+        <div class="slider-label"><span>Mass</span><span class="slider-value" id="val-m1">1.0 kg</span></div>
+        <input type="range" id="sl-m1" min="0.01" max="5" step="0.01" value="1.0">
+      </div>
+      <div class="slider-row">
+        <div class="slider-label"><span>Rod length</span><span class="slider-value" id="val-l1">1.5 m</span></div>
+        <input type="range" id="sl-l1" min="0.3" max="3" step="0.05" value="1.5">
+      </div>
+    </div>
+
+    <div id="bob2-section">
+      <div class="panel-section-title">Bob 2</div>
+      <div class="slider-row bob2-accent">
+        <div class="slider-label"><span>Mass</span><span class="slider-value" id="val-m2">1.0 kg</span></div>
+        <input type="range" id="sl-m2" min="0.01" max="5" step="0.01" value="1.0">
+      </div>
+      <div class="slider-row bob2-accent">
+        <div class="slider-label"><span>Rod length</span><span class="slider-value" id="val-l2">1.5 m</span></div>
+        <input type="range" id="sl-l2" min="0.3" max="3" step="0.05" value="1.5">
+      </div>
+    </div>
+
+    <div>
+      <div class="panel-section-title">Physics</div>
+      <div class="slider-row">
+        <div class="slider-label"><span>Damping</span><span class="slider-value" id="val-damp">0.00</span></div>
+        <input type="range" id="sl-damp" min="0" max="0.5" step="0.01" value="0">
+      </div>
+      <div class="slider-row">
+        <div class="slider-label"><span>Gravity</span><span class="slider-value" id="val-g">9.81 m/s²</span></div>
+        <input type="range" id="sl-g" min="1" max="25" step="0.1" value="9.81">
+      </div>
+    </div>
+
+    <div>
+      <div class="panel-section-title">Energy</div>
+      <div class="energy-bar-wrap">
+        <div class="energy-bar-row">
+          <span class="energy-bar-label" style="color:#facc15">KE</span>
+          <div class="energy-bar-track"><div class="energy-bar-fill ke" id="bar-ke" style="width:0%"></div></div>
+          <span class="energy-val" id="eval-ke">0.00 J</span>
+        </div>
+        <div class="energy-bar-row">
+          <span class="energy-bar-label" style="color:#a78bfa">PE</span>
+          <div class="energy-bar-track"><div class="energy-bar-fill pe" id="bar-pe" style="width:0%"></div></div>
+          <span class="energy-val" id="eval-pe">0.00 J</span>
+        </div>
+        <div class="energy-bar-row">
+          <span class="energy-bar-label" style="color:var(--accent)">E</span>
+          <div class="energy-bar-track"><div class="energy-bar-fill te" id="bar-te" style="width:100%"></div></div>
+          <span class="energy-val" id="eval-te">0.00 J</span>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="panel-section-title">Controls</div>
+      <div style="display:flex;flex-direction:column;gap:0.4rem;">
+        <button class="btn primary" id="btn-run">Release &amp; Run</button>
+        <button class="btn" id="btn-pause">Pause</button>
+        <button class="btn danger" id="btn-reset">Reset</button>
+        <label style="display:flex;align-items:center;gap:0.5rem;font-size:0.72rem;color:var(--muted);cursor:pointer;margin-top:0.25rem">
+          <input type="checkbox" id="chk-trace" checked style="accent-color:var(--accent)"> Show trace
+        </label>
+      </div>
+    </div>
+
+    <div>
+      <p class="hint" id="hint-text">Drag the <span style="color:var(--bob1)">blue bob</span> to set the starting angle, then click <strong>Release &amp; Run</strong>.</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ─── State ───────────────────────────────────────────────────────────────────
+const cvs = document.getElementById('cvs');
+const ctx = cvs.getContext('2d');
+
+let mode = 'single'; // 'single' | 'double'
+let phase = 'setup'; // 'setup' | 'running' | 'paused'
+
+// Pendulum parameters (SI units, scaled for display)
+let params = {
+  m1: 1.0, l1: 1.5,
+  m2: 1.0, l2: 1.5,
+  damp: 0.0, g: 9.81
+};
+
+// State vector: [theta1, omega1, theta2, omega2]
+let state = { th1: Math.PI / 2, om1: 0, th2: Math.PI / 2, om2: 0 };
+let setupState = { th1: Math.PI / 2, th2: Math.PI / 2 }; // angles during drag
+
+const SCALE = 120; // pixels per metre
+let ORIGIN = { x: 0, y: 0 };
+
+// Trace
+const MAX_TRACE = 1200;
+let trace = []; // {x, y} in canvas coords
+
+// Drag
+let dragging = null; // null | 'bob1' | 'bob2'
+
+// Animation
+let lastTime = null;
+let animId = null;
+
+// Energy tracking for bar scaling
+let maxEnergy = 1;
+
+// ─── Canvas sizing ────────────────────────────────────────────────────────────
+function resize() {
+  const wrap = cvs.parentElement;
+  const W = wrap.clientWidth;
+  const H = wrap.clientHeight;
+  cvs.width = W;
+  cvs.height = H;
+  ORIGIN.x = W / 2;
+  ORIGIN.y = H * 0.28;
+}
+
+window.addEventListener('resize', () => { resize(); if (phase !== 'running') draw(); });
+resize();
+
+// ─── RK4 ─────────────────────────────────────────────────────────────────────
+function derivatives(s) {
+  const { th1, om1, th2, om2 } = s;
+  const { m1, m2, l1, l2, g, damp } = params;
+
+  if (mode === 'single') {
+    // Simple pendulum
+    const dth1 = om1;
+    const dom1 = -(g / l1) * Math.sin(th1) - damp * om1;
+    return { th1: dth1, om1: dom1, th2: 0, om2: 0 };
+  }
+
+  // Double pendulum (exact equations)
+  const d = th1 - th2;
+  const sin_d = Math.sin(d);
+  const cos_d = Math.cos(d);
+  const denom = 2 * m1 + m2 - m2 * Math.cos(2 * d);
+
+  const dom1 = (
+    -g * (2 * m1 + m2) * Math.sin(th1)
+    - m2 * g * Math.sin(th1 - 2 * th2)
+    - 2 * sin_d * m2 * (om2 * om2 * l2 + om1 * om1 * l1 * cos_d)
+    - damp * om1 * (2 * m1 + m2)
+  ) / (l1 * denom);
+
+  const dom2 = (
+    2 * sin_d * (
+      om1 * om1 * l1 * (m1 + m2)
+      + g * (m1 + m2) * Math.cos(th1)
+      + om2 * om2 * l2 * m2 * cos_d
+    )
+    - damp * om2 * 2 * (m1 + m2)
+  ) / (l2 * denom);
+
+  return { th1: om1, om1: dom1, th2: om2, om2: dom2 };
+}
+
+function rk4Step(s, dt) {
+  const k1 = derivatives(s);
+  const s2 = {
+    th1: s.th1 + 0.5 * dt * k1.th1, om1: s.om1 + 0.5 * dt * k1.om1,
+    th2: s.th2 + 0.5 * dt * k1.th2, om2: s.om2 + 0.5 * dt * k1.om2
+  };
+  const k2 = derivatives(s2);
+  const s3 = {
+    th1: s.th1 + 0.5 * dt * k2.th1, om1: s.om1 + 0.5 * dt * k2.om1,
+    th2: s.th2 + 0.5 * dt * k2.th2, om2: s.om2 + 0.5 * dt * k2.om2
+  };
+  const k3 = derivatives(s3);
+  const s4 = {
+    th1: s.th1 + dt * k3.th1, om1: s.om1 + dt * k3.om1,
+    th2: s.th2 + dt * k3.th2, om2: s.om2 + dt * k3.om2
+  };
+  const k4 = derivatives(s4);
+  return {
+    th1: s.th1 + (dt / 6) * (k1.th1 + 2*k2.th1 + 2*k3.th1 + k4.th1),
+    om1: s.om1 + (dt / 6) * (k1.om1 + 2*k2.om1 + 2*k3.om1 + k4.om1),
+    th2: s.th2 + (dt / 6) * (k1.th2 + 2*k2.th2 + 2*k3.th2 + k4.th2),
+    om2: s.om2 + (dt / 6) * (k1.om2 + 2*k2.om2 + 2*k3.om2 + k4.om2),
+  };
+}
+
+// ─── Geometry ─────────────────────────────────────────────────────────────────
+function bobPositions(s) {
+  const x1 = ORIGIN.x + params.l1 * SCALE * Math.sin(s.th1);
+  const y1 = ORIGIN.y + params.l1 * SCALE * Math.cos(s.th1);
+  const x2 = x1 + params.l2 * SCALE * Math.sin(s.th2);
+  const y2 = y1 + params.l2 * SCALE * Math.cos(s.th2);
+  return { x1, y1, x2, y2 };
+}
+
+// ─── Energy ──────────────────────────────────────────────────────────────────
+function computeEnergy(s) {
+  const { m1, m2, l1, l2, g } = params;
+  const { th1, om1, th2, om2 } = s;
+  const x1 = l1 * Math.sin(th1), y1 = -l1 * Math.cos(th1);
+  const x2 = x1 + l2 * Math.sin(th2), y2 = y1 - l2 * Math.cos(th2);
+  const v1sq = (l1 * om1) ** 2;
+  const v2x = l1 * om1 * Math.cos(th1) + l2 * om2 * Math.cos(th2);
+  const v2y = l1 * om1 * Math.sin(th1) + l2 * om2 * Math.sin(th2);
+  const v2sq = v2x * v2x + v2y * v2y;
+  const ke = 0.5 * m1 * v1sq + 0.5 * m2 * v2sq;
+  const pe = m1 * g * y1 + m2 * g * y2;
+  return { ke, pe, te: ke + pe };
+}
+
+function updateEnergyUI(s) {
+  const { ke, pe, te } = computeEnergy(s);
+  if (Math.abs(te) > maxEnergy) maxEnergy = Math.abs(te) * 1.2;
+  const pct = v => Math.min(100, Math.abs(v) / maxEnergy * 100).toFixed(1) + '%';
+  document.getElementById('bar-ke').style.width = pct(ke);
+  document.getElementById('bar-pe').style.width = pct(pe);
+  document.getElementById('bar-te').style.width = pct(te);
+  document.getElementById('eval-ke').textContent = ke.toFixed(2) + ' J';
+  document.getElementById('eval-pe').textContent = pe.toFixed(2) + ' J';
+  document.getElementById('eval-te').textContent = te.toFixed(2) + ' J';
+}
+
+// ─── Drawing ──────────────────────────────────────────────────────────────────
+function draw() {
+  const W = cvs.width, H = cvs.height;
+  ctx.clearRect(0, 0, W, H);
+
+  // Subtle grid
+  ctx.strokeStyle = 'rgba(30,45,69,0.5)';
+  ctx.lineWidth = 1;
+  const step = 60;
+  for (let x = ORIGIN.x % step; x < W; x += step) {
+    ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
+  }
+  for (let y = ORIGIN.y % step; y < H; y += step) {
+    ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke();
+  }
+
+  // Pivot cross
+  ctx.strokeStyle = '#334155';
+  ctx.lineWidth = 1.5;
+  ctx.beginPath(); ctx.moveTo(ORIGIN.x - 10, ORIGIN.y); ctx.lineTo(ORIGIN.x + 10, ORIGIN.y); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(ORIGIN.x, ORIGIN.y - 10); ctx.lineTo(ORIGIN.x, ORIGIN.y + 10); ctx.stroke();
+
+  const currentState = phase === 'setup'
+    ? { th1: setupState.th1, om1: 0, th2: setupState.th2, om2: 0 }
+    : state;
+  const { x1, y1, x2, y2 } = bobPositions(currentState);
+
+  // Trace
+  if (document.getElementById('chk-trace').checked && trace.length > 1) {
+    const traceColor = mode === 'double' ? '244,114,182' : '56,189,248';
+    for (let i = 1; i < trace.length; i++) {
+      const alpha = (i / trace.length) * 0.7;
+      ctx.strokeStyle = `rgba(${traceColor},${alpha})`;
+      ctx.lineWidth = 1.2;
+      ctx.beginPath();
+      ctx.moveTo(trace[i-1].x, trace[i-1].y);
+      ctx.lineTo(trace[i].x, trace[i].y);
+      ctx.stroke();
+    }
+  }
+
+  // Bob radius by mass
+  const r1 = 6 + params.m1 * 3;
+  const r2 = 6 + params.m2 * 3;
+
+  // Rod 1 (with subtle shadow glow)
+  ctx.shadowColor = '#38bdf840';
+  ctx.shadowBlur = 8;
+  ctx.strokeStyle = '#94a3b8';
+  ctx.lineWidth = 2.5;
+  ctx.beginPath(); ctx.moveTo(ORIGIN.x, ORIGIN.y); ctx.lineTo(x1, y1); ctx.stroke();
+
+  // Bob 1
+  ctx.beginPath(); ctx.arc(x1, y1, r1, 0, Math.PI * 2);
+  const g1 = ctx.createRadialGradient(x1 - r1*0.3, y1 - r1*0.3, r1*0.1, x1, y1, r1);
+  g1.addColorStop(0, '#7dd3fc'); g1.addColorStop(1, '#0284c7');
+  ctx.fillStyle = g1; ctx.fill();
+
+  if (mode === 'double') {
+    // Rod 2
+    ctx.strokeStyle = '#94a3b8';
+    ctx.lineWidth = 2.5;
+    ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke();
+
+    // Bob 2
+    ctx.beginPath(); ctx.arc(x2, y2, r2, 0, Math.PI * 2);
+    const g2 = ctx.createRadialGradient(x2 - r2*0.3, y2 - r2*0.3, r2*0.1, x2, y2, r2);
+    g2.addColorStop(0, '#f9a8d4'); g2.addColorStop(1, '#be185d');
+    ctx.fillStyle = g2; ctx.fill();
+  }
+  ctx.shadowBlur = 0;
+
+  // Setup mode angle arc
+  if (phase === 'setup') {
+    ctx.strokeStyle = 'rgba(56,189,248,0.25)';
+    ctx.lineWidth = 1;
+    ctx.setLineDash([3, 5]);
+    ctx.beginPath(); ctx.arc(ORIGIN.x, ORIGIN.y, params.l1 * SCALE, 0, Math.PI * 2); ctx.stroke();
+    if (mode === 'double') {
+      ctx.strokeStyle = 'rgba(244,114,182,0.2)';
+      ctx.beginPath(); ctx.arc(x1, y1, params.l2 * SCALE, 0, Math.PI * 2); ctx.stroke();
+    }
+    ctx.setLineDash([]);
+  }
+
+  // Angle label
+  ctx.fillStyle = '#64748b';
+  ctx.font = '11px Space Mono, monospace';
+  const deg1 = (currentState.th1 * 180 / Math.PI).toFixed(1);
+  ctx.fillText(`θ₁ = ${deg1}°`, ORIGIN.x + 12, ORIGIN.y - 8);
+  if (mode === 'double') {
+    const deg2 = (currentState.th2 * 180 / Math.PI).toFixed(1);
+    ctx.fillText(`θ₂ = ${deg2}°`, x1 + 10, y1 - 6);
+  }
+
+  updateEnergyUI(currentState);
+}
+
+// ─── Animation loop ───────────────────────────────────────────────────────────
+const SUBSTEPS = 8;
+const DT = 1 / 60 / SUBSTEPS;
+
+function loop(ts) {
+  if (!lastTime) lastTime = ts;
+  const elapsed = Math.min((ts - lastTime) / 1000, 0.05);
+  lastTime = ts;
+
+  const steps = Math.round(elapsed / (1/60)) * SUBSTEPS || SUBSTEPS;
+  for (let i = 0; i < steps; i++) {
+    state = rk4Step(state, DT);
+  }
+
+  const { x2, y2, x1, y1 } = bobPositions(state);
+  const tracePoint = mode === 'double' ? { x: x2, y: y2 } : { x: x1, y: y1 };
+  trace.push(tracePoint);
+  if (trace.length > MAX_TRACE) trace.shift();
+
+  draw();
+  animId = requestAnimationFrame(loop);
+}
+
+// ─── Drag ────────────────────────────────────────────────────────────────────
+function canvasPoint(e) {
+  const rect = cvs.getBoundingClientRect();
+  const src = e.touches ? e.touches[0] : e;
+  return { x: src.clientX - rect.left, y: src.clientY - rect.top };
+}
+
+function hitBob(pt, bx, by, r) {
+  return Math.hypot(pt.x - bx, pt.y - by) < r + 12;
+}
+
+function startDrag(e) {
+  if (phase !== 'setup') return;
+  const pt = canvasPoint(e);
+  const pos = bobPositions({ th1: setupState.th1, om1: 0, th2: setupState.th2, om2: 0 });
+  const r1 = 6 + params.m1 * 3, r2 = 6 + params.m2 * 3;
+
+  if (mode === 'double' && hitBob(pt, pos.x2, pos.y2, r2)) {
+    dragging = 'bob2';
+  } else if (hitBob(pt, pos.x1, pos.y1, r1)) {
+    dragging = 'bob1';
+  }
+  if (dragging) e.preventDefault();
+}
+
+function moveDrag(e) {
+  if (!dragging) return;
+  e.preventDefault();
+  const pt = canvasPoint(e);
+  if (dragging === 'bob1') {
+    const dx = pt.x - ORIGIN.x, dy = pt.y - ORIGIN.y;
+    setupState.th1 = Math.atan2(dx, dy);
+  } else {
+    const pos = bobPositions({ th1: setupState.th1, om1: 0, th2: setupState.th2, om2: 0 });
+    const dx = pt.x - pos.x1, dy = pt.y - pos.y1;
+    setupState.th2 = Math.atan2(dx, dy);
+  }
+  draw();
+}
+
+function endDrag() { dragging = null; }
+
+cvs.addEventListener('mousedown', startDrag);
+cvs.addEventListener('mousemove', moveDrag);
+cvs.addEventListener('mouseup', endDrag);
+cvs.addEventListener('touchstart', startDrag, { passive: false });
+cvs.addEventListener('touchmove', moveDrag, { passive: false });
+cvs.addEventListener('touchend', endDrag);
+
+// ─── Controls ─────────────────────────────────────────────────────────────────
+function setPhase(p) {
+  phase = p;
+  document.getElementById('status').textContent =
+    p === 'setup' ? 'Drag the bob(s) to set initial position, then Release' :
+    p === 'running' ? 'Running — use Pause or Reset' : 'Paused';
+  document.getElementById('btn-run').disabled = p === 'running';
+  document.getElementById('btn-pause').textContent = p === 'paused' ? 'Resume' : 'Pause';
+}
+
+document.getElementById('btn-run').addEventListener('click', () => {
+  if (phase === 'running') return;
+  if (phase === 'setup') {
+    state = { th1: setupState.th1, om1: 0, th2: setupState.th2, om2: 0 };
+    trace = [];
+    maxEnergy = 1;
+  }
+  setPhase('running');
+  lastTime = null;
+  if (animId) cancelAnimationFrame(animId);
+  animId = requestAnimationFrame(loop);
+});
+
+document.getElementById('btn-pause').addEventListener('click', () => {
+  if (phase === 'running') {
+    cancelAnimationFrame(animId); animId = null;
+    setPhase('paused');
+  } else if (phase === 'paused') {
+    setPhase('running');
+    lastTime = null;
+    animId = requestAnimationFrame(loop);
+  }
+});
+
+document.getElementById('btn-reset').addEventListener('click', () => {
+  if (animId) { cancelAnimationFrame(animId); animId = null; }
+  setupState = { th1: Math.PI / 2, th2: Math.PI / 2 };
+  trace = [];
+  maxEnergy = 1;
+  setPhase('setup');
+  draw();
+});
+
+// ─── Sliders ─────────────────────────────────────────────────────────────────
+function bindSlider(id, valId, key, fmt) {
+  const el = document.getElementById(id);
+  const vEl = document.getElementById(valId);
+  el.addEventListener('input', () => {
+    params[key] = parseFloat(el.value);
+    vEl.textContent = fmt(params[key]);
+    if (phase !== 'running') draw();
+  });
+  vEl.textContent = fmt(params[key]);
+}
+
+bindSlider('sl-m1', 'val-m1', 'm1', v => v.toFixed(1) + ' kg');
+bindSlider('sl-l1', 'val-l1', 'l1', v => v.toFixed(2) + ' m');
+bindSlider('sl-m2', 'val-m2', 'm2', v => v.toFixed(1) + ' kg');
+bindSlider('sl-l2', 'val-l2', 'l2', v => v.toFixed(2) + ' m');
+bindSlider('sl-damp', 'val-damp', 'damp', v => v.toFixed(2));
+bindSlider('sl-g', 'val-g', 'g', v => v.toFixed(2) + ' m/s²');
+
+// ─── Mode tabs ────────────────────────────────────────────────────────────────
+function setMode(m) {
+  mode = m;
+  document.getElementById('tab-single').classList.toggle('active', m === 'single');
+  document.getElementById('tab-double').classList.toggle('active', m === 'double');
+  document.getElementById('bob2-section').style.display = m === 'double' ? '' : 'none';
+  document.getElementById('hint-text').innerHTML = m === 'double'
+    ? 'Drag <span style="color:var(--bob1)">bob 1</span> or <span style="color:var(--bob2)">bob 2</span> to set angles, then Release & Run.'
+    : 'Drag the <span style="color:var(--bob1)">blue bob</span> to set the starting angle, then Release & Run.';
+  if (animId) { cancelAnimationFrame(animId); animId = null; }
+  setupState = { th1: Math.PI / 2, th2: Math.PI / 2 };
+  trace = [];
+  maxEnergy = 1;
+  setPhase('setup');
+  draw();
+}
+
+document.getElementById('tab-single').addEventListener('click', () => setMode('single'));
+document.getElementById('tab-double').addEventListener('click', () => setMode('double'));
+
+// ─── Init ─────────────────────────────────────────────────────────────────────
+setMode('single');
+setPhase('setup');
+draw();
+</script>
+</body>
+</html>
