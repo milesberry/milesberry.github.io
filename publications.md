@@ -7,6 +7,8 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
+*July 2026* [A pair of ears in every lesson? AI generated, standard-referenced feedback on lesson transcripts for trainee teachers](https://doi.org/10.21125/edulearn.2026.0464). Edulearn Proceedings, Article 0464. https://doi.org/10.21125/edulearn.2026.0464
+
 *May 2026* [A pair of ears in every lesson? Using AI to give trainee teachers richer feedback](https://my.chartered.college/impact_article/a-pair-of-ears-in-every-lesson-using-ai-to-give-trainee-teachers-richer-feedback/). Perspective article for Impact, the journal of the Chartered College of Teaching.
 
 *March 2026* [Proposals for GCSE Computing](https://docs.google.com/document/d/1LZkIizp2xM9jM3bCn9bLiRPVZkXb2OY1lcEZFb91a1k/edit?tab=t.0#heading=h.dj2vwd20x6sb), as chair of the Computing at School GCSE Working Group.
