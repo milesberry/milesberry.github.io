@@ -7,7 +7,7 @@ layout: page
 guid: http://milesberry.net/?page_id=716
 ---
 
-*July 2026* [A pair of ears in every lesson? AI generated, standard-referenced feedback on lesson transcripts for trainee teachers](https://doi.org/10.21125/edulearn.2026.0464). Edulearn Proceedings, Article 0464. https://doi.org/10.21125/edulearn.2026.0464
+*July 2026* [A pair of ears in every lesson? AI generated, standard-referenced feedback on lesson transcripts for trainee teachers](https://doi.org/10.21125/edulearn.2026.0464). Edulearn26 Proceedings, Article 0464. https://doi.org/10.21125/edulearn.2026.0464
 
 *May 2026* [A pair of ears in every lesson? Using AI to give trainee teachers richer feedback](https://my.chartered.college/impact_article/a-pair-of-ears-in-every-lesson-using-ai-to-give-trainee-teachers-richer-feedback/). Perspective article for Impact, the journal of the Chartered College of Teaching.
 
