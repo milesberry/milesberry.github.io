@@ -7,6 +7,12 @@ layout: page
 guid: http://milesberry.net/?page_id=718
 ---
 
+*30 September 2026* [Vibe coding and what it means for computing education](https://www.youtube.com/watch?v=7wnuBuj8owA). Keynote presentation for 4th Tech Summit on Artificial Intelligence & Robotics, Paris. 
+
+*23 September 2026* [Computing the Cost](https://docs.google.com/presentation/d/1r5iWunBKo50KI00ti3uVeiConQeskRfp8Xo0FmnXaWQ/edit?usp=drive_link). Presentation on ESRC Digital Good Network blueprint project on sustainable AI in schools for Roehampton Educational Research Centre.
+
+*21 September 2026* [Generative AI](https://docs.google.com/presentation/d/1g_UtS3Gy7lupPhJNovKlWYwkWaP7r0O3o-Q6tJ543_0/edit?usp=sharing). Workshop for Year 7 pupils at The King Alfred School.
+
 *14 July 2026* [Curriculum and assessment review](https://docs.google.com/presentation/d/1-6KB8Sru7wZxJrtiHOdH5XdSTU_l04wUPYwbX0pRhhE/edit?usp=sharing). Webinar for BCS ITT scholarship holders.
 
 *9 July 2026* [The purpose of education](https://milesberry.net/2026/07/purpose-education/). Remarks at senior school prize giving, Crossfields School, Reading.
