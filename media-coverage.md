@@ -13,6 +13,8 @@ guid: http://milesberry.net/?page_id=1169
 
 ### Quotes and other media coverage:
 
+Video podcast, [Do Students Actually Care About AI Feedback?](https://www.youtube.com/watch?v=Yen9zqaUWVI) for Good Future Foundation, 27/10/26
+
 Video podcast, [AI: Where does AI belong in primary education?](https://www.youtube.com/watch?v=S4bwWe17mMI) for Kapow Primary, 14/1/26
 
 Brief comment on Alpha Schools for [BBC World Service Tech Life, 25/11/25](https://www.bbc.co.uk/sounds/play/w3ct6zpr), from c 13m5s, 25/11/25.
