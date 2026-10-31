@@ -10,8 +10,6 @@ image:
      feature: 261024.jpg
 ---
 
-# Wiring up functions: Liberator, vibe coding and a room full of maths teachers
-
 My first real programming happened in a maths prep room, on the head of maths' Sharp MZ80K. I've never quite lost the sense that computers are for *doing* mathematics, not just for learning or teaching it. That conviction is behind **Liberator**, a visual environment for programming in Haskell that Claude has built for me this year, which you can try at [milesberry.net/liberator](https://milesberry.net/liberator).
 
 ## Why Haskell, and why wires?
