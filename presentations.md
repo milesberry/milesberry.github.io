@@ -11,7 +11,7 @@ guid: http://milesberry.net/?page_id=718
 
 *23 October 2026* [Liberator: Visual functional programming as a bridge between secondary mathematics and computer science](https://drive.google.com/drive/folders/1LgsONxCLT6G6KYnGprl522Z2uZtopkF8?usp=sharing). BCME10, University of Nottingham.  
 
-*16 October 2026* [Academic misconduct and academic integrity](https://docs.google.com/presentation/d/1jryY0djTWzO9ml4xK_sJ6CQ98XWX53Vk86Xoe3sXJm4/edit?usp=sharing). Practical Pedgogies, International School of Toulouse.  
+*16 October 2026* [Academic misconduct and academic integrity](https://docs.google.com/presentation/d/1jryY0djTWzO9ml4xK_sJ6CQ98XWX53Vk86Xoe3sXJm4/edit?usp=sharing). Practical Pedagogies, International School of Toulouse.  
 
 *30 September 2026* [Vibe coding and what it means for computing education](https://www.youtube.com/watch?v=7wnuBuj8owA). Keynote presentation for 4th Tech Summit on Artificial Intelligence & Robotics, Paris. 
 

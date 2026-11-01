@@ -1,7 +1,7 @@
 ---       
 
 layout: post       
-title: "Wiring up functions: Liberator, vibe coding and a room full of maths teachers"       
+title: "Wiring up functions: Liberator, vibe coding and a room of maths teachers"       
 date: "2026-10-24 12:00:00 +0000"
 author: Miles Berry
 permalink: /2026/10/liberator/
@@ -32,7 +32,7 @@ That, for me, is the real interest of vibe coding. Liberator is a niche tool: a 
 
 A few things struck me. The first is that domain knowledge matters more, not less. The AI could implement anything I could describe, but knowing *what* to describe, what a sixth-former needs to see and where Haskell's ideas should show through rather than be smoothed over, was entirely on my side of the table. The second is that the AI is a good tester of its own work when asked. Checking every built-in example's exported Haskell in GHC turned up a bug I'd never have spotted, where one example produced code that ran forever. The third is that saying no is part of the job. When the AI suggested moving function definitions off the canvas into a palette, as Snap! does, I declined: it would have moved Liberator away from Haskell, where a definition is something you can see. The tool is only as good as the judgements of the person steering it.
 
-## BCME10: the power of a room full of teachers
+## BCME10: the power of a room of teachers
 
 The real test came at BCME10, the British Congress of Mathematics Education, where I ran a session with maths teachers. They built programs, chained function machines, and tried writing recursive functions. They were generous, sharp and honest. Within minutes they'd found the rough edges I'd stopped noticing:
 
