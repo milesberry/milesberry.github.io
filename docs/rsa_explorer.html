@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSA Public-Key Cryptography Explorer</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <style>
+    /* Theme-aware semantic accents (never override :root host variables) */
+    .tone-public {
+      color: #34d399;
+      background-color: rgba(16, 185, 129, 0.12);
+      border-color: rgba(52, 211, 153, 0.35);
+    }
+    html.light .tone-public {
+      color: #047857;
+      background-color: rgba(16, 185, 129, 0.10);
+      border-color: rgba(5, 150, 105, 0.30);
+    }
+
+    .tone-secret {
+      color: #fb7185;
+      background-color: rgba(244, 63, 94, 0.12);
+      border-color: rgba(251, 113, 133, 0.35);
+    }
+    html.light .tone-secret {
+      color: #be123c;
+      background-color: rgba(244, 63, 94, 0.08);
+      border-color: rgba(225, 29, 72, 0.28);
+    }
+
+    .tone-warn {
+      color: #fbbf24;
+      background-color: rgba(245, 158, 11, 0.12);
+      border-color: rgba(251, 191, 36, 0.35);
+    }
+    html.light .tone-warn {
+      color: #b45309;
+      background-color: rgba(245, 158, 11, 0.10);
+      border-color: rgba(217, 119, 6, 0.30);
+    }
+
+    .tone-info {
+      color: #60a5fa;
+      background-color: rgba(59, 130, 246, 0.12);
+      border-color: rgba(96, 165, 250, 0.35);
+    }
+    html.light .tone-info {
+      color: #1d4ed8;
+      background-color: rgba(59, 130, 246, 0.08);
+      border-color: rgba(37, 99, 235, 0.28);
+    }
+
+    .text-public { color: #34d399; }
+    html.light .text-public { color: #047857; }
+    .text-secret { color: #fb7185; }
+    html.light .text-secret { color: #be123c; }
+    .text-warn { color: #fbbf24; }
+    html.light .text-warn { color: #b45309; }
+    .text-info { color: #60a5fa; }
+    html.light .text-info { color: #1d4ed8; }
+
+    /* Modern validation styling after interaction */
+    input.rsa-input:user-invalid,
+    input.rsa-input[aria-invalid="true"] {
+      border-color: #f43f5e;
+      box-shadow: 0 0 0 2px rgba(244, 63, 94, 0.18);
+    }
+
+    .blur-secret {
+      filter: blur(7px);
+      user-select: none;
+      transition: filter 0.2s ease;
+    }
+    .blur-secret:hover {
+      filter: blur(5px);
+    }
+
+    /* Subtle pulse when keys regenerate */
+    @keyframes flashRing {
+      0% { box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.45); }
+      100% { box-shadow: 0 0 0 10px rgba(59, 130, 246, 0); }
+    }
+    .key-flash {
+      animation: flashRing 0.55s ease-out;
+    }
+
+    .tabular-nums {
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* Clean scrollbar for code & tables */
+    .thin-scroll::-webkit-scrollbar { height: 6px; width: 6px; }
+    .thin-scroll::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 9999px;
+    }
+  </style>
+</head>
+<body class="bg-[var(--background)] text-[var(--foreground)] antialiased min-h-screen">
+  <div class="max-w-5xl mx-auto px-4 py-6 sm:px-6 space-y-6">
+
+    <!-- Header -->
+    <header class="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between border-b border-[var(--border)] pb-5">
+      <div class="space-y-1.5">
+        <div class="inline-flex items-center gap-2 text-xs font-medium px-2.5 py-1 rounded-full border tone-info">
+          <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+          Teachable RSA Explorer
+        </div>
+        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-[var(--foreground)]">
+          RSA Public-Key Cryptography
+        </h1>
+        <p class="text-sm text-[var(--muted-foreground)] max-w-2xl">
+          Pick two primes yourself or call <code class="font-mono text-xs px-1.5 py-0.5 rounded bg-[var(--content)] border border-[var(--border)]">keygen(N)</code>, inspect how the public and private keys are built with <code class="font-mono text-xs px-1.5 py-0.5 rounded bg-[var(--content)] border border-[var(--border)]">multinv</code>, then encrypt, decrypt, and test how hard it is to crack.
+        </p>
+      </div>
+
+      <!-- Classroom Presets -->
+      <div class="flex flex-wrap items-center gap-1.5" role="group" aria-label="Notebook presets">
+        <span class="text-xs text-[var(--muted-foreground)] mr-1">Presets:</span>
+        <button type="button" data-preset="notebook-small" class="preset-btn text-xs font-medium px-2.5 py-1.5 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] transition cursor-pointer">
+          47 &times; 61 (Notebook)
+        </button>
+        <button type="button" data-preset="warmup" class="preset-btn text-xs font-medium px-2.5 py-1.5 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] transition cursor-pointer">
+          23 &times; 107
+        </button>
+        <button type="button" data-preset="notebook-large" class="preset-btn text-xs font-medium px-2.5 py-1.5 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] transition cursor-pointer">
+          keygen(10&#x2076;) Example
+        </button>
+      </div>
+    </header>
+
+    <!-- STEP 1: Choose Primes OR Run keygen(N) -->
+    <section aria-labelledby="step1-heading" class="bg-[var(--card)] border border-[var(--border)] rounded-2xl p-5 shadow-sm space-y-5">
+      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+        <div class="flex items-center gap-2.5">
+          <span class="w-7 h-7 rounded-full bg-[var(--primary)] text-[var(--primary-foreground)] text-xs font-bold flex items-center justify-center shrink-0">1</span>
+          <div>
+            <h2 id="step1-heading" class="text-base font-semibold text-[var(--foreground)]">Choose Your Two Secret Primes</h2>
+            <p class="text-xs text-[var(--muted-foreground)]">Enter any pair of distinct prime numbers, or let <code class="font-mono">keygen(N)</code> pick them for you.</p>
+          </div>
+        </div>
+
+        <!-- Mode Switcher -->
+        <div class="inline-flex p-1 rounded-xl bg-[var(--content)] border border-[var(--border)] self-start sm:self-auto" role="tablist" aria-label="Prime selection mode">
+          <button type="button" id="mode-pick-btn" role="tab" aria-selected="true" aria-controls="panel-pick"
+            class="mode-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer bg-[var(--primary)] text-[var(--primary-foreground)]">
+            Pick Primes (p, q)
+          </button>
+          <button type="button" id="mode-keygen-btn" role="tab" aria-selected="false" aria-controls="panel-keygen"
+            class="mode-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer text-[var(--muted-foreground)] hover:text-[var(--foreground)]">
+            Use keygen(N)
+          </button>
+        </div>
+      </div>
+
+      <!-- Mode Panel A: Pick Primes -->
+      <div id="panel-pick" role="tabpanel" aria-labelledby="mode-pick-btn" class="space-y-4">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <!-- Prime p -->
+          <div class="space-y-1.5">
+            <div class="flex items-center justify-between">
+              <label for="input-p" class="text-sm font-medium text-[var(--foreground)]">
+                First prime <span class="font-mono text-secret font-semibold">p</span>
+              </label>
+              <span id="hint-p" class="text-xs text-[var(--muted-foreground)]">Must be prime (e.g. 47)</span>
+            </div>
+            <div class="flex gap-2">
+              <input id="input-p" type="text" inputmode="numeric" value="47" autocomplete="off"
+                aria-describedby="hint-p status-p"
+                class="rsa-input secret-val flex-1 font-mono tabular-nums text-sm px-3 py-2 rounded-xl bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+              <button type="button" id="fix-p-btn" class="hidden text-xs font-medium px-2.5 py-1.5 rounded-xl border tone-info hover:opacity-90 transition cursor-pointer whitespace-nowrap">
+                Nearest prime
+              </button>
+            </div>
+            <div id="status-p" class="text-xs min-h-[1.25rem] flex items-center gap-1.5" aria-live="polite"></div>
+          </div>
+
+          <!-- Prime q -->
+          <div class="space-y-1.5">
+            <div class="flex items-center justify-between">
+              <label for="input-q" class="text-sm font-medium text-[var(--foreground)]">
+                Second prime <span class="font-mono text-secret font-semibold">q</span>
+              </label>
+              <span id="hint-q" class="text-xs text-[var(--muted-foreground)]">Distinct prime (e.g. 61)</span>
+            </div>
+            <div class="flex gap-2">
+              <input id="input-q" type="text" inputmode="numeric" value="61" autocomplete="off"
+                aria-describedby="hint-q status-q"
+                class="rsa-input secret-val flex-1 font-mono tabular-nums text-sm px-3 py-2 rounded-xl bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+              <button type="button" id="fix-q-btn" class="hidden text-xs font-medium px-2.5 py-1.5 rounded-xl border tone-info hover:opacity-90 transition cursor-pointer whitespace-nowrap">
+                Nearest prime
+              </button>
+            </div>
+            <div id="status-q" class="text-xs min-h-[1.25rem] flex items-center gap-1.5" aria-live="polite"></div>
+          </div>
+        </div>
+
+        <!-- Quick Prime Palette -->
+        <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3 space-y-2">
+          <div class="flex flex-wrap items-center justify-between gap-2">
+            <span class="text-xs font-medium text-[var(--muted-foreground)]">
+              Quick prime palette &mdash; click a prime to set
+              <span id="palette-target-label" class="font-mono font-bold text-secret">p</span>
+            </span>
+            <div class="inline-flex items-center gap-1">
+              <button type="button" id="target-p-btn" class="text-xs font-mono px-2 py-0.5 rounded-md border border-[var(--border)] bg-[var(--primary)] text-[var(--primary-foreground)] cursor-pointer">Setting p</button>
+              <button type="button" id="target-q-btn" class="text-xs font-mono px-2 py-0.5 rounded-md border border-[var(--border)] bg-[var(--card)] text-[var(--muted-foreground)] cursor-pointer">Setting q</button>
+              <button type="button" id="swap-pq-btn" title="Swap p and q" class="text-xs px-2 py-0.5 rounded-md border border-[var(--border)] bg-[var(--card)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer ml-1">&harr; Swap</button>
+            </div>
+          </div>
+          <div id="prime-chips" class="flex flex-wrap gap-1.5"></div>
+        </div>
+      </div>
+
+      <!-- Mode Panel B: keygen(N) -->
+      <div id="panel-keygen" role="tabpanel" aria-labelledby="mode-keygen-btn" class="hidden space-y-4">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-end">
+          <div class="md:col-span-7 space-y-1.5">
+            <div class="flex items-center justify-between">
+              <label for="input-keygen-n" class="text-sm font-medium text-[var(--foreground)]">
+                Upper bound <code class="font-mono text-info font-semibold">N</code> for <code class="font-mono">keygen(N)</code>
+              </label>
+              <span id="hint-keygen" class="text-xs text-[var(--muted-foreground)]">Generates primes &lt; N</span>
+            </div>
+            <input id="input-keygen-n" type="text" inputmode="numeric" value="1000000" autocomplete="off"
+              aria-describedby="hint-keygen"
+              class="rsa-input w-full font-mono tabular-nums text-sm px-3 py-2 rounded-xl bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+          </div>
+          <div class="md:col-span-5 flex gap-2">
+            <button type="button" id="run-keygen-btn"
+              class="flex-1 inline-flex items-center justify-center gap-2 text-sm font-semibold px-4 py-2.5 rounded-xl bg-[var(--primary)] text-[var(--primary-foreground)] hover:opacity-90 active:scale-[0.99] transition cursor-pointer shadow-sm">
+              <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>
+              </svg>
+              Run keygen(N)
+            </button>
+          </div>
+        </div>
+
+        <!-- Scale presets for N -->
+        <div class="flex flex-wrap items-center gap-1.5">
+          <span class="text-xs text-[var(--muted-foreground)] mr-1">Try scale:</span>
+          <button type="button" data-n="100" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">100</button>
+          <button type="button" data-n="1000" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">1,000</button>
+          <button type="button" data-n="1000000" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">10&#x2076; (Notebook)</button>
+          <button type="button" data-n="100000000" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">10&#x2078; (gen_prime default)</button>
+          <button type="button" data-n="4294967296" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">2&#x00B3;&#x00B2;</button>
+          <button type="button" data-n="18446744073709551616" class="n-preset text-xs font-mono px-2.5 py-1 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">2&#x2076;&#x2074; (Docstring)</button>
+        </div>
+
+        <div id="keygen-output-box" class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3 font-mono text-xs text-[var(--muted-foreground)] overflow-x-auto thin-scroll">
+          Click <strong class="text-[var(--foreground)]">Run keygen(N)</strong> to randomly generate two primes &lt; N and compute <code class="text-[var(--foreground)]">(privkey, pubkey)</code>.
+        </div>
+      </div>
+
+      <!-- Validation Banner (shared across modes) -->
+      <div id="pair-error-banner" class="hidden rounded-xl border p-3 text-xs flex items-start gap-2 tone-warn" role="alert"></div>
+
+      <!-- Public Exponent e Selector -->
+      <div class="pt-3 border-t border-[var(--border)] flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+        <div class="flex flex-wrap items-center gap-2 text-xs">
+          <span class="font-medium text-[var(--muted-foreground)]">Public exponent <code class="font-mono text-public font-semibold">e</code>:</span>
+          <div class="inline-flex flex-wrap gap-1" role="group" aria-label="Public exponent choices">
+            <button type="button" data-e="65537" class="e-chip font-mono px-2 py-1 rounded-lg border border-[var(--border)] bg-[var(--primary)] text-[var(--primary-foreground)] cursor-pointer">65537 (Notebook)</button>
+            <button type="button" data-e="17" class="e-chip font-mono px-2 py-1 rounded-lg border border-[var(--border)] bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer">17</button>
+            <button type="button" data-e="7" class="e-chip font-mono px-2 py-1 rounded-lg border border-[var(--border)] bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer">7</button>
+            <button type="button" data-e="3" class="e-chip font-mono px-2 py-1 rounded-lg border border-[var(--border)] bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer">3</button>
+          </div>
+          <label class="inline-flex items-center gap-1.5 ml-1">
+            <span class="sr-only">Custom exponent e</span>
+            <input id="input-e" type="text" inputmode="numeric" value="65537" autocomplete="off"
+              class="rsa-input w-24 font-mono tabular-nums text-xs px-2 py-1 rounded-lg bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+          </label>
+        </div>
+        <label class="inline-flex items-center gap-2 text-xs text-[var(--muted-foreground)] cursor-pointer select-none">
+          <input id="toggle-hide-secrets" type="checkbox" class="rounded accent-[var(--primary)] cursor-pointer">
+          Classroom mode: hide secret values (p, q, &phi;(n), d)
+        </label>
+      </div>
+    </section>
+
+    <!-- STEP 2: Key Generation Breakdown (Public vs Secret) -->
+    <section id="key-summary-section" aria-labelledby="step2-heading" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <!-- PUBLIC KEY CARD -->
+      <div id="public-key-card" class="bg-[var(--card)] border border-[var(--border)] rounded-2xl p-5 shadow-sm flex flex-col justify-between space-y-4">
+        <div class="space-y-3">
+          <div class="flex items-center justify-between gap-2">
+            <div class="flex items-center gap-2">
+              <span class="w-7 h-7 rounded-full bg-[var(--primary)] text-[var(--primary-foreground)] text-xs font-bold flex items-center justify-center shrink-0">2</span>
+              <h2 id="step2-heading" class="text-base font-semibold text-[var(--foreground)]">Public Key</h2>
+            </div>
+            <span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-0.5 rounded-full border tone-public">
+              <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+                <rect x="3" y="11" width="18" height="11" rx="2"></rect>
+                <path d="M7 11V7a5 5 0 0 1 9.9-1"></path>
+              </svg>
+              Share freely
+            </span>
+          </div>
+          <p class="text-xs text-[var(--muted-foreground)]">
+            Anyone can use this padlock <span class="font-mono">(e, n)</span> to lock (encrypt) a message for you.
+          </p>
+
+          <div class="space-y-2.5">
+            <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3">
+              <div class="flex items-center justify-between text-xs text-[var(--muted-foreground)] mb-1">
+                <span>Modulus <code class="font-mono text-public font-semibold">n = p &times; q</code></span>
+                <span id="n-bits-badge" class="font-mono text-[11px] px-1.5 py-0.5 rounded bg-[var(--card)] border border-[var(--border)]">12 bits</span>
+              </div>
+              <div class="flex items-center justify-between gap-2">
+                <div id="val-n" class="font-mono tabular-nums text-lg font-bold text-[var(--foreground)] break-all">2867</div>
+                <button type="button" data-copy="n" class="copy-btn text-xs px-2 py-1 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] shrink-0 cursor-pointer">Copy</button>
+              </div>
+              <div id="formula-n" class="secret-val text-xs font-mono text-[var(--muted-foreground)] mt-1 break-all">47 &times; 61 = 2867</div>
+            </div>
+
+            <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3">
+              <div class="flex items-center justify-between text-xs text-[var(--muted-foreground)] mb-1">
+                <span>Public exponent <code class="font-mono text-public font-semibold">e</code></span>
+                <span class="text-[11px]">coprime to &phi;(n)</span>
+              </div>
+              <div id="val-e" class="font-mono tabular-nums text-lg font-bold text-[var(--foreground)]">65537</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="text-xs text-[var(--muted-foreground)] bg-[var(--content)] rounded-xl p-2.5 border border-[var(--border)]">
+          <span class="font-semibold text-[var(--foreground)]">Scale check:</span>
+          <span id="security-note">12-bit modulus (tiny &mdash; real-world RSA uses 2048+ bits).</span>
+        </div>
+      </div>
+
+      <!-- PRIVATE KEY CARD -->
+      <div id="private-key-card" class="bg-[var(--card)] border border-[var(--border)] rounded-2xl p-5 shadow-sm flex flex-col justify-between space-y-4">
+        <div class="space-y-3">
+          <div class="flex items-center justify-between gap-2">
+            <h2 class="text-base font-semibold text-[var(--foreground)]">Private Key</h2>
+            <span class="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-0.5 rounded-full border tone-secret">
+              <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+                <rect x="3" y="11" width="18" height="11" rx="2"></rect>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+              </svg>
+              Keep secret!
+            </span>
+          </div>
+          <p class="text-xs text-[var(--muted-foreground)]">
+            Only you know <span class="font-mono">p, q, &phi;(n)</span> and can compute <span class="font-mono">d = multinv(&phi;(n), e)</span> to unlock messages.
+          </p>
+
+          <div class="space-y-2.5">
+            <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3">
+              <div class="flex items-center justify-between text-xs text-[var(--muted-foreground)] mb-1">
+                <span>Euler&rsquo;s totient <code class="font-mono text-secret font-semibold">&phi;(n) = (p &minus; 1)(q &minus; 1)</code></span>
+              </div>
+              <div id="val-phi" class="secret-val font-mono tabular-nums text-base font-bold text-[var(--foreground)] break-all">2760</div>
+              <div id="formula-phi" class="secret-val text-xs font-mono text-[var(--muted-foreground)] mt-1 break-all">(47 &minus; 1) &times; (61 &minus; 1) = 46 &times; 60 = 2760</div>
+            </div>
+
+            <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3">
+              <div class="flex items-center justify-between text-xs text-[var(--muted-foreground)] mb-1">
+                <span>Private exponent <code class="font-mono text-secret font-semibold">d = multinv(&phi;(n), e)</code></span>
+              </div>
+              <div class="flex items-center justify-between gap-2">
+                <div id="val-d" class="secret-val font-mono tabular-nums text-lg font-bold text-[var(--foreground)] break-all">1433</div>
+                <button type="button" data-copy="d" class="copy-btn text-xs px-2 py-1 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] shrink-0 cursor-pointer">Copy</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Proof badge -->
+        <div id="multinv-proof" class="secret-val text-xs font-mono rounded-xl p-2.5 border tone-public break-all">
+          &check; Check: (1433 &times; 65537) mod 2760 = 1
+        </div>
+      </div>
+    </section>
+
+    <!-- Collapsible Extended Euclidean Algorithm Trace -->
+    <details class="bg-[var(--card)] border border-[var(--border)] rounded-2xl shadow-sm group">
+      <summary class="px-5 py-3.5 text-sm font-medium text-[var(--foreground)] cursor-pointer flex items-center justify-between list-none select-none hover:bg-[var(--accent)]/40 rounded-2xl transition">
+        <span class="flex items-center gap-2">
+          <svg class="w-4 h-4 text-info transition-transform group-open:rotate-90" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+          How did <code class="font-mono text-xs px-1.5 py-0.5 rounded bg-[var(--content)] border border-[var(--border)]">multinv(&phi;(n), e)</code> find <code class="font-mono">d</code>? (Extended Euclidean Algorithm trace)
+        </span>
+        <span id="eea-step-count" class="text-xs text-[var(--muted-foreground)] font-mono"></span>
+      </summary>
+      <div class="px-5 pb-5 pt-2 border-t border-[var(--border)] space-y-3">
+        <p class="text-xs text-[var(--muted-foreground)]">
+          This traces the exact <code class="font-mono">while b:</code> loop in the notebook&rsquo;s <code class="font-mono">multinv(modulus, value)</code> function, solving <span class="font-mono">d &times; e &equiv; 1 (mod &phi;(n))</span>.
+        </p>
+        <div class="overflow-x-auto thin-scroll rounded-xl border border-[var(--border)]">
+          <table class="w-full text-left font-mono text-xs tabular-nums">
+            <thead class="bg-[var(--content)] text-[var(--muted-foreground)] border-b border-[var(--border)]">
+              <tr>
+                <th class="px-3 py-2">Step</th>
+                <th class="px-3 py-2">a</th>
+                <th class="px-3 py-2">b</th>
+                <th class="px-3 py-2">q = a // b</th>
+                <th class="px-3 py-2">r = a % b</th>
+                <th class="px-3 py-2">lastx</th>
+                <th class="px-3 py-2">x</th>
+              </tr>
+            </thead>
+            <tbody id="eea-table-body" class="secret-val divide-y divide-[var(--border)]"></tbody>
+          </table>
+        </div>
+        <div id="eea-final-formula" class="secret-val text-xs font-mono bg-[var(--content)] border border-[var(--border)] rounded-xl p-3 break-all"></div>
+      </div>
+    </details>
+
+    <!-- STEP 3: Interactive Experiment Playground -->
+    <section aria-labelledby="step3-heading" class="bg-[var(--card)] border border-[var(--border)] rounded-2xl p-5 shadow-sm space-y-5">
+      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 border-b border-[var(--border)] pb-4">
+        <div class="flex items-center gap-2.5">
+          <span class="w-7 h-7 rounded-full bg-[var(--primary)] text-[var(--primary-foreground)] text-xs font-bold flex items-center justify-center shrink-0">3</span>
+          <div>
+            <h2 id="step3-heading" class="text-base font-semibold text-[var(--foreground)]">Experiment With Your Keys</h2>
+            <p class="text-xs text-[var(--muted-foreground)]">Encrypt numbers, send secret words, sign messages, or try cracking <span class="font-mono">n</span> as Eve.</p>
+          </div>
+        </div>
+
+        <!-- Playground Tabs -->
+        <div class="inline-flex flex-wrap p-1 rounded-xl bg-[var(--content)] border border-[var(--border)] gap-1" role="tablist" aria-label="Experiment modes">
+          <button type="button" id="tab-number-btn" role="tab" aria-selected="true" aria-controls="tab-number"
+            class="play-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer bg-[var(--primary)] text-[var(--primary-foreground)]">
+            Numbers
+          </button>
+          <button type="button" id="tab-text-btn" role="tab" aria-selected="false" aria-controls="tab-text"
+            class="play-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer text-[var(--muted-foreground)] hover:text-[var(--foreground)]">
+            Text (ASCII)
+          </button>
+          <button type="button" id="tab-crack-btn" role="tab" aria-selected="false" aria-controls="tab-crack"
+            class="play-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer text-[var(--muted-foreground)] hover:text-[var(--foreground)]">
+            Crack as Eve
+          </button>
+        </div>
+      </div>
+
+      <!-- TAB A: Numbers -->
+      <div id="tab-number" role="tabpanel" aria-labelledby="tab-number-btn" class="space-y-4">
+        <!-- Direction toggle: Encrypt/Decrypt vs Digital Signature -->
+        <div class="flex flex-wrap items-center justify-between gap-2 text-xs">
+          <div class="inline-flex items-center gap-2">
+            <span class="text-[var(--muted-foreground)]">Workflow:</span>
+            <button type="button" id="flow-encrypt-btn" class="px-2.5 py-1 rounded-lg font-medium border border-[var(--border)] bg-[var(--primary)] text-[var(--primary-foreground)] cursor-pointer">
+              Encrypt (Public) &rarr; Decrypt (Private)
+            </button>
+            <button type="button" id="flow-sign-btn" class="px-2.5 py-1 rounded-lg font-medium border border-[var(--border)] bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer">
+              Sign (Private) &rarr; Verify (Public)
+            </button>
+          </div>
+          <button type="button" id="random-msg-btn" class="px-2.5 py-1 rounded-lg border border-[var(--border)] bg-[var(--content)] hover:bg-[var(--accent)] text-[var(--foreground)] cursor-pointer">
+            Random message &lt; n
+          </button>
+        </div>
+
+        <!-- 3-Stage Pipeline -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 items-stretch">
+          <!-- Stage 1: Plaintext Input -->
+          <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 flex flex-col justify-between space-y-3">
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between">
+                <label for="input-msg" class="text-xs font-semibold uppercase tracking-wider text-[var(--muted-foreground)]">1. Plaintext Message (m)</label>
+                <span id="msg-range-hint" class="text-[11px] font-mono text-[var(--muted-foreground)]">0 &le; m &lt; 2867</span>
+              </div>
+              <input id="input-msg" type="text" inputmode="numeric" value="1203" autocomplete="off"
+                aria-describedby="msg-range-hint msg-callout"
+                class="rsa-input w-full font-mono tabular-nums text-lg font-bold px-3 py-2 rounded-xl bg-[var(--card)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+            </div>
+            <div id="msg-callout" class="text-xs text-[var(--muted-foreground)] min-h-[2.25rem]">
+              Any integer smaller than <code class="font-mono">n</code> encrypts and decrypts cleanly.
+            </div>
+          </div>
+
+          <!-- Stage 2: Ciphertext / Signature -->
+          <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 flex flex-col justify-between space-y-3">
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between gap-2">
+                <label for="input-cipher" id="stage2-label" class="text-xs font-semibold uppercase tracking-wider text-info">2. Ciphertext (c)</label>
+                <span id="stage2-badge" class="text-[11px] font-mono px-1.5 py-0.5 rounded border tone-public">uses public e</span>
+              </div>
+              <input id="input-cipher" type="text" inputmode="numeric" value="1837" autocomplete="off"
+                class="rsa-input w-full font-mono tabular-nums text-lg font-bold px-3 py-2 rounded-xl bg-[var(--card)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+            </div>
+            <div class="space-y-1">
+              <div id="stage2-formula" class="text-xs font-mono text-[var(--muted-foreground)] break-all">
+                pow(1203, 65537, 2867) = 1837
+              </div>
+              <p class="text-[11px] text-[var(--muted-foreground)]">Tip: edit this box directly to test decrypting a classmate&rsquo;s ciphertext!</p>
+            </div>
+          </div>
+
+          <!-- Stage 3: Recovered Plaintext -->
+          <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 flex flex-col justify-between space-y-3">
+            <div class="space-y-1.5">
+              <div class="flex items-center justify-between gap-2">
+                <span id="stage3-label" class="text-xs font-semibold uppercase tracking-wider text-public">3. Decrypted Message</span>
+                <span id="stage3-badge" class="text-[11px] font-mono px-1.5 py-0.5 rounded border tone-secret">uses private d</span>
+              </div>
+              <div id="output-decrypted" class="font-mono tabular-nums text-lg font-bold px-3 py-2 rounded-xl bg-[var(--card)] border border-[var(--border)] break-all">
+                1203
+              </div>
+            </div>
+            <div class="space-y-1.5">
+              <div id="stage3-formula" class="text-xs font-mono text-[var(--muted-foreground)] break-all">
+                pow(1837, 1433, 2867) = 1203
+              </div>
+              <div id="roundtrip-status" class="text-xs font-medium"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- "What if someone guesses the wrong private key?" mini experiment -->
+        <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-3.5 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <div class="space-y-0.5">
+            <div class="text-xs font-semibold text-[var(--foreground)]">What happens with the wrong decryption exponent?</div>
+            <div id="wrong-key-result" class="text-xs font-mono text-[var(--muted-foreground)] break-all">
+              Click to test decrypting with <span class="text-warn">d + 1</span> or a random guess.
+            </div>
+          </div>
+          <div class="flex gap-2 shrink-0">
+            <button type="button" id="try-d-plus-1" class="text-xs font-medium px-2.5 py-1.5 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">Try d + 1</button>
+            <button type="button" id="try-random-d" class="text-xs font-medium px-2.5 py-1.5 rounded-lg bg-[var(--card)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">Try random guess</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB B: Text (ASCII) -->
+      <div id="tab-text" role="tabpanel" aria-labelledby="tab-text-btn" class="hidden space-y-4">
+        <div id="ascii-n-warning" class="hidden rounded-xl border p-3 text-xs tone-warn" role="alert"></div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="space-y-1.5">
+            <div class="flex items-center justify-between">
+              <label for="input-text-msg" class="text-xs font-semibold text-[var(--foreground)]">Plaintext Word or Phrase</label>
+              <span class="text-[11px] text-[var(--muted-foreground)]">Each character &rarr; ASCII code</span>
+            </div>
+            <input id="input-text-msg" type="text" value="Hello!" maxlength="40" autocomplete="off"
+              class="w-full font-mono text-sm px-3 py-2 rounded-xl bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+          </div>
+
+          <div class="space-y-1.5">
+            <div class="flex items-center justify-between">
+              <label for="input-text-cipher" class="text-xs font-semibold text-[var(--foreground)]">Ciphertext Numbers (comma-separated)</label>
+              <button type="button" id="copy-text-cipher" class="text-[11px] text-info hover:underline cursor-pointer">Copy list</button>
+            </div>
+            <input id="input-text-cipher" type="text" autocomplete="off"
+              class="w-full font-mono text-sm px-3 py-2 rounded-xl bg-[var(--content)] text-[var(--foreground)] border border-[var(--border)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)]">
+          </div>
+        </div>
+
+        <div class="overflow-x-auto thin-scroll rounded-xl border border-[var(--border)]">
+          <table class="w-full text-left font-mono text-xs tabular-nums">
+            <thead class="bg-[var(--content)] text-[var(--muted-foreground)] border-b border-[var(--border)]">
+              <tr>
+                <th class="px-3 py-2">Char</th>
+                <th class="px-3 py-2">ASCII ord(c)</th>
+                <th class="px-3 py-2">Encrypted pow(m, e, n)</th>
+                <th class="px-3 py-2">Decrypted pow(c, d, n)</th>
+                <th class="px-3 py-2">chr(...)</th>
+              </tr>
+            </thead>
+            <tbody id="ascii-table-body" class="divide-y divide-[var(--border)]"></tbody>
+          </table>
+        </div>
+
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 bg-[var(--content)] border border-[var(--border)] rounded-xl p-3 text-xs">
+          <div>
+            <span class="text-[var(--muted-foreground)]">Decrypted text: </span>
+            <span id="ascii-recovered-text" class="font-mono font-bold text-public"></span>
+          </div>
+          <span class="text-[var(--muted-foreground)]">Notice how repeated letters (like &ldquo;l&rdquo;) give identical ciphertexts &mdash; real RSA adds random padding!</span>
+        </div>
+      </div>
+
+      <!-- TAB C: Crack as Eve -->
+      <div id="tab-crack" role="tabpanel" aria-labelledby="tab-crack-btn" class="hidden space-y-4">
+        <div class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 space-y-3">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+            <div class="space-y-1">
+              <h3 class="text-sm font-semibold text-[var(--foreground)]">Eve&rsquo;s Eavesdropper View</h3>
+              <p class="text-xs text-[var(--muted-foreground)]">
+                Eve only sees the public padlock and the intercepted ciphertext. To recover <code class="font-mono">d</code>, she must factor <code class="font-mono">n</code> back into <code class="font-mono">p &times; q</code>.
+              </p>
+            </div>
+            <div class="flex gap-2 shrink-0">
+              <button type="button" id="run-crack-btn"
+                class="inline-flex items-center gap-1.5 text-xs font-semibold px-3.5 py-2 rounded-xl bg-[var(--primary)] text-[var(--primary-foreground)] hover:opacity-90 transition cursor-pointer">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+                Try Factoring n
+              </button>
+              <button type="button" id="stop-crack-btn" class="hidden text-xs font-medium px-3 py-2 rounded-xl border tone-secret cursor-pointer">
+                Stop
+              </button>
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-2.5 font-mono text-xs tabular-nums">
+            <div class="bg-[var(--card)] border border-[var(--border)] rounded-lg p-2.5">
+              <div class="text-[11px] text-[var(--muted-foreground)]">Intercepted n</div>
+              <div id="eve-n" class="font-bold text-[var(--foreground)] break-all mt-0.5">2867</div>
+            </div>
+            <div class="bg-[var(--card)] border border-[var(--border)] rounded-lg p-2.5">
+              <div class="text-[11px] text-[var(--muted-foreground)]">Public e</div>
+              <div id="eve-e" class="font-bold text-[var(--foreground)] mt-0.5">65537</div>
+            </div>
+            <div class="bg-[var(--card)] border border-[var(--border)] rounded-lg p-2.5">
+              <div class="text-[11px] text-[var(--muted-foreground)]">Intercepted ciphertext c</div>
+              <div id="eve-c" class="font-bold text-info break-all mt-0.5">1837</div>
+            </div>
+          </div>
+        </div>
+
+        <div id="crack-result-box" class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 text-xs space-y-2" aria-live="polite">
+          <div class="text-[var(--muted-foreground)]">
+            Click <strong class="text-[var(--foreground)]">Try Factoring n</strong> to run trial division (just like <code class="font-mono">factors(n)</code> in the notebook) and compare small primes vs. large <code class="font-mono">keygen(N)</code> primes!
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STEP 4: Live Python Code Mirror (matches Colab notebook) -->
+    <section aria-labelledby="step4-heading" class="bg-[var(--card)] border border-[var(--border)] rounded-2xl p-5 shadow-sm space-y-3">
+      <div class="flex flex-wrap items-center justify-between gap-2">
+        <div class="flex items-center gap-2.5">
+          <span class="w-7 h-7 rounded-full bg-[var(--primary)] text-[var(--primary-foreground)] text-xs font-bold flex items-center justify-center shrink-0">4</span>
+          <div>
+            <h2 id="step4-heading" class="text-base font-semibold text-[var(--foreground)]">Matching Python Code (Colab Notebook)</h2>
+            <p class="text-xs text-[var(--muted-foreground)]">Run these exact lines in the notebook to reproduce your experiment.</p>
+          </div>
+        </div>
+        <button type="button" id="copy-python-btn" class="text-xs font-medium px-3 py-1.5 rounded-lg bg-[var(--content)] hover:bg-[var(--accent)] border border-[var(--border)] cursor-pointer">
+          Copy Python
+        </button>
+      </div>
+
+      <pre id="python-live-code" class="bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 font-mono text-xs leading-relaxed overflow-x-auto thin-scroll text-[var(--foreground)]"></pre>
+
+      <details class="pt-1">
+        <summary class="text-xs font-medium text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer select-none">
+          View the notebook&rsquo;s <code class="font-mono">gen_prime</code>, <code class="font-mono">multinv</code>, and <code class="font-mono">keygen</code> definitions (Raymond Hettinger)
+        </summary>
+        <pre class="mt-2 bg-[var(--content)] border border-[var(--border)] rounded-xl p-4 font-mono text-xs leading-relaxed overflow-x-auto thin-scroll text-[var(--muted-foreground)]">import random
+
+def gen_prime(N=10**8, bases=range(2,20000)):
+    p = 1
+    while any(pow(base, p-1, p) != 1 for base in bases):
+        p = random.SystemRandom().randrange(2, N)
+    return p
+
+def multinv(modulus, value):
+    x, lastx = 0, 1
+    a, b = modulus, value
+    while b:
+        a, q, b = b, a // b, a % b
+        x, lastx = lastx - q * x, x
+    result = (1 - lastx * modulus) // value
+    return result + modulus if result &lt; 0 else result
+
+def keygen(N):
+    prime1 = gen_prime(N)
+    prime2 = gen_prime(N)
+    totient = (prime1 - 1) * (prime2 - 1)
+    return multinv(totient, 65537), prime1 * prime2</pre>
+      </details>
+    </section>
+
+  </div>
+
+  <script>
+    // =========================================================================
+    // BigInt Number Theory Engine (Exact RSA Math)
+    // =========================================================================
+
+    function modPow(base, exp, mod) {
+      if (mod === 1n) return 0n;
+      let result = 1n;
+      base = ((base % mod) + mod) % mod;
+      let e = exp;
+      while (e > 0n) {
+        if ((e & 1n) === 1n) result = (result * base) % mod;
+        e >>= 1n;
+        base = (base * base) % mod;
+      }
+      return result;
+    }
+
+    function gcd(a, b) {
+      a = a < 0n ? -a : a;
+      b = b < 0n ? -b : b;
+      while (b !== 0n) {
+        const t = a % b;
+        a = b;
+        b = t;
+      }
+      return a;
+    }
+
+    // Exact port of Hettinger's multinv(modulus, value) with full EEA step trace
+    function multinvWithTrace(modulus, value) {
+      let x = 0n, lastx = 1n;
+      let a = modulus, b = value;
+      const steps = [];
+      let stepNum = 0;
+      while (b !== 0n) {
+        stepNum++;
+        const q = a / b;
+        const r = a % b;
+        const nextX = lastx - q * x;
+        steps.push({ step: stepNum, a, b, q, r, prevLastx: lastx, prevX: x, nextX, nextLastx: x });
+        a = b;
+        b = r;
+        lastx = x;
+        x = nextX;
+      }
+      if (a !== 1n) {
+        return { exists: false, gcd: a, steps };
+      }
+      const rawResult = (1n - lastx * modulus) / value;
+      const result = ((rawResult % modulus) + modulus) % modulus;
+      return { exists: true, d: result, rawResult, lastx, steps };
+    }
+
+    // Deterministic Miller-Rabin for all n < 3.31e24 (~2^81) and ultra-strong beyond
+    const MR_BASES = [2n, 3n, 5n, 7n, 11n, 13n, 17n, 19n, 23n, 29n, 31n, 37n];
+
+    function isPrime(n) {
+      if (n < 2n) return false;
+      for (const p of MR_BASES) {
+        if (n === p) return true;
+        if (n % p === 0n) return false;
+      }
+      let d = n - 1n;
+      let s = 0n;
+      while ((d & 1n) === 0n) {
+        d >>= 1n;
+        s++;
+      }
+      for (const a of MR_BASES) {
+        if (a >= n) continue;
+        let x = modPow(a, d, n);
+        if (x === 1n || x === n - 1n) continue;
+        let composite = true;
+        for (let r = 1n; r < s; r++) {
+          x = (x * x) % n;
+          if (x === n - 1n) {
+            composite = false;
+            break;
+          }
+        }
+        if (composite) return false;
+      }
+      return true;
+    }
+
+    function smallFactors(n) {
+      if (n <= 1n) return [];
+      const limit = n < 200000n ? n : 200000n;
+      const factors = [];
+      for (let i = 1n; i * i <= n && i <= limit; i++) {
+        if (n % i === 0n) {
+          factors.push(i);
+          if (i !== n / i && n <= 200000n) factors.push(n / i);
+          if (factors.length > 10 && n > 200000n) break;
+        }
+      }
+      if (n <= 200000n) {
+        factors.sort((x, y) => (x < y ? -1 : x > y ? 1 : 0));
+        return factors;
+      }
+      // Return first non-trivial factor found
+      const nontrivial = factors.find(f => f > 1n && f < n);
+      return nontrivial ? [nontrivial, n / nontrivial] : [];
+    }
+
+    function nearestPrime(n) {
+      if (n <= 2n) return 2n;
+      let up = n % 2n === 0n ? n + 1n : n;
+      let down = n % 2n === 0n ? n - 1n : n;
+      for (let i = 0; i < 10000; i++) {
+        if (up >= 2n && isPrime(up)) return up;
+        if (down >= 2n && isPrime(down)) return down;
+        up += 2n;
+        if (down > 2n) down -= 2n;
+      }
+      return 47n;
+    }
+
+    function randomBigIntBelow(max) {
+      if (max <= 1n) return 0n;
+      const bitLen = max.toString(2).length;
+      const byteLen = Math.ceil(bitLen / 8);
+      const mask = (1n << BigInt(bitLen)) - 1n;
+      const buf = new Uint8Array(byteLen);
+      while (true) {
+        crypto.getRandomValues(buf);
+        let val = 0n;
+        for (let i = 0; i < byteLen; i++) {
+          val = (val << 8n) | BigInt(buf[i]);
+        }
+        val &= mask;
+        if (val < max) return val;
+      }
+    }
+
+    function genPrime(N) {
+      // Pick prime in [minVal, N - 1]
+      const minVal = N > 50n ? (N / 10n > 3n ? N / 10n : 3n) : 3n;
+      const span = N - minVal;
+      for (let attempts = 0; attempts < 20000; attempts++) {
+        let candidate = minVal + randomBigIntBelow(span);
+        if (candidate % 2n === 0n) candidate += 1n;
+        if (candidate >= N) candidate -= 2n;
+        if (candidate >= 3n && isPrime(candidate)) return candidate;
+      }
+      // Fallback: deterministic walk down from N-1
+      let c = N - 1n;
+      if (c % 2n === 0n) c--;
+      while (c >= 3n) {
+        if (isPrime(c)) return c;
+        c -= 2n;
+      }
+      return 3n;
+    }
+
+    function bitLength(n) {
+      return n > 0n ? n.toString(2).length : 0;
+    }
+
+    function parseBigIntInput(str) {
+      const cleaned = str.trim().replace(/[,\s_]/g, '');
+      if (!/^\d+$/.test(cleaned)) return null;
+      try {
+        return BigInt(cleaned);
+      } catch {
+        return null;
+      }
+    }
+
+    function formatGrouped(n) {
+      const s = n.toString();
+      if (s.length <= 4) return s;
+      return s.replace(/\B(?=(\d{3})+(?!\d))/g, '\u2009'); // thin space for readability
+    }
+
+    function isqrt(n) {
+      if (n < 0n) throw new Error('Negative sqrt');
+      if (n < 2n) return n;
+      let x0 = n >> 1n;
+      let x1 = (x0 + n / x0) >> 1n;
+      while (x1 < x0) {
+        x0 = x1;
+        x1 = (x0 + n / x0) >> 1n;
+      }
+      return x0;
+    }
+
+    // =========================================================================
+    // Application State
+    // =========================================================================
+    const SMALL_PRIMES = [11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 107, 113, 127];
+
+    const state = {
+      p: 47n,
+      q: 61n,
+      e: 65537n,
+      n: 2867n,
+      phi: 2760n,
+      d: 1433n,
+      validKeys: true,
+      eeaTrace: null,
+      paletteTarget: 'p',
+      flow: 'encrypt', // 'encrypt' | 'sign'
+      msg: 1203n,
+      cipher: 1837n,
+      editingCipherDirectly: false,
+      hideSecrets: false,
+      crackAbort: null,
+    };
+
+    // =========================================================================
+    // DOM References
+    // =========================================================================
+    const el = {
+      inputP: document.getElementById('input-p'),
+      inputQ: document.getElementById('input-q'),
+      inputE: document.getElementById('input-e'),
+      statusP: document.getElementById('status-p'),
+      statusQ: document.getElementById('status-q'),
+      fixPBtn: document.getElementById('fix-p-btn'),
+      fixQBtn: document.getElementById('fix-q-btn'),
+      pairErrorBanner: document.getElementById('pair-error-banner'),
+      primeChips: document.getElementById('prime-chips'),
+      paletteTargetLabel: document.getElementById('palette-target-label'),
+      targetPBtn: document.getElementById('target-p-btn'),
+      targetQBtn: document.getElementById('target-q-btn'),
+      swapPQBtn: document.getElementById('swap-pq-btn'),
+
+      modePickBtn: document.getElementById('mode-pick-btn'),
+      modeKeygenBtn: document.getElementById('mode-keygen-btn'),
+      panelPick: document.getElementById('panel-pick'),
+      panelKeygen: document.getElementById('panel-keygen'),
+      inputKeygenN: document.getElementById('input-keygen-n'),
+      runKeygenBtn: document.getElementById('run-keygen-btn'),
+      keygenOutputBox: document.getElementById('keygen-output-box'),
+
+      toggleHideSecrets: document.getElementById('toggle-hide-secrets'),
+      publicKeyCard: document.getElementById('public-key-card'),
+      privateKeyCard: document.getElementById('private-key-card'),
+      valN: document.getElementById('val-n'),
+      nBitsBadge: document.getElementById('n-bits-badge'),
+      formulaN: document.getElementById('formula-n'),
+      valE: document.getElementById('val-e'),
+      securityNote: document.getElementById('security-note'),
+      valPhi: document.getElementById('val-phi'),
+      formulaPhi: document.getElementById('formula-phi'),
+      valD: document.getElementById('val-d'),
+      multinvProof: document.getElementById('multinv-proof'),
+      eeaStepCount: document.getElementById('eea-step-count'),
+      eeaTableBody: document.getElementById('eea-table-body'),
+      eeaFinalFormula: document.getElementById('eea-final-formula'),
+
+      tabNumberBtn: document.getElementById('tab-number-btn'),
+      tabTextBtn: document.getElementById('tab-text-btn'),
+      tabCrackBtn: document.getElementById('tab-crack-btn'),
+      tabNumber: document.getElementById('tab-number'),
+      tabText: document.getElementById('tab-text'),
+      tabCrack: document.getElementById('tab-crack'),
+
+      flowEncryptBtn: document.getElementById('flow-encrypt-btn'),
+      flowSignBtn: document.getElementById('flow-sign-btn'),
+      randomMsgBtn: document.getElementById('random-msg-btn'),
+      inputMsg: document.getElementById('input-msg'),
+      msgRangeHint: document.getElementById('msg-range-hint'),
+      msgCallout: document.getElementById('msg-callout'),
+      stage2Label: document.getElementById('stage2-label'),
+      stage2Badge: document.getElementById('stage2-badge'),
+      inputCipher: document.getElementById('input-cipher'),
+      stage2Formula: document.getElementById('stage2-formula'),
+      stage3Label: document.getElementById('stage3-label'),
+      stage3Badge: document.getElementById('stage3-badge'),
+      outputDecrypted: document.getElementById('output-decrypted'),
+      stage3Formula: document.getElementById('stage3-formula'),
+      roundtripStatus: document.getElementById('roundtrip-status'),
+      wrongKeyResult: document.getElementById('wrong-key-result'),
+      tryDPlus1: document.getElementById('try-d-plus-1'),
+      tryRandomD: document.getElementById('try-random-d'),
+
+      asciiNWarning: document.getElementById('ascii-n-warning'),
+      inputTextMsg: document.getElementById('input-text-msg'),
+      inputTextCipher: document.getElementById('input-text-cipher'),
+      copyTextCipher: document.getElementById('copy-text-cipher'),
+      asciiTableBody: document.getElementById('ascii-table-body'),
+      asciiRecoveredText: document.getElementById('ascii-recovered-text'),
+
+      eveN: document.getElementById('eve-n'),
+      eveE: document.getElementById('eve-e'),
+      eveC: document.getElementById('eve-c'),
+      runCrackBtn: document.getElementById('run-crack-btn'),
+      stopCrackBtn: document.getElementById('stop-crack-btn'),
+      crackResultBox: document.getElementById('crack-result-box'),
+
+      pythonLiveCode: document.getElementById('python-live-code'),
+      copyPythonBtn: document.getElementById('copy-python-btn'),
+    };
+
+    // =========================================================================
+    // Prime Palette Rendering
+    // =========================================================================
+    function renderPrimeChips() {
+      el.primeChips.innerHTML = '';
+      for (const prime of SMALL_PRIMES) {
+        const bp = BigInt(prime);
+        const isP = !state.hideSecrets && state.p === bp;
+        const isQ = !state.hideSecrets && state.q === bp;
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.textContent = prime.toString();
+        btn.className = 'font-mono text-xs px-2 py-1 rounded-lg border transition cursor-pointer ' +
+          (isP && isQ
+            ? 'tone-warn font-bold'
+            : isP || isQ
+              ? 'bg-[var(--primary)] text-[var(--primary-foreground)] border-[var(--primary)] font-bold'
+              : 'bg-[var(--card)] text-[var(--foreground)] border-[var(--border)] hover:bg-[var(--accent)]');
+        if (isP) btn.title = 'Currently selected as p';
+        else if (isQ) btn.title = 'Currently selected as q';
+        btn.addEventListener('click', () => {
+          if (state.paletteTarget === 'p') {
+            el.inputP.value = prime.toString();
+            setPaletteTarget('q');
+          } else {
+            el.inputQ.value = prime.toString();
+            setPaletteTarget('p');
+          }
+          recomputeKeys(true);
+        });
+        el.primeChips.appendChild(btn);
+      }
+    }
+
+    function setPaletteTarget(target) {
+      state.paletteTarget = target;
+      el.paletteTargetLabel.textContent = target;
+      const activeCls = 'text-xs font-mono px-2 py-0.5 rounded-md border border-[var(--border)] bg-[var(--primary)] text-[var(--primary-foreground)] cursor-pointer';
+      const inactiveCls = 'text-xs font-mono px-2 py-0.5 rounded-md border border-[var(--border)] bg-[var(--card)] text-[var(--muted-foreground)] cursor-pointer';
+      el.targetPBtn.className = target === 'p' ? activeCls : inactiveCls;
+      el.targetQBtn.className = target === 'q' ? activeCls : inactiveCls;
+    }
+
+    // =========================================================================
+    // Key Validation & Computation
+    // =========================================================================
+    function validateSinglePrime(inputEl, statusEl, fixBtn, label) {
+      const val = parseBigIntInput(inputEl.value);
+      if (val === null) {
+        inputEl.setAttribute('aria-invalid', 'true');
+        statusEl.innerHTML = `<span class="text-secret font-medium">&#x2717; Enter a whole number for ${label}.</span>`;
+        fixBtn.classList.add('hidden');
+        return { ok: false, val: null };
+      }
+      if (val < 2n) {
+        inputEl.setAttribute('aria-invalid', 'true');
+        statusEl.innerHTML = `<span class="text-secret font-medium">&#x2717; ${val} is not prime (primes are &ge; 2).</span>`;
+        fixBtn.classList.remove('hidden');
+        fixBtn.dataset.suggested = '2';
+        return { ok: false, val };
+      }
+      if (val.toString().length > 40) {
+        inputEl.setAttribute('aria-invalid', 'true');
+        statusEl.innerHTML = `<span class="text-warn font-medium">&#x26A0; Please keep primes under 40 digits for instant responsiveness.</span>`;
+        fixBtn.classList.add('hidden');
+        return { ok: false, val };
+      }
+      if (!isPrime(val)) {
+        inputEl.setAttribute('aria-invalid', 'true');
+        const facs = smallFactors(val);
+        let detail = '';
+        if (val <= 200000n && facs.length > 0) {
+          const shown = facs.length <= 8 ? facs.join(', ') : facs.slice(0, 6).join(', ') + ', \u2026';
+          detail = ` &mdash; factors(${val}) = [${shown}]`;
+        } else if (facs.length === 2) {
+          detail = ` &mdash; divisible by ${facs[0]}`;
+        }
+        statusEl.innerHTML = `<span class="text-secret font-medium">&#x2717; Not prime${detail}</span>`;
+        const np = nearestPrime(val);
+        fixBtn.dataset.suggested = np.toString();
+        fixBtn.textContent = `Use ${np}`;
+        fixBtn.classList.remove('hidden');
+        return { ok: false, val };
+      }
+
+      inputEl.removeAttribute('aria-invalid');
+      statusEl.innerHTML = `<span class="text-public font-medium">&#x2713; Prime! <span class="text-[var(--muted-foreground)] font-normal">(${bitLength(val)} bits)</span></span>`;
+      fixBtn.classList.add('hidden');
+      return { ok: true, val };
+    }
+
+    function flashKeyCards() {
+      [el.publicKeyCard, el.privateKeyCard].forEach(card => {
+        card.classList.remove('key-flash');
+        void card.offsetWidth;
+        card.classList.add('key-flash');
+      });
+    }
+
+    function recomputeKeys(animate = false) {
+      cancelCrack();
+
+      const resP = validateSinglePrime(el.inputP, el.statusP, el.fixPBtn, 'p');
+      const resQ = validateSinglePrime(el.inputQ, el.statusQ, el.fixQBtn, 'q');
+      const valE = parseBigIntInput(el.inputE.value);
+
+      // Update active e chip highlight
+      document.querySelectorAll('.e-chip').forEach(btn => {
+        const isMatch = valE !== null && BigInt(btn.dataset.e) === valE;
+        btn.className = 'e-chip font-mono px-2 py-1 rounded-lg border border-[var(--border)] cursor-pointer ' +
+          (isMatch
+            ? 'bg-[var(--primary)] text-[var(--primary-foreground)]'
+            : 'bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]');
+      });
+
+      const errors = [];
+      if (!resP.ok || !resQ.ok) {
+        errors.push('Both p and q must be prime numbers.');
+      } else if (resP.val === resQ.val) {
+        errors.push(`p and q must be distinct primes! If p = q = ${resP.val}, then n = p\u00B2 can be cracked immediately with \u221An, and \u03C6(p\u00B2) \u2260 (p\u22121)(q\u22121).`);
+      }
+
+      if (valE === null || valE < 2n) {
+        el.inputE.setAttribute('aria-invalid', 'true');
+        errors.push('Public exponent e must be an integer \u2265 2 (notebook uses 65537).');
+      } else {
+        el.inputE.removeAttribute('aria-invalid');
+      }
+
+      if (errors.length === 0) {
+        const p = resP.val;
+        const q = resQ.val;
+        const n = p * q;
+        const phi = (p - 1n) * (q - 1n);
+        const inv = multinvWithTrace(phi, valE);
+
+        if (!inv.exists) {
+          errors.push(`gcd(e, \u03C6(n)) = ${inv.gcd} \u2260 1. Because e (${valE}) and \u03C6(n) (${phi}) share a factor of ${inv.gcd}, multinv(${phi}, ${valE}) has no solution. Choose a different prime or exponent e.`);
+        } else {
+          state.p = p;
+          state.q = q;
+          state.e = valE;
+          state.n = n;
+          state.phi = phi;
+          state.d = inv.d;
+          state.eeaTrace = inv;
+          state.validKeys = true;
+        }
+      }
+
+      if (errors.length > 0) {
+        state.validKeys = false;
+        el.pairErrorBanner.innerHTML = `<span aria-hidden="true" class="font-bold">&#x26A0;</span><div>${errors.join('<br>')}</div>`;
+        el.pairErrorBanner.classList.remove('hidden');
+      } else {
+        el.pairErrorBanner.classList.add('hidden');
+        if (animate) flashKeyCards();
+      }
+
+      renderPrimeChips();
+      renderKeySummary();
+      renderEeaTrace();
+      if (!state.editingCipherDirectly) {
+        recomputeNumberPlayground();
+      }
+      recomputeTextPlaygroundFromPlain();
+      renderEvePanel();
+      renderPythonCode();
+    }
+
+    function renderKeySummary() {
+      if (!state.validKeys) {
+        el.valN.textContent = '\u2014';
+        el.valPhi.textContent = '\u2014';
+        el.valD.textContent = '\u2014';
+        el.formulaN.textContent = 'Fix the primes above to generate keys.';
+        el.formulaPhi.textContent = '\u2014';
+        el.multinvProof.textContent = 'Waiting for valid primes and coprime e\u2026';
+        el.multinvProof.className = 'secret-val text-xs font-mono rounded-xl p-2.5 border tone-warn';
+        return;
+      }
+
+      const bits = bitLength(state.n);
+      el.valN.textContent = formatGrouped(state.n);
+      el.nBitsBadge.textContent = `${bits} bits`;
+      el.formulaN.textContent = `${formatGrouped(state.p)} \u00D7 ${formatGrouped(state.q)} = ${formatGrouped(state.n)}`;
+      el.valE.textContent = formatGrouped(state.e);
+
+      el.valPhi.textContent = formatGrouped(state.phi);
+      el.formulaPhi.textContent = `(${formatGrouped(state.p)} \u2212 1) \u00D7 (${formatGrouped(state.q)} \u2212 1) = ${formatGrouped(state.p - 1n)} \u00D7 ${formatGrouped(state.q - 1n)} = ${formatGrouped(state.phi)}`;
+      el.valD.textContent = formatGrouped(state.d);
+
+      const prod = state.d * state.e;
+      const k = prod / state.phi;
+      const rem = prod % state.phi;
+      el.multinvProof.className = 'secret-val text-xs font-mono rounded-xl p-2.5 border tone-public break-all';
+      el.multinvProof.textContent = `\u2713 Verified: (${state.d} \u00D7 ${state.e}) mod ${state.phi} = ${rem}  (because d\u00B7e = ${k}\u00B7\u03C6(n) + 1)`;
+
+      // Security scale note
+      if (bits < 24) {
+        el.securityNote.textContent = `${bits}-bit modulus \u2014 great for learning by hand, crackable in under 1 ms! Real RSA uses 2048+ bits.`;
+      } else if (bits < 44) {
+        el.securityNote.textContent = `${bits}-bit modulus \u2014 classroom keygen scale; trial division can still factor this on a laptop.`;
+      } else if (bits < 80) {
+        el.securityNote.textContent = `${bits}-bit modulus \u2014 trial division would take millions of steps or hours, though specialist algorithms can still factor it.`;
+      } else {
+        el.securityNote.textContent = `${bits}-bit modulus \u2014 completely out of reach for trial division (real HTTPS uses 2048-bit RSA).`;
+      }
+
+      applySecretVisibility();
+    }
+
+    function renderEeaTrace() {
+      if (!state.validKeys || !state.eeaTrace) {
+        el.eeaTableBody.innerHTML = '';
+        el.eeaStepCount.textContent = '';
+        el.eeaFinalFormula.textContent = '';
+        return;
+      }
+      const { steps, lastx, rawResult, d } = state.eeaTrace;
+      el.eeaStepCount.textContent = `${steps.length} loop steps`;
+      el.eeaTableBody.innerHTML = steps.map(s => `
+        <tr class="hover:bg-[var(--accent)]/30">
+          <td class="px-3 py-1.5 text-[var(--muted-foreground)]">${s.step}</td>
+          <td class="px-3 py-1.5">${s.a}</td>
+          <td class="px-3 py-1.5">${s.b}</td>
+          <td class="px-3 py-1.5 text-info">${s.q}</td>
+          <td class="px-3 py-1.5">${s.r}</td>
+          <td class="px-3 py-1.5">${s.nextLastx}</td>
+          <td class="px-3 py-1.5">${s.nextX}</td>
+        </tr>
+      `).join('');
+
+      el.eeaFinalFormula.textContent =
+        `result = (1 - (${lastx}) * ${state.phi}) // ${state.e} = ${rawResult}` +
+        (rawResult < 0n ? `  \u2192  add \u03C6(n) = ${d}` : `  \u2192  d = ${d}`);
+      applySecretVisibility();
+    }
+
+    function applySecretVisibility() {
+      document.querySelectorAll('.secret-val').forEach(node => {
+        node.classList.toggle('blur-secret', state.hideSecrets);
+      });
+    }
+
+    // =========================================================================
+    // Playground Tab A: Number Encrypt/Decrypt & Sign/Verify
+    // =========================================================================
+    function recomputeNumberPlayground() {
+      if (!state.validKeys) return;
+
+      el.msgRangeHint.textContent = `0 \u2264 m < ${formatGrouped(state.n)}`;
+      const m = parseBigIntInput(el.inputMsg.value);
+
+      if (m === null) {
+        el.inputMsg.setAttribute('aria-invalid', 'true');
+        el.msgCallout.innerHTML = '<span class="text-secret">Enter a non-negative integer message.</span>';
+        return;
+      }
+      el.inputMsg.removeAttribute('aria-invalid');
+      state.msg = m;
+
+      const exp1 = state.flow === 'encrypt' ? state.e : state.d;
+      const exp2 = state.flow === 'encrypt' ? state.d : state.e;
+      const exp1Name = state.flow === 'encrypt' ? 'e' : 'd';
+      const exp2Name = state.flow === 'encrypt' ? 'd' : 'e';
+
+      const c = modPow(m, exp1, state.n);
+      const recovered = modPow(c, exp2, state.n);
+      state.cipher = c;
+
+      el.inputCipher.value = c.toString();
+      el.outputDecrypted.textContent = recovered.toString();
+
+      const exp1Display = state.hideSecrets && exp1Name === 'd' ? 'd' : exp1.toString();
+      const exp2Display = state.hideSecrets && exp2Name === 'd' ? 'd' : exp2.toString();
+
+      el.stage2Formula.textContent = `pow(${m}, ${exp1Display}, ${state.n}) = ${c}`;
+      el.stage3Formula.textContent = `pow(${c}, ${exp2Display}, ${state.n}) = ${recovered}`;
+
+      // Pedagogical callouts
+      if (m >= state.n) {
+        el.msgCallout.innerHTML = `<span class="text-warn font-medium">&#x26A0; m &ge; n!</span> Because RSA computes modulo ${state.n}, ${m} wraps to <code class="font-mono">${m % state.n}</code>. Messages must be smaller than <code class="font-mono">n</code>.`;
+        el.roundtripStatus.innerHTML = `<span class="text-warn">&#x26A0; Recovered ${recovered} (= ${m} mod ${state.n}), not ${m}!</span>`;
+      } else if (m === 0n || m === 1n) {
+        el.msgCallout.innerHTML = `<span class="text-info font-medium">Maths note:</span> ${m}<sup>${exp1Name}</sup> mod n is always ${m} &mdash; 0 and 1 are fixed points!`;
+        el.roundtripStatus.innerHTML = `<span class="text-public">&#x2713; Matches original message (${recovered})</span>`;
+      } else {
+        el.msgCallout.textContent = `Valid message (${m} < ${state.n}).`;
+        el.roundtripStatus.innerHTML = recovered === m
+          ? `<span class="text-public">&#x2713; Exact match! Original message recovered.</span>`
+          : `<span class="text-secret">&#x2717; Mismatch</span>`;
+      }
+
+      el.wrongKeyResult.textContent = 'Click to test decrypting with d + 1 or a random guess.';
+      renderEvePanel();
+      renderPythonCode();
+    }
+
+    function decryptEditedCipher() {
+      if (!state.validKeys) return;
+      const c = parseBigIntInput(el.inputCipher.value);
+      if (c === null) {
+        el.inputCipher.setAttribute('aria-invalid', 'true');
+        return;
+      }
+      el.inputCipher.removeAttribute('aria-invalid');
+      state.cipher = c;
+
+      const exp2 = state.flow === 'encrypt' ? state.d : state.e;
+      const exp2Name = state.flow === 'encrypt' ? 'd' : 'e';
+      const exp2Display = state.hideSecrets && exp2Name === 'd' ? 'd' : exp2.toString();
+
+      const recovered = modPow(c, exp2, state.n);
+      el.outputDecrypted.textContent = recovered.toString();
+      el.stage2Formula.textContent = `Custom ${state.flow === 'encrypt' ? 'ciphertext' : 'signature'} entered: ${c}`;
+      el.stage3Formula.textContent = `pow(${c}, ${exp2Display}, ${state.n}) = ${recovered}`;
+      el.roundtripStatus.innerHTML = `<span class="text-info">Decrypted custom input &rarr; ${recovered}</span>`;
+      renderEvePanel();
+      renderPythonCode();
+    }
+
+    function updateFlowUI() {
+      const isEnc = state.flow === 'encrypt';
+      const active = 'px-2.5 py-1 rounded-lg font-medium border border-[var(--border)] bg-[var(--primary)] text-[var(--primary-foreground)] cursor-pointer';
+      const inactive = 'px-2.5 py-1 rounded-lg font-medium border border-[var(--border)] bg-[var(--content)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] cursor-pointer';
+      el.flowEncryptBtn.className = isEnc ? active : inactive;
+      el.flowSignBtn.className = isEnc ? inactive : active;
+
+      el.stage2Label.textContent = isEnc ? '2. Ciphertext (c)' : '2. Digital Signature (s)';
+      el.stage2Badge.textContent = isEnc ? 'uses public e' : 'uses private d';
+      el.stage2Badge.className = 'text-[11px] font-mono px-1.5 py-0.5 rounded border ' + (isEnc ? 'tone-public' : 'tone-secret');
+
+      el.stage3Label.textContent = isEnc ? '3. Decrypted Message' : '3. Verified Message';
+      el.stage3Badge.textContent = isEnc ? 'uses private d' : 'uses public e';
+      el.stage3Badge.className = 'text-[11px] font-mono px-1.5 py-0.5 rounded border ' + (isEnc ? 'tone-secret' : 'tone-public');
+
+      recomputeNumberPlayground();
+    }
+
+    // =========================================================================
+    // Playground Tab B: Text (ASCII)
+    // =========================================================================
+    function recomputeTextPlaygroundFromPlain() {
+      if (!state.validKeys) return;
+      const text = el.inputTextMsg.value;
+      const tooSmall = state.n <= 127n;
+
+      if (tooSmall) {
+        el.asciiNWarning.innerHTML = `<strong>Modulus n = ${state.n} is too small for ASCII!</strong> Standard ASCII codes go up to 127, so choose primes where <code class="font-mono">p &times; q &gt; 127</code> (for example 11 &times; 13 = 143 or 47 &times; 61 = 2867).`;
+        el.asciiNWarning.classList.remove('hidden');
+      } else {
+        el.asciiNWarning.classList.add('hidden');
+      }
+
+      const ciphers = [];
+      const rows = [];
+      let recoveredStr = '';
+
+      for (const ch of text) {
+        const code = BigInt(ch.codePointAt(0));
+        const enc = modPow(code, state.e, state.n);
+        const dec = modPow(enc, state.d, state.n);
+        ciphers.push(enc.toString());
+        const outChar = dec >= 32n && dec <= 126n ? String.fromCodePoint(Number(dec)) : `[${dec}]`;
+        recoveredStr += dec <= 0x10FFFFn ? String.fromCodePoint(Number(dec)) : '?';
+        const wrapped = code >= state.n;
+        rows.push(`
+          <tr class="${wrapped ? 'tone-warn' : ''}">
+            <td class="px-3 py-1.5 font-bold">${escapeHtml(ch === ' ' ? '\u2423 (space)' : ch)}</td>
+            <td class="px-3 py-1.5">${code}${wrapped ? ' (&ge; n!)' : ''}</td>
+            <td class="px-3 py-1.5 text-info">${enc}</td>
+            <td class="px-3 py-1.5">${dec}</td>
+            <td class="px-3 py-1.5 font-bold text-public">${escapeHtml(outChar)}</td>
+          </tr>
+        `);
+      }
+
+      el.inputTextCipher.value = ciphers.join(', ');
+      el.asciiTableBody.innerHTML = rows.join('');
+      el.asciiRecoveredText.textContent = recoveredStr;
+    }
+
+    function recomputeTextPlaygroundFromCipher() {
+      if (!state.validKeys) return;
+      const parts = el.inputTextCipher.value.split(/[\s,]+/).filter(Boolean);
+      const rows = [];
+      let recoveredStr = '';
+
+      for (const part of parts) {
+        const enc = parseBigIntInput(part);
+        if (enc === null) continue;
+        const dec = modPow(enc, state.d, state.n);
+        const outChar = dec >= 32n && dec <= 126n ? String.fromCodePoint(Number(dec)) : `[${dec}]`;
+        recoveredStr += dec <= 0x10FFFFn ? String.fromCodePoint(Number(dec)) : '?';
+        rows.push(`
+          <tr>
+            <td class="px-3 py-1.5 text-[var(--muted-foreground)]">&mdash;</td>
+            <td class="px-3 py-1.5 text-[var(--muted-foreground)]">&mdash;</td>
+            <td class="px-3 py-1.5 text-info">${enc}</td>
+            <td class="px-3 py-1.5">${dec}</td>
+            <td class="px-3 py-1.5 font-bold text-public">${escapeHtml(outChar)}</td>
+          </tr>
+        `);
+      }
+
+      el.asciiTableBody.innerHTML = rows.join('');
+      el.asciiRecoveredText.textContent = recoveredStr;
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+    }
+
+    // =========================================================================
+    // Playground Tab C: Crack as Eve (Chunked Trial Division)
+    // =========================================================================
+    function renderEvePanel() {
+      el.eveN.textContent = state.validKeys ? formatGrouped(state.n) : '\u2014';
+      el.eveE.textContent = state.validKeys ? formatGrouped(state.e) : '\u2014';
+      el.eveC.textContent = state.validKeys ? formatGrouped(state.cipher) : '\u2014';
+    }
+
+    function cancelCrack() {
+      if (state.crackAbort) {
+        state.crackAbort.cancelled = true;
+        state.crackAbort = null;
+      }
+      el.stopCrackBtn.classList.add('hidden');
+      el.runCrackBtn.disabled = false;
+    }
+
+    function runCrackAttack() {
+      if (!state.validKeys) return;
+      cancelCrack();
+
+      const n = state.n;
+      const e = state.e;
+      const c = state.cipher;
+      const sqrtN = isqrt(n);
+      const MAX_STEPS = 1500000;
+      const CHUNK = 35000;
+      const token = { cancelled: false };
+      state.crackAbort = token;
+
+      el.runCrackBtn.disabled = true;
+      el.stopCrackBtn.classList.remove('hidden');
+
+      const t0 = performance.now();
+      let candidate = 2n;
+      let steps = 0;
+
+      function stepChunk() {
+        if (token.cancelled) {
+          el.crackResultBox.innerHTML = `<span class="text-[var(--muted-foreground)]">Attack stopped after ${steps.toLocaleString()} divisors tested.</span>`;
+          return;
+        }
+
+        let foundP = null;
+        for (let i = 0; i < CHUNK && steps < MAX_STEPS && candidate <= sqrtN; i++) {
+          steps++;
+          if (n % candidate === 0n) {
+            foundP = candidate;
+            break;
+          }
+          candidate = candidate === 2n ? 3n : candidate + 2n;
+        }
+
+        const elapsedMs = performance.now() - t0;
+
+        if (foundP !== null) {
+          const foundQ = n / foundP;
+          const phi = (foundP - 1n) * (foundQ - 1n);
+          const inv = multinvWithTrace(phi, e);
+          const crackedMsg = inv.exists ? modPow(c, inv.d, n) : null;
+          cancelCrack();
+
+          el.crackResultBox.innerHTML = `
+            <div class="rounded-xl border tone-secret p-3.5 space-y-2">
+              <div class="font-semibold text-sm flex items-center gap-1.5">
+                &#x1F513; Cracked in ${elapsedMs < 1 ? '&lt; 1' : elapsedMs.toFixed(1)} ms (${steps.toLocaleString()} divisors tested)!
+              </div>
+              <div class="font-mono text-xs space-y-1 break-all">
+                <div>1. Factored <code class="font-bold">n = ${foundP} &times; ${foundQ}</code></div>
+                <div>2. Computed <code class="font-bold">&phi;(n) = (${foundP}&minus;1)(${foundQ}&minus;1) = ${phi}</code></div>
+                <div>3. Rebuilt private key <code class="font-bold">d = multinv(${phi}, ${e}) = ${inv.d}</code></div>
+                <div>4. Decrypted intercepted ciphertext: <code class="font-bold">pow(${c}, ${inv.d}, ${n}) = ${crackedMsg}</code></div>
+              </div>
+              <p class="text-xs text-[var(--muted-foreground)] pt-1">
+                Notice why small primes aren&rsquo;t safe! Try switching to <code class="font-mono">keygen(2&#x2076;&#x2074;)</code> above and running this attack again.
+              </p>
+            </div>
+          `;
+          return;
+        }
+
+        if (steps >= MAX_STEPS || candidate > sqrtN) {
+          cancelCrack();
+          // Estimate time for trial division up to sqrt(n)
+          const ratePerSec = Math.max(1, (steps / (elapsedMs / 1000)));
+          const totalOddDivisors = Number(sqrtN / 2n);
+          let estText = '';
+          if (!Number.isFinite(totalOddDivisors) || totalOddDivisors > 1e15) {
+            const digits = (sqrtN / 2n).toString().length;
+            estText = `roughly 10<sup>${digits - 1}</sup> candidate divisors (thousands to trillions of years at this speed!)`;
+          } else {
+            const estSecs = totalOddDivisors / ratePerSec;
+            if (estSecs < 60) estText = `about ${estSecs.toFixed(1)} seconds`;
+            else if (estSecs < 3600) estText = `about ${(estSecs / 60).toFixed(1)} minutes`;
+            else if (estSecs < 86400) estText = `about ${(estSecs / 3600).toFixed(1)} hours`;
+            else if (estSecs < 86400 * 365) estText = `about ${(estSecs / 86400).toFixed(1)} days`;
+            else estText = `about ${(estSecs / (86400 * 365)).toExponential(2)} years`;
+          }
+
+          el.crackResultBox.innerHTML = `
+            <div class="rounded-xl border tone-public p-3.5 space-y-2">
+              <div class="font-semibold text-sm">
+                &#x1F6E1;&#xFE0F; Held strong! Trial division gave up after ${steps.toLocaleString()} checks (${elapsedMs.toFixed(0)} ms).
+              </div>
+              <div class="text-xs space-y-1">
+                <div>Highest divisor tested: <code class="font-mono">${formatGrouped(candidate)}</code></div>
+                <div>Worst-case search limit <code class="font-mono">&radic;n</code>: <code class="font-mono break-all">${formatGrouped(sqrtN)}</code></div>
+                <div>Estimated worst-case time in this browser: <strong>${estText}</strong>.</div>
+              </div>
+              <p class="text-xs text-[var(--muted-foreground)] pt-1">
+                This is the heart of RSA&rsquo;s <strong>computational security</strong>: multiplying <code class="font-mono">p &times; q</code> takes microseconds, while reversing it grows exponentially with key length.
+              </p>
+            </div>
+          `;
+          return;
+        }
+
+        // Progress update
+        el.crackResultBox.innerHTML = `
+          <div class="space-y-1.5 font-mono text-xs">
+            <div class="text-info font-semibold">Searching for prime factors of n&hellip;</div>
+            <div>Tested ${steps.toLocaleString()} divisors (up to ${formatGrouped(candidate)}) in ${elapsedMs.toFixed(0)} ms</div>
+          </div>
+        `;
+        setTimeout(stepChunk, 0);
+      }
+
+      setTimeout(stepChunk, 0);
+    }
+
+    // =========================================================================
+    // Live Python Code Mirror
+    // =========================================================================
+    function renderPythonCode() {
+      if (!state.validKeys) {
+        el.pythonLiveCode.textContent = '# Choose two distinct primes p and q above to generate live Python code.';
+        return;
+      }
+
+      const pStr = state.hideSecrets ? '???  # hidden in classroom mode' : state.p.toString();
+      const qStr = state.hideSecrets ? '???  # hidden in classroom mode' : state.q.toString();
+      const phiStr = state.hideSecrets ? '???' : state.phi.toString();
+      const dStr = state.hideSecrets ? 'privkey' : state.d.toString();
+
+      const m = state.msg;
+      const c = state.cipher;
+      const exp1 = state.flow === 'encrypt' ? state.e.toString() : dStr;
+      const exp2 = state.flow === 'encrypt' ? dStr : state.e.toString();
+      const recovered = modPow(c, state.flow === 'encrypt' ? state.d : state.e, state.n);
+
+      el.pythonLiveCode.textContent =
+`# 1. Two secret primes -> public modulus n and Euler's totient
+p = ${pStr}
+q = ${qStr}
+n = p * q                              # ${state.n}
+totient = (p - 1) * (q - 1)            # ${phiStr}
+
+# 2. Private key via multinv(totient, e)
+e = ${state.e}
+d = multinv(totient, e)                # ${dStr}
+
+# 3. ${state.flow === 'encrypt' ? 'Encrypt with public key (e, n)' : 'Sign with private key (d, n)'}
+code = pow(${m}, ${exp1}, ${state.n})
+# -> ${c}
+
+# 4. ${state.flow === 'encrypt' ? 'Decrypt with private key (d, n)' : 'Verify with public key (e, n)'}
+plaintext = pow(${c}, ${exp2}, ${state.n})
+# -> ${recovered}`;
+    }
+
+    // =========================================================================
+    // Event Wiring
+    // =========================================================================
+
+    // Presets
+    const PRESETS = {
+      'notebook-small': { p: '47', q: '61', e: '65537', msg: '1203' },
+      'warmup':         { p: '23', q: '107', e: '65537', msg: '42' },
+      'notebook-large': { p: '44071', q: '449563', e: '65537', msg: '130702' },
+    };
+
+    document.querySelectorAll('.preset-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const preset = PRESETS[btn.dataset.preset];
+        if (!preset) return;
+        el.inputP.value = preset.p;
+        el.inputQ.value = preset.q;
+        el.inputE.value = preset.e;
+        el.inputMsg.value = preset.msg;
+        state.editingCipherDirectly = false;
+        recomputeKeys(true);
+      });
+    });
+
+    // Mode switch: Pick vs keygen
+    function switchMode(mode) {
+      const isPick = mode === 'pick';
+      el.panelPick.classList.toggle('hidden', !isPick);
+      el.panelKeygen.classList.toggle('hidden', isPick);
+      el.modePickBtn.setAttribute('aria-selected', String(isPick));
+      el.modeKeygenBtn.setAttribute('aria-selected', String(!isPick));
+
+      const active = 'mode-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer bg-[var(--primary)] text-[var(--primary-foreground)]';
+      const inactive = 'mode-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer text-[var(--muted-foreground)] hover:text-[var(--foreground)]';
+      el.modePickBtn.className = isPick ? active : inactive;
+      el.modeKeygenBtn.className = isPick ? inactive : active;
+    }
+
+    el.modePickBtn.addEventListener('click', () => switchMode('pick'));
+    el.modeKeygenBtn.addEventListener('click', () => switchMode('keygen'));
+
+    // Prime inputs
+    el.inputP.addEventListener('input', () => { state.editingCipherDirectly = false; recomputeKeys(false); });
+    el.inputQ.addEventListener('input', () => { state.editingCipherDirectly = false; recomputeKeys(false); });
+    el.inputE.addEventListener('input', () => { state.editingCipherDirectly = false; recomputeKeys(false); });
+
+    el.fixPBtn.addEventListener('click', () => {
+      el.inputP.value = el.fixPBtn.dataset.suggested;
+      recomputeKeys(true);
+    });
+    el.fixQBtn.addEventListener('click', () => {
+      el.inputQ.value = el.fixQBtn.dataset.suggested;
+      recomputeKeys(true);
+    });
+
+    el.targetPBtn.addEventListener('click', () => setPaletteTarget('p'));
+    el.targetQBtn.addEventListener('click', () => setPaletteTarget('q'));
+    el.swapPQBtn.addEventListener('click', () => {
+      const tmp = el.inputP.value;
+      el.inputP.value = el.inputQ.value;
+      el.inputQ.value = tmp;
+      recomputeKeys(true);
+    });
+
+    // e chips
+    document.querySelectorAll('.e-chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        el.inputE.value = btn.dataset.e;
+        recomputeKeys(true);
+      });
+    });
+
+    // keygen(N) controls
+    document.querySelectorAll('.n-preset').forEach(btn => {
+      btn.addEventListener('click', () => {
+        el.inputKeygenN.value = btn.dataset.n;
+        runKeygen();
+      });
+    });
+
+    function runKeygen() {
+      const N = parseBigIntInput(el.inputKeygenN.value);
+      if (N === null || N < 15n) {
+        el.inputKeygenN.setAttribute('aria-invalid', 'true');
+        el.keygenOutputBox.innerHTML = `<span class="text-secret">Please enter an upper bound N &ge; 15 (e.g. 1000000).</span>`;
+        return;
+      }
+      if (N.toString().length > 25) {
+        el.inputKeygenN.setAttribute('aria-invalid', 'true');
+        el.keygenOutputBox.innerHTML = `<span class="text-warn">Keep N &le; 10<sup>25</sup> (up to ~83-bit primes) so generation stays instant in the browser.</span>`;
+        return;
+      }
+      el.inputKeygenN.removeAttribute('aria-invalid');
+
+      const valE = parseBigIntInput(el.inputE.value) || 65537n;
+      const t0 = performance.now();
+      let p = 0n, q = 0n, phi = 0n;
+      let ok = false;
+
+      for (let tries = 0; tries < 200; tries++) {
+        p = genPrime(N);
+        q = genPrime(N);
+        if (p === q) continue;
+        phi = (p - 1n) * (q - 1n);
+        if (gcd(valE, phi) === 1n) {
+          ok = true;
+          break;
+        }
+      }
+
+      if (!ok) {
+        el.keygenOutputBox.innerHTML = `<span class="text-warn">Could not find a pair of primes &lt; ${N} coprime to e = ${valE}. Try a larger N.</span>`;
+        return;
+      }
+
+      const elapsed = performance.now() - t0;
+      el.inputP.value = p.toString();
+      el.inputQ.value = q.toString();
+      state.editingCipherDirectly = false;
+
+      // Keep message valid & interesting (< n)
+      const n = p * q;
+      const currentM = parseBigIntInput(el.inputMsg.value);
+      if (currentM === null || currentM >= n) {
+        const cap = n < 1000000n ? n - 2n : 999999n;
+        el.inputMsg.value = (2n + randomBigIntBelow(cap > 2n ? cap : 2n)).toString();
+      }
+
+      recomputeKeys(true);
+
+      const dDisplay = state.hideSecrets ? '*** (hidden)' : state.d.toString();
+      el.keygenOutputBox.innerHTML =
+        `<div class="text-[var(--foreground)]">&gt;&gt;&gt; keygen(${N})</div>` +
+        `<div class="text-public mt-0.5">(${dDisplay}, ${state.n})</div>` +
+        `<div class="text-[var(--muted-foreground)] mt-1">Picked two primes &lt; ${formatGrouped(N)} in ${elapsed < 1 ? '&lt; 1' : elapsed.toFixed(1)} ms &mdash; returns <code class="text-[var(--foreground)]">(privkey, pubkey)</code> just like the notebook.</div>`;
+    }
+
+    el.runKeygenBtn.addEventListener('click', runKeygen);
+    el.inputKeygenN.addEventListener('keydown', e => {
+      if (e.key === 'Enter') runKeygen();
+    });
+
+    // Hide secrets classroom toggle
+    el.toggleHideSecrets.addEventListener('change', () => {
+      state.hideSecrets = el.toggleHideSecrets.checked;
+      applySecretVisibility();
+      renderPrimeChips();
+      recomputeNumberPlayground();
+      renderPythonCode();
+    });
+
+    // Playground Tabs
+    const playTabs = [
+      { btn: el.tabNumberBtn, panel: el.tabNumber },
+      { btn: el.tabTextBtn, panel: el.tabText },
+      { btn: el.tabCrackBtn, panel: el.tabCrack },
+    ];
+
+    function activatePlayTab(index) {
+      const active = 'play-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer bg-[var(--primary)] text-[var(--primary-foreground)]';
+      const inactive = 'play-tab text-xs font-medium px-3 py-1.5 rounded-lg transition cursor-pointer text-[var(--muted-foreground)] hover:text-[var(--foreground)]';
+      playTabs.forEach((t, i) => {
+        const sel = i === index;
+        t.btn.setAttribute('aria-selected', String(sel));
+        t.btn.className = sel ? active : inactive;
+        t.panel.classList.toggle('hidden', !sel);
+      });
+    }
+
+    playTabs.forEach((t, idx) => {
+      t.btn.addEventListener('click', () => activatePlayTab(idx));
+    });
+
+    // Number playground events
+    el.flowEncryptBtn.addEventListener('click', () => { state.flow = 'encrypt'; state.editingCipherDirectly = false; updateFlowUI(); });
+    el.flowSignBtn.addEventListener('click', () => { state.flow = 'sign'; state.editingCipherDirectly = false; updateFlowUI(); });
+
+    el.inputMsg.addEventListener('input', () => {
+      state.editingCipherDirectly = false;
+      recomputeNumberPlayground();
+    });
+
+    el.inputCipher.addEventListener('input', () => {
+      state.editingCipherDirectly = true;
+      decryptEditedCipher();
+    });
+
+    el.randomMsgBtn.addEventListener('click', () => {
+      if (!state.validKeys || state.n <= 3n) return;
+      const cap = state.n - 2n;
+      const randM = 2n + randomBigIntBelow(cap);
+      el.inputMsg.value = randM.toString();
+      state.editingCipherDirectly = false;
+      recomputeNumberPlayground();
+    });
+
+    el.tryDPlus1.addEventListener('click', () => {
+      if (!state.validKeys) return;
+      const wrongD = state.d + 1n;
+      const out = modPow(state.cipher, wrongD, state.n);
+      const wrongLabel = state.hideSecrets ? 'd + 1' : `${wrongD}`;
+      el.wrongKeyResult.innerHTML =
+        `Using <span class="text-warn font-semibold">${wrongLabel}</span>: pow(${state.cipher}, ${wrongLabel}, ${state.n}) = <strong class="text-secret">${out}</strong> (gibberish &ne; ${state.msg}!)`;
+    });
+
+    el.tryRandomD.addEventListener('click', () => {
+      if (!state.validKeys) return;
+      let guess = 2n + randomBigIntBelow(state.phi > 3n ? state.phi - 2n : 2n);
+      if (guess === state.d) guess += 1n;
+      const out = modPow(state.cipher, guess, state.n);
+      el.wrongKeyResult.innerHTML =
+        `Using random guess <span class="text-warn font-semibold">${guess}</span>: pow(${state.cipher}, ${guess}, ${state.n}) = <strong class="text-secret">${out}</strong> (&ne; ${state.msg})`;
+    });
+
+    // Text playground events
+    el.inputTextMsg.addEventListener('input', recomputeTextPlaygroundFromPlain);
+    el.inputTextCipher.addEventListener('input', recomputeTextPlaygroundFromCipher);
+    el.copyTextCipher.addEventListener('click', () => copyToClipboard(el.inputTextCipher.value, el.copyTextCipher, 'Copied!'));
+
+    // Crack events
+    el.runCrackBtn.addEventListener('click', runCrackAttack);
+    el.stopCrackBtn.addEventListener('click', cancelCrack);
+
+    // Copy buttons
+    function copyToClipboard(text, btn, doneLabel = 'Copied!') {
+      const orig = btn.textContent;
+      navigator.clipboard?.writeText(text).then(() => {
+        btn.textContent = doneLabel;
+        setTimeout(() => { btn.textContent = orig; }, 1200);
+      }).catch(() => {
+        btn.textContent = 'Select & copy';
+        setTimeout(() => { btn.textContent = orig; }, 1200);
+      });
+    }
+
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.copy;
+        if (!state.validKeys) return;
+        const val = key === 'n' ? state.n.toString() : state.d.toString();
+        copyToClipboard(val, btn);
+      });
+    });
+
+    el.copyPythonBtn.addEventListener('click', () => {
+      copyToClipboard(el.pythonLiveCode.textContent, el.copyPythonBtn, 'Copied!');
+    });
+
+    // =========================================================================
+    // Initial Boot
+    // =========================================================================
+    recomputeKeys(false);
+  </script>
+</body>
+</html>
